@@ -1,355 +1,85 @@
 
+## CATECHISM de saint Pie X
 
-ÃÂ
+# Catéchisme de saint Pie X Grand Catéchisme.
 
-# CatÃÂÃÂ©chisme de saint Pie X Grand CatÃÂÃÂ©chisme. if !supportLineBreakNewLine? endif?
+Bibliothèque ;
+Accueil
 
-ÃÂ [BibliothÃÂÃÂ¨que](../../bibliotheque.htm)ÃÂ ;
-[Accueil](../../accueil.htm)
+Édition de 1906 : imprimatur de Langres, 10 août 1906 ; édition
+Martin-Berret, imprimeur de l'évêché de Langres.
 
-ÃÂ
+Rééditions : Itinéraires, septembre-octobre 1967 ; Editions Dominique Martin
+Morin 53290 Bouère
 
-[1ÃÂÃÂ¨re
-partie :ÃÂÃÂ  Le symbole des ApÃÂÃÂ´tres ou
-Credo. 4](#_Toc16755761)
-
-[Chapitre
-1ÃÂÃÂ  Le Credo en gÃÂÃÂ©nÃÂÃÂ©ral 4](#_Toc16755762)
-
-[Chapitre
-2ÃÂÃÂ  Le premier article du Symbole. 6](#_Toc16755763)
-
-[ÃÂÃÂ§ 1.
-Dieu le PÃÂÃÂ¨re et la crÃÂÃÂ©ation. 6](#_Toc16755764)
-
-[ÃÂÃÂ§ 2.
-Les Anges. 7](#_Toc16755765)
-
-[ÃÂÃÂ§ 3.
-LÃ¢ÂÂhomme. 9](#_Toc16755766)
-
-[Chapitre
-3ÃÂÃÂ  Le second article. 11](#_Toc16755767)
-
-[Chapitre
-4ÃÂÃÂ  Le troisiÃÂÃÂ¨me article. 13](#_Toc16755768)
-
-[Chapitre
-5ÃÂÃÂ  Le quatriÃÂÃÂ¨me article. 15](#_Toc16755769)
-
-[Chapitre
-6ÃÂÃÂ  Le cinquiÃÂÃÂ¨me article. 17](#_Toc16755770)
-
-[Chapitre
-7ÃÂÃÂ  Le sixiÃÂÃÂ¨me article. 18](#_Toc16755771)
-
-[Chapitre
-8ÃÂÃÂ  Le septiÃÂÃÂ¨me article. 18](#_Toc16755772)
-
-[Chapitre
-9ÃÂÃÂ  Le huitiÃÂÃÂ¨me article. 19](#_Toc16755773)
-
-[Chapitre
-10ÃÂÃÂ  Le neuviÃÂÃÂ¨me article. 21](#_Toc16755774)
-
-[ÃÂÃÂ§ 1.
-LÃ¢ÂÂEglise en gÃÂÃÂ©nÃÂÃÂ©ral. 21](#_Toc16755775)
-
-[ÃÂÃÂ§ 2.
-LÃ¢ÂÂEglise en particulier. 22](#_Toc16755776)
-
-[ÃÂÃÂ§ 3.
-LÃ¢ÂÂEglise enseignante et lÃ¢ÂÂEglise enseignÃÂÃÂ©e. 25](#_Toc16755777)
-
-[ÃÂÃÂ§ 4.
-Pape et EvÃÂÃÂªques. 27](#_Toc16755778)
-
-[ÃÂÃÂ§ 5.
-La communion des saints. 29](#_Toc16755779)
-
-[ÃÂÃÂ§ 6.
-Ceux qui sont hommes dÃ¢ÂÂEglise. 30](#_Toc16755780)
-
-[Chapitre
-11ÃÂÃÂ  Le dixiÃÂÃÂ¨me article. 32](#_Toc16755781)
-
-[Chapitre
-12ÃÂÃÂ  Le onziÃÂÃÂ¨me article. 32](#_Toc16755782)
-
-[Chapitre
-13ÃÂÃÂ  Le douziÃÂÃÂ¨me article. 33](#_Toc16755783)
-
-[3e
-partie : Les commandements de Dieu et de lÃ¢ÂÂEglise. 34](#_Toc16755784)
-
-[Chapitre
-1ÃÂÃÂ  Les commandements de Dieu en gÃÂÃÂ©nÃÂÃÂ©ral. 34](#_Toc16755785)
-
-[Chapitre
-2ÃÂÃÂ  Les commandements qui regardent Dieu. 36](#_Toc16755786)
-
-[ÃÂÃÂ§ 2.
-Le second commandement. 38](#_Toc16755787)
-
-[ÃÂÃÂ§ 3.
-Le troisiÃÂÃÂ¨me commandement. 40](#_Toc16755788)
-
-[Chapitre
-3.ÃÂÃÂ  Les commandements qui concernent le
-prochain. 42](#_Toc16755789)
-
-[ÃÂÃÂ§ 1.
-Le quatriÃÂÃÂ¨me commandement. 42](#_Toc16755790)
-
-[ÃÂÃÂ§ 2.
-Le cinquiÃÂÃÂ¨me commandement. 43](#_Toc16755791)
-
-[ÃÂÃÂ§ 3.
-Le sixiÃÂÃÂ¨me et le neuviÃÂÃÂ¨me commandemants. 45](#_Toc16755792)
-
-[ÃÂÃÂ§ 4.
-Le septiÃÂÃÂ¨me commandement. 46](#_Toc16755793)
-
-[ÃÂÃÂ§ 5.
-Le huitiÃÂÃÂ¨me commandement. 48](#_Toc16755794)
-
-[ÃÂÃÂ§ 6.
-Le dixiÃÂÃÂ¨me commandement. 49](#_Toc16755795)
-
-[Chapitre
-4ÃÂÃÂ  Les prÃÂÃÂ©ceptes de lÃ¢ÂÂEglise. 50](#_Toc16755796)
-
-[ÃÂÃÂ§ 1.
-Les prÃÂÃÂ©ceptes de lÃ¢ÂÂEglise en gÃÂÃÂ©nÃÂÃÂ©ral. 50](#_Toc16755797)
-
-[ÃÂÃÂ§ 2.
-Le premier prÃÂÃÂ©cepte de lÃ¢ÂÂEglise. 51](#_Toc16755798)
-
-[ÃÂÃÂ§ 3.
-Le second prÃÂÃÂ©cepte de lÃ¢ÂÂEglise. 52](#_Toc16755799)
-
-[ÃÂÃÂ§ 4.
-Le troisiÃÂÃÂ¨me prÃÂÃÂ©cepte de lÃ¢ÂÂEglise. 54](#_Toc16755800)
-
-[ÃÂÃÂ§ 5.
-Le quatriÃÂÃÂ¨me prÃÂÃÂ©cepte de lÃ¢ÂÂEglise. 55](#_Toc16755801)
-
-[ÃÂÃÂ§ 6.
-Le cinquiÃÂÃÂ¨me prÃÂÃÂ©cepte de lÃ¢ÂÂEglise. 55](#_Toc16755802)
-
-[Chapitre
-5ÃÂÃÂ  Les devoirs particuliers de chaque
-ÃÂÃÂ©tat et les conseils ÃÂÃÂ©vangÃÂÃÂ©liques. 55](#_Toc16755803)
-
-[ÃÂÃÂ§ 1.
-Les devoirs dÃ¢ÂÂÃÂÃÂ©tat. 56](#_Toc16755804)
-
-[ÃÂÃÂ§ 2.
-Les conseils ÃÂÃÂ©vangÃÂÃÂ©liques. 56](#_Toc16755805)
-
-[4e
-partieÃÂÃÂ  Les sacrements. 57](#_Toc16755806)
-
-[Chapitre
-1ÃÂÃÂ  Les sacrements en gÃÂÃÂ©nÃÂÃÂ©ral. 57](#_Toc16755807)
-
-[ÃÂÃÂ§ 1.
-Nature des sacrements. 57](#_Toc16755808)
-
-[ÃÂÃÂ§ 2.
-LÃ¢ÂÂeffet principal des sacrements : La GrÃÂÃÂ¢ce. 58](#_Toc16755809)
-
-[ÃÂÃÂ§ 3.
-Le caractÃÂÃÂ¨re imprimÃÂÃÂ© par certains sacrements. 60](#_Toc16755810)
-
-[Chapitre
-2ÃÂÃÂ  Le BaptÃÂÃÂªme. 61](#_Toc16755811)
-
-[ÃÂÃÂ§ 1.
-Nature et effets du baptÃÂÃÂªme. 61](#_Toc16755812)
-
-[ÃÂÃÂ§ 2.
-Ministre du baptÃÂÃÂªme. 61](#_Toc16755813)
-
-[ÃÂÃÂ§ 3.
-Rite du BaptÃÂÃÂªme et dispositions de celui qui le reÃÂÃÂ§oit ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ¢ge de raison. 62](#_Toc16755814)
-
-[ÃÂÃÂ§ 4.
-NÃÂÃÂ©cessitÃÂÃÂ© du BaptÃÂÃÂªme et devoirs du baptisÃÂÃÂ©. 63](#_Toc16755815)
-
-[ÃÂÃÂ§ 5.
-Le nom et les parrains. 64](#_Toc16755816)
-
-[Chapitre
-3ÃÂÃÂ  La Confirmation. 64](#_Toc16755817)
-
-[Chapitre
-4ÃÂÃÂ  LÃ¢ÂÂEucharistie. 67](#_Toc16755818)
-
-[ÃÂÃÂ§ 1.
-La nature de lÃ¢ÂÂEucharistie et la prÃÂÃÂ©sence rÃÂÃÂ©elle de JÃÂÃÂ©sus-Christ dans ce
-sacrement. 67](#_Toc16755819)
-
-[ÃÂÃÂ§ 2.
-LÃ¢ÂÂinstitution et les effets du sacrement de lÃ¢ÂÂEucharistie. 69](#_Toc16755820)
-
-[ÃÂÃÂ§ 3.
-Les dispositions nÃÂÃÂ©cessaires pour bien communier. 70](#_Toc16755821)
-
-[ÃÂÃÂ§ 4.
-La maniÃÂÃÂ¨re de communier. 72](#_Toc16755822)
-
-[ÃÂÃÂ§ 5.
-Le prÃÂÃÂ©cepte de la communion. 73](#_Toc16755823)
-
-[Chapitre
-5ÃÂÃÂ  Le saint sacrifice de la Messe. 73](#_Toc16755824)
-
-[ÃÂÃÂ§ 1.
-LÃ¢ÂÂessence, lÃ¢ÂÂinstitution et les fins du saint sacrifice de la
-Messe. 74](#_Toc16755825)
-
-[ÃÂÃÂ§ 2.
-La maniÃÂÃÂ¨re dÃ¢ÂÂassister ÃÂÃÂ  la Messe. 76](#_Toc16755826)
-
-[Chapitre
-6ÃÂÃÂ  La pÃÂÃÂ©nitence. 77](#_Toc16755827)
-
-[ÃÂÃÂ§ 1.
-La pÃÂÃÂ©nitence en gÃÂÃÂ©nÃÂÃÂ©ral. 77](#_Toc16755828)
-
-[ÃÂÃÂ§ 2.
-Les effets et la nÃÂÃÂ©cessitÃÂÃÂ© du sacrement de PÃÂÃÂ©nitence et les dispositions pour
-le bien recevoir. 79](#_Toc16755829)
-
-[ÃÂÃÂ§ 3.
-LÃ¢ÂÂexamen. 80](#_Toc16755830)
-
-[ÃÂÃÂ§ 4.
-La douleur. 81](#_Toc16755831)
-
-[ÃÂÃÂ§ 5.
-Le bon propos. 84](#_Toc16755832)
-
-[ÃÂÃÂ§ 6.
-LÃ¢ÂÂaccusation des pÃÂÃÂ©chÃÂÃÂ©s au confesseur. 86](#_Toc16755833)
-
-[ÃÂÃÂ§ 7.
-La maniÃÂÃÂ¨re de se confesser. 88](#_Toc16755834)
-
-[ÃÂÃÂ§ 8.
-LÃ¢ÂÂabsolution. 89](#_Toc16755835)
-
-[ÃÂÃÂ§ 9.
-La satisfaction ou pÃÂÃÂ©nitence. 90](#_Toc16755836)
-
-[ÃÂÃÂ§ 10.
-Les indulgences. 93](#_Toc16755837)
-
-[Chapitre
-7ÃÂÃÂ  LÃ¢ÂÂExtrÃÂÃÂªme-onction. 94](#_Toc16755838)
-
-[Chapitre
-8ÃÂÃÂ  LÃ¢ÂÂOrdre. 95](#_Toc16755839)
-
-[Chapitre
-9ÃÂÃÂ  Le Mariage. 98](#_Toc16755840)
-
-[ÃÂÃÂ§ 1.
-Nature du sacrement du Mariage. 98](#_Toc16755841)
-
-[ÃÂÃÂ§ 2.
-Ministres, cÃÂÃÂ©rÃÂÃÂ©monies et dispositions. 99](#_Toc16755842)
-
-[ÃÂÃÂ§ 3.
-Conditions et empÃÂÃÂªchements. 100](#_Toc16755843)
-
-ÃÂÃÂ
-
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂ
-
-ÃÂÃÂdition de 1906 : imprimatur de Langres, 10 aoÃÂÃÂ»t 1906 ; ÃÂÃÂ©dition
-Martin-Berret, imprimeur de lÃ¢ÂÂÃÂÃÂ©vÃÂÃÂªchÃÂÃÂ© de Langres.
-
-RÃÂÃÂ©ÃÂÃÂ©ditions : ItinÃÂÃÂ©raires, septembre-octobre 1967 ; Editions Dominique Martin
-Morin 53290 BouÃÂÃÂ¨re
-
-LÃ¢ÂÂ intention de Saint Pie X est exposÃÂÃÂ©e dans sa lettre du 14 juin 1905
+L' intention de Saint Pie X est exposée dans sa lettre du 14 juin 1905
 :
 
-" La nÃÂÃÂ©cessitÃÂÃÂ© de pourvoir autant que possible ÃÂÃÂ  la formation
-religieuse des enfants Nous a portÃÂÃÂ© ÃÂÃÂ  publier un catÃÂÃÂ©chisme qui expose dÃ¢ÂÂune
-maniÃÂÃÂ¨re claire les ÃÂÃÂ©lÃÂÃÂ©ments de la sainte foi et les vÃÂÃÂ©ritÃÂÃÂ©s divines sur
-lesquelles doit se rÃÂÃÂ©gler la vie de tout chrÃÂÃÂ©tien. "
+" La nécessité de pourvoir autant que possible à la formation
+religieuse des enfants Nous a porté à publier un catéchisme qui expose d'une
+manière claire les éléments de la sainte foi et les vérités divines sur
+lesquelles doit se régler la vie de tout chrétien. "
 
-if !supportLineBreakNewLine?
+## Leçon préliminaire: La doctrine chrétienne et ses parties principales.
 
-endif?
+Etes-vous chrétien ?
 
-## LeÃÂÃÂ§on prÃÂÃÂ©liminaire: La doctrine chrÃÂÃÂ©tienne et ses parties principales.
+Oui, je suis chrétien par la grâce de Dieu.
 
-Etes-vous chrÃÂÃÂ©tien ?
+Pourquoi dites-vous : par la grâce de Dieu ?
 
-Oui, je suis chrÃÂÃÂ©tien par la grÃÂÃÂ¢ce de Dieu.
+Je dis : par la grâce de Dieu, parce que être chrétien est un don tout
+gratuit de Dieu que nous n'avons pu mériter.
 
-Pourquoi dites-vous : par la grÃÂÃÂ¢ce de Dieu ?
+Quel est le vrai chrétien ?
 
-Je dis : par la grÃÂÃÂ¢ce de Dieu, parce que ÃÂÃÂªtre chrÃÂÃÂ©tien est un don tout
-gratuit de Dieu que nous nÃ¢ÂÂavons pu mÃÂÃÂ©riter.
+Le vrai chrétien est celui qui est baptisé, qui croit et professe la doctrine
+chrétienne et obéit aux pasteurs légitimes de l'Eglise.
 
-Quel est le vrai chrÃÂÃÂ©tien ?
+Qu'est-ce que la doctrine chrétienne ?
 
-Le vrai chrÃÂÃÂ©tien est celui qui est baptisÃÂÃÂ©, qui croit et professe la doctrine
-chrÃÂÃÂ©tienne et obÃÂÃÂ©it aux pasteurs lÃÂÃÂ©gitimes de lÃ¢ÂÂEglise.
+La doctrine chrétienne est la doctrine que Jésus-Christ Notre Seigneur nous
+a enseignée pour nous montrer la voie du salut.
 
-QuÃ¢ÂÂest-ce que la doctrine chrÃÂÃÂ©tienne ?
+Est-il nécessaire d'apprendre la doctrine enseignée par Jésus-Christ ?
 
-La doctrine chrÃÂÃÂ©tienne est la doctrine que JÃÂÃÂ©sus-Christ Notre Seigneur nous
-a enseignÃÂÃÂ©e pour nous montrer la voie du salut.
+Il est certainement nécessaire d'apprendre la doctrine enseignée par
+Jésus-Christ, et ceux qui négligent de le faire pèchent gravement.
 
-Est-il nÃÂÃÂ©cessaire dÃ¢ÂÂapprendre la doctrine enseignÃÂÃÂ©e par JÃÂÃÂ©sus-Christ ?
+Les parents et les maîtres sont-ils obligés d'envoyer au catéchisme
+leurs enfants et ceux qui dépendent d'eux ?
 
-Il est certainement nÃÂÃÂ©cessaire dÃ¢ÂÂapprendre la doctrine enseignÃÂÃÂ©e par
-JÃÂÃÂ©sus-Christ, et ceux qui nÃÂÃÂ©gligent de le faire pÃÂÃÂ¨chent gravement.
-
-Les parents et les maÃÂÃÂ®tres sont-ils obligÃÂÃÂ©s dÃ¢ÂÂenvoyer au catÃÂÃÂ©chisme
-leurs enfants et ceux qui dÃÂÃÂ©pendent dÃ¢ÂÂeux ?
-
-Les parents et les maÃÂÃÂ®tres sont obligÃÂÃÂ©s dÃ¢ÂÂassurer ÃÂÃÂ  leurs enfants et ÃÂÃÂ
-ceux qui dÃÂÃÂ©pendent dÃ¢ÂÂeux lÃ¢ÂÂenseignement de la doctrine chrÃÂÃÂ©tienne
-et ils se rendent coupables devant Dieu sÃ¢ÂÂils ne sÃ¢ÂÂacquittent pas
+Les parents et les maîtres sont obligés d'assurer à leurs enfants et à
+ceux qui dépendent d'eux l'enseignement de la doctrine chrétienne
+et ils se rendent coupables devant Dieu s'ils ne s'acquittent pas
 de ce devoir.
 
-De qui devons-nous recevoir et apprendre la doctrine chrÃÂÃÂ©tienne ?
+De qui devons-nous recevoir et apprendre la doctrine chrétienne ?
 
-Nous devons recevoir et apprendre la doctrine chrÃÂÃÂ©tienne de la sainte Eglise
+Nous devons recevoir et apprendre la doctrine chrétienne de la sainte Eglise
 catholique.
 
-Comment sommes-nous certains que la doctrine chrÃÂÃÂ©tienne que nous recevons de
+Comment sommes-nous certains que la doctrine chrétienne que nous recevons de
 la sainte Eglise catholique est la vraie ?
 
-Nous sommes certains que la doctrine chrÃÂÃÂ©tienne que nous recevons de lÃ¢ÂÂEglise
-catholique est la vraie, parce que JÃÂÃÂ©sus-Christ, auteur divin de cette
-doctrine, lÃ¢ÂÂa confiÃÂÃÂ©e par ses ApÃÂÃÂ´tres ÃÂÃÂ  lÃ¢ÂÂEglise quÃ¢ÂÂil
-fondait et constituait maÃÂÃÂ®tresse infaillible de tous les hommes, lui promettant
-son assistance divine jusquÃ¢ÂÂÃÂÃÂ  la fin des siÃÂÃÂ¨cles.
+Nous sommes certains que la doctrine chrétienne que nous recevons de l'Eglise
+catholique est la vraie, parce que Jésus-Christ, auteur divin de cette
+doctrine, l'a confiée par ses Apôtres à l'Eglise qu'il
+fondait et constituait maîtresse infaillible de tous les hommes, lui promettant
+son assistance divine jusqu'à la fin des siècles.
 
-Y a-t-il dÃ¢ÂÂautres preuves de la vÃÂÃÂ©ritÃÂÃÂ© de la doctrine chrÃÂÃÂ©tienne ?
+Y a-t-il d'autres preuves de la vérité de la doctrine chrétienne ?
 
-La vÃÂÃÂ©ritÃÂÃÂ© de la doctrine chrÃÂÃÂ©tienne est dÃÂÃÂ©montrÃÂÃÂ©e aussi par la saintetÃÂÃÂ©
-ÃÂÃÂ©minente de tant dÃ¢ÂÂhommes qui lÃ¢ÂÂont professÃÂÃÂ©e et qui la professent
-; par la force hÃÂÃÂ©roÃÂÃÂ¯que des martyrs, par la rapiditÃÂÃÂ© merveilleuse de sa
-diffusion dans le monde et par sa pleine conservation ÃÂÃÂ  travers tant de siÃÂÃÂ¨cles
-de luttes variÃÂÃÂ©es et continuelles.
+La vérité de la doctrine chrétienne est démontrée aussi par la sainteté
+éminente de tant d'hommes qui l'ont professée et qui la professent
+; par la force héroïque des martyrs, par la rapidité merveilleuse de sa
+diffusion dans le monde et par sa pleine conservation à travers tant de siècles
+de luttes variées et continuelles.
 
-Quelles sont les parties principales et les plus nÃÂÃÂ©cessaires de la doctrine
-chrÃÂÃÂ©tienne ?
+Quelles sont les parties principales et les plus nécessaires de la doctrine
+chrétienne ?
 
-Les parties principales et les plus nÃÂÃÂ©cessaires de la doctrine chrÃÂÃÂ©tienne
+Les parties principales et les plus nécessaires de la doctrine chrétienne
 sont au nombre de quatre : le Credo, le Pater noster, les Commandements et les
 Sacrements.
 
@@ -359,75 +89,67 @@ Le Credo nous enseigne les principaux articles de notre sainte foi.
 
 Que nous enseigne le Pater noster ?
 
-Le Pater noster nous enseigne tout ce que nous devons espÃÂÃÂ©rer de Dieu et
+Le Pater noster nous enseigne tout ce que nous devons espérer de Dieu et
 tout ce que nous devons lui demander.
 
 Que nous enseignent les Commandements ?
 
 Les Commandements nous enseignent tout ce que nous devons faire pour plaire
-ÃÂÃÂ  Dieu ; et tout cela se rÃÂÃÂ©sume ÃÂÃÂ  aimer Dieu par-dessus toute chose et notre
-prochain comme nous-mÃÂÃÂªmes pour lÃ¢ÂÂamour de Dieu.
+à Dieu ; et tout cela se résume à aimer Dieu par-dessus toute chose et notre
+prochain comme nous-mêmes pour l'amour de Dieu.
 
 Que nous enseigne la doctrine des Sacrements ?
 
-La doctrine des Sacrements nous fait connaÃÂÃÂ®tre la nature et le bon usage de
-ces moyens que JÃÂÃÂ©sus-Christ a instituÃÂÃÂ©s pour nous remettre les pÃÂÃÂ©chÃÂÃÂ©s, nous
-communiquer sa grÃÂÃÂ¢ce, infuser et accroÃÂÃÂ®tre en nous les vertus de Foi, dÃ¢ÂÂEspÃÂÃÂ©rance
-et de CharitÃÂÃÂ©.
+La doctrine des Sacrements nous fait connaître la nature et le bon usage de
+ces moyens que Jésus-Christ a institués pour nous remettre les péchés, nous
+communiquer sa grâce, infuser et accroître en nous les vertus de Foi, d'Espérance
+et de Charité.
 
-ÃÂ
+# 1ère partie : Le symbole des Apôtres ou Credo.
 
-ÃÂ
+## Chapitre 1 Le Credo en général
 
-[Haut du document](#_top)
+Quelle est la première partie de la doctrine chrétienne ?
 
-ÃÂÃÂ
+La première partie de la doctrine chrétienne est le symbole des Apôtres,
+appelé communément le Credo.
 
-# 1ÃÂÃÂ¨re partie : Le symbole des ApÃÂÃÂ´tres ou Credo. ÃÂ
+Pourquoi appelez-vous le Credo symbole des Apôtres ?
 
-## Chapitre 1 Le Credo en gÃÂÃÂ©nÃÂÃÂ©ral
+Le Credo est appelé symbole des Apôtres parce qu'il est un abrégé des
+vérités de la foi enseignées par les Apôtres.
 
-Quelle est la premiÃÂÃÂ¨re partie de la doctrine chrÃÂÃÂ©tienne ?
-
-La premiÃÂÃÂ¨re partie de la doctrine chrÃÂÃÂ©tienne est le symbole des ApÃÂÃÂ´tres,
-appelÃÂÃÂ© communÃÂÃÂ©ment le Credo.
-
-Pourquoi appelez-vous le Credo symbole des ApÃÂÃÂ´tres ?
-
-Le Credo est appelÃÂÃÂ© symbole des ApÃÂÃÂ´tres parce quÃ¢ÂÂil est un abrÃÂÃÂ©gÃÂÃÂ© des
-vÃÂÃÂ©ritÃÂÃÂ©s de la foi enseignÃÂÃÂ©es par les ApÃÂÃÂ´tres.
-
-Combien y a-t-il dÃ¢ÂÂarticles dans le Credo ?
+Combien y a-t-il d'articles dans le Credo ?
 
 Il y a dans le Credo douze articles.
 
-RÃÂÃÂ©citez-les.
+Récitez-les.
 
-1 Je crois en Dieu, le PÃÂÃÂ¨re tout-puissant, CrÃÂÃÂ©ateur du ciel et de la terre ;
+1 Je crois en Dieu, le Père tout-puissant, Créateur du ciel et de la terre ;
 
-2 Et en JÃÂÃÂ©sus-Christ, son Fils unique, Notre Seigneur
+2 Et en Jésus-Christ, son Fils unique, Notre Seigneur
 
-3 Qui a ÃÂÃÂ©tÃÂÃÂ© conÃÂÃÂ§u du Saint-Esprit, est nÃÂÃÂ© de la Vierge Marie ;
+3 Qui a été conçu du Saint-Esprit, est né de la Vierge Marie ;
 
-4 A souffert sous Ponce Pilate, a ÃÂÃÂ©tÃÂÃÂ© crucifiÃÂÃÂ©, est mort et a ÃÂÃÂ©tÃÂÃÂ© enseveli ;
+4 A souffert sous Ponce Pilate, a été crucifié, est mort et a été enseveli ;
 
-5 Est descendu aux enfers, et le troisiÃÂÃÂ¨me jour est ressuscitÃÂÃÂ© dÃ¢ÂÂentre
+5 Est descendu aux enfers, et le troisième jour est ressuscité d'entre
 les morts ;
 
-6 Est montÃÂÃÂ© aux cieux, est assis ÃÂÃÂ  la droite de Dieu, le PÃÂÃÂ¨re tout-puissant
+6 Est monté aux cieux, est assis à la droite de Dieu, le Père tout-puissant
 ;
 
-7 DÃ¢ÂÂoÃÂÃÂ¹ il viendra juger les vivants et les morts.
+7 D'où il viendra juger les vivants et les morts.
 
 8 Je crois au Saint-Esprit ;
 
-9 A la sainte Eglise catholique, ÃÂÃÂ  la communion des saints ;
+9 A la sainte Eglise catholique, à la communion des saints ;
 
-10 A la rÃÂÃÂ©mission des pÃÂÃÂ©chÃÂÃÂ©s ;
+10 A la rémission des péchés ;
 
-11 A la rÃÂÃÂ©surrection de la chair
+11 A la résurrection de la chair
 
-12 A la vie ÃÂÃÂ©ternelle.
+12 A la vie éternelle.
 
 Ainsi soit-il.
 
@@ -437,1748 +159,1574 @@ Symbole ?
 Le mot Credo, je crois, veut dire : je tiens pour absolument vrai tout ce
 qui est contenu dans ces douze articles, et je le crois plus fermement que si
 je le voyais de mes yeux ; parce que Dieu, qui ne peut ni se tromper ni tromper
-personne, a rÃÂÃÂ©vÃÂÃÂ©lÃÂÃÂ© ces vÃÂÃÂ©ritÃÂÃÂ©s ÃÂÃÂ  la sainte Eglise catholique et par elle nous
-les rÃÂÃÂ©vÃÂÃÂ¨le ÃÂÃÂ  nous-mÃÂÃÂªmes.
+personne, a révélé ces vérités à la sainte Eglise catholique et par elle nous
+les révèle à nous-mêmes.
 
 Que contiennent les articles du Credo ?
 
 Les articles du Credo contiennent les principales choses que nous devons
-croire sur Dieu, sur JÃÂÃÂ©sus-Christ et sur lÃ¢ÂÂEglise son ÃÂÃÂ©pouse.
+croire sur Dieu, sur Jésus-Christ et sur l'Eglise son épouse.
 
-Est-il bien utile de rÃÂÃÂ©citer souvent le Credo ?
+Est-il bien utile de réciter souvent le Credo ?
 
-Il est trÃÂÃÂ¨s utile de rÃÂÃÂ©citer souvent le Credo pour imprimer toujours
-davantage dans notre coeur les vÃÂÃÂ©ritÃÂÃÂ©s de la foi.
-
-ÃÂ
-
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
+Il est très utile de réciter souvent le Credo pour imprimer toujours
+davantage dans notre coeur les vérités de la foi.
 
 ## Chapitre 2 Le premier article du Symbole.
 
-### ÃÂÃÂ§ 1. Dieu le PÃÂÃÂ¨re et la crÃÂÃÂ©ation.
+### § 1. Dieu le Père et la création.
 
-Que nous enseigne le premier article : Je crois en Dieu le PÃÂÃÂ¨re
-tout-puissant, CrÃÂÃÂ©ateur du ciel et de la terre ?
+Que nous enseigne le premier article : Je crois en Dieu le Père
+tout-puissant, Créateur du ciel et de la terre ?
 
-Le premier article du Credo nous enseigne quÃ¢ÂÂil y a un seul Dieu, quÃ¢ÂÂil
-est tout-puissant, et quÃ¢ÂÂil a crÃÂÃÂ©ÃÂÃÂ© le ciel, la terre et tout ce quÃ¢ÂÂils
-renferment, cÃ¢ÂÂest-ÃÂÃÂ -dire lÃ¢ÂÂunivers entier.
+Le premier article du Credo nous enseigne qu'il y a un seul Dieu, qu'il
+est tout-puissant, et qu'il a créé le ciel, la terre et tout ce qu'ils
+renferment, c'est-à-dire l'univers entier.
 
-Comment savons-nous quÃ¢ÂÂil y a un Dieu ?
+Comment savons-nous qu'il y a un Dieu ?
 
-Nous savons quÃ¢ÂÂil y a un Dieu parce que notre raison nous le dÃÂÃÂ©montre
+Nous savons qu'il y a un Dieu parce que notre raison nous le démontre
 et que la foi nous le confirme.
 
-Pourquoi donne-t-on ÃÂÃÂ  Dieu le nom de PÃÂÃÂ¨re ?
+Pourquoi donne-t-on à Dieu le nom de Père ?
 
-On donne ÃÂÃÂ  Dieu le nom de PÃÂÃÂ¨re :
+On donne à Dieu le nom de Père :
 
-1 parce quÃ¢ÂÂil est par nature PÃÂÃÂ¨re de la seconde Personne de la TrÃÂÃÂ¨s
-Sainte TrinitÃÂÃÂ©, cÃ¢ÂÂest-ÃÂÃÂ -dire du Fils quÃ¢ÂÂil a engendrÃÂÃÂ© ;
+1 parce qu'il est par nature Père de la seconde Personne de la Très
+Sainte Trinité, c'est-à-dire du Fils qu'il a engendré ;
 
-2 parce que Dieu est le PÃÂÃÂ¨re de tous les hommes quÃ¢ÂÂil a crÃÂÃÂ©ÃÂÃÂ©s, quÃ¢ÂÂil
-conserve et quÃ¢ÂÂil gouverne ;
+2 parce que Dieu est le Père de tous les hommes qu'il a créés, qu'il
+conserve et qu'il gouverne ;
 
-3 enfin parce quÃ¢ÂÂil est le PÃÂÃÂ¨re par la grÃÂÃÂ¢ce de tous les bons
-chrÃÂÃÂ©tiens, appelÃÂÃÂ©s pour cela les fils adoptifs de Dieu.
+3 enfin parce qu'il est le Père par la grâce de tous les bons
+chrétiens, appelés pour cela les fils adoptifs de Dieu.
 
-Pourquoi le PÃÂÃÂ¨re est-il la premiÃÂÃÂ¨re Personne de la TrÃÂÃÂ¨s Sainte TrinitÃÂÃÂ© ?
+Pourquoi le Père est-il la première Personne de la Très Sainte Trinité ?
 
-Le PÃÂÃÂ¨re est la premiÃÂÃÂ¨re Personne de la TrÃÂÃÂ¨s Sainte TrinitÃÂÃÂ© parce quÃ¢ÂÂil
-ne procÃÂÃÂ¨de pas dÃ¢ÂÂune autre Personne, mais quÃ¢ÂÂil est le principe des
-deux autres Personnes, cÃ¢ÂÂest-ÃÂÃÂ -dire du Fils et du Saint-Esprit.
+Le Père est la première Personne de la Très Sainte Trinité parce qu'il
+ne procède pas d'une autre Personne, mais qu'il est le principe des
+deux autres Personnes, c'est-à-dire du Fils et du Saint-Esprit.
 
 Que veut dire le mot : tout-puissant ?
 
-Le mot tout-puissant veut dire que Dieu peut faire tout ce quÃ¢ÂÂil veut.
+Le mot tout-puissant veut dire que Dieu peut faire tout ce qu'il veut.
 
-Dieu ne peut ni pÃÂÃÂ©cher ni mourir : comment dit-on alors quÃ¢ÂÂil peut
+Dieu ne peut ni pécher ni mourir : comment dit-on alors qu'il peut
 tout faire ?
 
-On dit que Dieu peut tout faire, bien quÃ¢ÂÂil ne puisse ni pÃÂÃÂ©cher ni
-mourir, parce que le pouvoir de pÃÂÃÂ©cher ou de mourir nÃ¢ÂÂest pas un effet de
-puissance mais de faiblesse, et ne peut pas ÃÂÃÂªtre en Dieu, qui est infiniment
+On dit que Dieu peut tout faire, bien qu'il ne puisse ni pécher ni
+mourir, parce que le pouvoir de pécher ou de mourir n'est pas un effet de
+puissance mais de faiblesse, et ne peut pas être en Dieu, qui est infiniment
 parfait.
 
-Que veut dire : CrÃÂÃÂ©ateur du ciel et de la terre ?
+Que veut dire : Créateur du ciel et de la terre ?
 
-CrÃÂÃÂ©er veut dire faire de rien : aussi Dieu est appelÃÂÃÂ© le CrÃÂÃÂ©ateur du ciel et
-de la terre parce quÃ¢ÂÂil a fait de rien le ciel, la terre et tout ce quÃ¢ÂÂils
-renferment, cÃ¢ÂÂest-ÃÂÃÂ -dire lÃ¢ÂÂunivers entier.
+Créer veut dire faire de rien : aussi Dieu est appelé le Créateur du ciel et
+de la terre parce qu'il a fait de rien le ciel, la terre et tout ce qu'ils
+renferment, c'est-à-dire l'univers entier.
 
-Le monde a-t-il ÃÂÃÂ©tÃÂÃÂ© crÃÂÃÂ©ÃÂÃÂ© seulement par le PÃÂÃÂ¨re ?
+Le monde a-t-il été créé seulement par le Père ?
 
-Le monde a ÃÂÃÂ©tÃÂÃÂ© crÃÂÃÂ©ÃÂÃÂ© ÃÂÃÂ©galement par les trois Personnes divines, parce que
-tout ce que fait une Personne concernant les crÃÂÃÂ©atures, les autres le font
-aussi dans un mÃÂÃÂªme acte.
+Le monde a été créé également par les trois Personnes divines, parce que
+tout ce que fait une Personne concernant les créatures, les autres le font
+aussi dans un même acte.
 
-Pourquoi donc la crÃÂÃÂ©ation est-elle attribuÃÂÃÂ©e particuliÃÂÃÂ¨rement au PÃÂÃÂ¨re ?
+Pourquoi donc la création est-elle attribuée particulièrement au Père ?
 
-La crÃÂÃÂ©ation est attribuÃÂÃÂ©e spÃÂÃÂ©cialement au PÃÂÃÂ¨re parce que la crÃÂÃÂ©ation est un
-effet de la toute puissance divine et que la toute puissance est attribuÃÂÃÂ©e
-spÃÂÃÂ©cialement au PÃÂÃÂ¨re, comme la Sagesse au Fils et la BontÃÂÃÂ© au Saint-Esprit,
-bien que les trois Personnes soient ÃÂÃÂ©galement puissantes, sages et bonnes.
+La création est attribuée spécialement au Père parce que la création est un
+effet de la toute puissance divine et que la toute puissance est attribuée
+spécialement au Père, comme la Sagesse au Fils et la Bonté au Saint-Esprit,
+bien que les trois Personnes soient également puissantes, sages et bonnes.
 
-Dieu a-t-il soin du monde et de toutes les choses quÃ¢ÂÂil a crÃÂÃÂ©ÃÂÃÂ©es ?
+Dieu a-t-il soin du monde et de toutes les choses qu'il a créées ?
 
-Oui, Dieu a soin du monde et de toutes les choses quÃ¢ÂÂil a crÃÂÃÂ©ÃÂÃÂ©es ; il
-les conserve et les gouverne par sa bontÃÂÃÂ© et sa sagesse infinies, et rien nÃ¢ÂÂarrive
+Oui, Dieu a soin du monde et de toutes les choses qu'il a créées ; il
+les conserve et les gouverne par sa bonté et sa sagesse infinies, et rien n'arrive
 ici-bas sans que Dieu le veuille ou le permette.
 
-Pourquoi dites-vous que rien nÃ¢ÂÂarrive ici-bas sans que Dieu le veuille
+Pourquoi dites-vous que rien n'arrive ici-bas sans que Dieu le veuille
 ou le permette ?
 
-On dit que rien nÃ¢ÂÂarrive ici-bas sans que Dieu le veuille ou le
-permette, parce quÃ¢ÂÂil y a des choses que Dieu veut et commande, et dÃ¢ÂÂautres
-quÃ¢ÂÂil nÃ¢ÂÂempÃÂÃÂªche pas, comme le pÃÂÃÂ©chÃÂÃÂ©.
+On dit que rien n'arrive ici-bas sans que Dieu le veuille ou le
+permette, parce qu'il y a des choses que Dieu veut et commande, et d'autres
+qu'il n'empêche pas, comme le péché.
 
-Pourquoi Dieu nÃ¢ÂÂempÃÂÃÂªche-t-il pas le pÃÂÃÂ©chÃÂÃÂ© ?
+Pourquoi Dieu n'empêche-t-il pas le péché ?
 
-Dieu nÃ¢ÂÂempÃÂÃÂªche pas le pÃÂÃÂ©chÃÂÃÂ©, parce que mÃÂÃÂªme de lÃ¢ÂÂabus que fait lÃ¢ÂÂhomme
-de la libertÃÂÃÂ© quÃ¢ÂÂil lui a ÃÂÃÂ©tÃÂÃÂ© concÃÂÃÂ©dÃÂÃÂ©e, il sait retirer un bien et faire
-toujours resplendir davantage ou sa misÃÂÃÂ©ricorde ou sa justice.
+Dieu n'empêche pas le péché, parce que même de l'abus que fait l'homme
+de la liberté qu'il lui a été concédée, il sait retirer un bien et faire
+toujours resplendir davantage ou sa miséricorde ou sa justice.
 
-ÃÂ
+### § 2. Les Anges.
 
-ÃÂ
+Quelles sont les créatures les plus nobles que Dieu ait créées ?
 
-[Haut du document](#_top)
+Les plus nobles créatures créées par Dieu sont les Anges.
 
-ÃÂÃÂ
+Qu'est ce que les Anges ?
 
-### ÃÂÃÂ§ 2. Les Anges.
+Les Anges sont des créatures intelligentes et purement spirituelles.
 
-Quelles sont les crÃÂÃÂ©atures les plus nobles que Dieu ait crÃÂÃÂ©ÃÂÃÂ©es ?
+Dans quel but Dieu a-t-il créé les Anges ?
 
-Les plus nobles crÃÂÃÂ©atures crÃÂÃÂ©ÃÂÃÂ©es par Dieu sont les Anges.
-
-QuÃ¢ÂÂest ce que les Anges ?
-
-Les Anges sont des crÃÂÃÂ©atures intelligentes et purement spirituelles.
-
-Dans quel but Dieu a-t-il crÃÂÃÂ©ÃÂÃÂ© les Anges ?
-
-Dieu a crÃÂÃÂ©ÃÂÃÂ© les Anges pour ÃÂÃÂªtre honorÃÂÃÂ© et servi par eux, et pour les rendre ÃÂÃÂ©ternellement
+Dieu a créé les Anges pour être honoré et servi par eux, et pour les rendre éternellement
 heureux.
 
 Quelle forme et quelle figure ont les Anges ?
 
-Les Anges nÃ¢ÂÂont ni figure ni forme sensible parce quÃ¢ÂÂils sont de
-purs esprits, crÃÂÃÂ©ÃÂÃÂ©s par Dieu pour subsister sans devoir ÃÂÃÂªtre unis ÃÂÃÂ  un corps.
+Les Anges n'ont ni figure ni forme sensible parce qu'ils sont de
+purs esprits, créés par Dieu pour subsister sans devoir être unis à un corps.
 
-Pourquoi donc reprÃÂÃÂ©sente-t-on les Anges sous des formes sensibles ?
+Pourquoi donc représente-t-on les Anges sous des formes sensibles ?
 
-On reprÃÂÃÂ©sente les Anges sous des formes sensibles :
+On représente les Anges sous des formes sensibles :
 
-1 pour aider notre imagination ÃÂÃÂ  les concevoir ;
+1 pour aider notre imagination à les concevoir ;
 
-2 parce que cÃ¢ÂÂest ainsi quÃ¢ÂÂils ont apparu souvent aux hommes,
+2 parce que c'est ainsi qu'ils ont apparu souvent aux hommes,
 comme nous le lisons dans la Sainte Ecriture.
 
-Les Anges furent-ils tous fidÃÂÃÂ¨les ÃÂÃÂ  Dieu ?
+Les Anges furent-ils tous fidèles à Dieu ?
 
-Non, les Anges ne furent pas tous fidÃÂÃÂ¨les ÃÂÃÂ  Dieu, mais beaucoup parmi eux
-prÃÂÃÂ©tendirent par orgueil lui ÃÂÃÂªtre ÃÂÃÂ©gaux et ÃÂÃÂªtre indÃÂÃÂ©pendants de lui ; et, ÃÂÃÂ
-cause de ce pÃÂÃÂ©chÃÂÃÂ©, ils furent exclus pour toujours du paradis et condamnÃÂÃÂ©s ÃÂÃÂ  lÃ¢ÂÂenfer.
+Non, les Anges ne furent pas tous fidèles à Dieu, mais beaucoup parmi eux
+prétendirent par orgueil lui être égaux et être indépendants de lui ; et, à
+cause de ce péché, ils furent exclus pour toujours du paradis et condamnés à l'enfer.
 
-Comment sÃ¢ÂÂappellent les Anges exclus pour toujours du paradis et
-condamnÃÂÃÂ©s ÃÂÃÂ  lÃ¢ÂÂenfer ?
+Comment s'appellent les Anges exclus pour toujours du paradis et
+condamnés à l'enfer ?
 
-Les Anges exclus pour toujours du paradis et condamnÃÂÃÂ©s ÃÂÃÂ  lÃ¢ÂÂenfer sÃ¢ÂÂappellent
-dÃÂÃÂ©mons et leur chef sÃ¢ÂÂappelle Lucifer ou Satan.
+Les Anges exclus pour toujours du paradis et condamnés à l'enfer s'appellent
+démons et leur chef s'appelle Lucifer ou Satan.
 
-Les dÃÂÃÂ©mons peuvent-ils nous faire quelque mal ?
+Les démons peuvent-ils nous faire quelque mal ?
 
-Oui, les dÃÂÃÂ©mons, si Dieu leur en donne la permission, peuvent faire beaucoup
-de mal et ÃÂÃÂ  notre ÃÂÃÂ¢me et ÃÂÃÂ  notre corps, surtout en nous portant au pÃÂÃÂ©chÃÂÃÂ© par la
+Oui, les démons, si Dieu leur en donne la permission, peuvent faire beaucoup
+de mal et à notre âme et à notre corps, surtout en nous portant au péché par la
 tentation.
 
 Pourquoi nous tentent-ils ?
 
-Les dÃÂÃÂ©mons nous tentent ÃÂÃÂ  cause de lÃ¢ÂÂenvie quÃ¢ÂÂil nous portent et
-qui leur fait dÃÂÃÂ©sirer notre damnation ÃÂÃÂ©ternelle, et ÃÂÃÂ  cause de leur haine
-contre Dieu dont lÃ¢ÂÂimage resplendit en nous. Et Dieu permet les
-tentations, afin que nous en triomphions avec le secours de la grÃÂÃÂ¢ce, et quÃ¢ÂÂainsi
-nous pratiquions les vertus et nous acquÃÂÃÂ©rions des mÃÂÃÂ©rites pour le paradis.
+Les démons nous tentent à cause de l'envie qu'il nous portent et
+qui leur fait désirer notre damnation éternelle, et à cause de leur haine
+contre Dieu dont l'image resplendit en nous. Et Dieu permet les
+tentations, afin que nous en triomphions avec le secours de la grâce, et qu'ainsi
+nous pratiquions les vertus et nous acquérions des mérites pour le paradis.
 
 Comment pouvons-nous triompher des tentations ?
 
-On triomphe des tentations par la vigilance, par la priÃÂÃÂ¨re et par la
-mortification chrÃÂÃÂ©tienne.
+On triomphe des tentations par la vigilance, par la prière et par la
+mortification chrétienne.
 
-Comment sÃ¢ÂÂappellent les Anges qui sont restÃÂÃÂ©s fidÃÂÃÂ¨les ÃÂÃÂ  Dieu ?
+Comment s'appellent les Anges qui sont restés fidèles à Dieu ?
 
-Les Anges qui sont restÃÂÃÂ©s fidÃÂÃÂ¨les ÃÂÃÂ  Dieu sÃ¢ÂÂappellent les bons Anges,
-les Esprits cÃÂÃÂ©lestes ou simplement les Anges.
+Les Anges qui sont restés fidèles à Dieu s'appellent les bons Anges,
+les Esprits célestes ou simplement les Anges.
 
-Que devinrent les Anges restÃÂÃÂ©s fidÃÂÃÂ¨les ÃÂÃÂ  Dieu ?
+Que devinrent les Anges restés fidèles à Dieu ?
 
-Les Anges restÃÂÃÂ©s fidÃÂÃÂ¨les ÃÂÃÂ  Dieu furent confirmÃÂÃÂ©s en grÃÂÃÂ¢ce. Ils jouissent pour
-toujours de la vue de Dieu ; ils lÃ¢ÂÂaiment, le bÃÂÃÂ©nissent et le louent
-ÃÂÃÂ©ternellement.
+Les Anges restés fidèles à Dieu furent confirmés en grâce. Ils jouissent pour
+toujours de la vue de Dieu ; ils l'aiment, le bénissent et le louent
+éternellement.
 
 Dieu se sert-il des Anges comme de ses ministres ?
 
 Oui, Dieu se sert des Anges comme de ses ministres, et, en particulier, il
-confie ÃÂÃÂ  beaucoup dÃ¢ÂÂentre eux la charge dÃ¢ÂÂÃÂÃÂªtre nos gardiens et nos
+confie à beaucoup d'entre eux la charge d'être nos gardiens et nos
 protecteurs.
 
-Devons-nous avoir une dÃÂÃÂ©votion particuliÃÂÃÂ¨re envers notre Ange gardien ?
+Devons-nous avoir une dévotion particulière envers notre Ange gardien ?
 
-Oui, nous devons avoir une dÃÂÃÂ©votion particuliÃÂÃÂ¨re envers notre Ange gardien,
-lÃ¢ÂÂhonorer, invoquer son appui, suivre ses inspirations, et lui ÃÂÃÂªtre
-reconnaissants pour lÃ¢ÂÂassistance continuelle quÃ¢ÂÂil nous prÃÂÃÂªte.
+Oui, nous devons avoir une dévotion particulière envers notre Ange gardien,
+l'honorer, invoquer son appui, suivre ses inspirations, et lui être
+reconnaissants pour l'assistance continuelle qu'il nous prête.
 
-if !supportLineBreakNewLine?
+### § 3. L'homme.
 
-endif?
+Quelle est la créature la plus noble que Dieu ait mise sur la terre ?
 
-[Haut du document](#_top)
+La créature la plus noble que Dieu ait mise sur la terre est l'homme.
 
-ÃÂ
+Qu'est-ce que l'homme ?
 
-ÃÂ
-
-### ÃÂÃÂ§ 3. LÃ¢ÂÂhomme.
-
-Quelle est la crÃÂÃÂ©ature la plus noble que Dieu ait mise sur la terre ?
-
-La crÃÂÃÂ©ature la plus noble que Dieu ait mise sur la terre est lÃ¢ÂÂhomme.
-
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂhomme ?
-
-LÃ¢ÂÂhomme est une crÃÂÃÂ©ature raisonnable composÃÂÃÂ©e dÃ¢ÂÂune ÃÂÃÂ¢me et dÃ¢ÂÂun
+L'homme est une créature raisonnable composée d'une âme et d'un
 corps.
 
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂÃÂÃÂ¢me ?
+Qu'est-ce que l'âme ?
 
-LÃ¢ÂÂÃÂÃÂ¢me est la partie la plus noble de lÃ¢ÂÂhomme, parce quÃ¢ÂÂelle
-est une substance spirituelle, douÃÂÃÂ©e dÃ¢ÂÂintelligence et de volontÃÂÃÂ©,
-capable de connaÃÂÃÂ®tre Dieu et de le possÃÂÃÂ©der ÃÂÃÂ©ternellement.
+L'âme est la partie la plus noble de l'homme, parce qu'elle
+est une substance spirituelle, douée d'intelligence et de volonté,
+capable de connaître Dieu et de le posséder éternellement.
 
-Peut-on voir et toucher lÃ¢ÂÂÃÂÃÂ¢me humaine ?
+Peut-on voir et toucher l'âme humaine ?
 
-On ne peut ni voir notre ÃÂÃÂ¢me ni la toucher parce que cÃ¢ÂÂest un esprit.
+On ne peut ni voir notre âme ni la toucher parce que c'est un esprit.
 
-LÃ¢ÂÂÃÂÃÂ¢me humaine meurt-elle avec le corps ?
+L'âme humaine meurt-elle avec le corps ?
 
-LÃ¢ÂÂÃÂÃÂ¢me humaine ne meurt jamais : la foi et la raison elle-mÃÂÃÂªme prouvent
-quÃ¢ÂÂelle est immortelle.
+L'âme humaine ne meurt jamais : la foi et la raison elle-même prouvent
+qu'elle est immortelle.
 
-LÃ¢ÂÂhomme est-il libre dans ses actions ?
+L'homme est-il libre dans ses actions ?
 
-Oui, lÃ¢ÂÂhomme est libre dans ses actions et chacun sent en lui-mÃÂÃÂªme quÃ¢ÂÂil
-peut faire une chose ou ne pas la faire, faire une chose plutÃÂÃÂ´t quÃ¢ÂÂune
+Oui, l'homme est libre dans ses actions et chacun sent en lui-même qu'il
+peut faire une chose ou ne pas la faire, faire une chose plutôt qu'une
 autre.
 
-Expliquez par un exemple cette libertÃÂÃÂ© humaine ?
+Expliquez par un exemple cette liberté humaine ?
 
 Si je dis volontairement un mensonge, je sens que je pourrais ne pas le dire
-et me taire, et que je pourrais aussi parler diffÃÂÃÂ©remment en disant la vÃÂÃÂ©ritÃÂÃÂ©.
+et me taire, et que je pourrais aussi parler différemment en disant la vérité.
 
-Pourquoi dit-on que lÃ¢ÂÂhomme a ÃÂÃÂ©tÃÂÃÂ© crÃÂÃÂ©ÃÂÃÂ© ÃÂÃÂ  lÃ¢ÂÂimage et ÃÂÃÂ  la
+Pourquoi dit-on que l'homme a été créé à l'image et à la
 ressemblance de Dieu ?
 
-On dit que lÃ¢ÂÂhomme a ÃÂÃÂ©tÃÂÃÂ© crÃÂÃÂ©ÃÂÃÂ© ÃÂÃÂ  lÃ¢ÂÂimage et ÃÂÃÂ  la ressemblance de
-Dieu, parce que lÃ¢ÂÂÃÂÃÂ¢me humaine est spirituelle et raisonnable, libre dans
-ses actes, capable de connaÃÂÃÂ®tre et dÃ¢ÂÂaimer Dieu et de jouir de lui
-ÃÂÃÂ©ternellement ; et ces perfections sont en nous un reflet de lÃ¢ÂÂinfinie
+On dit que l'homme a été créé à l'image et à la ressemblance de
+Dieu, parce que l'âme humaine est spirituelle et raisonnable, libre dans
+ses actes, capable de connaître et d'aimer Dieu et de jouir de lui
+éternellement ; et ces perfections sont en nous un reflet de l'infinie
 grandeur du Seigneur.
 
-En quel ÃÂÃÂ©tat Dieu a-t-il crÃÂÃÂ©ÃÂÃÂ© nos premiers parents Adam et Eve ?
+En quel état Dieu a-t-il créé nos premiers parents Adam et Eve ?
 
-Dieu a crÃÂÃÂ©ÃÂÃÂ© Adam et Eve dans lÃ¢ÂÂÃÂÃÂ©tat dÃ¢ÂÂinnocence et de grÃÂÃÂ¢ce ;
-mais bientÃÂÃÂ´t ils en dÃÂÃÂ©churent par le pÃÂÃÂ©chÃÂÃÂ©.
+Dieu a créé Adam et Eve dans l'état d'innocence et de grâce ;
+mais bientôt ils en déchurent par le péché.
 
-Outre lÃ¢ÂÂinnocence et la grÃÂÃÂ¢ce sanctifiante, Dieu ne fit-il pas dÃ¢ÂÂautres
-dons ÃÂÃÂ  nos premiers parents ?
+Outre l'innocence et la grâce sanctifiante, Dieu ne fit-il pas d'autres
+dons à nos premiers parents ?
 
-Outre lÃ¢ÂÂinnocence et la grÃÂÃÂ¢ce sanctifiante, Dieu fit ÃÂÃÂ  nos premiers
-parents dÃ¢ÂÂautres dons quÃ¢ÂÂils devaient transmettre ÃÂÃÂ  leurs
-descendants avec la grÃÂÃÂ¢ce sanctifiante. CÃ¢ÂÂÃÂÃÂ©taient : lÃ¢ÂÂintÃÂÃÂ©gritÃÂÃÂ©, cÃ¢ÂÂest-ÃÂÃÂ -dire
-la parfaite soumission des sens ÃÂÃÂ  la raison ; lÃ¢ÂÂimmortalitÃÂÃÂ© ; lÃ¢ÂÂimmunitÃÂÃÂ©
-de toute douleur et misÃÂÃÂ¨re, et la science proportionnÃÂÃÂ©e ÃÂÃÂ  leur ÃÂÃÂ©tat.
+Outre l'innocence et la grâce sanctifiante, Dieu fit à nos premiers
+parents d'autres dons qu'ils devaient transmettre à leurs
+descendants avec la grâce sanctifiante. C'étaient : l'intégrité, c'est-à-dire
+la parfaite soumission des sens à la raison ; l'immortalité ; l'immunité
+de toute douleur et misère, et la science proportionnée à leur état.
 
-Quel fut le pÃÂÃÂ©chÃÂÃÂ© dÃ¢ÂÂAdam ?
+Quel fut le péché d'Adam ?
 
-Le pÃÂÃÂ©chÃÂÃÂ© dÃ¢ÂÂAdam fut un pÃÂÃÂ©chÃÂÃÂ© dÃ¢ÂÂorgueil et de grave
-dÃÂÃÂ©sobÃÂÃÂ©issance.
+Le péché d'Adam fut un péché d'orgueil et de grave
+désobéissance.
 
-Quel fut le chÃÂÃÂ¢timent du pÃÂÃÂ©chÃÂÃÂ© dÃ¢ÂÂAdam et dÃ¢ÂÂEve ?
+Quel fut le châtiment du péché d'Adam et d'Eve ?
 
-Adam et Eve perdirent la grÃÂÃÂ¢ce de Dieu et le droit quÃ¢ÂÂils avaient au
-ciel ; ils furent chassÃÂÃÂ©s du paradis terrestre, soumis ÃÂÃÂ  beaucoup de misÃÂÃÂ¨res de
-lÃ¢ÂÂÃÂÃÂ¢me et du corps et condamnÃÂÃÂ©s ÃÂÃÂ  mourir.
+Adam et Eve perdirent la grâce de Dieu et le droit qu'ils avaient au
+ciel ; ils furent chassés du paradis terrestre, soumis à beaucoup de misères de
+l'âme et du corps et condamnés à mourir.
 
-Si Adam et Eve nÃ¢ÂÂavaient pas pÃÂÃÂ©chÃÂÃÂ©, auraient-ils ÃÂÃÂ©tÃÂÃÂ© exempts de la
+Si Adam et Eve n'avaient pas péché, auraient-ils été exempts de la
 mort ?
 
-Si Adam et Eve nÃ¢ÂÂavaient pas pÃÂÃÂ©chÃÂÃÂ© et quÃ¢ÂÂils fussent restÃÂÃÂ©s
-fidÃÂÃÂ¨les ÃÂÃÂ  Dieu, aprÃÂÃÂ¨s un sÃÂÃÂ©jour heureux et tranquille sur cette terre, sans
-mourir ils auraient ÃÂÃÂ©tÃÂÃÂ© transportÃÂÃÂ©s par Dieu dans le Ciel pour y jouir dÃ¢ÂÂune
-vie ÃÂÃÂ©ternelle et glorieuse.
+Si Adam et Eve n'avaient pas péché et qu'ils fussent restés
+fidèles à Dieu, après un séjour heureux et tranquille sur cette terre, sans
+mourir ils auraient été transportés par Dieu dans le Ciel pour y jouir d'une
+vie éternelle et glorieuse.
 
-Ces dons ÃÂÃÂ©taient-ils dus ÃÂÃÂ  lÃ¢ÂÂhomme ?
+Ces dons étaient-ils dus à l'homme ?
 
-Ces dons nÃ¢ÂÂÃÂÃÂ©taient dus ÃÂÃÂ  lÃ¢ÂÂhomme en aucune faÃÂÃÂ§on ; mais ils
-ÃÂÃÂ©taient absolument gratuits et surnaturels. Aussi, quand Adam eÃÂÃÂ»t dÃÂÃÂ©sobÃÂÃÂ©i au
+Ces dons n'étaient dus à l'homme en aucune façon ; mais ils
+étaient absolument gratuits et surnaturels. Aussi, quand Adam eût désobéi au
 commandement divin, Dieu put sans injustice priver de ces dons lui et sa
-postÃÂÃÂ©ritÃÂÃÂ©.
+postérité.
 
-Ce pÃÂÃÂ©chÃÂÃÂ© est-il propre seulement ÃÂÃÂ  Adam ?
+Ce péché est-il propre seulement à Adam ?
 
-Ce pÃÂÃÂ©chÃÂÃÂ© nÃ¢ÂÂest pas seulement le pÃÂÃÂ©chÃÂÃÂ© dÃ¢ÂÂAdam, il est aussi le
-nÃÂÃÂ´tre, quoique diffÃÂÃÂ©remment. Il est propre ÃÂÃÂ  Adam, parce que cÃ¢ÂÂest lui
-qui le commit par un acte de sa volontÃÂÃÂ© et par lÃÂÃÂ  il fut pour lui pÃÂÃÂ©chÃÂÃÂ©
-personnel. Il nous est propre, parce que, Adam ayant pÃÂÃÂ©chÃÂÃÂ© comme chef et souche
-de tout le genre humain, son pÃÂÃÂ©chÃÂÃÂ© est transmis par la gÃÂÃÂ©nÃÂÃÂ©ration naturelle ÃÂÃÂ
-tous ses descendants, et par lÃÂÃÂ  il est pour nous pÃÂÃÂ©chÃÂÃÂ© originel.
+Ce péché n'est pas seulement le péché d'Adam, il est aussi le
+nôtre, quoique différemment. Il est propre à Adam, parce que c'est lui
+qui le commit par un acte de sa volonté et par là il fut pour lui péché
+personnel. Il nous est propre, parce que, Adam ayant péché comme chef et souche
+de tout le genre humain, son péché est transmis par la génération naturelle à
+tous ses descendants, et par là il est pour nous péché originel.
 
-Comment est-il possible que le pÃÂÃÂ©chÃÂÃÂ© originel passe dans tous les hommes ?
+Comment est-il possible que le péché originel passe dans tous les hommes ?
 
-Le pÃÂÃÂ©chÃÂÃÂ© originel passe dans tous les hommes parce que, Dieu ayant confÃÂÃÂ©rÃÂÃÂ©
-au genre humain, en Adam, la grÃÂÃÂ¢ce sanctifiante et tous les autres dons
-surnaturels, ÃÂÃÂ  condition quÃ¢ÂÂAdam ne dÃÂÃÂ©sobÃÂÃÂ©it pas, celui-ci dÃÂÃÂ©sobÃÂÃÂ©it en
-qualitÃÂÃÂ© de chef et de pÃÂÃÂ¨re du genre humain et rendit la nature humaine rebelle
-contre Dieu. Aussi la nature humaine est-elle transmise ÃÂÃÂ  tous les descendants
-dÃ¢ÂÂAdam dans un ÃÂÃÂ©tat de rÃÂÃÂ©bellion contre Dieu et privÃÂÃÂ©e de la grÃÂÃÂ¢ce divine
+Le péché originel passe dans tous les hommes parce que, Dieu ayant conféré
+au genre humain, en Adam, la grâce sanctifiante et tous les autres dons
+surnaturels, à condition qu'Adam ne désobéit pas, celui-ci désobéit en
+qualité de chef et de père du genre humain et rendit la nature humaine rebelle
+contre Dieu. Aussi la nature humaine est-elle transmise à tous les descendants
+d'Adam dans un état de rébellion contre Dieu et privée de la grâce divine
 et des autres dons.
 
-Tous les hommes contractent-ils le pÃÂÃÂ©chÃÂÃÂ© originel ?
+Tous les hommes contractent-ils le péché originel ?
 
-Oui, tous les hommes contractent le pÃÂÃÂ©chÃÂÃÂ© originel, exceptÃÂÃÂ© la TrÃÂÃÂ¨s Sainte
-Vierge qui en fut prÃÂÃÂ©servÃÂÃÂ©e par un privilÃÂÃÂ¨ge spÃÂÃÂ©cial de Dieu, en prÃÂÃÂ©vision des
-mÃÂÃÂ©rites de JÃÂÃÂ©sus-Christ notre Sauveur.
+Oui, tous les hommes contractent le péché originel, excepté la Très Sainte
+Vierge qui en fut préservée par un privilège spécial de Dieu, en prévision des
+mérites de Jésus-Christ notre Sauveur.
 
-AprÃÂÃÂ¨s le pÃÂÃÂ©chÃÂÃÂ© dÃ¢ÂÂAdam les hommes nÃ¢ÂÂauraient-ils pas pu se sauver
+Après le péché d'Adam les hommes n'auraient-ils pas pu se sauver
 ?
 
-AprÃÂÃÂ¨s le pÃÂÃÂ©chÃÂÃÂ© dÃ¢ÂÂAdam, les hommes nÃ¢ÂÂauraient pas pu se sauver,
-si Dieu nÃ¢ÂÂavait pas ÃÂÃÂ©tÃÂÃÂ© misÃÂÃÂ©ricordieux ÃÂÃÂ  leur ÃÂÃÂ©gard.
+Après le péché d'Adam, les hommes n'auraient pas pu se sauver,
+si Dieu n'avait pas été miséricordieux à leur égard.
 
-Comment Dieu fut-il misÃÂÃÂ©ricordieux envers le genre humain ?
+Comment Dieu fut-il miséricordieux envers le genre humain ?
 
-Dieu fut misÃÂÃÂ©ricordieux envers le genre humain en promettant tout de suite ÃÂÃÂ
-Adam le RÃÂÃÂ©dempteur divin ou Messie, et en envoyant ce Messie au temps marquÃÂÃÂ©,
-pour dÃÂÃÂ©livrer les hommes de lÃ¢ÂÂesclavage du dÃÂÃÂ©mon et du pÃÂÃÂ©chÃÂÃÂ©.
+Dieu fut miséricordieux envers le genre humain en promettant tout de suite à
+Adam le Rédempteur divin ou Messie, et en envoyant ce Messie au temps marqué,
+pour délivrer les hommes de l'esclavage du démon et du péché.
 
 Quel est le Messie promis ?
 
-Le Messie promis est JÃÂÃÂ©sus-Christ, comme nous lÃ¢ÂÂenseigne le second
+Le Messie promis est Jésus-Christ, comme nous l'enseigne le second
 article du Credo.
-
-ÃÂ
-
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂ
 
 ## Chapitre 3 Le second article.
 
-Que nous enseigne le second article : Et en JÃÂÃÂ©sus-Christ, son Fils unique,
+Que nous enseigne le second article : Et en Jésus-Christ, son Fils unique,
 notre Seigneur ?
 
 Le second article du Credo nous enseigne que le Fils de Dieu est la seconde
-Personne de la trÃÂÃÂ¨s sainte TrinitÃÂÃÂ© ; quÃ¢ÂÂil est Dieu ÃÂÃÂ©ternel,
-tout-puissant, CrÃÂÃÂ©ateur et Seigneur, comme le PÃÂÃÂ¨re ; quÃ¢ÂÂil sÃ¢ÂÂest
-fait homme pour nous sauver et que le Fils de Dieu fait homme sÃ¢ÂÂappelle
-JÃÂÃÂ©sus-Christ.
+Personne de la très sainte Trinité ; qu'il est Dieu éternel,
+tout-puissant, Créateur et Seigneur, comme le Père ; qu'il s'est
+fait homme pour nous sauver et que le Fils de Dieu fait homme s'appelle
+Jésus-Christ.
 
-Pourquoi la seconde Personne sÃ¢ÂÂappelle-t-elle le Fils ?
+Pourquoi la seconde Personne s'appelle-t-elle le Fils ?
 
-La seconde Personne sÃ¢ÂÂappelle le Fils, parce que de toute ÃÂÃÂ©ternitÃÂÃÂ©
-elle est engendrÃÂÃÂ©e du PÃÂÃÂ¨re par voie dÃ¢ÂÂintelligence : cÃ¢ÂÂest pour
-cela quÃ¢ÂÂon lÃ¢ÂÂappelle aussi le Verbe ÃÂÃÂ©ternel du PÃÂÃÂ¨re.
+La seconde Personne s'appelle le Fils, parce que de toute éternité
+elle est engendrée du Père par voie d'intelligence : c'est pour
+cela qu'on l'appelle aussi le Verbe éternel du Père.
 
 Nous sommes, nous aussi, fils de Dieu : pourquoi donc appelons-nous
-JÃÂÃÂ©sus-Christ Fils unique de Dieu le PÃÂÃÂ¨re ?
+Jésus-Christ Fils unique de Dieu le Père ?
 
-Nous appelons JÃÂÃÂ©sus-Christ Fils unique de Dieu le PÃÂÃÂ¨re, parce que lui seul
-est Fils de Dieu par nature, tandis que nous le sommes par crÃÂÃÂ©ation et par
+Nous appelons Jésus-Christ Fils unique de Dieu le Père, parce que lui seul
+est Fils de Dieu par nature, tandis que nous le sommes par création et par
 adoption.
 
-Pourquoi appelons-nous JÃÂÃÂ©sus-Christ notre Seigneur ?
+Pourquoi appelons-nous Jésus-Christ notre Seigneur ?
 
-Nous appelons JÃÂÃÂ©sus-Christ notre Seigneur, parce que non seulement en tant
-que Dieu il nous a crÃÂÃÂ©ÃÂÃÂ©s, de concert avec le PÃÂÃÂ¨re et le Saint-Esprit, mais
-encore il nous a rachetÃÂÃÂ©s en tant que Dieu et homme.
+Nous appelons Jésus-Christ notre Seigneur, parce que non seulement en tant
+que Dieu il nous a créés, de concert avec le Père et le Saint-Esprit, mais
+encore il nous a rachetés en tant que Dieu et homme.
 
-Pourquoi le Fils de Dieu fait homme est-il appelÃÂÃÂ© JÃÂÃÂ©sus ?
+Pourquoi le Fils de Dieu fait homme est-il appelé Jésus ?
 
-Le Fils de Dieu fait homme est appelÃÂÃÂ© JÃÂÃÂ©sus, ce qui veut dire Sauveur, parce
-quÃ¢ÂÂil nous a sauvÃÂÃÂ©s de la mort ÃÂÃÂ©ternelle mÃÂÃÂ©ritÃÂÃÂ©e par nos pÃÂÃÂ©chÃÂÃÂ©s.
+Le Fils de Dieu fait homme est appelé Jésus, ce qui veut dire Sauveur, parce
+qu'il nous a sauvés de la mort éternelle méritée par nos péchés.
 
-Qui a donnÃÂÃÂ© le nom de JÃÂÃÂ©sus au Fils de Dieu fait homme ?
+Qui a donné le nom de Jésus au Fils de Dieu fait homme ?
 
-CÃ¢ÂÂest le PÃÂÃÂ¨re ÃÂÃÂ©ternel lui-mÃÂÃÂªme qui a donnÃÂÃÂ© au Fils de Dieu fait homme
-le nom de JÃÂÃÂ©sus par lÃ¢ÂÂintermÃÂÃÂ©diaire de lÃ¢ÂÂarchange Gabriel, lorsque
-celui-ci annonÃÂÃÂ§a ÃÂÃÂ  la Vierge le mystÃÂÃÂ¨re de lÃ¢ÂÂIncarnation.
+C'est le Père éternel lui-même qui a donné au Fils de Dieu fait homme
+le nom de Jésus par l'intermédiaire de l'archange Gabriel, lorsque
+celui-ci annonça à la Vierge le mystère de l'Incarnation.
 
-Pourquoi le Fils de Dieu fait homme est-il aussi appelÃÂÃÂ© Christ ?
+Pourquoi le Fils de Dieu fait homme est-il aussi appelé Christ ?
 
-Le Fils de Dieu fait homme est aussi appelÃÂÃÂ© Christ, ce qui veut dire oint et
-sacrÃÂÃÂ©, parce quÃ¢ÂÂautrefois on consacrait par lÃ¢ÂÂonction les rois, les
-prÃÂÃÂªtres et les prophÃÂÃÂ¨tes, et que JÃÂÃÂ©sus est le roi des rois, le souverain prÃÂÃÂªtre
-et le premier des prophÃÂÃÂ¨tes.
+Le Fils de Dieu fait homme est aussi appelé Christ, ce qui veut dire oint et
+sacré, parce qu'autrefois on consacrait par l'onction les rois, les
+prêtres et les prophètes, et que Jésus est le roi des rois, le souverain prêtre
+et le premier des prophètes.
 
-JÃÂÃÂ©sus-Christ fut-il oint et sacrÃÂÃÂ© dÃ¢ÂÂune onction corporelle ?
+Jésus-Christ fut-il oint et sacré d'une onction corporelle ?
 
-LÃ¢ÂÂonction de JÃÂÃÂ©sus-Christ ne fut pas corporelle comme celle des
-anciens rois, prÃÂÃÂªtres et prophÃÂÃÂ¨tes, mais toute spirituelle et divine, la
-plÃÂÃÂ©nitude de la divinitÃÂÃÂ© habitant en lui substantiellement.
+L'onction de Jésus-Christ ne fut pas corporelle comme celle des
+anciens rois, prêtres et prophètes, mais toute spirituelle et divine, la
+plénitude de la divinité habitant en lui substantiellement.
 
-Les hommes eurent-ils quelque connaissance de JÃÂÃÂ©sus-Christ avant sa venue ?
+Les hommes eurent-ils quelque connaissance de Jésus-Christ avant sa venue ?
 
-Oui, les hommes eurent connaissance de JÃÂÃÂ©sus-Christ avant sa venue, par la
-promesse du Messie que Dieu fit ÃÂÃÂ  nos premiers parents Adam et Eve, et quÃ¢ÂÂil
-renouvela aux saints Patriarches, et par les prophÃÂÃÂ©ties et les nombreuses
-figures qui le dÃÂÃÂ©signaient.
+Oui, les hommes eurent connaissance de Jésus-Christ avant sa venue, par la
+promesse du Messie que Dieu fit à nos premiers parents Adam et Eve, et qu'il
+renouvela aux saints Patriarches, et par les prophéties et les nombreuses
+figures qui le désignaient.
 
-Comment savons-nous que JÃÂÃÂ©sus-Christ est vraiment le Messie et le RÃÂÃÂ©dempteur
+Comment savons-nous que Jésus-Christ est vraiment le Messie et le Rédempteur
 promis ?
 
-Nous savons que JÃÂÃÂ©sus-Christ est vraiment le Messie et le RÃÂÃÂ©dempteur promis,
-parce quÃ¢ÂÂen Lui sÃ¢ÂÂest accompli tout ce quÃ¢ÂÂannonÃÂÃÂ§aient les
-prophÃÂÃÂ¨tes et tout ce que reprÃÂÃÂ©sentaient les figures de lÃ¢ÂÂAncien
+Nous savons que Jésus-Christ est vraiment le Messie et le Rédempteur promis,
+parce qu'en Lui s'est accompli tout ce qu'annonçaient les
+prophètes et tout ce que représentaient les figures de l'Ancien
 Testament.
 
-QuÃ¢ÂÂannonÃÂÃÂ§aient les prophÃÂÃÂ©ties au sujet du RÃÂÃÂ©dempteur ?
+Qu'annonçaient les prophéties au sujet du Rédempteur ?
 
-Au sujet du RÃÂÃÂ©dempteur les prophÃÂÃÂ©ties annonÃÂÃÂ§aient la tribu et la famille dÃ¢ÂÂoÃÂÃÂ¹
+Au sujet du Rédempteur les prophéties annonçaient la tribu et la famille d'où
 il devait sortir ; le lieu et le temps de sa naissance ; ses miracles et les
-plus petites circonstances de sa passion et de sa mort ; sa rÃÂÃÂ©surrection et son
-ascension au ciel ; son royaume spirituel, universel et perpÃÂÃÂ©tuel, qui est la
+plus petites circonstances de sa passion et de sa mort ; sa résurrection et son
+ascension au ciel ; son royaume spirituel, universel et perpétuel, qui est la
 sainte Eglise catholique.
 
-Quelles sont les principales figures du RÃÂÃÂ©dempteur dans lÃ¢ÂÂAncien
+Quelles sont les principales figures du Rédempteur dans l'Ancien
 Testament ?
 
-Les principales figures du RÃÂÃÂ©dempteur dans lÃ¢ÂÂAncien Testament sont lÃ¢ÂÂinnocent
-Abel, le grand prÃÂÃÂªtre MelchisÃÂÃÂ©dech, le sacrifice dÃ¢ÂÂIsaac, Joseph vendu
-par ses frÃÂÃÂ¨res, le prophÃÂÃÂ¨te Jonas, lÃ¢ÂÂagneau pascal et le serpent dÃ¢ÂÂairain
-ÃÂÃÂ©levÃÂÃÂ© par MoÃÂÃÂ¯se dans le dÃÂÃÂ©sert.
+Les principales figures du Rédempteur dans l'Ancien Testament sont l'innocent
+Abel, le grand prêtre Melchisédech, le sacrifice d'Isaac, Joseph vendu
+par ses frères, le prophète Jonas, l'agneau pascal et le serpent d'airain
+élevé par Moïse dans le désert.
 
-Comment savons-nous que JÃÂÃÂ©sus-Christ est vraiment Dieu ?
+Comment savons-nous que Jésus-Christ est vraiment Dieu ?
 
-Nous savons que JÃÂÃÂ©sus-Christ est vraiment Dieu :
+Nous savons que Jésus-Christ est vraiment Dieu :
 
-1 par le tÃÂÃÂ©moignage du PÃÂÃÂ¨re disant : " Celui-ci est mon Fils bien-aimÃÂÃÂ©
-en qui jÃ¢ÂÂai mis toutes mes complaisances : ÃÂÃÂ©coutez-le ; "
+1 par le témoignage du Père disant : " Celui-ci est mon Fils bien-aimé
+en qui j'ai mis toutes mes complaisances : écoutez-le ; "
 
-2 par lÃ¢ÂÂattestation de JÃÂÃÂ©sus-Christ lui-mÃÂÃÂªme confirmÃÂÃÂ©e par les plus
-ÃÂÃÂ©tonnants miracles ;
+2 par l'attestation de Jésus-Christ lui-même confirmée par les plus
+étonnants miracles ;
 
-3 par lÃ¢ÂÂenseignement des ApÃÂÃÂ´tres ;
+3 par l'enseignement des Apôtres ;
 
-4 par la tradition constante de lÃ¢ÂÂEglise catholique.
+4 par la tradition constante de l'Eglise catholique.
 
-Quels sont les principaux miracles opÃÂÃÂ©rÃÂÃÂ©s par JÃÂÃÂ©sus-Christ ?
+Quels sont les principaux miracles opérés par Jésus-Christ ?
 
-Les principaux miracles opÃÂÃÂ©rÃÂÃÂ©s par JÃÂÃÂ©sus-Christ sont, outre sa propre
-rÃÂÃÂ©surrection, la santÃÂÃÂ© rendue aux malades, la vue aux aveugles, lÃ¢ÂÂouÃÂÃÂ¯e
+Les principaux miracles opérés par Jésus-Christ sont, outre sa propre
+résurrection, la santé rendue aux malades, la vue aux aveugles, l'ouïe
 aux sourds, la vie aux morts.
 
-ÃÂ
+## Chapitre 4 Le troisième article.
 
-ÃÂ
+Que nous enseigne le troisième article : Qui a été conçu du Saint-Esprit,
+est né de la Vierge Marie ?
 
-[Haut du document](#_top)
-
-ÃÂÃÂ
-
-## Chapitre 4 Le troisiÃÂÃÂ¨me article.
-
-Que nous enseigne le troisiÃÂÃÂ¨me article : Qui a ÃÂÃÂ©tÃÂÃÂ© conÃÂÃÂ§u du Saint-Esprit,
-est nÃÂÃÂ© de la Vierge Marie ?
-
-Le troisiÃÂÃÂ¨me article du Credo nous enseigne que le Fils de Dieu a pris un
-corps et une ÃÂÃÂ¢me comme les nÃÂÃÂ´tres, dans le sein trÃÂÃÂ¨s pur de la Sainte Vierge
-Marie, par lÃ¢ÂÂopÃÂÃÂ©ration du Saint-Esprit, et quÃ¢ÂÂil est nÃÂÃÂ© de cette
+Le troisième article du Credo nous enseigne que le Fils de Dieu a pris un
+corps et une âme comme les nôtres, dans le sein très pur de la Sainte Vierge
+Marie, par l'opération du Saint-Esprit, et qu'il est né de cette
 Vierge.
 
-Le PÃÂÃÂ¨re et le Fils concoururent-ils eux aussi ÃÂÃÂ  former le corps et ÃÂÃÂ  crÃÂÃÂ©er lÃ¢ÂÂÃÂÃÂ¢me
-de JÃÂÃÂ©sus-Christ ?
+Le Père et le Fils concoururent-ils eux aussi à former le corps et à créer l'âme
+de Jésus-Christ ?
 
-Oui, les trois Personnes divines concoururent ÃÂÃÂ  former le corps et ÃÂÃÂ  crÃÂÃÂ©er lÃ¢ÂÂÃÂÃÂ¢me
-de JÃÂÃÂ©sus-Christ.
+Oui, les trois Personnes divines concoururent à former le corps et à créer l'âme
+de Jésus-Christ.
 
-Pourquoi dit-on seulement : a ÃÂÃÂ©tÃÂÃÂ© conÃÂÃÂ§u du Saint-Esprit ?
+Pourquoi dit-on seulement : a été conçu du Saint-Esprit ?
 
-On dit seulement : a ÃÂÃÂ©tÃÂÃÂ© conÃÂÃÂ§u du Saint-Esprit, parce que lÃ¢ÂÂincarnation
-du Fils de Dieu est une oeuvre de bontÃÂÃÂ© et dÃ¢ÂÂamour, et que les
-ÃÂuvres de bontÃÂÃÂ© et dÃ¢ÂÂamour sont attribuÃÂÃÂ©es au Saint-Esprit.
+On dit seulement : a été conçu du Saint-Esprit, parce que l'incarnation
+du Fils de Dieu est une oeuvre de bonté et d'amour, et que les
+œuvres de bonté et d'amour sont attribuées au Saint-Esprit.
 
-Le Fils de Dieu en se faisant homme a-t-il cessÃÂÃÂ© dÃ¢ÂÂÃÂÃÂªtre Dieu ?
+Le Fils de Dieu en se faisant homme a-t-il cessé d'être Dieu ?
 
-Non, le Fils de Dieu sÃ¢ÂÂest fait homme sans cesser dÃ¢ÂÂÃÂÃÂªtre Dieu.
+Non, le Fils de Dieu s'est fait homme sans cesser d'être Dieu.
 
-JÃÂÃÂ©sus-Christ est donc Dieu et homme tout ensemble ?
+Jésus-Christ est donc Dieu et homme tout ensemble ?
 
-Oui, le Fils de Dieu incarnÃÂÃÂ©, cÃ¢ÂÂest-ÃÂÃÂ -dire JÃÂÃÂ©sus-Christ est Dieu et
+Oui, le Fils de Dieu incarné, c'est-à-dire Jésus-Christ est Dieu et
 homme tout ensemble, Dieu parfait et homme parfait.
 
-Il y a donc en JÃÂÃÂ©sus-Christ deux natures ?
+Il y a donc en Jésus-Christ deux natures ?
 
-Oui, en JÃÂÃÂ©sus-Christ, qui est Dieu et homme, il y a deux natures : la nature
+Oui, en Jésus-Christ, qui est Dieu et homme, il y a deux natures : la nature
 divine et la nature humaine.
 
-Y a-t-il aussi en JÃÂÃÂ©sus-Christ deux personnes : la personne divine et la
+Y a-t-il aussi en Jésus-Christ deux personnes : la personne divine et la
 personne humaine ?
 
-Non, dans le Fils de Dieu fait homme, il nÃ¢ÂÂy a quÃ¢ÂÂune seule
+Non, dans le Fils de Dieu fait homme, il n'y a qu'une seule
 personne, la personne divine.
 
-Combien y a-t-il de volontÃÂÃÂ©s en JÃÂÃÂ©sus-Christ ?
+Combien y a-t-il de volontés en Jésus-Christ ?
 
-En JÃÂÃÂ©sus-Christ il y a deux volontÃÂÃÂ©s, lÃ¢ÂÂune divine et lÃ¢ÂÂautre
+En Jésus-Christ il y a deux volontés, l'une divine et l'autre
 humaine.
 
-JÃÂÃÂ©sus-Christ avait-il une volontÃÂÃÂ© libre ?
+Jésus-Christ avait-il une volonté libre ?
 
-Oui, JÃÂÃÂ©sus-Christ avait une volontÃÂÃÂ© libre, mais il ne pouvait pas faire le
-mal, parce que pouvoir faire le mal est un dÃÂÃÂ©faut, non une perfection de la
-libertÃÂÃÂ©.
+Oui, Jésus-Christ avait une volonté libre, mais il ne pouvait pas faire le
+mal, parce que pouvoir faire le mal est un défaut, non une perfection de la
+liberté.
 
-Le Fils de Dieu et le Fils de Marie sont-ils la mÃÂÃÂªme personne ?
+Le Fils de Dieu et le Fils de Marie sont-ils la même personne ?
 
-Le Fils de Dieu et le Fils de Marie sont la mÃÂÃÂªme personne, cÃ¢ÂÂest-ÃÂÃÂ -dire
-JÃÂÃÂ©sus-Christ, vrai Dieu et vrai homme.
+Le Fils de Dieu et le Fils de Marie sont la même personne, c'est-à-dire
+Jésus-Christ, vrai Dieu et vrai homme.
 
-La Vierge Marie est-elle MÃÂÃÂ¨re de Dieu ?
+La Vierge Marie est-elle Mère de Dieu ?
 
-Oui, la Vierge Marie est MÃÂÃÂ¨re de Dieu, parce quÃ¢ÂÂelle est la MÃÂÃÂ¨re de
-JÃÂÃÂ©sus-Christ qui est Dieu.
+Oui, la Vierge Marie est Mère de Dieu, parce qu'elle est la Mère de
+Jésus-Christ qui est Dieu.
 
-Comment Marie devint-elle la MÃÂÃÂ¨re de JÃÂÃÂ©sus-Christ ?
+Comment Marie devint-elle la Mère de Jésus-Christ ?
 
-Marie devint la MÃÂÃÂ¨re de JÃÂÃÂ©sus-Christ uniquement par lÃ¢ÂÂopÃÂÃÂ©ration et la
+Marie devint la Mère de Jésus-Christ uniquement par l'opération et la
 vertu du Saint-Esprit.
 
 Est-il de foi que Marie fut toujours Vierge ?
 
-Oui, il est de foi que Marie fut toujours Vierge et elle est appelÃÂÃÂ©e la
+Oui, il est de foi que Marie fut toujours Vierge et elle est appelée la
 Sainte Vierge, la Vierge par excellence.
 
-ÃÂ
+## Chapitre 5 Le quatrième article.
 
-ÃÂ
+Que nous enseigne le quatrième article : A souffert sous Ponce Pilate, a été
+crucifié, est mort et a été enseveli ?
 
-[Haut du document](#_top)
-
-ÃÂ
-
-## Chapitre 5 Le quatriÃÂÃÂ¨me article.
-
-Que nous enseigne le quatriÃÂÃÂ¨me article : A souffert sous Ponce Pilate, a ÃÂÃÂ©tÃÂÃÂ©
-crucifiÃÂÃÂ©, est mort et a ÃÂÃÂ©tÃÂÃÂ© enseveli ?
-
-Le quatriÃÂÃÂ¨me article du Credo nous enseigne que JÃÂÃÂ©sus-Christ, pour racheter
-le monde par son Sang prÃÂÃÂ©cieux, souffrit sous Ponce Pilate, gouverneur de la
-JudÃÂÃÂ©e, et mourut sur le bois de la croix dÃ¢ÂÂoÃÂÃÂ¹ il fut descendu pour ÃÂÃÂªtre
+Le quatrième article du Credo nous enseigne que Jésus-Christ, pour racheter
+le monde par son Sang précieux, souffrit sous Ponce Pilate, gouverneur de la
+Judée, et mourut sur le bois de la croix d'où il fut descendu pour être
 enseveli.
 
 Que veulent dire les mots : a souffert ?
 
-Les mots a souffert expriment toutes les peines souffertes par JÃÂÃÂ©sus-Christ
+Les mots a souffert expriment toutes les peines souffertes par Jésus-Christ
 dans sa passion.
 
-JÃÂÃÂ©sus-Christ a-t-il souffert comme Dieu ou comme homme ?
+Jésus-Christ a-t-il souffert comme Dieu ou comme homme ?
 
-JÃÂÃÂ©sus-Christ a souffert comme homme seulement, parce que comme Dieu il ne
+Jésus-Christ a souffert comme homme seulement, parce que comme Dieu il ne
 pouvait ni souffrir ni mourir.
 
-Quelle sorte de supplice ÃÂÃÂ©tait celui de la croix ?
+Quelle sorte de supplice était celui de la croix ?
 
-Le supplice de la croix ÃÂÃÂ©tait alors le plus cruel et le plus ignominieux de
+Le supplice de la croix était alors le plus cruel et le plus ignominieux de
 tous les supplices.
 
-Qui est-ce qui condamna JÃÂÃÂ©sus-Christ ÃÂÃÂ  ÃÂÃÂªtre crucifiÃÂÃÂ© ?
+Qui est-ce qui condamna Jésus-Christ à être crucifié ?
 
-Celui qui condamna JÃÂÃÂ©sus-Christ ÃÂÃÂ  ÃÂÃÂªtre crucifiÃÂÃÂ© fut Ponce Pilate, gouverneur
-de la JudÃÂÃÂ©e, qui avait reconnu son innocence, mais qui cÃÂÃÂ©da honteusement ÃÂÃÂ  lÃ¢ÂÂinsistance
-menaÃÂÃÂ§ante du peuple de JÃÂÃÂ©rusalem.
+Celui qui condamna Jésus-Christ à être crucifié fut Ponce Pilate, gouverneur
+de la Judée, qui avait reconnu son innocence, mais qui céda honteusement à l'insistance
+menaçante du peuple de Jérusalem.
 
-JÃÂÃÂ©sus-Christ nÃ¢ÂÂaurait-il pas pu se dÃÂÃÂ©livrer des mains des Juifs et de
+Jésus-Christ n'aurait-il pas pu se délivrer des mains des Juifs et de
 Pilate ?
 
-Oui, JÃÂÃÂ©sus-Christ aurait pu se dÃÂÃÂ©livrer des mains des Juifs et de Pilate ;
-mais, sachant que la volontÃÂÃÂ© de son PÃÂÃÂ¨re Eternel ÃÂÃÂ©tait quÃ¢ÂÂil souffrÃÂÃÂ®t et
-mourÃÂÃÂ»t pour notre salut, il sÃ¢ÂÂy soumit volontairement, et mÃÂÃÂªme il alla
-Lui-mÃÂÃÂªme au-devant de ses ennemis et se laissa spontanÃÂÃÂ©ment prendre et conduire
-ÃÂÃÂ  la mort.
+Oui, Jésus-Christ aurait pu se délivrer des mains des Juifs et de Pilate ;
+mais, sachant que la volonté de son Père Eternel était qu'il souffrît et
+mourût pour notre salut, il s'y soumit volontairement, et même il alla
+Lui-même au-devant de ses ennemis et se laissa spontanément prendre et conduire
+à la mort.
 
-OÃÂÃÂ¹ fut crucifiÃÂÃÂ© JÃÂÃÂ©sus-Christ ?
+Où fut crucifié Jésus-Christ ?
 
-JÃÂÃÂ©sus-Christ fut crucifiÃÂÃÂ© sur le mont du Calvaire.
+Jésus-Christ fut crucifié sur le mont du Calvaire.
 
-Que fit JÃÂÃÂ©sus-Christ sur la croix ?
+Que fit Jésus-Christ sur la croix ?
 
-JÃÂÃÂ©sus-Christ sur la croix pria pour ses ennemis ; donna pour mÃÂÃÂ¨re au
-disciple saint Jean et, en sa personne, ÃÂÃÂ  nous tous sa propre MÃÂÃÂ¨re la TrÃÂÃÂ¨s
-Sainte Vierge ; off rit sa mort en sacrifice et satisfit ÃÂÃÂ  la justice de Dieu
-pour les pÃÂÃÂ©chÃÂÃÂ©s des hommes.
+Jésus-Christ sur la croix pria pour ses ennemis ; donna pour mère au
+disciple saint Jean et, en sa personne, à nous tous sa propre Mère la Très
+Sainte Vierge ; off rit sa mort en sacrifice et satisfit à la justice de Dieu
+pour les péchés des hommes.
 
-NÃ¢ÂÂaurait-il pas suffi quÃ¢ÂÂun Ange vÃÂÃÂ®nt satisfaire pour nous ?
+N'aurait-il pas suffi qu'un Ange vînt satisfaire pour nous ?
 
-Non, il nÃ¢ÂÂaurait pas suffi quÃ¢ÂÂun Ange vÃÂÃÂ®nt satisfaire pour nous,
-parce que lÃ¢ÂÂoffense faite ÃÂÃÂ  Dieu par le pÃÂÃÂ©chÃÂÃÂ© ÃÂÃÂ©tait, ÃÂÃÂ  un certain point
-de vue, infinie, et il fallait pour la rÃÂÃÂ©parer une personne dÃ¢ÂÂun mÃÂÃÂ©rite
+Non, il n'aurait pas suffi qu'un Ange vînt satisfaire pour nous,
+parce que l'offense faite à Dieu par le péché était, à un certain point
+de vue, infinie, et il fallait pour la réparer une personne d'un mérite
 infini.
 
-Pour satisfaire ÃÂÃÂ  la divine Justice ÃÂÃÂ©tait-il nÃÂÃÂ©cessaire que JÃÂÃÂ©sus-Christ fÃÂÃÂ»t
+Pour satisfaire à la divine Justice était-il nécessaire que Jésus-Christ fût
 Dieu et homme tout ensemble ?
 
-Oui, il fallait que JÃÂÃÂ©sus-Christ fÃÂÃÂ»t homme pour pouvoir souffrir et mourir,
-et il fallait quÃ¢ÂÂil fÃÂÃÂ»t Dieu pour que ses souffrances eussent une valeur
+Oui, il fallait que Jésus-Christ fût homme pour pouvoir souffrir et mourir,
+et il fallait qu'il fût Dieu pour que ses souffrances eussent une valeur
 infinie.
 
-Pourquoi ÃÂÃÂ©tait-il nÃÂÃÂ©cessaire que les mÃÂÃÂ©rites de JÃÂÃÂ©sus-Christ fussent dÃ¢ÂÂune
+Pourquoi était-il nécessaire que les mérites de Jésus-Christ fussent d'une
 valeur infinie ?
 
-Il ÃÂÃÂ©tait nÃÂÃÂ©cessaire que les mÃÂÃÂ©rites de JÃÂÃÂ©sus-Christ fussent dÃ¢ÂÂune
-valeur infinie, parce que la majestÃÂÃÂ© de Dieu, offensÃÂÃÂ©e par le pÃÂÃÂ©chÃÂÃÂ©, est
+Il était nécessaire que les mérites de Jésus-Christ fussent d'une
+valeur infinie, parce que la majesté de Dieu, offensée par le péché, est
 infinie.
 
-Etait-il nÃÂÃÂ©cessaire que JÃÂÃÂ©sus souffrÃÂÃÂ®t autant ?
+Etait-il nécessaire que Jésus souffrît autant ?
 
-Non, il nÃ¢ÂÂÃÂÃÂ©tait pas absolument nÃÂÃÂ©cessaire que JÃÂÃÂ©sus souffrÃÂÃÂ®t autant,
-parce que la moindre de ses souffrances aurait ÃÂÃÂ©tÃÂÃÂ© suffisante pour notre
-RÃÂÃÂ©demption, chacun de ses actes ayant une valeur infinie.
+Non, il n'était pas absolument nécessaire que Jésus souffrît autant,
+parce que la moindre de ses souffrances aurait été suffisante pour notre
+Rédemption, chacun de ses actes ayant une valeur infinie.
 
-Pourquoi donc JÃÂÃÂ©sus voulut-il tant souffrir ?
+Pourquoi donc Jésus voulut-il tant souffrir ?
 
-JÃÂÃÂ©sus voulut tant souffrir pour satisfaire plus abondamment ÃÂÃÂ  la divine
+Jésus voulut tant souffrir pour satisfaire plus abondamment à la divine
 Justice, pour nous montrer encore plus son amour et pour nous inspirer une plus
-grande horreur du pÃÂÃÂ©chÃÂÃÂ©.
+grande horreur du péché.
 
-Arriva-t-il des prodiges ÃÂÃÂ  la mort de JÃÂÃÂ©sus ?
+Arriva-t-il des prodiges à la mort de Jésus ?
 
-Oui, ÃÂÃÂ  la mort de JÃÂÃÂ©sus le soleil sÃ¢ÂÂobscurcit, la terre trembla, les
-sÃÂÃÂ©pulcres sÃ¢ÂÂouvrirent et beaucoup de morts ressuscitÃÂÃÂ¨rent.
+Oui, à la mort de Jésus le soleil s'obscurcit, la terre trembla, les
+sépulcres s'ouvrirent et beaucoup de morts ressuscitèrent.
 
-OÃÂÃÂ¹ fut enseveli le corps de JÃÂÃÂ©sus-Christ ?
+Où fut enseveli le corps de Jésus-Christ ?
 
-Le corps de JÃÂÃÂ©sus-Christ fut enseveli dans un sÃÂÃÂ©pulcre nouveau, creusÃÂÃÂ© dans
-le rocher non loin du lieu oÃÂÃÂ¹ il avait ÃÂÃÂ©tÃÂÃÂ© crucifiÃÂÃÂ©.
+Le corps de Jésus-Christ fut enseveli dans un sépulcre nouveau, creusé dans
+le rocher non loin du lieu où il avait été crucifié.
 
-Dans la mort de JÃÂÃÂ©sus-Christ, la divinitÃÂÃÂ© se sÃÂÃÂ©pare-t-elle de son corps et
-de son ÃÂÃÂ¢me ?
+Dans la mort de Jésus-Christ, la divinité se sépare-t-elle de son corps et
+de son âme ?
 
-Dans la mort de JÃÂÃÂ©sus-Christ la divinitÃÂÃÂ© ne se sÃÂÃÂ©para ni du corps ni de lÃ¢ÂÂÃÂÃÂ¢me
-; il y eut seulement sÃÂÃÂ©paration de lÃ¢ÂÂÃÂÃÂ¢me et du corps.
+Dans la mort de Jésus-Christ la divinité ne se sépara ni du corps ni de l'âme
+; il y eut seulement séparation de l'âme et du corps.
 
-Pour qui est mort JÃÂÃÂ©sus-Christ ?
+Pour qui est mort Jésus-Christ ?
 
-JÃÂÃÂ©sus-Christ est mort pour le salut de tous les hommes et il a satisfait
+Jésus-Christ est mort pour le salut de tous les hommes et il a satisfait
 pour tous.
 
-Si JÃÂÃÂ©sus-Christ est mort pour le salut de tous, pourquoi tous ne sont-ils
-pas sauvÃÂÃÂ©s ?
+Si Jésus-Christ est mort pour le salut de tous, pourquoi tous ne sont-ils
+pas sauvés ?
 
-JÃÂÃÂ©sus-Christ est mort pour le salut de tous et tous ne sont pas sauvÃÂÃÂ©s parce
-que tous ne veulent pas le reconnaÃÂÃÂ®tre, tous nÃ¢ÂÂobservent pas sa loi, tous
-ne se servent pas des moyens de sanctification quÃ¢ÂÂil nous a laissÃÂÃÂ©s.
+Jésus-Christ est mort pour le salut de tous et tous ne sont pas sauvés parce
+que tous ne veulent pas le reconnaître, tous n'observent pas sa loi, tous
+ne se servent pas des moyens de sanctification qu'il nous a laissés.
 
-Pour ÃÂÃÂªtre sauvÃÂÃÂ©s, suffit-il que JÃÂÃÂ©sus-Christ soit mort pour nous ?
+Pour être sauvés, suffit-il que Jésus-Christ soit mort pour nous ?
 
-Pour ÃÂÃÂªtre sauvÃÂÃÂ©s, il ne suffit pas que JÃÂÃÂ©sus-Christ soit mort pour nous ; il
-est nÃÂÃÂ©cessaire quÃ¢ÂÂÃÂÃÂ  chacun de nous soient appliquÃÂÃÂ©s le fruit et les
-mÃÂÃÂ©rites de sa passion et de sa mort, application qui se fait surtout par les
-sacrements que JÃÂÃÂ©sus-Christ lui-mÃÂÃÂªme a instituÃÂÃÂ©s dans ce but. Et comme beaucoup
-ou ne reÃÂÃÂ§oivent pas les sacrements ou les reÃÂÃÂ§oivent mal, ils rendent inutile
-pour eux la mort de JÃÂÃÂ©sus-Christ.
+Pour être sauvés, il ne suffit pas que Jésus-Christ soit mort pour nous ; il
+est nécessaire qu'à chacun de nous soient appliqués le fruit et les
+mérites de sa passion et de sa mort, application qui se fait surtout par les
+sacrements que Jésus-Christ lui-même a institués dans ce but. Et comme beaucoup
+ou ne reçoivent pas les sacrements ou les reçoivent mal, ils rendent inutile
+pour eux la mort de Jésus-Christ.
 
-ÃÂ
+## Chapitre 6 Le cinquième article.
 
-if !supportLineBreakNewLine?
+Que nous enseigne le cinquième article : Est descendu aux enfers, le
+troisième jour est ressuscité d'entre les morts ?
 
-endif?
+Le cinquième article du Credo nous enseigne que l'âme de Jésus-Christ,
+une fois séparée de son corps, alla dans les Limbes, et que, le troisième jour,
+elle s'unit de nouveau à son corps pour n'en être jamais plus
+séparée.
 
-[Haut du document](#_top)
+Qu'entend-on par enfers ?
 
-ÃÂ
+On entend ici par enfers les Limbes, c'est-à-dire le lieu où étaient
+les âmes des justes en attendant la Rédemption de Jésus-Christ.
 
-## Chapitre 6 Le cinquiÃÂÃÂ¨me article.
+Pourquoi les âmes des justes ne furent-elles pas introduites dans le paradis
+avant la mort de Jésus-Christ ?
 
-Que nous enseigne le cinquiÃÂÃÂ¨me article : Est descendu aux enfers, le
-troisiÃÂÃÂ¨me jour est ressuscitÃÂÃÂ© dÃ¢ÂÂentre les morts ?
+Les âmes des justes ne furent pas introduites dans le paradis avant la mort
+de Jésus-Christ, parce que le paradis avait été fermé par le péché d'Adam
+et qu'il convenait que Jésus-Christ, dont la mort le rouvrait, fût le
+premier à y entrer.
 
-Le cinquiÃÂÃÂ¨me article du Credo nous enseigne que lÃ¢ÂÂÃÂÃÂ¢me de JÃÂÃÂ©sus-Christ,
-une fois sÃÂÃÂ©parÃÂÃÂ©e de son corps, alla dans les Limbes, et que, le troisiÃÂÃÂ¨me jour,
-elle sÃ¢ÂÂunit de nouveau ÃÂÃÂ  son corps pour nÃ¢ÂÂen ÃÂÃÂªtre jamais plus
-sÃÂÃÂ©parÃÂÃÂ©e.
+Pourquoi Jésus-Christ voulut-il retarder sa résurrection jusqu'au
+troisième jour ?
 
-QuÃ¢ÂÂentend-on par enfers ?
+Jésus-Christ voulut retarder sa résurrection jusqu'au troisième jour
+pour manifester avec évidence qu'il était vraiment mort.
 
-On entend ici par enfers les Limbes, cÃ¢ÂÂest-ÃÂÃÂ -dire le lieu oÃÂÃÂ¹ ÃÂÃÂ©taient
-les ÃÂÃÂ¢mes des justes en attendant la RÃÂÃÂ©demption de JÃÂÃÂ©sus-Christ.
+La résurrection de Jésus-Christ fut-elle semblable à celle des autres hommes
+ressuscités ?
 
-Pourquoi les ÃÂÃÂ¢mes des justes ne furent-elles pas introduites dans le paradis
-avant la mort de JÃÂÃÂ©sus-Christ ?
+Non, la résurrection de Jésus-Christ ne fut pas semblable à celle des autres
+hommes ressuscités, parce que Jésus-Christ ressuscita par sa propre puissance,
+et que les autres furent ressuscités par la puissance de Dieu.
 
-Les ÃÂÃÂ¢mes des justes ne furent pas introduites dans le paradis avant la mort
-de JÃÂÃÂ©sus-Christ, parce que le paradis avait ÃÂÃÂ©tÃÂÃÂ© fermÃÂÃÂ© par le pÃÂÃÂ©chÃÂÃÂ© dÃ¢ÂÂAdam
-et quÃ¢ÂÂil convenait que JÃÂÃÂ©sus-Christ, dont la mort le rouvrait, fÃÂÃÂ»t le
-premier ÃÂÃÂ  y entrer.
+## Chapitre 7 Le sixième article.
 
-Pourquoi JÃÂÃÂ©sus-Christ voulut-il retarder sa rÃÂÃÂ©surrection jusquÃ¢ÂÂau
-troisiÃÂÃÂ¨me jour ?
+Que nous enseigne le sixième article : Est monté aux cieux, est assis à la
+droite de Dieu, le Père tout-puissant ?
 
-JÃÂÃÂ©sus-Christ voulut retarder sa rÃÂÃÂ©surrection jusquÃ¢ÂÂau troisiÃÂÃÂ¨me jour
-pour manifester avec ÃÂÃÂ©vidence quÃ¢ÂÂil ÃÂÃÂ©tait vraiment mort.
-
-La rÃÂÃÂ©surrection de JÃÂÃÂ©sus-Christ fut-elle semblable ÃÂÃÂ  celle des autres hommes
-ressuscitÃÂÃÂ©s ?
-
-Non, la rÃÂÃÂ©surrection de JÃÂÃÂ©sus-Christ ne fut pas semblable ÃÂÃÂ  celle des autres
-hommes ressuscitÃÂÃÂ©s, parce que JÃÂÃÂ©sus-Christ ressuscita par sa propre puissance,
-et que les autres furent ressuscitÃÂÃÂ©s par la puissance de Dieu.
-
-ÃÂ
-
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-## Chapitre 7 Le sixiÃÂÃÂ¨me article.
-
-Que nous enseigne le sixiÃÂÃÂ¨me article : Est montÃÂÃÂ© aux cieux, est assis ÃÂÃÂ  la
-droite de Dieu, le PÃÂÃÂ¨re tout-puissant ?
-
-Le sixiÃÂÃÂ¨me article du Credo nous enseigne que JÃÂÃÂ©sus-Christ, quarante jours
-aprÃÂÃÂ¨s sa rÃÂÃÂ©surrection, monta au ciel par sa propre puissance, en prÃÂÃÂ©sence de
-ses disciples, et que, ÃÂÃÂ©tant comme Dieu ÃÂÃÂ©gal ÃÂÃÂ  son PÃÂÃÂ¨re, il a ÃÂÃÂ©tÃÂÃÂ© comme homme
-ÃÂÃÂ©levÃÂÃÂ© au-dessus de tous les Anges et de tous les Saints et ÃÂÃÂ©tabli le Seigneur
+Le sixième article du Credo nous enseigne que Jésus-Christ, quarante jours
+après sa résurrection, monta au ciel par sa propre puissance, en présence de
+ses disciples, et que, étant comme Dieu égal à son Père, il a été comme homme
+élevé au-dessus de tous les Anges et de tous les Saints et établi le Seigneur
 de toutes choses.
 
-Pourquoi JÃÂÃÂ©sus-Christ, aprÃÂÃÂ¨s sa rÃÂÃÂ©surrection resta-t-il, quarante jours sur
+Pourquoi Jésus-Christ, après sa résurrection resta-t-il, quarante jours sur
 la terre avant de monter au ciel ?
 
-JÃÂÃÂ©sus-Christ aprÃÂÃÂ¨s sa rÃÂÃÂ©surrection resta quarante jours sur la terre avant
-de monter au ciel, pour prouver par diverses apparitions quÃ¢ÂÂil ÃÂÃÂ©tait
-vraiment ressuscitÃÂÃÂ©, et pour instruire toujours davantage et confirmer les
-ApÃÂÃÂ´tres dans les vÃÂÃÂ©ritÃÂÃÂ©s de la foi.
+Jésus-Christ après sa résurrection resta quarante jours sur la terre avant
+de monter au ciel, pour prouver par diverses apparitions qu'il était
+vraiment ressuscité, et pour instruire toujours davantage et confirmer les
+Apôtres dans les vérités de la foi.
 
-Pourquoi JÃÂÃÂ©sus-Christ est-il montÃÂÃÂ© au ciel ?
+Pourquoi Jésus-Christ est-il monté au ciel ?
 
-JÃÂÃÂ©sus-Christ est montÃÂÃÂ© au ciel :
+Jésus-Christ est monté au ciel :
 
-1 pour prendre possession du royaume quÃ¢ÂÂil avait mÃÂÃÂ©ritÃÂÃÂ© par sa mort ;
+1 pour prendre possession du royaume qu'il avait mérité par sa mort ;
 
-2 pour prÃÂÃÂ©parer notre place dans la gloire et ÃÂÃÂªtre notre MÃÂÃÂ©diateur et notre
-Avocat auprÃÂÃÂ¨s de son PÃÂÃÂ¨re ;
+2 pour préparer notre place dans la gloire et être notre Médiateur et notre
+Avocat auprès de son Père ;
 
-3 pour envoyer le Saint-Esprit ÃÂÃÂ  ses ApÃÂÃÂ´tres.
+3 pour envoyer le Saint-Esprit à ses Apôtres.
 
-Pourquoi dit-on de JÃÂÃÂ©sus-Christ quÃ¢ÂÂil monta au ciel et de sa trÃÂÃÂ¨s
-sainte MÃÂÃÂ¨re quÃ¢ÂÂelle y fut ÃÂÃÂ©levÃÂÃÂ©e ?
+Pourquoi dit-on de Jésus-Christ qu'il monta au ciel et de sa très
+sainte Mère qu'elle y fut élevée ?
 
-On dit de JÃÂÃÂ©sus-Christ quÃ¢ÂÂil monta au ciel et de sa trÃÂÃÂ¨s sainte MÃÂÃÂ¨re
-quÃ¢ÂÂelle y fut ÃÂÃÂ©levÃÂÃÂ©e, parce que JÃÂÃÂ©sus-Christ, ÃÂÃÂ©tant Homme-Dieu, monta au
-ciel par sa propre puissance, tandis que sa MÃÂÃÂ¨re qui ÃÂÃÂ©tait une crÃÂÃÂ©ature, bien
+On dit de Jésus-Christ qu'il monta au ciel et de sa très sainte Mère
+qu'elle y fut élevée, parce que Jésus-Christ, étant Homme-Dieu, monta au
+ciel par sa propre puissance, tandis que sa Mère qui était une créature, bien
 que la plus digne de toutes, monta au ciel par la puissance de Dieu.
 
-Expliquez les mots : est assis ÃÂÃÂ  la droite de Dieu le PÃÂÃÂ¨re tout-puissant ?
+Expliquez les mots : est assis à la droite de Dieu le Père tout-puissant ?
 
 Les mots : " est assis ", signifient la possession pacifique que
-JÃÂÃÂ©sus-Christ a de la gloire, et les mots : " ÃÂÃÂ  la droite de Dieu le PÃÂÃÂ¨re
-tout-puissant ", expriment quÃ¢ÂÂil a une place dÃ¢ÂÂhonneur
-au-dessus de toutes les crÃÂÃÂ©atures.
+Jésus-Christ a de la gloire, et les mots : " à la droite de Dieu le Père
+tout-puissant ", expriment qu'il a une place d'honneur
+au-dessus de toutes les créatures.
 
-ÃÂ
+## Chapitre 8 Le septième article.
 
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂ
-
-## Chapitre 8 Le septiÃÂÃÂ¨me article.
-
-Que nous enseigne le septiÃÂÃÂ¨me article : DÃ¢ÂÂoÃÂÃÂ¹ il viendra juger les
+Que nous enseigne le septième article : D'où il viendra juger les
 vivants et les morts ?
 
-Le septiÃÂÃÂ¨me article du Credo nous enseigne quÃ¢ÂÂÃÂÃÂ  la fin du monde
-JÃÂÃÂ©sus-Christ, plein de gloire et de majestÃÂÃÂ©, viendra du ciel pour juger tous
-les hommes, bons et mauvais, et pour donner ÃÂÃÂ  chacun la rÃÂÃÂ©compense ou le
-chÃÂÃÂ¢timent quÃ¢ÂÂil aura mÃÂÃÂ©ritÃÂÃÂ©.
+Le septième article du Credo nous enseigne qu'à la fin du monde
+Jésus-Christ, plein de gloire et de majesté, viendra du ciel pour juger tous
+les hommes, bons et mauvais, et pour donner à chacun la récompense ou le
+châtiment qu'il aura mérité.
 
-Si chacun, aussitÃÂÃÂ´t aprÃÂÃÂ¨s la mort, doit ÃÂÃÂªtre jugÃÂÃÂ© par JÃÂÃÂ©sus-Christ dans le
-jugement particulier, pourquoi devons-nous tous ÃÂÃÂªtre jugÃÂÃÂ©s dans le jugement
-gÃÂÃÂ©nÃÂÃÂ©ral ?
+Si chacun, aussitôt après la mort, doit être jugé par Jésus-Christ dans le
+jugement particulier, pourquoi devons-nous tous être jugés dans le jugement
+général ?
 
-Nous devons tous ÃÂÃÂªtre jugÃÂÃÂ©s dans le jugement gÃÂÃÂ©nÃÂÃÂ©ral pour plusieurs raisons
+Nous devons tous être jugés dans le jugement général pour plusieurs raisons
 :
 
 1 pour la gloire de Dieu ;
 
-2 pour la gloire de JÃÂÃÂ©sus-Christ ;
+2 pour la gloire de Jésus-Christ ;
 
 3 pour la gloire des Saints ;
 
-4 pour la confusion des mÃÂÃÂ©chants ;
+4 pour la confusion des méchants ;
 
-5 enfin pour que le corps ait avec lÃ¢ÂÂÃÂÃÂ¢me la sentence de rÃÂÃÂ©compense ou
-de chÃÂÃÂ¢timent.
+5 enfin pour que le corps ait avec l'âme la sentence de récompense ou
+de châtiment.
 
-Au jugement gÃÂÃÂ©nÃÂÃÂ©ral comment sera manifestÃÂÃÂ©e la gloire de Dieu ?
+Au jugement général comment sera manifestée la gloire de Dieu ?
 
-Au jugement gÃÂÃÂ©nÃÂÃÂ©ral, la gloire de Dieu sera manifestÃÂÃÂ©e parce que tous
-connaÃÂÃÂ®tront avec quelle justice Dieu gouverne le monde, bien que parfois
-maintenant on voie les bons dans lÃ¢ÂÂaffliction et les mÃÂÃÂ©chants dans la
-prospÃÂÃÂ©ritÃÂÃÂ©.
+Au jugement général, la gloire de Dieu sera manifestée parce que tous
+connaîtront avec quelle justice Dieu gouverne le monde, bien que parfois
+maintenant on voie les bons dans l'affliction et les méchants dans la
+prospérité.
 
-Au jugement gÃÂÃÂ©nÃÂÃÂ©ral comment sera manifestÃÂÃÂ©e la gloire de JÃÂÃÂ©sus-Christ ?
+Au jugement général comment sera manifestée la gloire de Jésus-Christ ?
 
-Au jugement gÃÂÃÂ©nÃÂÃÂ©ral, la gloire de JÃÂÃÂ©sus-Christ sera manifestÃÂÃÂ©e parce quÃ¢ÂÂaprÃÂÃÂ¨s
-avoir ÃÂÃÂ©tÃÂÃÂ© injustement condamnÃÂÃÂ© par les hommes, il paraÃÂÃÂ®tra alors ÃÂÃÂ  la face de
-tous comme le Juge suprÃÂÃÂªme de tous les hommes.
+Au jugement général, la gloire de Jésus-Christ sera manifestée parce qu'après
+avoir été injustement condamné par les hommes, il paraîtra alors à la face de
+tous comme le Juge suprême de tous les hommes.
 
-Au jugement gÃÂÃÂ©nÃÂÃÂ©ral comment sera manifestÃÂÃÂ©e la gloire des saints ?
+Au jugement général comment sera manifestée la gloire des saints ?
 
-Au jugement gÃÂÃÂ©nÃÂÃÂ©ral, la gloire des Saints sera manifestÃÂÃÂ©e parce que beaucoup
-dÃ¢ÂÂentre eux qui moururent mÃÂÃÂ©prisÃÂÃÂ©s par les mÃÂÃÂ©chants seront glorifiÃÂÃÂ©s en
-prÃÂÃÂ©sence de tout le monde.
+Au jugement général, la gloire des Saints sera manifestée parce que beaucoup
+d'entre eux qui moururent méprisés par les méchants seront glorifiés en
+présence de tout le monde.
 
-Au jugement gÃÂÃÂ©nÃÂÃÂ©ral quelle sera la confusion pour les mÃÂÃÂ©chants ?
+Au jugement général quelle sera la confusion pour les méchants ?
 
-Au jugement gÃÂÃÂ©nÃÂÃÂ©ral, la confusion des mÃÂÃÂ©chants sera trÃÂÃÂ¨s grande, surtout
-pour ceux qui opprimÃÂÃÂ¨rent les justes et pour ceux qui cherchÃÂÃÂ¨rent pendant leur
-vie ÃÂÃÂ  ÃÂÃÂªtre estimÃÂÃÂ©s des hommes vertueux et bons, parce quÃ¢ÂÂils verront
-manifestÃÂÃÂ©s ÃÂÃÂ  tout le monde les pÃÂÃÂ©chÃÂÃÂ©s quÃ¢ÂÂils commirent, mÃÂÃÂªme les plus
+Au jugement général, la confusion des méchants sera très grande, surtout
+pour ceux qui opprimèrent les justes et pour ceux qui cherchèrent pendant leur
+vie à être estimés des hommes vertueux et bons, parce qu'ils verront
+manifestés à tout le monde les péchés qu'ils commirent, même les plus
 secrets.
 
-ÃÂ
+## Chapitre 9 Le huitième article.
 
-ÃÂ
+Que nous enseigne le huitième article : Je crois au Saint-Esprit ?
 
-[Haut du document](#_top)
-
-ÃÂ
-
-## Chapitre 9 Le huitiÃÂÃÂ¨me article.
-
-Que nous enseigne le huitiÃÂÃÂ¨me article : Je crois au Saint-Esprit ?
-
-Le huitiÃÂÃÂ¨me article du Credo nous enseigne quÃ¢ÂÂil y a un Esprit Saint,
-troisiÃÂÃÂ¨me Personne de la trÃÂÃÂ¨s sainte TrinitÃÂÃÂ©, quÃ¢ÂÂil est Dieu ÃÂÃÂ©ternel,
-infini, tout-puissant, CrÃÂÃÂ©ateur et Seigneur de toutes choses, comme le PÃÂÃÂ¨re et
+Le huitième article du Credo nous enseigne qu'il y a un Esprit Saint,
+troisième Personne de la très sainte Trinité, qu'il est Dieu éternel,
+infini, tout-puissant, Créateur et Seigneur de toutes choses, comme le Père et
 le Fils.
 
-De qui procÃÂÃÂ¨de le Saint-Esprit ?
+De qui procède le Saint-Esprit ?
 
-Le Saint-Esprit procÃÂÃÂ¨de du PÃÂÃÂ¨re et du Fils comme dÃ¢ÂÂun seul principe
-par voie de volontÃÂÃÂ© et dÃ¢ÂÂamour.
+Le Saint-Esprit procède du Père et du Fils comme d'un seul principe
+par voie de volonté et d'amour.
 
-Si le Fils procÃÂÃÂ¨de du PÃÂÃÂ¨re et si le Saint-Esprit procÃÂÃÂ¨de du PÃÂÃÂ¨re et du Fils,
-il semble que le PÃÂÃÂ¨re et le Fils soient antÃÂÃÂ©rieurs au Saint-Esprit : comment
-dit-on alors que les trois Personnes sont ÃÂÃÂ©ternelles ?
+Si le Fils procède du Père et si le Saint-Esprit procède du Père et du Fils,
+il semble que le Père et le Fils soient antérieurs au Saint-Esprit : comment
+dit-on alors que les trois Personnes sont éternelles ?
 
-On dit que les trois Personnes sont ÃÂÃÂ©ternelles parce que le PÃÂÃÂ¨re engendre le
-Fils ab ÃÂÃÂ¦terno (de toute ÃÂÃÂ©ternitÃÂÃÂ©) et que le Saint-Esprit procÃÂÃÂ¨de aussi ab
-ÃÂÃÂ¦terno du PÃÂÃÂ¨re et du Fils.
+On dit que les trois Personnes sont éternelles parce que le Père engendre le
+Fils ab æterno (de toute éternité) et que le Saint-Esprit procède aussi ab
+æterno du Père et du Fils.
 
-Pourquoi la troisiÃÂÃÂ¨me Personne de la trÃÂÃÂ¨s sainte TrinitÃÂÃÂ© est-elle appelÃÂÃÂ©e
-spÃÂÃÂ©cialement du nom de Saint-Esprit ?
+Pourquoi la troisième Personne de la très sainte Trinité est-elle appelée
+spécialement du nom de Saint-Esprit ?
 
-La troisiÃÂÃÂ¨me Personne de la TrÃÂÃÂ¨s Sainte TrinitÃÂÃÂ© est appelÃÂÃÂ©e spÃÂÃÂ©cialement du
-nom de Saint-Esprit parce quÃ¢ÂÂelle procÃÂÃÂ¨de du PÃÂÃÂ¨re et du Fils par voie dÃ¢ÂÂamour
+La troisième Personne de la Très Sainte Trinité est appelée spécialement du
+nom de Saint-Esprit parce qu'elle procède du Père et du Fils par voie d'amour
 et de spiration ( Latin spiratio, de spirare, souffler, respirer : le
-Saint-Esprit est comme le souffle du PÃÂÃÂ¨re et du Fils.)
+Saint-Esprit est comme le souffle du Père et du Fils.)
 
-Quelle est lÃ¢ÂÂÃÂuvre attribuÃÂÃÂ©e spÃÂÃÂ©cialement au Saint Esprit ?
+Quelle est l'œuvre attribuée spécialement au Saint Esprit ?
 
-LÃ¢ÂÂÃÂuvre attribuÃÂÃÂ©e spÃÂÃÂ©cialement au Saint-Esprit est la
-sanctification des ÃÂÃÂ¢mes.
+L'œuvre attribuée spécialement au Saint-Esprit est la
+sanctification des âmes.
 
-Le PÃÂÃÂ¨re et le Fils nous sanctifient-ils comme le Saint Esprit ?
+Le Père et le Fils nous sanctifient-ils comme le Saint Esprit ?
 
-Oui, les trois Personnes divines nous sanctifient ÃÂÃÂ©galement.
+Oui, les trois Personnes divines nous sanctifient également.
 
-SÃ¢ÂÂil en est ainsi, Pourquoi la sanctification des ÃÂÃÂ¢mes est-elle
-attribuÃÂÃÂ©e spÃÂÃÂ©cialement au Saint-Esprit ?
+S'il en est ainsi, Pourquoi la sanctification des âmes est-elle
+attribuée spécialement au Saint-Esprit ?
 
-La sanctification des ÃÂÃÂ¢mes est attribuÃÂÃÂ©e spÃÂÃÂ©cialement au Saint-Esprit parce
-quÃ¢ÂÂelle est une ÃÂuvre dÃ¢ÂÂamour et que les ÃÂuvres dÃ¢ÂÂamour
-sont attribuÃÂÃÂ©es au Saint-Esprit.
+La sanctification des âmes est attribuée spécialement au Saint-Esprit parce
+qu'elle est une œuvre d'amour et que les œuvres d'amour
+sont attribuées au Saint-Esprit.
 
-Quand le Saint-Esprit est-il descendu sur les ApÃÂÃÂ´tres ?
+Quand le Saint-Esprit est-il descendu sur les Apôtres ?
 
-Le Saint-Esprit descendit sur les ApÃÂÃÂ´tres le jour de la PentecÃÂÃÂ´te, cÃ¢ÂÂest-ÃÂÃÂ -dire
-cinquante jours aprÃÂÃÂ¨s la RÃÂÃÂ©surrection de JÃÂÃÂ©sus-Christ et dix jours aprÃÂÃÂ¨s son
+Le Saint-Esprit descendit sur les Apôtres le jour de la Pentecôte, c'est-à-dire
+cinquante jours après la Résurrection de Jésus-Christ et dix jours après son
 Ascension.
 
-OÃÂÃÂ¹ ÃÂÃÂ©taient les ApÃÂÃÂ´tres pendant les dix jours qui prÃÂÃÂ©cÃÂÃÂ©dÃÂÃÂ¨rent la PentecÃÂÃÂ´te ?
+Où étaient les Apôtres pendant les dix jours qui précédèrent la Pentecôte ?
 
-Les ApÃÂÃÂ´tres ÃÂÃÂ©taient rÃÂÃÂ©unis dans le CÃÂÃÂ©nacle en compagnie de la Sainte Vierge
-et des autres disciples, et ils persÃÂÃÂ©vÃÂÃÂ©raient dans la priÃÂÃÂ¨re, attendant lÃ¢ÂÂEsprit
-Saint que JÃÂÃÂ©sus-Christ leur avait promis.
+Les Apôtres étaient réunis dans le Cénacle en compagnie de la Sainte Vierge
+et des autres disciples, et ils persévéraient dans la prière, attendant l'Esprit
+Saint que Jésus-Christ leur avait promis.
 
-Quels effets produisit le Saint-Esprit dans les ApÃÂÃÂ´tres ?
+Quels effets produisit le Saint-Esprit dans les Apôtres ?
 
-Le Saint-Esprit confirma les ApÃÂÃÂ´tres dans la foi, les remplit de lumiÃÂÃÂ¨re, de
-force, de charitÃÂÃÂ© et de lÃ¢ÂÂabondance de tous ses dons.
+Le Saint-Esprit confirma les Apôtres dans la foi, les remplit de lumière, de
+force, de charité et de l'abondance de tous ses dons.
 
-Le Saint-Esprit a-t-il ÃÂÃÂ©tÃÂÃÂ© envoyÃÂÃÂ© pour les seuls ApÃÂÃÂ´tres ?
+Le Saint-Esprit a-t-il été envoyé pour les seuls Apôtres ?
 
-Le Saint-Esprit a ÃÂÃÂ©tÃÂÃÂ© envoyÃÂÃÂ© pour toute lÃ¢ÂÂEglise et pour chaque ÃÂÃÂ¢me
-fidÃÂÃÂ¨le.
+Le Saint-Esprit a été envoyé pour toute l'Eglise et pour chaque âme
+fidèle.
 
-Quels effets produit le Saint-Esprit dans lÃ¢ÂÂEglise ?
+Quels effets produit le Saint-Esprit dans l'Eglise ?
 
-Le Saint-Esprit, comme lÃ¢ÂÂÃÂÃÂ¢me dans le corps, vivifie lÃ¢ÂÂEglise par
-sa grÃÂÃÂ¢ce et par ses dons ; il y ÃÂÃÂ©tablit le rÃÂÃÂ¨gne de la vÃÂÃÂ©ritÃÂÃÂ© et de lÃ¢ÂÂamour
-; il lÃ¢ÂÂassiste pour quÃ¢ÂÂelle conduise sÃÂÃÂ»rement ses fils dans la voie
+Le Saint-Esprit, comme l'âme dans le corps, vivifie l'Eglise par
+sa grâce et par ses dons ; il y établit le règne de la vérité et de l'amour
+; il l'assiste pour qu'elle conduise sûrement ses fils dans la voie
 du ciel.
 
-ÃÂ
+## Chapitre 10 Le neuvième article.
 
-ÃÂ
+### § 1. L'Eglise en général.
 
-[Haut du document](#_top)
-
-ÃÂÃÂ
-
-## Chapitre 10 Le neuviÃÂÃÂ¨me article.
-
-### ÃÂÃÂ§ 1. LÃ¢ÂÂEglise en gÃÂÃÂ©nÃÂÃÂ©ral.
-
-Que nous enseigne le neuviÃÂÃÂ¨me article : La sainte Eglise catholique, la
+Que nous enseigne le neuvième article : La sainte Eglise catholique, la
 communion des saints ?
 
-Le neuviÃÂÃÂ¨me article du Credo nous enseigne, que JÃÂÃÂ©sus-Christ a fondÃÂÃÂ© sur la
-terre une sociÃÂÃÂ©tÃÂÃÂ© visible qui sÃ¢ÂÂappelle lÃ¢ÂÂEglise catholique et que
+Le neuvième article du Credo nous enseigne, que Jésus-Christ a fondé sur la
+terre une société visible qui s'appelle l'Eglise catholique et que
 tous ceux qui font partie de cette Eglise sont en communion entre eux.
 
-Pourquoi aprÃÂÃÂ¨s lÃ¢ÂÂarticle qui traite du Saint-Esprit parle-t-on
-immÃÂÃÂ©diatement de lÃ¢ÂÂEglise catholique ?
+Pourquoi après l'article qui traite du Saint-Esprit parle-t-on
+immédiatement de l'Eglise catholique ?
 
-AprÃÂÃÂ¨s lÃ¢ÂÂarticle qui traite du Saint-Esprit, on parle immÃÂÃÂ©diatement de
-lÃ¢ÂÂEglise catholique pour indiquer que toute la saintetÃÂÃÂ© de cette Eglise
-dÃÂÃÂ©rive de lÃ¢ÂÂEsprit Saint qui est la source de toute saintetÃÂÃÂ©.
+Après l'article qui traite du Saint-Esprit, on parle immédiatement de
+l'Eglise catholique pour indiquer que toute la sainteté de cette Eglise
+dérive de l'Esprit Saint qui est la source de toute sainteté.
 
 Que veut dire ce mot Eglise ?
 
-Le mot Eglise veut dire convocation ou rÃÂÃÂ©union de personnes nombreuses.
+Le mot Eglise veut dire convocation ou réunion de personnes nombreuses.
 
-Qui nous a convoquÃÂÃÂ©s ou appelÃÂÃÂ©s ÃÂÃÂ  lÃ¢ÂÂEglise de JÃÂÃÂ©sus-Christ ?
+Qui nous a convoqués ou appelés à l'Eglise de Jésus-Christ ?
 
-Nous avons ÃÂÃÂ©tÃÂÃÂ© appelÃÂÃÂ©s ÃÂÃÂ  lÃ¢ÂÂEglise de JÃÂÃÂ©sus-Christ par une grÃÂÃÂ¢ce
-particuliÃÂÃÂ¨re de Dieu, afin quÃ¢ÂÂavec la lumiÃÂÃÂ¨re de la foi et par lÃ¢ÂÂobservation
-de la loi divine nous lui rendions le culte qui lui est dÃÂÃÂ» et nous parvenions ÃÂÃÂ
-la vie ÃÂÃÂ©ternelle.
+Nous avons été appelés à l'Eglise de Jésus-Christ par une grâce
+particulière de Dieu, afin qu'avec la lumière de la foi et par l'observation
+de la loi divine nous lui rendions le culte qui lui est dû et nous parvenions à
+la vie éternelle.
 
-OÃÂÃÂ¹ se trouvent les membres de lÃ¢ÂÂEglise ?
+Où se trouvent les membres de l'Eglise ?
 
-Les membres de lÃ¢ÂÂEglise se trouvent partie au ciel, et ils forment lÃ¢ÂÂEglise
-triomphante ; partie au purgatoire et ils forment lÃ¢ÂÂEglise souffrante ;
-partie sur la terre, et ils forment lÃ¢ÂÂEglise militante.
+Les membres de l'Eglise se trouvent partie au ciel, et ils forment l'Eglise
+triomphante ; partie au purgatoire et ils forment l'Eglise souffrante ;
+partie sur la terre, et ils forment l'Eglise militante.
 
-Ces diverses parties de lÃ¢ÂÂEglise constituent-elles une seule Eglise ?
+Ces diverses parties de l'Eglise constituent-elles une seule Eglise ?
 
-Oui, ces diverses parties de lÃ¢ÂÂEglise constituent une seule Eglise et
-un seul corps, parce quÃ¢ÂÂelles ont le mÃÂÃÂªme chef qui est JÃÂÃÂ©sus-Christ, le
-mÃÂÃÂªme esprit qui les anime et les unit, et la mÃÂÃÂªme fin qui est la fÃÂÃÂ©licitÃÂÃÂ©
-ÃÂÃÂ©ternelle dont les uns jouissent dÃÂÃÂ©jÃÂÃÂ  et que les autres attendent.
+Oui, ces diverses parties de l'Eglise constituent une seule Eglise et
+un seul corps, parce qu'elles ont le même chef qui est Jésus-Christ, le
+même esprit qui les anime et les unit, et la même fin qui est la félicité
+éternelle dont les uns jouissent déjà et que les autres attendent.
 
-A quelle partie de lÃ¢ÂÂEglise se rapporte surtout ce neuviÃÂÃÂ¨me article ?
+A quelle partie de l'Eglise se rapporte surtout ce neuvième article ?
 
-Ce neuviÃÂÃÂ¨me article du Credo se rapporte surtout ÃÂÃÂ
+Ce neuvième article du Credo se rapporte surtout à
 
-lÃ¢ÂÂEglise militante, qui est lÃ¢ÂÂEglise dans laquelle nous sommes
+l'Eglise militante, qui est l'Eglise dans laquelle nous sommes
 actuellement.
 
-ÃÂ
+### § 2. L'Eglise en particulier.
 
-ÃÂ
+Qu'est-ce que l'Eglise catholique ?
 
-[Haut du document](#_top)
+L'Eglise catholique est la société ou la réunion de tous les baptisés
+qui, vivant sur la terre, professent la même foi et la même loi de
+Jésus-Christ, participent aux mêmes sacrements et obéissent aux pasteurs
+légitimes, principalement au Pontife Romain.
 
-ÃÂ
+Dites précisément ce qui est nécessaire pour être membre de l'Eglise ?
 
-### ÃÂÃÂ§ 2. LÃ¢ÂÂEglise en particulier.
+Pour être membre de l'Eglise, il est nécessaire d'être baptisé,
+de croire et professer la doctrine de Jésus-Christ, de participer aux mêmes
+sacrements, de reconnaître le Pape et les autres Pasteurs légitimes de l'Eglise.
 
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂEglise catholique ?
+Quels sont les Pasteurs légitimes de l'Eglise ?
 
-LÃ¢ÂÂEglise catholique est la sociÃÂÃÂ©tÃÂÃÂ© ou la rÃÂÃÂ©union de tous les baptisÃÂÃÂ©s
-qui, vivant sur la terre, professent la mÃÂÃÂªme foi et la mÃÂÃÂªme loi de
-JÃÂÃÂ©sus-Christ, participent aux mÃÂÃÂªmes sacrements et obÃÂÃÂ©issent aux pasteurs
-lÃÂÃÂ©gitimes, principalement au Pontife Romain.
+Les Pasteurs légitimes de l'Eglise sont le Pontife Romain, c'est-à-dire
+le Pape, qui est le Pasteur universel, et les Evêques. De plus, les autres
+prêtres et spécialement les curés ont, sous la dépendance des Evêques et du
+Pape, leur part de l'office de pasteurs.
 
-Dites prÃÂÃÂ©cisÃÂÃÂ©ment ce qui est nÃÂÃÂ©cessaire pour ÃÂÃÂªtre membre de lÃ¢ÂÂEglise ?
-
-Pour ÃÂÃÂªtre membre de lÃ¢ÂÂEglise, il est nÃÂÃÂ©cessaire dÃ¢ÂÂÃÂÃÂªtre baptisÃÂÃÂ©,
-de croire et professer la doctrine de JÃÂÃÂ©sus-Christ, de participer aux mÃÂÃÂªmes
-sacrements, de reconnaÃÂÃÂ®tre le Pape et les autres Pasteurs lÃÂÃÂ©gitimes de lÃ¢ÂÂEglise.
-
-Quels sont les Pasteurs lÃÂÃÂ©gitimes de lÃ¢ÂÂEglise ?
-
-Les Pasteurs lÃÂÃÂ©gitimes de lÃ¢ÂÂEglise sont le Pontife Romain, cÃ¢ÂÂest-ÃÂÃÂ -dire
-le Pape, qui est le Pasteur universel, et les EvÃÂÃÂªques. De plus, les autres
-prÃÂÃÂªtres et spÃÂÃÂ©cialement les curÃÂÃÂ©s ont, sous la dÃÂÃÂ©pendance des EvÃÂÃÂªques et du
-Pape, leur part de lÃ¢ÂÂoffice de pasteurs.
-
-Pourquoi dites-vous que le Pontife Romain est le Pasteur universel de lÃ¢ÂÂEglise
+Pourquoi dites-vous que le Pontife Romain est le Pasteur universel de l'Eglise
 ?
 
-Parce que JÃÂÃÂ©sus-Christ dit ÃÂÃÂ  saint Pierre le premier Pape : " Tu es
-Pierre, et sur cette pierre je bÃÂÃÂ¢tirai mon Eglise, et je te donnerai les clefs
-du royaume des cieux, et tout ce que tu lieras sur la terre sera aussi liÃÂÃÂ© dans
-le ciel, et tout ce que tu dÃÂÃÂ©lieras sur la terre sera aussi dÃÂÃÂ©liÃÂÃÂ© dans le ciel.
+Parce que Jésus-Christ dit à saint Pierre le premier Pape : " Tu es
+Pierre, et sur cette pierre je bâtirai mon Eglise, et je te donnerai les clefs
+du royaume des cieux, et tout ce que tu lieras sur la terre sera aussi lié dans
+le ciel, et tout ce que tu délieras sur la terre sera aussi délié dans le ciel.
 " Et il lui dit encore : " Pais mes agneaux, pais mes brebis. "
 
-Tant de sociÃÂÃÂ©tÃÂÃÂ©s dÃ¢ÂÂhommes baptisÃÂÃÂ©s qui ne reconnaissent pas le Pontife
-Romain pour leur chef nÃ¢ÂÂappartiennent donc pas ÃÂÃÂ  lÃ¢ÂÂEglise de
-JÃÂÃÂ©sus-Christ ?
+Tant de sociétés d'hommes baptisés qui ne reconnaissent pas le Pontife
+Romain pour leur chef n'appartiennent donc pas à l'Eglise de
+Jésus-Christ ?
 
-Non, tous ceux qui ne reconnaissent pas le Pontife Romain pour leur chef nÃ¢ÂÂappartiennent
-pas ÃÂÃÂ  lÃ¢ÂÂEglise de JÃÂÃÂ©sus-Christ.
+Non, tous ceux qui ne reconnaissent pas le Pontife Romain pour leur chef n'appartiennent
+pas à l'Eglise de Jésus-Christ.
 
-Comment peut-on distinguer lÃ¢ÂÂEglise de JÃÂÃÂ©sus-Christ de tant de
-sociÃÂÃÂ©tÃÂÃÂ©s ou sectes fondÃÂÃÂ©es par les hommes et qui se disent chrÃÂÃÂ©tiennes ?
+Comment peut-on distinguer l'Eglise de Jésus-Christ de tant de
+sociétés ou sectes fondées par les hommes et qui se disent chrétiennes ?
 
-On peut distinguer la vÃÂÃÂ©ritable Eglise de JÃÂÃÂ©sus-Christ de tant de sociÃÂÃÂ©tÃÂÃÂ©s
-ou sectes fondÃÂÃÂ©es par les hommes et qui se disent chrÃÂÃÂ©tiennes, ÃÂÃÂ  quatre marques
+On peut distinguer la véritable Eglise de Jésus-Christ de tant de sociétés
+ou sectes fondées par les hommes et qui se disent chrétiennes, à quatre marques
 : elle est Une, Sainte, Catholique et Apostolique.
 
-Pourquoi dites-vous que lÃ¢ÂÂEglise est Une ?
+Pourquoi dites-vous que l'Eglise est Une ?
 
-Je dis que la vÃÂÃÂ©ritable Eglise est Une, parce que ses fils, ÃÂÃÂ  quelque temps
-et ÃÂÃÂ  quelque lieu quÃ¢ÂÂils appartiennent, sont unis entre eux dans la mÃÂÃÂªme
-foi, le mÃÂÃÂªme culte, la mÃÂÃÂªme loi et la participation aux mÃÂÃÂªmes sacrements, sous
-un mÃÂÃÂªme chef visible, le Pontife Romain.
+Je dis que la véritable Eglise est Une, parce que ses fils, à quelque temps
+et à quelque lieu qu'ils appartiennent, sont unis entre eux dans la même
+foi, le même culte, la même loi et la participation aux mêmes sacrements, sous
+un même chef visible, le Pontife Romain.
 
 Ne pourrait-il pas y avoir plusieurs Eglises ?
 
-Non, il ne peut y avoir plusieurs Eglises parce que, de mÃÂÃÂªme quÃ¢ÂÂil nÃ¢ÂÂy
-a quÃ¢ÂÂun seul Dieu, une seule Foi et un seul BaptÃÂÃÂªme, il nÃ¢ÂÂy a et il
-ne peut y avoir quÃ¢ÂÂune seule vÃÂÃÂ©ritable Eglise.
+Non, il ne peut y avoir plusieurs Eglises parce que, de même qu'il n'y
+a qu'un seul Dieu, une seule Foi et un seul Baptême, il n'y a et il
+ne peut y avoir qu'une seule véritable Eglise.
 
-Mais nÃ¢ÂÂappelle-t-on pas aussi Eglises lÃ¢ÂÂensemble des fidÃÂÃÂ¨les dÃ¢ÂÂune
-nation ou dÃ¢ÂÂun. diocÃÂÃÂ¨se ?
+Mais n'appelle-t-on pas aussi Eglises l'ensemble des fidèles d'une
+nation ou d'un. diocèse ?
 
-On appelle aussi Eglises lÃ¢ÂÂensemble des fidÃÂÃÂ¨les dÃ¢ÂÂune nation ou
-dÃ¢ÂÂun diocÃÂÃÂ¨se, mais ce sont toujours des portions de lÃ¢ÂÂEglise
+On appelle aussi Eglises l'ensemble des fidèles d'une nation ou
+d'un diocèse, mais ce sont toujours des portions de l'Eglise
 universelle et elles forment avec elle une seule Eglise.
 
-Pourquoi dites-vous que la vÃÂÃÂ©ritable Eglise est Sainte ?
+Pourquoi dites-vous que la véritable Eglise est Sainte ?
 
-Je dis que la vÃÂÃÂ©ritable Eglise est Sainte parce que JÃÂÃÂ©sus-Christ, son chef
+Je dis que la véritable Eglise est Sainte parce que Jésus-Christ, son chef
 invisible, est saint, que beaucoup de ses membres sont saints, que sa foi, sa
-loi, ses sacrements sont saints et quÃ¢ÂÂen dehors dÃ¢ÂÂelle il nÃ¢ÂÂy
-a pas et il ne peut pas y avoir de vÃÂÃÂ©ritable saintetÃÂÃÂ©.
+loi, ses sacrements sont saints et qu'en dehors d'elle il n'y
+a pas et il ne peut pas y avoir de véritable sainteté.
 
-Pourquoi appelez-vous lÃ¢ÂÂEglise Catholique ?
+Pourquoi appelez-vous l'Eglise Catholique ?
 
-JÃ¢ÂÂappelle la vÃÂÃÂ©ritable Eglise Catholique, ce qui veut dire
-universelle, parce quÃ¢ÂÂelle embrasse les fidÃÂÃÂ¨les de tous les temps et de
-tous les lieux, de tout ÃÂÃÂ¢ge et de toute condition, et que tous les hommes du
-monde sont appelÃÂÃÂ©s ÃÂÃÂ  en faire partie.
+J'appelle la véritable Eglise Catholique, ce qui veut dire
+universelle, parce qu'elle embrasse les fidèles de tous les temps et de
+tous les lieux, de tout âge et de toute condition, et que tous les hommes du
+monde sont appelés à en faire partie.
 
-Pourquoi appelle-t-on encore lÃ¢ÂÂEglise Apostolique ?
+Pourquoi appelle-t-on encore l'Eglise Apostolique ?
 
-On appelle encore la vÃÂÃÂ©ritable Eglise Apostolique, parce quÃ¢ÂÂelle
-remonte sans interruption jusquÃ¢ÂÂaux ApÃÂÃÂ´tres ; et parce quÃ¢ÂÂelle
-croit et enseigne tout ce quÃ¢ÂÂont cru et enseignÃÂÃÂ© les ApÃÂÃÂ´tres ; et parce
-quÃ¢ÂÂelle est dirigÃÂÃÂ©e et gouvernÃÂÃÂ©e par leurs lÃÂÃÂ©gitimes successeurs.
+On appelle encore la véritable Eglise Apostolique, parce qu'elle
+remonte sans interruption jusqu'aux Apôtres ; et parce qu'elle
+croit et enseigne tout ce qu'ont cru et enseigné les Apôtres ; et parce
+qu'elle est dirigée et gouvernée par leurs légitimes successeurs.
 
-Et pourquoi appelle-t-on encore la vÃÂÃÂ©ritable Eglise " Eglise Romaine
+Et pourquoi appelle-t-on encore la véritable Eglise " Eglise Romaine
 " ?
 
-On appelle encore la vÃÂÃÂ©ritable Eglise " Eglise Romaine ", parce
-que les quatre caractÃÂÃÂ¨res de lÃ¢ÂÂunitÃÂÃÂ©, de la saintetÃÂÃÂ©, de la catholicitÃÂÃÂ©
-et de lÃ¢ÂÂapostolicitÃÂÃÂ© ne se rencontrent que dans lÃ¢ÂÂEglise qui
-reconnaÃÂÃÂ®t pour chef lÃ¢ÂÂEvÃÂÃÂªque de Rome, successeur de saint Pierre.
+On appelle encore la véritable Eglise " Eglise Romaine ", parce
+que les quatre caractères de l'unité, de la sainteté, de la catholicité
+et de l'apostolicité ne se rencontrent que dans l'Eglise qui
+reconnaît pour chef l'Evêque de Rome, successeur de saint Pierre.
 
-Comment est constituÃÂÃÂ©e lÃ¢ÂÂEglise de JÃÂÃÂ©sus-Christ ?
+Comment est constituée l'Eglise de Jésus-Christ ?
 
-LÃ¢ÂÂEglise de JÃÂÃÂ©sus-Christ est constituÃÂÃÂ©e comme une sociÃÂÃÂ©tÃÂÃÂ© vraie et
+L'Eglise de Jésus-Christ est constituée comme une société vraie et
 parfaite. En elle, comme dans une personne morale, on peut distinguer un corps
-et une ÃÂÃÂ¢me.
+et une âme.
 
-En quoi consiste lÃ¢ÂÂÃÂÃÂ¢me de lÃ¢ÂÂEglise ?
+En quoi consiste l'âme de l'Eglise ?
 
-LÃ¢ÂÂÃÂÃÂ¢me de lÃ¢ÂÂEglise consiste en ce quÃ¢ÂÂelle a dÃ¢ÂÂintÃÂÃÂ©rieur
-et de spirituel, cÃ¢ÂÂest-ÃÂÃÂ -dire la foi, lÃ¢ÂÂespÃÂÃÂ©rance, la charitÃÂÃÂ©, les
-dons de la grÃÂÃÂ¢ce et de lÃ¢ÂÂEsprit Saint et tous les trÃÂÃÂ©sors cÃÂÃÂ©lestes qui en
-sont dÃÂÃÂ©rivÃÂÃÂ©s par les mÃÂÃÂ©rites du Christ RÃÂÃÂ©dempteur et des Saints.
+L'âme de l'Eglise consiste en ce qu'elle a d'intérieur
+et de spirituel, c'est-à-dire la foi, l'espérance, la charité, les
+dons de la grâce et de l'Esprit Saint et tous les trésors célestes qui en
+sont dérivés par les mérites du Christ Rédempteur et des Saints.
 
-Et le corps de lÃ¢ÂÂEglise, en quoi consiste-t-il ?
+Et le corps de l'Eglise, en quoi consiste-t-il ?
 
-Le corps de lÃ¢ÂÂEglise consiste en ce quÃ¢ÂÂelle a de visible et dÃ¢ÂÂextÃÂÃÂ©rieur,
-comme lÃ¢ÂÂassociation de ses fidÃÂÃÂ¨les, son culte, son ministÃÂÃÂ¨re dÃ¢ÂÂenseignement,
-son organisation extÃÂÃÂ©rieure et son gouvernement.
+Le corps de l'Eglise consiste en ce qu'elle a de visible et d'extérieur,
+comme l'association de ses fidèles, son culte, son ministère d'enseignement,
+son organisation extérieure et son gouvernement.
 
-Suffit-il pour ÃÂÃÂªtre sauvÃÂÃÂ© dÃ¢ÂÂÃÂÃÂªtre un membre quelconque de lÃ¢ÂÂEglise
+Suffit-il pour être sauvé d'être un membre quelconque de l'Eglise
 catholique ?
 
-Non, il ne suffit pas pour ÃÂÃÂªtre sauvÃÂÃÂ© dÃ¢ÂÂÃÂÃÂªtre un membre quelconque de lÃ¢ÂÂEglise
-catholique, il faut en ÃÂÃÂªtre un membre vivant.
+Non, il ne suffit pas pour être sauvé d'être un membre quelconque de l'Eglise
+catholique, il faut en être un membre vivant.
 
-Quels sont les membres vivants de lÃ¢ÂÂEglise ?
+Quels sont les membres vivants de l'Eglise ?
 
-Les membres vivants de lÃ¢ÂÂEglise sont tous les justes et eux seuls, cÃ¢ÂÂest-ÃÂÃÂ -dire
-ceux qui sont actuellement en ÃÂÃÂ©tat de grÃÂÃÂ¢ce.
+Les membres vivants de l'Eglise sont tous les justes et eux seuls, c'est-à-dire
+ceux qui sont actuellement en état de grâce.
 
 Et quels en sont les membres morts ?
 
-Les membres morts de lÃ¢ÂÂEglise sont les fidÃÂÃÂ¨les qui se trouvent en ÃÂÃÂ©tat
-de pÃÂÃÂ©chÃÂÃÂ© mortel.
+Les membres morts de l'Eglise sont les fidèles qui se trouvent en état
+de péché mortel.
 
-Peut-on se sauver en dehors de lÃ¢ÂÂEglise Catholique, Apostolique,
+Peut-on se sauver en dehors de l'Eglise Catholique, Apostolique,
 Romaine ?
 
-Non, hors de lÃ¢ÂÂEglise Catholique, Apostolique, Romaine, nul ne peut se
-sauver, comme nul ne put se sauver du dÃÂÃÂ©luge hors de lÃ¢ÂÂArche de NoÃÂÃÂ© qui
-ÃÂÃÂ©tait la figure de cette Eglise.
+Non, hors de l'Eglise Catholique, Apostolique, Romaine, nul ne peut se
+sauver, comme nul ne put se sauver du déluge hors de l'Arche de Noé qui
+était la figure de cette Eglise.
 
-Comment donc se sont sauvÃÂÃÂ©s les anciens Patriarches, les ProphÃÂÃÂ¨tes et tous
-les autres justes de lÃ¢ÂÂAncien Testament ?
+Comment donc se sont sauvés les anciens Patriarches, les Prophètes et tous
+les autres justes de l'Ancien Testament ?
 
-Tous les justes de lÃ¢ÂÂAncien Testament se sont sauvÃÂÃÂ©s en vertu de la
-foi quÃ¢ÂÂils avaient au Christ ÃÂÃÂ  venir et par cette foi ils appartenaient
-dÃÂÃÂ©jÃÂÃÂ  spirituellement ÃÂÃÂ  lÃ¢ÂÂEglise.
+Tous les justes de l'Ancien Testament se sont sauvés en vertu de la
+foi qu'ils avaient au Christ à venir et par cette foi ils appartenaient
+déjà spirituellement à l'Eglise.
 
-Mais celui qui, sans quÃ¢ÂÂil y ait de sa faute, se trouverait hors de lÃ¢ÂÂEglise,
-pourrait-il ÃÂÃÂªtre sauvÃÂÃÂ© ?
+Mais celui qui, sans qu'il y ait de sa faute, se trouverait hors de l'Eglise,
+pourrait-il être sauvé ?
 
-Celui qui, se trouvant hors de lÃ¢ÂÂEglise sans quÃ¢ÂÂil y ait de sa
-faute ou de bonne foi, aurait reÃÂÃÂ§u le BaptÃÂÃÂªme ou en aurait le dÃÂÃÂ©sir au moins
-implicite ; qui chercherait en outre sincÃÂÃÂ¨rement la vÃÂÃÂ©ritÃÂÃÂ© et accomplirait de
-son mieux la volontÃÂÃÂ© de Dieu, bien que sÃÂÃÂ©parÃÂÃÂ© du corps de lÃ¢ÂÂEglise,
-serait uni ÃÂÃÂ  son ÃÂÃÂ¢me et par suite dans la voie du salut.
+Celui qui, se trouvant hors de l'Eglise sans qu'il y ait de sa
+faute ou de bonne foi, aurait reçu le Baptême ou en aurait le désir au moins
+implicite ; qui chercherait en outre sincèrement la vérité et accomplirait de
+son mieux la volonté de Dieu, bien que séparé du corps de l'Eglise,
+serait uni à son âme et par suite dans la voie du salut.
 
-Et celui qui, tout en ÃÂÃÂ©tant membre de lÃ¢ÂÂEglise catholique, nÃ¢ÂÂen
-mettrait pas en pratique les enseignements, serait-il sauvÃÂÃÂ© ?
+Et celui qui, tout en étant membre de l'Eglise catholique, n'en
+mettrait pas en pratique les enseignements, serait-il sauvé ?
 
-Celui qui, tout en ÃÂÃÂ©tant membre de lÃ¢ÂÂEglise catholique, nÃ¢ÂÂen
-mettrait pas en pratique les enseignements, serait un membre mort de lÃ¢ÂÂEglise
-et, par suite, ne serait pas sauvÃÂÃÂ©, parce que pour le salut dÃ¢ÂÂun adulte
-il faut non seulement le BaptÃÂÃÂªme et la foi, mais encore les ÃÂuvres
-conformes ÃÂÃÂ  la foi.
+Celui qui, tout en étant membre de l'Eglise catholique, n'en
+mettrait pas en pratique les enseignements, serait un membre mort de l'Eglise
+et, par suite, ne serait pas sauvé, parce que pour le salut d'un adulte
+il faut non seulement le Baptême et la foi, mais encore les œuvres
+conformes à la foi.
 
-Sommes-nous obligÃÂÃÂ©s de croire toutes les vÃÂÃÂ©ritÃÂÃÂ©s que lÃ¢ÂÂEglise nous
+Sommes-nous obligés de croire toutes les vérités que l'Eglise nous
 enseigne ?
 
-Oui, nous sommes obligÃÂÃÂ©s de croire toutes les vÃÂÃÂ©ritÃÂÃÂ©s que lÃ¢ÂÂEglise
-nous enseigne, et JÃÂÃÂ©sus-Christ a dÃÂÃÂ©clarÃÂÃÂ© que celui qui ne croit pas est dÃÂÃÂ©jÃÂÃÂ
-condamnÃÂÃÂ©.
+Oui, nous sommes obligés de croire toutes les vérités que l'Eglise
+nous enseigne, et Jésus-Christ a déclaré que celui qui ne croit pas est déjà
+condamné.
 
-Sommes-nous aussi obligÃÂÃÂ©s de faire tout ce que lÃ¢ÂÂEglise nous commande
+Sommes-nous aussi obligés de faire tout ce que l'Eglise nous commande
 ?
 
-Oui, nous sommes obligÃÂÃÂ©s de faire tout ce que lÃ¢ÂÂEglise nous commande,
-car JÃÂÃÂ©sus-Christ a dit aux pasteurs de lÃ¢ÂÂEglise : " Qui vous ÃÂÃÂ©coute,
-mÃ¢ÂÂÃÂÃÂ©coute, et qui vous mÃÂÃÂ©prise me mÃÂÃÂ©prise. "
+Oui, nous sommes obligés de faire tout ce que l'Eglise nous commande,
+car Jésus-Christ a dit aux pasteurs de l'Eglise : " Qui vous écoute,
+m'écoute, et qui vous méprise me méprise. "
 
-LÃ¢ÂÂEglise peut-elle se tromper en ce quÃ¢ÂÂelle nous propose de
+L'Eglise peut-elle se tromper en ce qu'elle nous propose de
 croire ?
 
-Non, dans ce quÃ¢ÂÂelle nous propose de croire, lÃ¢ÂÂEglise ne peut
-pas se tromper parce que, selon la promesse de JÃÂÃÂ©sus-Christ, elle est toujours
-assistÃÂÃÂ©e par le Saint-Esprit.
+Non, dans ce qu'elle nous propose de croire, l'Eglise ne peut
+pas se tromper parce que, selon la promesse de Jésus-Christ, elle est toujours
+assistée par le Saint-Esprit.
 
-LÃ¢ÂÂEglise catholique est donc infaillible ?
+L'Eglise catholique est donc infaillible ?
 
-Oui, lÃ¢ÂÂEglise catholique est infaillible. Aussi, ceux qui rejettent
-ses dÃÂÃÂ©finitions perdent la foi et deviennent hÃÂÃÂ©rÃÂÃÂ©tiques.
+Oui, l'Eglise catholique est infaillible. Aussi, ceux qui rejettent
+ses définitions perdent la foi et deviennent hérétiques.
 
-LÃ¢ÂÂEglise catholique peut-elle ÃÂÃÂªtre dÃÂÃÂ©truite ou pÃÂÃÂ©rir ?
+L'Eglise catholique peut-elle être détruite ou périr ?
 
-Non ; lÃ¢ÂÂEglise catholique peut ÃÂÃÂªtre persÃÂÃÂ©cutÃÂÃÂ©e, mais elle ne peut ÃÂÃÂªtre
-dÃÂÃÂ©truite ni pÃÂÃÂ©rir. Elle durera jusquÃ¢ÂÂÃÂÃÂ  la fin du monde parce que, jusquÃ¢ÂÂÃÂÃÂ
-la fin du monde, JÃÂÃÂ©sus-Christ sera avec elle, comme il lÃ¢ÂÂa promis.
+Non ; l'Eglise catholique peut être persécutée, mais elle ne peut être
+détruite ni périr. Elle durera jusqu'à la fin du monde parce que, jusqu'à
+la fin du monde, Jésus-Christ sera avec elle, comme il l'a promis.
 
-Pourquoi lÃ¢ÂÂEglise catholique est-elle tant persÃÂÃÂ©cutÃÂÃÂ©e ?
+Pourquoi l'Eglise catholique est-elle tant persécutée ?
 
-LÃ¢ÂÂEglise catholique est tant persÃÂÃÂ©cutÃÂÃÂ©e parce que son divin Fondateur
-fut aussi persÃÂÃÂ©cutÃÂÃÂ© et parce quÃ¢ÂÂelle rÃÂÃÂ©prouve les vices, combat les
+L'Eglise catholique est tant persécutée parce que son divin Fondateur
+fut aussi persécuté et parce qu'elle réprouve les vices, combat les
 passions et condamne toutes les injustices et toutes les erreurs.
 
-Les catholiques ont-ils encore dÃ¢ÂÂautres devoirs envers lÃ¢ÂÂEglise
+Les catholiques ont-ils encore d'autres devoirs envers l'Eglise
 ?
 
-Tout chrÃÂÃÂ©tien doit avoir pour lÃ¢ÂÂEglise un amour sans limites, se
-regarder comme heureux et infiniment honorÃÂÃÂ© de lui appartenir, et travailler ÃÂÃÂ
-sa gloire et ÃÂÃÂ  son accroissement par tous les moyens qui sont en son pouvoir.
+Tout chrétien doit avoir pour l'Eglise un amour sans limites, se
+regarder comme heureux et infiniment honoré de lui appartenir, et travailler à
+sa gloire et à son accroissement par tous les moyens qui sont en son pouvoir.
 
-if !supportLineBreakNewLine?
+### § 3. L'Eglise enseignante et l'Eglise enseignée.
 
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-ÃÂ
-
-### ÃÂÃÂ§ 3. LÃ¢ÂÂEglise enseignante et lÃ¢ÂÂEglise enseignÃÂÃÂ©e.
-
-NÃ¢ÂÂy a-t-il aucune distinction entre les membres qui composent lÃ¢ÂÂEglise
+N'y a-t-il aucune distinction entre les membres qui composent l'Eglise
 ?
 
-Entre les membres qui composent lÃ¢ÂÂEglise, il y a une distinction trÃÂÃÂ¨s
-importante, car il y a ceux qui commandent et ceux qui obÃÂÃÂ©issent, ceux qui enseignent
-et ceux qui sont enseignÃÂÃÂ©s.
+Entre les membres qui composent l'Eglise, il y a une distinction très
+importante, car il y a ceux qui commandent et ceux qui obéissent, ceux qui enseignent
+et ceux qui sont enseignés.
 
-Comment sÃ¢ÂÂappelle la partie de lÃ¢ÂÂEglise qui enseigne ?
+Comment s'appelle la partie de l'Eglise qui enseigne ?
 
-La partie de lÃ¢ÂÂEglise qui enseigne sÃ¢ÂÂappelle Eglise enseignante.
+La partie de l'Eglise qui enseigne s'appelle Eglise enseignante.
 
-Et la partie qui est enseignÃÂÃÂ©e, comment sÃ¢ÂÂappelle-t-elle ?
+Et la partie qui est enseignée, comment s'appelle-t-elle ?
 
-La partie de lÃ¢ÂÂEglise qui est enseignÃÂÃÂ©e sÃ¢ÂÂappelle Eglise
-enseignÃÂÃÂ©e.
+La partie de l'Eglise qui est enseignée s'appelle Eglise
+enseignée.
 
-Qui a ÃÂÃÂ©tabli cette distinction dans lÃ¢ÂÂEglise ?
+Qui a établi cette distinction dans l'Eglise ?
 
-Cette distinction dans lÃ¢ÂÂEglise a ÃÂÃÂ©tÃÂÃÂ© ÃÂÃÂ©tablie par JÃÂÃÂ©sus-Christ
-lui-mÃÂÃÂªme.
+Cette distinction dans l'Eglise a été établie par Jésus-Christ
+lui-même.
 
-LÃ¢ÂÂEglise enseignante et lÃ¢ÂÂEglise enseignÃÂÃÂ©e sont donc deux
+L'Eglise enseignante et l'Eglise enseignée sont donc deux
 Eglises distinctes ?
 
-LÃ¢ÂÂEglise enseignante et lÃ¢ÂÂEglise enseignÃÂÃÂ©e sont deux parties
-distinctes dÃ¢ÂÂune seule et mÃÂÃÂªme Eglise, comme dans le corps humain la tÃÂÃÂªte
+L'Eglise enseignante et l'Eglise enseignée sont deux parties
+distinctes d'une seule et même Eglise, comme dans le corps humain la tête
 est distincte des autres membres, et cependant forme avec eux un corps unique.
 
-De qui se compose lÃ¢ÂÂEglise enseignante ?
+De qui se compose l'Eglise enseignante ?
 
-LÃ¢ÂÂEglise enseignante se compose de tous les EvÃÂÃÂªques, soit dispersÃÂÃÂ©s
-dans lÃ¢ÂÂunivers, soit rÃÂÃÂ©unis en concile, avec, ÃÂÃÂ  leur tÃÂÃÂªte, le Pontife
+L'Eglise enseignante se compose de tous les Evêques, soit dispersés
+dans l'univers, soit réunis en concile, avec, à leur tête, le Pontife
 Romain.
 
-Et lÃ¢ÂÂEglise enseignÃÂÃÂ©e de qui est-elle composÃÂÃÂ©e ?
+Et l'Eglise enseignée de qui est-elle composée ?
 
-LÃ¢ÂÂEglise enseignÃÂÃÂ©e est composÃÂÃÂ©e de tous les fidÃÂÃÂ¨les.
+L'Eglise enseignée est composée de tous les fidèles.
 
-Quelles sont donc les personnes qui ont dans lÃ¢ÂÂEglise le pouvoir
-dÃ¢ÂÂenseigner ?
+Quelles sont donc les personnes qui ont dans l'Eglise le pouvoir
+d'enseigner ?
 
-Ceux qui ont dans lÃ¢ÂÂEglise le pouvoir dÃ¢ÂÂenseigner sont le Pape
-et les EvÃÂÃÂªques, et, sous leur dÃÂÃÂ©pendance, les autres ministres sacrÃÂÃÂ©s.
+Ceux qui ont dans l'Eglise le pouvoir d'enseigner sont le Pape
+et les Evêques, et, sous leur dépendance, les autres ministres sacrés.
 
-Sommes-nous obligÃÂÃÂ©s dÃ¢ÂÂÃÂÃÂ©couter lÃ¢ÂÂEglise enseignante ?
+Sommes-nous obligés d'écouter l'Eglise enseignante ?
 
-Oui, sans aucun doute, nous sommes tous obligÃÂÃÂ©s dÃ¢ÂÂÃÂÃÂ©couter
-lÃ¢ÂÂEglise enseignante sous peine de damnation ÃÂÃÂ©ternelle, car JÃÂÃÂ©sus-Christ
-a dit aux Pasteurs de lÃ¢ÂÂEglise, en la personne des ApÃÂÃÂ´tres : " Qui
-vous ÃÂÃÂ©coute, mÃ¢ÂÂÃÂÃÂ©coute, et qui vous mÃÂÃÂ©prise me mÃÂÃÂ©prise. "
+Oui, sans aucun doute, nous sommes tous obligés d'écouter
+l'Eglise enseignante sous peine de damnation éternelle, car Jésus-Christ
+a dit aux Pasteurs de l'Eglise, en la personne des Apôtres : " Qui
+vous écoute, m'écoute, et qui vous méprise me méprise. "
 
-En dehors de lÃ¢ÂÂautoritÃÂÃÂ© dÃ¢ÂÂenseigner, lÃ¢ÂÂEglise a-t-elle
+En dehors de l'autorité d'enseigner, l'Eglise a-t-elle
 quelque autre pouvoir ?
 
-Oui, en dehors de lÃ¢ÂÂautoritÃÂÃÂ© dÃ¢ÂÂenseigner, lÃ¢ÂÂEglise a
-spÃÂÃÂ©cialement le pouvoir dÃ¢ÂÂadministrer les choses saintes, de faire les
-lois et dÃ¢ÂÂen exiger lÃ¢ÂÂobservation.
+Oui, en dehors de l'autorité d'enseigner, l'Eglise a
+spécialement le pouvoir d'administrer les choses saintes, de faire les
+lois et d'en exiger l'observation.
 
-Le pouvoir quÃ¢ÂÂont les membres de la hiÃÂÃÂ©rarchie ecclÃÂÃÂ©siastique vient-il
+Le pouvoir qu'ont les membres de la hiérarchie ecclésiastique vient-il
 du peuple ?
 
-Le pouvoir quÃ¢ÂÂont les membres de la hiÃÂÃÂ©rarchie ecclÃÂÃÂ©siastique ne vient
-pas du peuple, et ce serait une hÃÂÃÂ©rÃÂÃÂ©sie de le dire : il vient uniquement de
+Le pouvoir qu'ont les membres de la hiérarchie ecclésiastique ne vient
+pas du peuple, et ce serait une hérésie de le dire : il vient uniquement de
 Dieu.
 
-A qui appartient lÃ¢ÂÂexercice de ces pouvoirs ?
+A qui appartient l'exercice de ces pouvoirs ?
 
-LÃ¢ÂÂexercice de ces pouvoirs appartient uniquement au corps
-hiÃÂÃÂ©rarchique, cÃ¢ÂÂest-ÃÂÃÂ -dire au Pape et aux ÃÂÃÂ©vÃÂÃÂªques qui lui sont soumis.
+L'exercice de ces pouvoirs appartient uniquement au corps
+hiérarchique, c'est-à-dire au Pape et aux évêques qui lui sont soumis.
 
-ÃÂ
+### § 4. Pape et Evêques.
 
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 4. Pape et EvÃÂÃÂªques.
-
-QuÃ¢ÂÂest-ce que le Pape ?
+Qu'est-ce que le Pape ?
 
 Le Pape que nous appelons aussi le Souverain Pontife, ou encore le Pontife
-Romain, est le successeur de saint Pierre sur le siÃÂÃÂ¨ge de Rome, le Vicaire de
-JÃÂÃÂ©sus-Christ sur la terre et le chef visible de lÃ¢ÂÂEglise.
+Romain, est le successeur de saint Pierre sur le siège de Rome, le Vicaire de
+Jésus-Christ sur la terre et le chef visible de l'Eglise.
 
 Pourquoi le Pontife Romain est-il le successeur de saint pierre ?
 
 Le Pontife Romain est le successeur de saint Pierre, parce que saint Pierre
-rÃÂÃÂ©unit en sa personne la dignitÃÂÃÂ© dÃ¢ÂÂEvÃÂÃÂªque de Rome et de chef de
-lÃ¢ÂÂEglise, et que par un dessein de la Providence il ÃÂÃÂ©tablit son siÃÂÃÂ¨ge ÃÂÃÂ
-Rome et y mourut Aussi celui qui est ÃÂÃÂ©lu EvÃÂÃÂªque de Rome est aussi lÃ¢ÂÂhÃÂÃÂ©ritier
-de toute son autoritÃÂÃÂ©.
+réunit en sa personne la dignité d'Evêque de Rome et de chef de
+l'Eglise, et que par un dessein de la Providence il établit son siège à
+Rome et y mourut Aussi celui qui est élu Evêque de Rome est aussi l'héritier
+de toute son autorité.
 
-Pourquoi le Pontife Romain est-il le Vicaire de JÃÂÃÂ©sus-Christ ?
+Pourquoi le Pontife Romain est-il le Vicaire de Jésus-Christ ?
 
-Le Pontife Romain est le Vicaire de JÃÂÃÂ©sus-Christ parce quÃ¢ÂÂil le
-reprÃÂÃÂ©sente sur la terre et quÃ¢ÂÂil tient sa place dans le gouvernement de
-lÃ¢ÂÂEglise.
+Le Pontife Romain est le Vicaire de Jésus-Christ parce qu'il le
+représente sur la terre et qu'il tient sa place dans le gouvernement de
+l'Eglise.
 
-Pourquoi le Pontife Romain est-il le chef visible de lÃ¢ÂÂEglise ?
+Pourquoi le Pontife Romain est-il le chef visible de l'Eglise ?
 
-Le Pontife Romain est le chef visible de lÃ¢ÂÂEglise, parce quÃ¢ÂÂil
-la dirige visiblement avec lÃ¢ÂÂautoritÃÂÃÂ© mÃÂÃÂªme de JÃÂÃÂ©sus-Christ qui en est le
+Le Pontife Romain est le chef visible de l'Eglise, parce qu'il
+la dirige visiblement avec l'autorité même de Jésus-Christ qui en est le
 chef invisible.
 
-Quelle est donc la dignitÃÂÃÂ© du Pape ?
+Quelle est donc la dignité du Pape ?
 
-La dignitÃÂÃÂ© du Pape est la plus grande de toutes les dignitÃÂÃÂ©s de la terre, et
-elle lui donne un pouvoir suprÃÂÃÂªme et immÃÂÃÂ©diat sur tous les Pasteurs et les
-fidÃÂÃÂ¨les.
+La dignité du Pape est la plus grande de toutes les dignités de la terre, et
+elle lui donne un pouvoir suprême et immédiat sur tous les Pasteurs et les
+fidèles.
 
-Le Pape peut-il se tromper en enseignant lÃ¢ÂÂEglise ?
+Le Pape peut-il se tromper en enseignant l'Eglise ?
 
-Le Pape ne peut pas se tromper, il est infaillible dans les dÃÂÃÂ©finitions qui
-regardent la foi et les mÃÂurs.
+Le Pape ne peut pas se tromper, il est infaillible dans les définitions qui
+regardent la foi et les mœurs.
 
 Pour quel motif le Pape est-il infaillible ?
 
-Le Pape est infaillible ÃÂÃÂ  cause de la promesse de JÃÂÃÂ©sus-Christ et de
-lÃ¢ÂÂassistance continuelle du Saint-Esprit.
+Le Pape est infaillible à cause de la promesse de Jésus-Christ et de
+l'assistance continuelle du Saint-Esprit.
 
 Quand est-ce que le Pape est infaillible ?
 
-Le Pape est infaillible seulement lorsque, en sa qualitÃÂÃÂ© de Pasteur et de
-Docteur de tous les chrÃÂÃÂ©tiens, en vertu de sa suprÃÂÃÂªme autoritÃÂÃÂ© apostolique, il
-dÃÂÃÂ©finit, pour ÃÂÃÂªtre tenue par toute lÃ¢ÂÂEglise, une doctrine concernant la
-foi et les mÃÂurs.
+Le Pape est infaillible seulement lorsque, en sa qualité de Pasteur et de
+Docteur de tous les chrétiens, en vertu de sa suprême autorité apostolique, il
+définit, pour être tenue par toute l'Eglise, une doctrine concernant la
+foi et les mœurs.
 
-Quel pÃÂÃÂ©chÃÂÃÂ© commettrait celui qui ne croirait pas aux dÃÂÃÂ©finitions solennelles
+Quel péché commettrait celui qui ne croirait pas aux définitions solennelles
 du Pape ?
 
-Celui qui ne croirait pas aux dÃÂÃÂ©finitions solennelles du Pape ou mÃÂÃÂªme
-simplement en douterait, pÃÂÃÂ©cherait contre la foi, et sÃ¢ÂÂil
-sÃ¢ÂÂobstinait dans cette incrÃÂÃÂ©dulitÃÂÃÂ©, il ne serait plus catholique, mais
-hÃÂÃÂ©rÃÂÃÂ©tique.
+Celui qui ne croirait pas aux définitions solennelles du Pape ou même
+simplement en douterait, pécherait contre la foi, et s'il
+s'obstinait dans cette incrédulité, il ne serait plus catholique, mais
+hérétique.
 
-Dans quel but Dieu a-t-il concÃÂÃÂ©dÃÂÃÂ© au Pape le don de lÃ¢ÂÂinfaillibilitÃÂÃÂ© ?
+Dans quel but Dieu a-t-il concédé au Pape le don de l'infaillibilité ?
 
-Dieu a concÃÂÃÂ©dÃÂÃÂ© au Pape le don de lÃ¢ÂÂinfaillibilitÃÂÃÂ© afin que nous soyons
-tous sÃÂÃÂ»rs et certains de la vÃÂÃÂ©ritÃÂÃÂ© que lÃ¢ÂÂEglise enseigne.
+Dieu a concédé au Pape le don de l'infaillibilité afin que nous soyons
+tous sûrs et certains de la vérité que l'Eglise enseigne.
 
-Quand fut-il dÃÂÃÂ©fini que le Pape est infaillible ?
+Quand fut-il défini que le Pape est infaillible ?
 
-LÃ¢ÂÂinfaillibilitÃÂÃÂ© du Pape fut dÃÂÃÂ©finie par lÃ¢ÂÂEglise au Concile du
-Vatican, et si quelquÃ¢ÂÂun osait contredire cette dÃÂÃÂ©finition, il serait
-hÃÂÃÂ©rÃÂÃÂ©tique et excommuniÃÂÃÂ©.
+L'infaillibilité du Pape fut définie par l'Eglise au Concile du
+Vatican, et si quelqu'un osait contredire cette définition, il serait
+hérétique et excommunié.
 
-LÃ¢ÂÂEglise en dÃÂÃÂ©finissant lÃ¢ÂÂinfaillibilitÃÂÃÂ© du Pape, a-t-elle
-ÃÂÃÂ©tabli une nouveautÃÂÃÂ© dans la foi ?
+L'Eglise en définissant l'infaillibilité du Pape, a-t-elle
+établi une nouveauté dans la foi ?
 
-Non, en dÃÂÃÂ©finissant que le Pape est infaillible, lÃ¢ÂÂEglise nÃ¢ÂÂa
-point ÃÂÃÂ©tabli une nouveautÃÂÃÂ© dans la foi ; mais, pour sÃ¢ÂÂopposer ÃÂÃÂ  de
-nouvelles erreurs, elle a dÃÂÃÂ©fini que lÃ¢ÂÂinfaillibilitÃÂÃÂ© du Pape, contenue
-dÃÂÃÂ©jÃÂÃÂ  dans lÃ¢ÂÂEcriture Sainte et dans la Tradition, est une vÃÂÃÂ©ritÃÂÃÂ© rÃÂÃÂ©vÃÂÃÂ©lÃÂÃÂ©e
-de Dieu et que, par consÃÂÃÂ©quent, il faut la croire comme un dogme ou un article
+Non, en définissant que le Pape est infaillible, l'Eglise n'a
+point établi une nouveauté dans la foi ; mais, pour s'opposer à de
+nouvelles erreurs, elle a défini que l'infaillibilité du Pape, contenue
+déjà dans l'Ecriture Sainte et dans la Tradition, est une vérité révélée
+de Dieu et que, par conséquent, il faut la croire comme un dogme ou un article
 de foi.
 
-Comment tout catholique doit-il se comporter ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ©gard du Pape ?
+Comment tout catholique doit-il se comporter à l'égard du Pape ?
 
-Tout catholique doit reconnaÃÂÃÂ®tre le Pape comme le PÃÂÃÂ¨re, le Pasteur et le
-Docteur universel, et lui demeurer uni dÃ¢ÂÂesprit et de cÃÂur.
+Tout catholique doit reconnaître le Pape comme le Père, le Pasteur et le
+Docteur universel, et lui demeurer uni d'esprit et de cœur.
 
-AprÃÂÃÂ¨s le Pape, quels sont, en vertu de lÃ¢ÂÂinstitution divine, les
-personnages les plus vÃÂÃÂ©nÃÂÃÂ©rables dans lÃ¢ÂÂEglise ?
+Après le Pape, quels sont, en vertu de l'institution divine, les
+personnages les plus vénérables dans l'Eglise ?
 
-AprÃÂÃÂ¨s le Pape, en vertu de lÃ¢ÂÂinstitution divine, les personnages les
-plus vÃÂÃÂ©nÃÂÃÂ©rables dans lÃ¢ÂÂEglise sont les EvÃÂÃÂªques.
+Après le Pape, en vertu de l'institution divine, les personnages les
+plus vénérables dans l'Eglise sont les Evêques.
 
-Que sont les EvÃÂÃÂªques ?
+Que sont les Evêques ?
 
-Les EvÃÂÃÂªques sont les pasteurs des fidÃÂÃÂ¨les, ÃÂÃÂ©tablis par lÃ¢ÂÂEsprit Saint
-pour gouverner lÃ¢ÂÂEglise de Dieu sur les siÃÂÃÂ¨ges qui leur sont confiÃÂÃÂ©s,
-sous la dÃÂÃÂ©pendance du Pontife Romain.
+Les Evêques sont les pasteurs des fidèles, établis par l'Esprit Saint
+pour gouverner l'Eglise de Dieu sur les sièges qui leur sont confiés,
+sous la dépendance du Pontife Romain.
 
-QuÃ¢ÂÂest lÃ¢ÂÂEvÃÂÃÂªque dans son propre diocÃÂÃÂ¨se ?
+Qu'est l'Evêque dans son propre diocèse ?
 
-Dans son propre diocÃÂÃÂ¨se, lÃ¢ÂÂEvÃÂÃÂªque est le Pasteur lÃÂÃÂ©gitime, le PÃÂÃÂ¨re, le
-Docteur, le supÃÂÃÂ©rieur de tous les fidÃÂÃÂ¨les, ecclÃÂÃÂ©siastiques et laÃÂÃÂ¯ques, qui
-appartiennent ÃÂÃÂ  ce diocÃÂÃÂ¨se.
+Dans son propre diocèse, l'Evêque est le Pasteur légitime, le Père, le
+Docteur, le supérieur de tous les fidèles, ecclésiastiques et laïques, qui
+appartiennent à ce diocèse.
 
-Pourquoi lÃ¢ÂÂEvÃÂÃÂªque est-il appelÃÂÃÂ© le Pasteur lÃÂÃÂ©gitime ?
+Pourquoi l'Evêque est-il appelé le Pasteur légitime ?
 
-LÃ¢ÂÂEvÃÂÃÂªque est appelÃÂÃÂ© le Pasteur lÃÂÃÂ©gitime parce que la juridiction,
-cÃ¢ÂÂest-ÃÂÃÂ -dire le pouvoir quÃ¢ÂÂil a de gouverner les fidÃÂÃÂ¨les de son
-propre diocÃÂÃÂ¨se lui a ÃÂÃÂ©tÃÂÃÂ© confÃÂÃÂ©rÃÂÃÂ© selon les rÃÂÃÂ¨gles et les lois de
-lÃ¢ÂÂEglise.
+L'Evêque est appelé le Pasteur légitime parce que la juridiction,
+c'est-à-dire le pouvoir qu'il a de gouverner les fidèles de son
+propre diocèse lui a été conféré selon les règles et les lois de
+l'Eglise.
 
-De qui le Pape et les EvÃÂÃÂªques sont-ils les successeurs ?
+De qui le Pape et les Evêques sont-ils les successeurs ?
 
-Le Pape est le successeur de saint Pierre, Prince des ApÃÂÃÂ´tres, et les
-ÃÂÃÂ©vÃÂÃÂªques sont les successeurs des ApÃÂÃÂ´tres, en ce qui regarde le gouvernement
-ordinaire de lÃ¢ÂÂEglise.
+Le Pape est le successeur de saint Pierre, Prince des Apôtres, et les
+évêques sont les successeurs des Apôtres, en ce qui regarde le gouvernement
+ordinaire de l'Eglise.
 
-Le fidÃÂÃÂ¨le doit-il rester uni avec son EvÃÂÃÂªque ?
+Le fidèle doit-il rester uni avec son Evêque ?
 
-Oui, tout fidÃÂÃÂ¨le, ecclÃÂÃÂ©siastique et laÃÂÃÂ¯que, doit rester uni de cÃÂur et
-dÃ¢ÂÂesprit avec son EvÃÂÃÂªque, en grÃÂÃÂ¢ce et en communion avec le SiÃÂÃÂ¨ge
+Oui, tout fidèle, ecclésiastique et laïque, doit rester uni de cœur et
+d'esprit avec son Evêque, en grâce et en communion avec le Siège
 Apostolique.
 
-Comment le fidÃÂÃÂ¨le doit-il se comporter avec son EvÃÂÃÂªque ?
+Comment le fidèle doit-il se comporter avec son Evêque ?
 
-Tout fidÃÂÃÂ¨le, ecclÃÂÃÂ©siastique et laÃÂÃÂ¯que, doit respecter, aimer et honorer son
-EvÃÂÃÂªque et lui prÃÂÃÂªter obÃÂÃÂ©issance en tout ce qui se rapporte au soin des ÃÂÃÂ¢mes et
-au gouvernement spirituel du diocÃÂÃÂ¨se.
+Tout fidèle, ecclésiastique et laïque, doit respecter, aimer et honorer son
+Evêque et lui prêter obéissance en tout ce qui se rapporte au soin des âmes et
+au gouvernement spirituel du diocèse.
 
-Quels sont les auxiliaires de lÃ¢ÂÂEvÃÂÃÂªque dans le soin des ÃÂÃÂ¢mes ?
+Quels sont les auxiliaires de l'Evêque dans le soin des âmes ?
 
-Les auxiliaires de lÃ¢ÂÂEvÃÂÃÂªque dans le soin des ÃÂÃÂ¢mes sont les prÃÂÃÂªtres et
-principalement les curÃÂÃÂ©s.
+Les auxiliaires de l'Evêque dans le soin des âmes sont les prêtres et
+principalement les curés.
 
-QuÃ¢ÂÂest-ce que le curÃÂÃÂ© ?
+Qu'est-ce que le curé ?
 
-Le curÃÂÃÂ© est un prÃÂÃÂªtre dÃÂÃÂ©lÃÂÃÂ©guÃÂÃÂ© pour ÃÂÃÂªtre ÃÂÃÂ  la tÃÂÃÂªte dÃ¢ÂÂune portion du
-diocÃÂÃÂ¨se appelÃÂÃÂ©e paroisse, et pour la diriger sous la dÃÂÃÂ©pendance de
-lÃ¢ÂÂEvÃÂÃÂªque.
+Le curé est un prêtre délégué pour être à la tête d'une portion du
+diocèse appelée paroisse, et pour la diriger sous la dépendance de
+l'Evêque.
 
-Quels devoirs ont les fidÃÂÃÂ¨les envers leur curÃÂÃÂ© ?
+Quels devoirs ont les fidèles envers leur curé ?
 
-Les fidÃÂÃÂ¨les doivent se tenir unis ÃÂÃÂ  leur curÃÂÃÂ©, lÃ¢ÂÂÃÂÃÂ©couter docilement et
-lui tÃÂÃÂ©moigner respect et soumission en tout ce qui regarde le soin de la
+Les fidèles doivent se tenir unis à leur curé, l'écouter docilement et
+lui témoigner respect et soumission en tout ce qui regarde le soin de la
 paroisse.
 
-ÃÂ
+### § 5. La communion des saints.
 
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 5. La communion des saints.
-
-Que nous enseigne le neuviÃÂÃÂ¨me article du Credo par ces mots : la communion
+Que nous enseigne le neuvième article du Credo par ces mots : la communion
 des saints ?
 
-Par ces mots : la communion des saints, le neuviÃÂÃÂ¨me article du Credo nous
-enseigne que dans lÃ¢ÂÂEglise, en vertu de lÃ¢ÂÂunion intime qui existe
-entre tous ses membres, tous les biens spirituels tant intÃÂÃÂ©rieurs
-quÃ¢ÂÂextÃÂÃÂ©rieurs qui leur appartiennent sont communs.
+Par ces mots : la communion des saints, le neuvième article du Credo nous
+enseigne que dans l'Eglise, en vertu de l'union intime qui existe
+entre tous ses membres, tous les biens spirituels tant intérieurs
+qu'extérieurs qui leur appartiennent sont communs.
 
-Quels sont dans lÃ¢ÂÂEglise les biens intÃÂÃÂ©rieurs communs ?
+Quels sont dans l'Eglise les biens intérieurs communs ?
 
-Dans lÃ¢ÂÂEglise, les biens intÃÂÃÂ©rieurs communs sont : la grÃÂÃÂ¢ce reÃÂÃÂ§ue dans
-les sacrements, la foi, lÃ¢ÂÂespÃÂÃÂ©rance, la charitÃÂÃÂ©, les mÃÂÃÂ©rites infinis de
-JÃÂÃÂ©sus-Christ, les mÃÂÃÂ©rites surabondants de la Sainte Vierge et des Saints et le
-fruit de toutes les bonnes ÃÂuvres qui se font dans lÃ¢ÂÂEglise.
+Dans l'Eglise, les biens intérieurs communs sont : la grâce reçue dans
+les sacrements, la foi, l'espérance, la charité, les mérites infinis de
+Jésus-Christ, les mérites surabondants de la Sainte Vierge et des Saints et le
+fruit de toutes les bonnes œuvres qui se font dans l'Eglise.
 
-Quels sont les biens extÃÂÃÂ©rieurs communs dans lÃ¢ÂÂEglise ?
+Quels sont les biens extérieurs communs dans l'Eglise ?
 
-Les biens extÃÂÃÂ©rieurs communs dans lÃ¢ÂÂEglise sont : les sacrements, le
-sacrifice de la sainte Messe, les priÃÂÃÂ¨res publiques, les cÃÂÃÂ©rÃÂÃÂ©monies religieuses
-et toutes les autres pratiques extÃÂÃÂ©rieures qui unissent ensemble les fidÃÂÃÂ¨les.
+Les biens extérieurs communs dans l'Eglise sont : les sacrements, le
+sacrifice de la sainte Messe, les prières publiques, les cérémonies religieuses
+et toutes les autres pratiques extérieures qui unissent ensemble les fidèles.
 
-Est-ce que tous les fils de lÃ¢ÂÂEglise entrent dans cette communion de
+Est-ce que tous les fils de l'Eglise entrent dans cette communion de
 biens ?
 
-Dans la communion des biens intÃÂÃÂ©rieurs entrent seulement les chrÃÂÃÂ©tiens qui
-sont en ÃÂÃÂ©tat de grÃÂÃÂ¢ce ; ceux qui sont en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel ne participent
-pas ÃÂÃÂ  tous ces biens.
+Dans la communion des biens intérieurs entrent seulement les chrétiens qui
+sont en état de grâce ; ceux qui sont en état de péché mortel ne participent
+pas à tous ces biens.
 
-Pourquoi ceux qui sont en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel ne participent-ils pas ÃÂÃÂ  tous
+Pourquoi ceux qui sont en état de péché mortel ne participent-ils pas à tous
 ces biens ?
 
-Parce que cÃ¢ÂÂest la grÃÂÃÂ¢ce de Dieu, vie surnaturelle de lÃ¢ÂÂÃÂÃÂ¢me, qui
-unit les fidÃÂÃÂ¨les ÃÂÃÂ  Dieu et ÃÂÃÂ  JÃÂÃÂ©sus-Christ comme ses membres vivants et qui les
-rend capables de faire des ÃÂuvres mÃÂÃÂ©ritoires de la vie ÃÂÃÂ©ternelle ; et
-parce que ceux qui se trouvent en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel, nÃ¢ÂÂayant pas la grÃÂÃÂ¢ce
+Parce que c'est la grâce de Dieu, vie surnaturelle de l'âme, qui
+unit les fidèles à Dieu et à Jésus-Christ comme ses membres vivants et qui les
+rend capables de faire des œuvres méritoires de la vie éternelle ; et
+parce que ceux qui se trouvent en état de péché mortel, n'ayant pas la grâce
 de Dieu, sont exclus de la communion parfaite des biens spirituels et ne
-peuvent faire des ÃÂuvres mÃÂÃÂ©ritoires de la vie ÃÂÃÂ©ternelle.
+peuvent faire des œuvres méritoires de la vie éternelle.
 
-Les chrÃÂÃÂ©tiens qui sont en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel ne retirent donc aucun
-avantage des biens intÃÂÃÂ©rieurs et spirituels de lÃ¢ÂÂEglise ?
+Les chrétiens qui sont en état de péché mortel ne retirent donc aucun
+avantage des biens intérieurs et spirituels de l'Eglise ?
 
-Les chrÃÂÃÂ©tiens qui sont en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel retirent encore quelque
-avantage des biens intÃÂÃÂ©rieurs et spirituels de lÃ¢ÂÂEglise parce que,
-conservant le caractÃÂÃÂ¨re du chrÃÂÃÂ©tien, qui est indÃÂÃÂ©lÃÂÃÂ©bile, et la vertu de la Foi
-qui est la racine de toute justification, ils sont aidÃÂÃÂ©s par les priÃÂÃÂ¨res et les
-bonnes ÃÂuvres des fidÃÂÃÂ¨les ÃÂÃÂ  obtenir la grÃÂÃÂ¢ce de la conversion.
+Les chrétiens qui sont en état de péché mortel retirent encore quelque
+avantage des biens intérieurs et spirituels de l'Eglise parce que,
+conservant le caractère du chrétien, qui est indélébile, et la vertu de la Foi
+qui est la racine de toute justification, ils sont aidés par les prières et les
+bonnes œuvres des fidèles à obtenir la grâce de la conversion.
 
-Ceux qui sont en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel peuvent-ils participer aux biens
-extÃÂÃÂ©rieurs de lÃ¢ÂÂEglise ?
+Ceux qui sont en état de péché mortel peuvent-ils participer aux biens
+extérieurs de l'Eglise ?
 
-Ceux qui sont en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel peuvent participer aux biens
-extÃÂÃÂ©rieurs de lÃ¢ÂÂEglise, pourvu quÃ¢ÂÂils ne soient pas sÃÂÃÂ©parÃÂÃÂ©s de
-lÃ¢ÂÂEglise par lÃ¢ÂÂexcommunication.
+Ceux qui sont en état de péché mortel peuvent participer aux biens
+extérieurs de l'Eglise, pourvu qu'ils ne soient pas séparés de
+l'Eglise par l'excommunication.
 
 Pourquoi les membres de cette communion sont-ils, dans leur ensemble,
-appelÃÂÃÂ©s saints ?
+appelés saints ?
 
-Les membres de cette communion sont appelÃÂÃÂ©s saints, parce que tous sont
-appelÃÂÃÂ©s ÃÂÃÂ  la saintetÃÂÃÂ©, que tous ont ÃÂÃÂ©tÃÂÃÂ© sanctifiÃÂÃÂ©s par le BaptÃÂÃÂªme et que
-beaucoup parmi eux sont dÃÂÃÂ©jÃÂÃÂ  parvenus ÃÂÃÂ  la parfaite saintetÃÂÃÂ©.
+Les membres de cette communion sont appelés saints, parce que tous sont
+appelés à la sainteté, que tous ont été sanctifiés par le Baptême et que
+beaucoup parmi eux sont déjà parvenus à la parfaite sainteté.
 
-La communion des saints sÃ¢ÂÂÃÂÃÂ©tend-elle aussi au ciel et au purgatoire ?
+La communion des saints s'étend-elle aussi au ciel et au purgatoire ?
 
-Oui, la communion des Saints sÃ¢ÂÂÃÂÃÂ©tend aussi au ciel et au purgatoire,
-parce que la charitÃÂÃÂ© unit les trois Eglises : triomphante, souffrante et
-militante ; et les Saints prient Dieu pour nous et pour les ÃÂÃÂ¢mes du purgatoire,
-et nous-mÃÂÃÂªmes nous rendons gloire et honneur aux Saints et nous pouvons soulager
-les ÃÂÃÂ¢mes du purgatoire en appliquant en leur faveur messes, aumÃÂÃÂ´nes,
-indulgences et autres bonnes ÃÂuvres.
+Oui, la communion des Saints s'étend aussi au ciel et au purgatoire,
+parce que la charité unit les trois Eglises : triomphante, souffrante et
+militante ; et les Saints prient Dieu pour nous et pour les âmes du purgatoire,
+et nous-mêmes nous rendons gloire et honneur aux Saints et nous pouvons soulager
+les âmes du purgatoire en appliquant en leur faveur messes, aumônes,
+indulgences et autres bonnes œuvres.
 
-ÃÂ
+### § 6. Ceux qui sont hommes d'Eglise.
 
-if !supportLineBreakNewLine?
+Qui sont ceux qui n'appartiennent pas à la Communion des saints ?
 
-endif?
+Ceux qui n'appartiennent pas à la communion des saints sont dans
+l'autre vie les damnés, et en cette vie ceux qui n'appartiennent ni
+à l'âme ni au corps de l'Eglise, c'est-à-dire ceux qui sont
+en état de péché mortel et se trouvent hors de la véritable Eglise.
 
-[Haut du document](#_top)
+Qui sont ceux qui se trouvent hors de la véritable Eglise ?
 
-ÃÂ
+Ceux qui se trouvent hors de la véritable Eglise sont les infidèles, les
+juifs, les hérétiques, les apostats, les schismatiques et les excommuniés.
 
-### ÃÂÃÂ§ 6. Ceux qui sont hommes dÃ¢ÂÂEglise.
+Qu'est-ce que les infidèles ?
 
-Qui sont ceux qui nÃ¢ÂÂappartiennent pas ÃÂÃÂ  la Communion des saints ?
+Les infidèles sont ceux qui ne sont pas baptisés et qui ne croient pas en
+Jésus-Christ ; soit qu'ils croient à de fausses divinités et les adorent,
+comme les idolâtres ; soit que tout en admettant le seul vrai Dieu ils ne
+croient pas au Christ Messie, venu en la personne de Jésus-Christ ou encore à
+venir : tels sont les mahométans et autres semblables.
 
-Ceux qui nÃ¢ÂÂappartiennent pas ÃÂÃÂ  la communion des saints sont dans
-lÃ¢ÂÂautre vie les damnÃÂÃÂ©s, et en cette vie ceux qui nÃ¢ÂÂappartiennent ni
-ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ¢me ni au corps de lÃ¢ÂÂEglise, cÃ¢ÂÂest-ÃÂÃÂ -dire ceux qui sont
-en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel et se trouvent hors de la vÃÂÃÂ©ritable Eglise.
+Qu'est-ce que les juifs ?
 
-Qui sont ceux qui se trouvent hors de la vÃÂÃÂ©ritable Eglise ?
+Les juifs sont ceux qui professent la loi de Moise : ils n'ont pas
+reçu le Baptême et ne croient pas en Jésus-Christ.
 
-Ceux qui se trouvent hors de la vÃÂÃÂ©ritable Eglise sont les infidÃÂÃÂ¨les, les
-juifs, les hÃÂÃÂ©rÃÂÃÂ©tiques, les apostats, les schismatiques et les excommuniÃÂÃÂ©s.
+Qu'est-ce que les hérétiques ?
 
-QuÃ¢ÂÂest-ce que les infidÃÂÃÂ¨les ?
-
-Les infidÃÂÃÂ¨les sont ceux qui ne sont pas baptisÃÂÃÂ©s et qui ne croient pas en
-JÃÂÃÂ©sus-Christ ; soit quÃ¢ÂÂils croient ÃÂÃÂ  de fausses divinitÃÂÃÂ©s et les adorent,
-comme les idolÃÂÃÂ¢tres ; soit que tout en admettant le seul vrai Dieu ils ne
-croient pas au Christ Messie, venu en la personne de JÃÂÃÂ©sus-Christ ou encore ÃÂÃÂ
-venir : tels sont les mahomÃÂÃÂ©tans et autres semblables.
-
-QuÃ¢ÂÂest-ce que les juifs ?
-
-Les juifs sont ceux qui professent la loi de Moise : ils nÃ¢ÂÂont pas
-reÃÂÃÂ§u le BaptÃÂÃÂªme et ne croient pas en JÃÂÃÂ©sus-Christ.
-
-QuÃ¢ÂÂest-ce que les hÃÂÃÂ©rÃÂÃÂ©tiques ?
-
-Les hÃÂÃÂ©rÃÂÃÂ©tiques sont les baptisÃÂÃÂ©s qui refusent avec obstination de croire
-quelque vÃÂÃÂ©ritÃÂÃÂ© rÃÂÃÂ©vÃÂÃÂ©lÃÂÃÂ©e de Dieu et enseignÃÂÃÂ©e comme de foi par lÃ¢ÂÂEglise
+Les hérétiques sont les baptisés qui refusent avec obstination de croire
+quelque vérité révélée de Dieu et enseignée comme de foi par l'Eglise
 catholique : par exemple, les ariens, les nestoriens et les diverses sectes du
 protestantisme.
 
-QuÃ¢ÂÂest-ce que les apostats ?
+Qu'est-ce que les apostats ?
 
-Les apostats sont ceux qui abjurent ou renient par un acte extÃÂÃÂ©rieur la foi
-catholique quÃ¢ÂÂils professaient auparavant.
+Les apostats sont ceux qui abjurent ou renient par un acte extérieur la foi
+catholique qu'ils professaient auparavant.
 
-QuÃ¢ÂÂest-ce que les schismatiques ?
+Qu'est-ce que les schismatiques ?
 
-Les schismatiques sont les chrÃÂÃÂ©tiens qui, ne niant explicitement aucun
-dogme, se sÃÂÃÂ©parent volontairement de lÃ¢ÂÂEglise de JÃÂÃÂ©sus-Christ ou des
-lÃÂÃÂ©gitimes pasteurs.
+Les schismatiques sont les chrétiens qui, ne niant explicitement aucun
+dogme, se séparent volontairement de l'Eglise de Jésus-Christ ou des
+légitimes pasteurs.
 
-QuÃ¢ÂÂest-ce que les excommuniÃÂÃÂ©s ?
+Qu'est-ce que les excommuniés ?
 
-Les excommuniÃÂÃÂ©s sont ceux qui, pour des fautes graves, sont frappÃÂÃÂ©s
-dÃ¢ÂÂexcommunication par le Pape ou lÃ¢ÂÂEvÃÂÃÂªque, et sont par suite, comme
-des indignes, sÃÂÃÂ©parÃÂÃÂ©s du corps de lÃ¢ÂÂEglise, qui attend et dÃÂÃÂ©sire leur
+Les excommuniés sont ceux qui, pour des fautes graves, sont frappés
+d'excommunication par le Pape ou l'Evêque, et sont par suite, comme
+des indignes, séparés du corps de l'Eglise, qui attend et désire leur
 conversion.
 
-Doit-on craindre lÃ¢ÂÂexcommunication ?
+Doit-on craindre l'excommunication ?
 
-On doit craindre beaucoup lÃ¢ÂÂexcommunication, car cÃ¢ÂÂest la peine
-la plus grave et la plus terrible que lÃ¢ÂÂEglise puisse infliger ÃÂÃÂ  ses fils
-rebelles et obstinÃÂÃÂ©s.
+On doit craindre beaucoup l'excommunication, car c'est la peine
+la plus grave et la plus terrible que l'Eglise puisse infliger à ses fils
+rebelles et obstinés.
 
-De quels biens sont privÃÂÃÂ©s les excommuniÃÂÃÂ©s ?
+De quels biens sont privés les excommuniés ?
 
-Les excommuniÃÂÃÂ©s sont privÃÂÃÂ©s des priÃÂÃÂ¨res publiques, des sacrements, des
-indulgences, et exclus de la sÃÂÃÂ©pulture ecclÃÂÃÂ©siastique.
+Les excommuniés sont privés des prières publiques, des sacrements, des
+indulgences, et exclus de la sépulture ecclésiastique.
 
-Pouvons-nous ÃÂÃÂªtre de quelque secours aux excommuniÃÂÃÂ©s ?
+Pouvons-nous être de quelque secours aux excommuniés ?
 
-Oui, nous pouvons ÃÂÃÂªtre de quelque secours aux excommuniÃÂÃÂ©s et ÃÂÃÂ  tous les
-autres qui sont hors de la vÃÂÃÂ©ritable
+Oui, nous pouvons être de quelque secours aux excommuniés et à tous les
+autres qui sont hors de la véritable
 
-Eglise, par des avis salutaires, par des priÃÂÃÂ¨res et des bonnes ÃÂuvres,
-suppliant Dieu que, par sa misÃÂÃÂ©ricorde, il leur fasse la grÃÂÃÂ¢ce de se convertir
-ÃÂÃÂ  la foi et dÃ¢ÂÂentrer dans la communion des Saints.
+Eglise, par des avis salutaires, par des prières et des bonnes œuvres,
+suppliant Dieu que, par sa miséricorde, il leur fasse la grâce de se convertir
+à la foi et d'entrer dans la communion des Saints.
 
-ÃÂ
+## Chapitre 11 Le dixième article.
 
-[Haut du document](#_top)
+Que nous enseigne le dixième article : La rémission des péchés ?
 
-ÃÂÃÂ
+Le dixième article du Credo nous enseigne que Jésus-Christ a laissé à son
+Eglise le pouvoir de remettre les péchés.
 
-ÃÂ
+L'Eglise peut-elle remettre toute sorte de péchés ?
 
-## Chapitre 11 Le dixiÃÂÃÂ¨me article.
+Oui, l'Eglise peut remettre tous les péchés, si nombreux et si graves
+qu'ils soient, car Jésus-Christ lui a donné plein pouvoir de lier et de
+délier.
 
-Que nous enseigne le dixiÃÂÃÂ¨me article : La rÃÂÃÂ©mission des pÃÂÃÂ©chÃÂÃÂ©s ?
+Quels sont ceux qui dans l'Eglise exercent ce pouvoir de remettre les
+péchés ?
 
-Le dixiÃÂÃÂ¨me article du Credo nous enseigne que JÃÂÃÂ©sus-Christ a laissÃÂÃÂ© ÃÂÃÂ  son
-Eglise le pouvoir de remettre les pÃÂÃÂ©chÃÂÃÂ©s.
+Ceux qui dans l'Eglise exercent ce pouvoir de remettre les péchés sont
+en premier lieu le Pape, qui seul possède la plénitude de ce pouvoir ; puis les
+Evêques, et sous la dépendance des Evêques, les prêtres.
 
-LÃ¢ÂÂEglise peut-elle remettre toute sorte de pÃÂÃÂ©chÃÂÃÂ©s ?
+Comment l'Eglise remet-elle les péchés ?
 
-Oui, lÃ¢ÂÂEglise peut remettre tous les pÃÂÃÂ©chÃÂÃÂ©s, si nombreux et si graves
-quÃ¢ÂÂils soient, car JÃÂÃÂ©sus-Christ lui a donnÃÂÃÂ© plein pouvoir de lier et de
-dÃÂÃÂ©lier.
+L'Eglise remet les péchés par les mérites de Jésus-Christ, en
+conférant les sacrements qu'il a institués à cette fin, principalement le
+Baptême et la Pénitence.
 
-Quels sont ceux qui dans lÃ¢ÂÂEglise exercent ce pouvoir de remettre les
-pÃÂÃÂ©chÃÂÃÂ©s ?
+## Chapitre 12 Le onzième article.
 
-Ceux qui dans lÃ¢ÂÂEglise exercent ce pouvoir de remettre les pÃÂÃÂ©chÃÂÃÂ©s sont
-en premier lieu le Pape, qui seul possÃÂÃÂ¨de la plÃÂÃÂ©nitude de ce pouvoir ; puis les
-EvÃÂÃÂªques, et sous la dÃÂÃÂ©pendance des EvÃÂÃÂªques, les prÃÂÃÂªtres.
+Que nous enseigne le onzième article : La résurrection de la chair ?
 
-Comment lÃ¢ÂÂEglise remet-elle les pÃÂÃÂ©chÃÂÃÂ©s ?
+Le onzième article du Credo nous enseigne que tous les hommes
+ressusciteront, chaque âme reprenant le corps qu'elle avait en cette vie.
 
-LÃ¢ÂÂEglise remet les pÃÂÃÂ©chÃÂÃÂ©s par les mÃÂÃÂ©rites de JÃÂÃÂ©sus-Christ, en
-confÃÂÃÂ©rant les sacrements quÃ¢ÂÂil a instituÃÂÃÂ©s ÃÂÃÂ  cette fin, principalement le
-BaptÃÂÃÂªme et la PÃÂÃÂ©nitence.
+Comment se fera la résurrection des morts ?
 
-ÃÂ
+La résurrection des morts se fera par la vertu de Dieu tout-puissant à qui
+rien n'est impossible.
 
-[Haut du document](#_top)
+Quand arrivera la résurrection des morts ?
 
-ÃÂ
+La résurrection de tous les morts arrivera à la fin du Inonde et ensuite
+aura lieu le jugement général.
 
-## Chapitre 12 Le onziÃÂÃÂ¨me article.
+Pourquoi Dieu veut-il la résurrection des corps ?
 
-Que nous enseigne le onziÃÂÃÂ¨me article : La rÃÂÃÂ©surrection de la chair ?
+Dieu veut la résurrection des corps afin que l'âme, ayant fait le bien
+et le mal quand elle était unie au corps, soit encore avec lui pour la
+récompense ou le châtiment.
 
-Le onziÃÂÃÂ¨me article du Credo nous enseigne que tous les hommes
-ressusciteront, chaque ÃÂÃÂ¢me reprenant le corps quÃ¢ÂÂelle avait en cette vie.
+Les hommes ressusciteront-ils tous de la même manière ?
 
-Comment se fera la rÃÂÃÂ©surrection des morts ?
+Non, il y aura une très grande différence entre les corps des élus et les
+corps des damnés ; car, seuls, les corps des élus auront à la ressemblance de
+Jésus-Christ ressuscité, les propriétés des corps glorieux.
 
-La rÃÂÃÂ©surrection des morts se fera par la vertu de Dieu tout-puissant ÃÂÃÂ  qui
-rien nÃ¢ÂÂest impossible.
+Quelles sont ces propriétés qui orneront les corps des élus ?
 
-Quand arrivera la rÃÂÃÂ©surrection des morts ?
+Les propriétés qui orneront les corps glorieux des élus sont :
 
-La rÃÂÃÂ©surrection de tous les morts arrivera ÃÂÃÂ  la fin du Inonde et ensuite
-aura lieu le jugement gÃÂÃÂ©nÃÂÃÂ©ral.
-
-Pourquoi Dieu veut-il la rÃÂÃÂ©surrection des corps ?
-
-Dieu veut la rÃÂÃÂ©surrection des corps afin que lÃ¢ÂÂÃÂÃÂ¢me, ayant fait le bien
-et le mal quand elle ÃÂÃÂ©tait unie au corps, soit encore avec lui pour la
-rÃÂÃÂ©compense ou le chÃÂÃÂ¢timent.
-
-Les hommes ressusciteront-ils tous de la mÃÂÃÂªme maniÃÂÃÂ¨re ?
-
-Non, il y aura une trÃÂÃÂ¨s grande diffÃÂÃÂ©rence entre les corps des ÃÂÃÂ©lus et les
-corps des damnÃÂÃÂ©s ; car, seuls, les corps des ÃÂÃÂ©lus auront ÃÂÃÂ  la ressemblance de
-JÃÂÃÂ©sus-Christ ressuscitÃÂÃÂ©, les propriÃÂÃÂ©tÃÂÃÂ©s des corps glorieux.
-
-Quelles sont ces propriÃÂÃÂ©tÃÂÃÂ©s qui orneront les corps des ÃÂÃÂ©lus ?
-
-Les propriÃÂÃÂ©tÃÂÃÂ©s qui orneront les corps glorieux des ÃÂÃÂ©lus sont :
-
-1 lÃ¢ÂÂimpassibilitÃÂÃÂ©, par laquelle ils ne pourront plus ÃÂÃÂªtre sujets aux
-maux ni aux douleurs dÃ¢ÂÂaucune sorte, ni au besoin de nourriture, de repos
+1 l'impassibilité, par laquelle ils ne pourront plus être sujets aux
+maux ni aux douleurs d'aucune sorte, ni au besoin de nourriture, de repos
 ou de quoi que ce soit ;
 
-2 la clartÃÂÃÂ©, par laquelle, ils resplendiront comme autant de soleils et
-dÃ¢ÂÂÃÂÃÂ©toiles ;
+2 la clarté, par laquelle, ils resplendiront comme autant de soleils et
+d'étoiles ;
 
-3 lÃ¢ÂÂagilitÃÂÃÂ©, par laquelle ils pourront se transporter en un moment et
-sans fatigue dÃ¢ÂÂun lieu ÃÂÃÂ  un autre et de la terre au ciel ;
+3 l'agilité, par laquelle ils pourront se transporter en un moment et
+sans fatigue d'un lieu à un autre et de la terre au ciel ;
 
-4 la subtilitÃÂÃÂ©, par laquelle, sans obstacle, ils pourront traverser tous les
-corps, comme fit JÃÂÃÂ©sus-Christ ressuscitÃÂÃÂ©.
+4 la subtilité, par laquelle, sans obstacle, ils pourront traverser tous les
+corps, comme fit Jésus-Christ ressuscité.
 
-Comment seront les corps des damnÃÂÃÂ©s ?
+Comment seront les corps des damnés ?
 
-Les corps des damnÃÂÃÂ©s seront privÃÂÃÂ©s des propriÃÂÃÂ©tÃÂÃÂ©s glorieuses des corps des
-Bienheureux et porteront la marque horrible de leur ÃÂÃÂ©ternelle rÃÂÃÂ©probation.
+Les corps des damnés seront privés des propriétés glorieuses des corps des
+Bienheureux et porteront la marque horrible de leur éternelle réprobation.
 
-ÃÂ
+## Chapitre 13 Le douzième article.
 
-ÃÂ
+Que nous enseigne le dernier article : La vie éternelle ?
 
-[Haut du document](#_top)
-
-ÃÂÃÂ
-
-## Chapitre 13 Le douziÃÂÃÂ¨me article.
-
-Que nous enseigne le dernier article : La vie ÃÂÃÂ©ternelle ?
-
-Le dernier article du Credo nous enseigne quÃ¢ÂÂaprÃÂÃÂ¨s la vie prÃÂÃÂ©sente il
-y a une autre vie, ou ÃÂÃÂ©ternellement heureuse pour les ÃÂÃÂ©lus dans le paradis, ou
-ÃÂÃÂ©ternellement malheureuse pour les damnÃÂÃÂ©s dans lÃ¢ÂÂenfer.
+Le dernier article du Credo nous enseigne qu'après la vie présente il
+y a une autre vie, ou éternellement heureuse pour les élus dans le paradis, ou
+éternellement malheureuse pour les damnés dans l'enfer.
 
 Pouvons-nous comprendre le bonheur du paradis ?
 
-Non, nous ne pouvons comprendre le bonheur du paradis, parce quÃ¢ÂÂil
-surpasse les connaissances de notre esprit bornÃÂÃÂ©, et parce que les biens du
+Non, nous ne pouvons comprendre le bonheur du paradis, parce qu'il
+surpasse les connaissances de notre esprit borné, et parce que les biens du
 ciel ne peuvent pas se comparer aux biens de ce monde.
 
-En quoi consiste le bonheur des ÃÂÃÂ©lus ?
+En quoi consiste le bonheur des élus ?
 
-Le bonheur des ÃÂÃÂ©lus consiste ÃÂÃÂ  voir, ÃÂÃÂ  aimer et ÃÂÃÂ  possÃÂÃÂ©der pour toujours
+Le bonheur des élus consiste à voir, à aimer et à posséder pour toujours
 Dieu, source de tout bien.
 
-En quoi consiste le malheur des damnÃÂÃÂ©s ?
+En quoi consiste le malheur des damnés ?
 
-Le malheur des damnÃÂÃÂ©s consiste ÃÂÃÂ  ÃÂÃÂªtre toujours privÃÂÃÂ©s de la vue de Dieu et
-punis par dÃ¢ÂÂÃÂÃÂ©ternels tourments dans lÃ¢ÂÂenfer.
+Le malheur des damnés consiste à être toujours privés de la vue de Dieu et
+punis par d'éternels tourments dans l'enfer.
 
-Les biens du paradis et les maux de lÃ¢ÂÂenfer sont-ils seulement pour
-les ÃÂÃÂ¢mes ?
+Les biens du paradis et les maux de l'enfer sont-ils seulement pour
+les âmes ?
 
-Les biens du paradis et les maux de lÃ¢ÂÂenfer ne sont en ce moment que
-pour les ÃÂÃÂ¢mes, parce quÃ¢ÂÂen ce moment il nÃ¢ÂÂy a que les ÃÂÃÂ¢mes qui
-soient au paradis ou en enfer ; mais aprÃÂÃÂ¨s la rÃÂÃÂ©surrection de la chair, les
-hommes, dans la plÃÂÃÂ©nitude de leur nature, cÃ¢ÂÂest-ÃÂÃÂ -dire en corps et en
-ÃÂÃÂ¢me, seront ou heureux ou tourmentÃÂÃÂ©s pour toujours.
+Les biens du paradis et les maux de l'enfer ne sont en ce moment que
+pour les âmes, parce qu'en ce moment il n'y a que les âmes qui
+soient au paradis ou en enfer ; mais après la résurrection de la chair, les
+hommes, dans la plénitude de leur nature, c'est-à-dire en corps et en
+âme, seront ou heureux ou tourmentés pour toujours.
 
-Les biens du paradis seront-ils ÃÂÃÂ©gaux pour les ÃÂÃÂ©lus et les maux de
-lÃ¢ÂÂenfer ÃÂÃÂ©gaux pour les condamnÃÂÃÂ©s ?
+Les biens du paradis seront-ils égaux pour les élus et les maux de
+l'enfer égaux pour les condamnés ?
 
-Les biens du paradis pour les ÃÂÃÂ©lus et les maux de lÃ¢ÂÂenfer pour les
-damnÃÂÃÂ©s seront ÃÂÃÂ©gaux dans leur substance et leur ÃÂÃÂ©ternelle durÃÂÃÂ©e ; mais, dans la
-mesure ou le degrÃÂÃÂ©, ils seront plus grands ou moindres selon les mÃÂÃÂ©rites et les
-dÃÂÃÂ©mÃÂÃÂ©rites de chacun.
+Les biens du paradis pour les élus et les maux de l'enfer pour les
+damnés seront égaux dans leur substance et leur éternelle durée ; mais, dans la
+mesure ou le degré, ils seront plus grands ou moindres selon les mérites et les
+démérites de chacun.
 
-Que veut dire le mot Amen ÃÂÃÂ  la fin du Credo ?
+Que veut dire le mot Amen à la fin du Credo ?
 
-Le mot Amen ÃÂÃÂ  la fin des priÃÂÃÂ¨res signifie : " Ainsi soit-il ". A
-la fin du Credo il signifie " Il en est ainsi ", cÃ¢ÂÂest-ÃÂÃÂ -dire :
-je crois ÃÂÃÂ  la vÃÂÃÂ©ritÃÂÃÂ© absolue de tout ce que contiennent ces douze articles et
-jÃ¢ÂÂen suis plus certain que si je le voyais de mes propres yeux.
+Le mot Amen à la fin des prières signifie : " Ainsi soit-il ". A
+la fin du Credo il signifie " Il en est ainsi ", c'est-à-dire :
+je crois à la vérité absolue de tout ce que contiennent ces douze articles et
+j'en suis plus certain que si je le voyais de mes propres yeux.
 
-ÃÂ
+# 3e partie : Les commandements de Dieu et de l'Eglise.
 
-ÃÂ
+## Chapitre 1 Les commandements de Dieu en général.
 
-[Haut du document](#_top)
+De quoi est-il question dans la troisième partie de la Doctrine chrétienne ?
 
-ÃÂÃÂ
-
-# 3e partie : Les commandements de Dieu et de lÃ¢ÂÂEglise. ÃÂ
-
-## Chapitre 1 Les commandements de Dieu en gÃÂÃÂ©nÃÂÃÂ©ral.
-
-De quoi est-il question dans la troisiÃÂÃÂ¨me partie de la Doctrine chrÃÂÃÂ©tienne ?
-
-Dans la troisiÃÂÃÂ¨me partie de la Doctrine chrÃÂÃÂ©tienne il est question des
-commandements de Dieu et de lÃ¢ÂÂEglise.
+Dans la troisième partie de la Doctrine chrétienne il est question des
+commandements de Dieu et de l'Eglise.
 
 Combien y a-t-il de commandements dans la loi de Dieu ?
 
@@ -2186,36 +1734,36 @@ Les commandement de la loi de Dieu sont au nombre de dix :
 
 Je suis le Seigneur ton Dieu.
 
-1 Tu nÃ¢ÂÂauras pas dÃ¢ÂÂautre Dieu en ma prÃÂÃÂ©sence.
+1 Tu n'auras pas d'autre Dieu en ma présence.
 
-2 Tu nÃ¢ÂÂemploieras pas en vain le nom de Dieu.
+2 Tu n'emploieras pas en vain le nom de Dieu.
 
-3 Rappelle-toi de sanctifier les fÃÂÃÂªtes.
+3 Rappelle-toi de sanctifier les fêtes.
 
-4 Honore ton pÃÂÃÂ¨re et ta mÃÂÃÂ¨re.
+4 Honore ton père et ta mère.
 
 5 Tu ne tueras pas.
 
-6 Tu ne feras pas dÃ¢ÂÂimpuretÃÂÃÂ©.
+6 Tu ne feras pas d'impureté.
 
 7 Tu ne voleras pas.
 
-8 Tu ne diras pas de faux tÃÂÃÂ©moignage.
+8 Tu ne diras pas de faux témoignage.
 
-9 Tu ne dÃÂÃÂ©sireras pas la femme dÃ¢ÂÂautrui.
+9 Tu ne désireras pas la femme d'autrui.
 
-10 Tu ne dÃÂÃÂ©sireras pas le bien dÃ¢ÂÂautrui.
+10 Tu ne désireras pas le bien d'autrui.
 
-Pourquoi les commandements de Dieu ont-ils reÃÂÃÂ§u ce nom ?
+Pourquoi les commandements de Dieu ont-ils reçu ce nom ?
 
-Les commandements de Dieu ont reÃÂÃÂ§u ce nom parce que cÃ¢ÂÂest Dieu
-lui-mÃÂÃÂªme qui les a imprimÃÂÃÂ©s dans lÃ¢ÂÂÃÂÃÂ¢me de tout homme, qui les a
-promulguÃÂÃÂ©s sur le mont SinaÃÂÃÂ¯ dans la loi ancienne gravÃÂÃÂ©e sur deux tables de
-pierre, et cÃ¢ÂÂest JÃÂÃÂ©sus-Christ qui les a confirmÃÂÃÂ©s dans la loi nouvelle.
+Les commandements de Dieu ont reçu ce nom parce que c'est Dieu
+lui-même qui les a imprimés dans l'âme de tout homme, qui les a
+promulgués sur le mont Sinaï dans la loi ancienne gravée sur deux tables de
+pierre, et c'est Jésus-Christ qui les a confirmés dans la loi nouvelle.
 
-Quels sont les commandements de la premiÃÂÃÂ¨re table ?
+Quels sont les commandements de la première table ?
 
-Les commandements de la premiÃÂÃÂ¨re table sont les trois premiers, qui
+Les commandements de la première table sont les trois premiers, qui
 regardent directement Dieu et les devoirs que nous avons envers lui.
 
 Quels sont les commandements de la seconde table ?
@@ -2223,2373 +1771,2101 @@ Quels sont les commandements de la seconde table ?
 Les commandements de la seconde table sont les sept derniers, qui regardent
 le prochain et les devoirs que nous avons envers lui.
 
-Sommes-nous obligÃÂÃÂ©s dÃ¢ÂÂobserver les commandements ?
+Sommes-nous obligés d'observer les commandements ?
 
-Oui, nous sommes tous obligÃÂÃÂ©s dÃ¢ÂÂobserver les commandements parce que
-tous nous devons vivre selon la volontÃÂÃÂ© de Dieu qui nous a crÃÂÃÂ©ÃÂÃÂ©s, et
-quÃ¢ÂÂil suffit dÃ¢ÂÂen violer gravement un seul pour mÃÂÃÂ©riter
-lÃ¢ÂÂenfer.
+Oui, nous sommes tous obligés d'observer les commandements parce que
+tous nous devons vivre selon la volonté de Dieu qui nous a créés, et
+qu'il suffit d'en violer gravement un seul pour mériter
+l'enfer.
 
 Pouvons-nous observer les commandements ?
 
 Nous pouvons certainement observer les commandements de Dieu parce que Dieu
-ne nous commande rien dÃ¢ÂÂimpossible, et quÃ¢ÂÂil donne la grÃÂÃÂ¢ce de les
-observer ÃÂÃÂ  qui la demande comme il faut.
+ne nous commande rien d'impossible, et qu'il donne la grâce de les
+observer à qui la demande comme il faut.
 
-Que faut-il considÃÂÃÂ©rer dÃ¢ÂÂune maniÃÂÃÂ¨re gÃÂÃÂ©nÃÂÃÂ©rale en chaque commandement ?
+Que faut-il considérer d'une manière générale en chaque commandement ?
 
-Dans chaque commandement il faut considÃÂÃÂ©rer la partie positive et la partie
-nÃÂÃÂ©gative, cÃ¢ÂÂest-ÃÂÃÂ -dire ce quÃ¢ÂÂil nous commande et ce quÃ¢ÂÂil
-nous dÃÂÃÂ©fend.
-
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
+Dans chaque commandement il faut considérer la partie positive et la partie
+négative, c'est-à-dire ce qu'il nous commande et ce qu'il
+nous défend.
 
 ## Chapitre 2 Les commandements qui regardent Dieu.
 
-ÃÂÃÂ§ 1. Le premier commandement.
+§ 1. Le premier commandement.
 
 Pourquoi est-il dit au commencement : Je suis le Seigneur ton Dieu ?
 
-En tÃÂÃÂªte des commandements il est dit : Je suis le Seigneur ton Dieu pour que
-nous sachions que Dieu, ÃÂÃÂ©tant notre CrÃÂÃÂ©ateur et Seigneur, peut nous commander
-ce quÃ¢ÂÂil veut et que nous, ses crÃÂÃÂ©atures, nous sommes tenus de lui obÃÂÃÂ©ir.
+En tête des commandements il est dit : Je suis le Seigneur ton Dieu pour que
+nous sachions que Dieu, étant notre Créateur et Seigneur, peut nous commander
+ce qu'il veut et que nous, ses créatures, nous sommes tenus de lui obéir.
 
-QuÃ¢ÂÂest-ce que Dieu nous ordonne par les paroles du premier
-commandement : Tu nÃ¢ÂÂauras pas dÃ¢ÂÂautre Dieu en ma prÃÂÃÂ©sence ?
+Qu'est-ce que Dieu nous ordonne par les paroles du premier
+commandement : Tu n'auras pas d'autre Dieu en ma présence ?
 
-Par les paroles du premier commandement : Tu nÃ¢ÂÂauras pas dÃ¢ÂÂautre
-Dieu en ma prÃÂÃÂ©sence, Dieu nous ordonne de reconnaÃÂÃÂ®tre, dÃ¢ÂÂadorer,
-dÃ¢ÂÂaimer et de servir Lui seul comme notre souverain Seigneur.
+Par les paroles du premier commandement : Tu n'auras pas d'autre
+Dieu en ma présence, Dieu nous ordonne de reconnaître, d'adorer,
+d'aimer et de servir Lui seul comme notre souverain Seigneur.
 
 Comment accomplit-on le premier commandement ?
 
-On accomplit le premier commandement par lÃ¢ÂÂexercice du culte intÃÂÃÂ©rieur
-et du culte extÃÂÃÂ©rieur.
+On accomplit le premier commandement par l'exercice du culte intérieur
+et du culte extérieur.
 
-QuÃ¢ÂÂest-ce que le culte intÃÂÃÂ©rieur ?
+Qu'est-ce que le culte intérieur ?
 
-Le culte intÃÂÃÂ©rieur est lÃ¢ÂÂhonneur que lÃ¢ÂÂon rend ÃÂÃÂ  Dieu avec les
-seules facultÃÂÃÂ©s de lÃ¢ÂÂesprit, cÃ¢ÂÂest-ÃÂÃÂ -dire avec lÃ¢ÂÂintelligence
-et la volontÃÂÃÂ©.
+Le culte intérieur est l'honneur que l'on rend à Dieu avec les
+seules facultés de l'esprit, c'est-à-dire avec l'intelligence
+et la volonté.
 
-QuÃ¢ÂÂest-ce que le culte extÃÂÃÂ©rieur ?
+Qu'est-ce que le culte extérieur ?
 
-Le culte extÃÂÃÂ©rieur est lÃ¢ÂÂhommage que lÃ¢ÂÂon rend ÃÂÃÂ  Dieu au moyen
-dÃ¢ÂÂactes extÃÂÃÂ©rieurs et dÃ¢ÂÂobjets sensibles.
+Le culte extérieur est l'hommage que l'on rend à Dieu au moyen
+d'actes extérieurs et d'objets sensibles.
 
-Ne suffit-il pas dÃ¢ÂÂadorer Dieu intÃÂÃÂ©rieurement dans son cÃÂur ?
+Ne suffit-il pas d'adorer Dieu intérieurement dans son cœur ?
 
-Non, il ne suffit pas dÃ¢ÂÂadorer Dieu intÃÂÃÂ©rieurement dans son cÃÂur
-; il faut lÃ¢ÂÂadorer aussi extÃÂÃÂ©rieurement, avec son esprit comme avec son
-corps, parce quÃ¢ÂÂil est le CrÃÂÃÂ©ateur et le Seigneur absolu de lÃ¢ÂÂun et
-de lÃ¢ÂÂautre.
+Non, il ne suffit pas d'adorer Dieu intérieurement dans son cœur
+; il faut l'adorer aussi extérieurement, avec son esprit comme avec son
+corps, parce qu'il est le Créateur et le Seigneur absolu de l'un et
+de l'autre.
 
-Le culte extÃÂÃÂ©rieur peut-il subsister sans le culte intÃÂÃÂ©rieur ?
+Le culte extérieur peut-il subsister sans le culte intérieur ?
 
-Non, le culte extÃÂÃÂ©rieur ne peut absolument pas subsister sans le culte
-intÃÂÃÂ©rieur, parce que sÃ¢ÂÂil nÃ¢ÂÂen est pas accompagnÃÂÃÂ©, il reste privÃÂÃÂ©
-de vie, de mÃÂÃÂ©rite et dÃ¢ÂÂefficacitÃÂÃÂ©, comme un corps sans ÃÂÃÂ¢me.
+Non, le culte extérieur ne peut absolument pas subsister sans le culte
+intérieur, parce que s'il n'en est pas accompagné, il reste privé
+de vie, de mérite et d'efficacité, comme un corps sans âme.
 
-Que nous dÃÂÃÂ©fend le premier commandement ?
+Que nous défend le premier commandement ?
 
-Le premier commandement nous dÃÂÃÂ©fend lÃ¢ÂÂidolÃÂÃÂ¢trie. la superstition, le
-sacrilÃÂÃÂ¨ge, lÃ¢ÂÂhÃÂÃÂ©rÃÂÃÂ©sie et tout autre pÃÂÃÂªchÃÂÃÂ© contre la religion.
+Le premier commandement nous défend l'idolâtrie. la superstition, le
+sacrilège, l'hérésie et tout autre pêché contre la religion.
 
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂidolÃÂÃÂ¢trie ?
+Qu'est-ce que l'idolâtrie ?
 
-On appelle idolÃÂÃÂ¢trie le fait de rendre ÃÂÃÂ  quelque crÃÂÃÂ©ature, par exemple ÃÂÃÂ  une
-statue, ÃÂÃÂ  une image, ÃÂÃÂ  un homme, le culte suprÃÂÃÂªme dÃ¢ÂÂadoration qui
-nÃ¢ÂÂest dÃÂÃÂ» quÃ¢ÂÂÃÂÃÂ  Dieu seul.
+On appelle idolâtrie le fait de rendre à quelque créature, par exemple à une
+statue, à une image, à un homme, le culte suprême d'adoration qui
+n'est dû qu'à Dieu seul.
 
-Comment se trouve exprimÃÂÃÂ©e cette dÃÂÃÂ©fense dans la Sainte ÃÂÃÂcriture ?
+Comment se trouve exprimée cette défense dans la Sainte Écriture ?
 
-Dans la Sainte ÃÂÃÂcriture, on trouve cette dÃÂÃÂ©fense exprimÃÂÃÂ©e par les mots :
-" Tu ne feras pas de sculpture, ni aucune reprÃÂÃÂ©sentation de ce qui est
-lÃÂÃÂ -haut dans le ciel et ici-bas sur la terre. Et tu nÃ¢ÂÂadoreras pas ces
+Dans la Sainte Écriture, on trouve cette défense exprimée par les mots :
+" Tu ne feras pas de sculpture, ni aucune représentation de ce qui est
+là-haut dans le ciel et ici-bas sur la terre. Et tu n'adoreras pas ces
 choses, tu ne leur rendras aucun culte. "
 
-Ces paroles dÃÂÃÂ©fendent-elles toutes sortes dÃ¢ÂÂimages ?
+Ces paroles défendent-elles toutes sortes d'images ?
 
-Non certainement : mais seulement celles des fausses divinitÃÂÃÂ©s, faites dans
-un but dÃ¢ÂÂadoration, comme faisaient les idolÃÂÃÂ¢tres. Cela est si vrai que
-Dieu lui-mÃÂÃÂªme commanda ÃÂÃÂ  MoÃÂÃÂ¯se dÃ¢ÂÂen faire quelques-unes, comme les deux
-statues de chÃÂÃÂ©rubins qui ÃÂÃÂ©taient sur lÃ¢ÂÂarche et le serpent dÃ¢ÂÂairain
-dans le dÃÂÃÂ©sert.
+Non certainement : mais seulement celles des fausses divinités, faites dans
+un but d'adoration, comme faisaient les idolâtres. Cela est si vrai que
+Dieu lui-même commanda à Moïse d'en faire quelques-unes, comme les deux
+statues de chérubins qui étaient sur l'arche et le serpent d'airain
+dans le désert.
 
-QuÃ¢ÂÂest-ce que la superstition ?
+Qu'est-ce que la superstition ?
 
-On appelle superstition toute dÃÂÃÂ©votion contraire ÃÂÃÂ  la doctrine et ÃÂÃÂ
-lÃ¢ÂÂusage de lÃ¢ÂÂEglise, comme aussi le fait dÃ¢ÂÂattribuer ÃÂÃÂ  une
-action ou ÃÂÃÂ  une chose quelconque une vertu surnaturelle quÃ¢ÂÂelle nÃ¢ÂÂa
+On appelle superstition toute dévotion contraire à la doctrine et à
+l'usage de l'Eglise, comme aussi le fait d'attribuer à une
+action ou à une chose quelconque une vertu surnaturelle qu'elle n'a
 pas.
 
-QuÃ¢ÂÂest-ce que le sacrilÃÂÃÂ¨ge ?
+Qu'est-ce que le sacrilège ?
 
-Le sacrilÃÂÃÂ¨ge est la profanation dÃ¢ÂÂun lieu, dÃ¢ÂÂune personne ou
-dÃ¢ÂÂune chose consacrÃÂÃÂ©e ÃÂÃÂ  Dieu et destinÃÂÃÂ©e ÃÂÃÂ  son culte.
+Le sacrilège est la profanation d'un lieu, d'une personne ou
+d'une chose consacrée à Dieu et destinée à son culte.
 
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂhÃÂÃÂ©rÃÂÃÂ©sie ?
+Qu'est-ce que l'hérésie ?
 
-LÃ¢ÂÂhÃÂÃÂ©rÃÂÃÂ©sie est une erreur coupable de lÃ¢ÂÂintelligence par laquelle
-on nie avec obstination quelque vÃÂÃÂ©ritÃÂÃÂ© de la foi.
+L'hérésie est une erreur coupable de l'intelligence par laquelle
+on nie avec obstination quelque vérité de la foi.
 
-Quelles autres choses dÃÂÃÂ©fend le premier commandement ?
+Quelles autres choses défend le premier commandement ?
 
-Le premier commandement nous dÃÂÃÂ©fend encore dÃ¢ÂÂavoir commerce avec le
-dÃÂÃÂ©mon et de nous agrÃÂÃÂ©ger aux sectes antichrÃÂÃÂ©tiennes.
+Le premier commandement nous défend encore d'avoir commerce avec le
+démon et de nous agréger aux sectes antichrétiennes.
 
-Celui qui recourrait au dÃÂÃÂ©mon ou lÃ¢ÂÂinvoquerait commettra-t-il un grave
-pÃÂÃÂ©chÃÂÃÂ© ?
+Celui qui recourrait au démon ou l'invoquerait commettra-t-il un grave
+péché ?
 
-Celui qui recourrait au dÃÂÃÂ©mon ou lÃ¢ÂÂinvoquerait commettrait un pÃÂÃÂ©chÃÂÃÂ©
-ÃÂÃÂ©norme, parce que le dÃÂÃÂ©mon est le plus pervers des ennemis de Dieu et de
-lÃ¢ÂÂhomme.
+Celui qui recourrait au démon ou l'invoquerait commettrait un péché
+énorme, parce que le démon est le plus pervers des ennemis de Dieu et de
+l'homme.
 
-Est-il permis dÃ¢ÂÂinterroger les tables quÃ¢ÂÂon appelle parlantes ou
-ÃÂÃÂ©crivantes, ou de consulter de quelque faÃÂÃÂ§on que ce soit les ÃÂÃÂ¢mes des trÃÂÃÂ©passÃÂÃÂ©s
+Est-il permis d'interroger les tables qu'on appelle parlantes ou
+écrivantes, ou de consulter de quelque façon que ce soit les âmes des trépassés
 par le spiritisme ?
 
-Toutes les pratiques du spiritisme sont dÃÂÃÂ©fendues, parce quÃ¢ÂÂelles sont
-superstitieuses et que souvent elles ne sont pas exemptes dÃ¢ÂÂintervention
-diabolique : aussi ont-elles ÃÂÃÂ©tÃÂÃÂ© justement interdites par lÃ¢ÂÂÃÂÃÂglise.
+Toutes les pratiques du spiritisme sont défendues, parce qu'elles sont
+superstitieuses et que souvent elles ne sont pas exemptes d'intervention
+diabolique : aussi ont-elles été justement interdites par l'Église.
 
-Le premier commandement dÃÂÃÂ©fend peut-ÃÂÃÂªtre dÃ¢ÂÂhonorer et dÃ¢ÂÂinvoquer
+Le premier commandement défend peut-être d'honorer et d'invoquer
 les Anges et les Saints ?
 
-Non, il nÃ¢ÂÂest pas dÃÂÃÂ©fendu dÃ¢ÂÂhonorer et dÃ¢ÂÂinvoquer les
-Anges et les Saints ; nous devons mÃÂÃÂªme le faire, parce que cÃ¢ÂÂest une
-chose bonne, utile et hautement recommandÃÂÃÂ©e par lÃ¢ÂÂÃÂÃÂglise, car ils sont
-les amis de Dieu et nos intercesseurs auprÃÂÃÂ¨s de lui.
+Non, il n'est pas défendu d'honorer et d'invoquer les
+Anges et les Saints ; nous devons même le faire, parce que c'est une
+chose bonne, utile et hautement recommandée par l'Église, car ils sont
+les amis de Dieu et nos intercesseurs auprès de lui.
 
-Puisque JÃÂÃÂ©sus-Christ est notre unique MÃÂÃÂ©diateur auprÃÂÃÂ¨s de Dieu pourquoi
-recourons-nous aussi ÃÂÃÂ  lÃ¢ÂÂintercession de la trÃÂÃÂ¨s Sainte Vierge et des
+Puisque Jésus-Christ est notre unique Médiateur auprès de Dieu pourquoi
+recourons-nous aussi à l'intercession de la très Sainte Vierge et des
 Saints ?
 
-JÃÂÃÂ©sus-Christ est notre MÃÂÃÂ©diateur auprÃÂÃÂ¨s de Dieu, parce que, ÃÂÃÂ©tant vrai Dieu
-et vrai homme, lui seul en vertu de ses propres mÃÂÃÂ©rites nous a rÃÂÃÂ©conciliÃÂÃÂ©s avec
-Dieu et nous obtient de lui toutes les grÃÂÃÂ¢ces. Mais la Sainte Vierge et les
-Saints, en vertu des mÃÂÃÂ©rites de JÃÂÃÂ©sus-Christ et par la charitÃÂÃÂ© qui les unit ÃÂÃÂ
-Dieu et ÃÂÃÂ  nous, nous aident par leur intercession ÃÂÃÂ  obtenir les grÃÂÃÂ¢ces que nous
-demandons. Et cÃ¢ÂÂest lÃÂÃÂ  un des grands biens de la communion des Saints.
+Jésus-Christ est notre Médiateur auprès de Dieu, parce que, étant vrai Dieu
+et vrai homme, lui seul en vertu de ses propres mérites nous a réconciliés avec
+Dieu et nous obtient de lui toutes les grâces. Mais la Sainte Vierge et les
+Saints, en vertu des mérites de Jésus-Christ et par la charité qui les unit à
+Dieu et à nous, nous aident par leur intercession à obtenir les grâces que nous
+demandons. Et c'est là un des grands biens de la communion des Saints.
 
-Pouvons-nous aussi honorer les saintes images de JÃÂÃÂ©sus-Christ et des Saints
+Pouvons-nous aussi honorer les saintes images de Jésus-Christ et des Saints
 ?
 
-Oui, parce que lÃ¢ÂÂhonneur que lÃ¢ÂÂon rend aux saintes images de
-JÃÂÃÂ©sus-Christ et des Saints est rapportÃÂÃÂ© ÃÂÃÂ  leurs personnes mÃÂÃÂªmes.
+Oui, parce que l'honneur que l'on rend aux saintes images de
+Jésus-Christ et des Saints est rapporté à leurs personnes mêmes.
 
 Et les reliques des Saints peut-on les honorer ?
 
 Oui, on doit aussi honorer les reliques des Saints, parce que leurs corps
-furent les membres vivants de JÃÂÃÂ©sus-Christ et les temples du Saint-Esprit, et
-quÃ¢ÂÂils doivent ressusciter glorieux ÃÂÃÂ  une vie ÃÂÃÂ©ternelle.
+furent les membres vivants de Jésus-Christ et les temples du Saint-Esprit, et
+qu'ils doivent ressusciter glorieux à une vie éternelle.
 
-Quelle diffÃÂÃÂ©rence y a-t-il entre le culte que nous rendons ÃÂÃÂ  Dieu et le
+Quelle différence y a-t-il entre le culte que nous rendons à Dieu et le
 culte que nous rendons aux Saints ?
 
-Entre le culte que nous rendons ÃÂÃÂ  Dieu et le culte que nous rendons aux
-Saints il y a cette diffÃÂÃÂ©rence que Dieu, nous lÃ¢ÂÂadorons pour son
+Entre le culte que nous rendons à Dieu et le culte que nous rendons aux
+Saints il y a cette différence que Dieu, nous l'adorons pour son
 excellence infinie ; les Saints au contraire, nous ne les adorons pas, mais
-nous les honorons et nous les vÃÂÃÂ©nÃÂÃÂ©rons comme les amis de Dieu et nos
-intercesseurs auprÃÂÃÂ¨s de Lui. Le culte que nous rendons ÃÂÃÂ  Dieu SÃ¢ÂÂappelle
-culte de latrie cÃ¢ÂÂest-ÃÂÃÂ -dire lÃ¢ÂÂadoration, et le culte que nous
-rendons aux Saints sÃ¢ÂÂappelle culte de dulie cÃ¢ÂÂest-ÃÂÃÂ -dire de
-vÃÂÃÂ©nÃÂÃÂ©ration pour les serviteurs de Dieu ; enfin le culte particulier que nous
-rendons ÃÂÃÂ  la TrÃÂÃÂ¨s Sainte Vierge sÃ¢ÂÂappelle culte dÃ¢ÂÂhyperdulie
-cÃ¢ÂÂest-ÃÂÃÂ -dire de vÃÂÃÂ©nÃÂÃÂ©ration toute spÃÂÃÂ©ciale, comme pour la MÃÂÃÂ¨re de Dieu.
+nous les honorons et nous les vénérons comme les amis de Dieu et nos
+intercesseurs auprès de Lui. Le culte que nous rendons à Dieu S'appelle
+culte de latrie c'est-à-dire l'adoration, et le culte que nous
+rendons aux Saints s'appelle culte de dulie c'est-à-dire de
+vénération pour les serviteurs de Dieu ; enfin le culte particulier que nous
+rendons à la Très Sainte Vierge s'appelle culte d'hyperdulie
+c'est-à-dire de vénération toute spéciale, comme pour la Mère de Dieu.
 
-ÃÂ
+### § 2. Le second commandement.
 
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 2. Le second commandement.
-
-Que nous dÃÂÃÂ©fend le second commandement : Tu nÃ¢ÂÂemploieras pas en vain
+Que nous défend le second commandement : Tu n'emploieras pas en vain
 le nom de Dieu ?
 
-Le second commandement : " Tu nÃ¢ÂÂemploieras pas en vain le nom de
-Dieu " nous dÃÂÃÂ©fend :
+Le second commandement : " Tu n'emploieras pas en vain le nom de
+Dieu " nous défend :
 
-1 dÃ¢ÂÂemployer le nom de Dieu sans respect ;
+1 d'employer le nom de Dieu sans respect ;
 
-2 de blasphÃÂÃÂ©mer contre Dieu, contre la TrÃÂÃÂ¨s Sainte Vierge et contre les
+2 de blasphémer contre Dieu, contre la Très Sainte Vierge et contre les
 Saints ;
 
-3 de faire des jurements faux et sans nÃÂÃÂ©cessitÃÂÃÂ© ou dÃÂÃÂ©fendus ÃÂÃÂ  quelque titre
+3 de faire des jurements faux et sans nécessité ou défendus à quelque titre
 que ce soit.
 
-QuÃ¢ÂÂest-ce que employer le nom de Dieu sans respect ?
+Qu'est-ce que employer le nom de Dieu sans respect ?
 
-Employer le nom de Dieu sans respect, cÃ¢ÂÂest prononcer ce saint nom et
-tout ce qui se rapporte dÃ¢ÂÂune maniÃÂÃÂ¨re spÃÂÃÂ©ciale ÃÂÃÂ  Dieu, comme le nom de
-JÃÂÃÂ©sus, de Marie et des Saints, par colÃÂÃÂ¨re, par plaisanterie ou de toute autre
-maniÃÂÃÂ¨re peu respectueuse.
+Employer le nom de Dieu sans respect, c'est prononcer ce saint nom et
+tout ce qui se rapporte d'une manière spéciale à Dieu, comme le nom de
+Jésus, de Marie et des Saints, par colère, par plaisanterie ou de toute autre
+manière peu respectueuse.
 
-QuÃ¢ÂÂest-ce que le blasphÃÂÃÂ¨me ?
+Qu'est-ce que le blasphème ?
 
-Le blasphÃÂÃÂ¨me est un horrible pÃÂÃÂ©chÃÂÃÂ© qui consiste en paroles ou actes de mÃÂÃÂ©pris
-ou de malÃÂÃÂ©diction contre Dieu, la sainte Vierge, les Saints, ou contre les
+Le blasphème est un horrible péché qui consiste en paroles ou actes de mépris
+ou de malédiction contre Dieu, la sainte Vierge, les Saints, ou contre les
 choses saintes.
 
-Y a-t-il une diffÃÂÃÂ©rence entre le blasphÃÂÃÂ¨me et lÃ¢ÂÂimprÃÂÃÂ©cation ?
+Y a-t-il une différence entre le blasphème et l'imprécation ?
 
-Il y a une diffÃÂÃÂ©rence, parce que dans le blasphÃÂÃÂ¨me on lance la malÃÂÃÂ©diction
-ou on dÃÂÃÂ©sire le mal ÃÂÃÂ  Dieu, ÃÂÃÂ  la Sainte Vierge, aux Saints ; tandis que dans
-lÃ¢ÂÂimprÃÂÃÂ©cation cÃ¢ÂÂest ÃÂÃÂ  soi-mÃÂÃÂªme ou au prochain.
+Il y a une différence, parce que dans le blasphème on lance la malédiction
+ou on désire le mal à Dieu, à la Sainte Vierge, aux Saints ; tandis que dans
+l'imprécation c'est à soi-même ou au prochain.
 
-QuÃ¢ÂÂest-ce que jurer ?
+Qu'est-ce que jurer ?
 
-Jurer, cÃ¢ÂÂest prendre Dieu ÃÂÃÂ  tÃÂÃÂ©moin de la vÃÂÃÂ©ritÃÂÃÂ© de ce quÃ¢ÂÂon dit
-ou de ce quÃ¢ÂÂon promet.
+Jurer, c'est prendre Dieu à témoin de la vérité de ce qu'on dit
+ou de ce qu'on promet.
 
-Est-il toujours dÃÂÃÂ©fendu de jurer ?
+Est-il toujours défendu de jurer ?
 
-Il nÃ¢ÂÂest pas toujours dÃÂÃÂ©fendu de jurer ; cÃ¢ÂÂest permis et mÃÂÃÂªme un
-honneur rendu ÃÂÃÂ  Dieu quand il y a nÃÂÃÂ©cessitÃÂÃÂ© et que le jurement est fait avec
-vÃÂÃÂ©ritÃÂÃÂ©, discernement et justice.
+Il n'est pas toujours défendu de jurer ; c'est permis et même un
+honneur rendu à Dieu quand il y a nécessité et que le jurement est fait avec
+vérité, discernement et justice.
 
-Quand est-ce quÃ¢ÂÂon ne jure pas avec vÃÂÃÂ©ritÃÂÃÂ© ?
+Quand est-ce qu'on ne jure pas avec vérité ?
 
-Quand on affirme avec serment ce que lÃ¢ÂÂon sait ou que lÃ¢ÂÂon croit
-ÃÂÃÂªtre faux, et quand on promet avec serment ce que lÃ¢ÂÂon nÃ¢ÂÂa pas
-lÃ¢ÂÂintention dÃ¢ÂÂaccomplir.
+Quand on affirme avec serment ce que l'on sait ou que l'on croit
+être faux, et quand on promet avec serment ce que l'on n'a pas
+l'intention d'accomplir.
 
-Quand est-ce quÃ¢ÂÂon ne jure pas avec discernement ?
+Quand est-ce qu'on ne jure pas avec discernement ?
 
-Quand on jure sans prudence et sans mÃÂÃÂ»re rÃÂÃÂ©flexion ou pour des choses de peu
-dÃ¢ÂÂimportance.
+Quand on jure sans prudence et sans mûre réflexion ou pour des choses de peu
+d'importance.
 
-Quand est-ce quÃ¢ÂÂon ne jure pas avec justice ?
+Quand est-ce qu'on ne jure pas avec justice ?
 
-Quand on jure de faire une chose qui nÃ¢ÂÂest pas juste ou permise, comme
+Quand on jure de faire une chose qui n'est pas juste ou permise, comme
 de se venger, de voler et autres choses semblables.
 
-Sommes-nous obligÃÂÃÂ©s de tenir le serment de faire des choses injustes ou
-dÃÂÃÂ©fendues ?
+Sommes-nous obligés de tenir le serment de faire des choses injustes ou
+défendues ?
 
-Non seulement nous nÃ¢ÂÂy sommes pas obligÃÂÃÂ©s, mais nous pÃÂÃÂ©cherions en les
-faisant parce quÃ¢ÂÂelles sont dÃÂÃÂ©fendues par la loi de Dieu ou de
-lÃ¢ÂÂEglise.
+Non seulement nous n'y sommes pas obligés, mais nous pécherions en les
+faisant parce qu'elles sont défendues par la loi de Dieu ou de
+l'Eglise.
 
-Quel pÃÂÃÂ©chÃÂÃÂ© commet celui qui jure ÃÂÃÂ  faux ?
+Quel péché commet celui qui jure à faux ?
 
-Celui qui jure ÃÂÃÂ  faux commet un pÃÂÃÂ©chÃÂÃÂ© mortel parce quÃ¢ÂÂil dÃÂÃÂ©shonore gravement
-Dieu, vÃÂÃÂ©ritÃÂÃÂ© infinie, en le prenant ÃÂÃÂ  tÃÂÃÂ©moin dÃ¢ÂÂune chose fausse.
+Celui qui jure à faux commet un péché mortel parce qu'il déshonore gravement
+Dieu, vérité infinie, en le prenant à témoin d'une chose fausse.
 
 Que nous ordonne le second commandement ?
 
-Le second commandement nous ordonne dÃ¢ÂÂhonorer le saint nom de Dieu et
-dÃ¢ÂÂaccomplir non seulement les serments, mais encore les vÃÂux.
+Le second commandement nous ordonne d'honorer le saint nom de Dieu et
+d'accomplir non seulement les serments, mais encore les vœux.
 
-QuÃ¢ÂÂest-ce quÃ¢ÂÂun vÃÂu ?
+Qu'est-ce qu'un vœu ?
 
-Un vÃÂu est la promesse faite ÃÂÃÂ  Dieu dÃ¢ÂÂune chose bonne, possible
-pour nous, et meilleure que son contraire, ÃÂÃÂ  laquelle nous nous obligeons comme
-si elle nous ÃÂÃÂ©tait commandÃÂÃÂ©e.
+Un vœu est la promesse faite à Dieu d'une chose bonne, possible
+pour nous, et meilleure que son contraire, à laquelle nous nous obligeons comme
+si elle nous était commandée.
 
-Si lÃ¢ÂÂaccomplissement dÃ¢ÂÂun vÃÂu devenait en tout ou en partie
-trÃÂÃÂ¨s difficile, que faudrait-il faire ?
+Si l'accomplissement d'un vœu devenait en tout ou en partie
+très difficile, que faudrait-il faire ?
 
-On peut demander la commutation ou la dispense du vÃÂu ÃÂÃÂ  son EvÃÂÃÂªque ou
-au Souverain Pontife, selon lÃ¢ÂÂimportance du vÃÂu.
+On peut demander la commutation ou la dispense du vœu à son Evêque ou
+au Souverain Pontife, selon l'importance du vœu.
 
-Est-ce un pÃÂÃÂ©chÃÂÃÂ© de manquer aux vÃÂux ?
+Est-ce un péché de manquer aux vœux ?
 
-Manquer aux vÃÂux est un pÃÂÃÂ©chÃÂÃÂ©. Aussi nous ne devons pas faire de
-vÃÂux sans une mÃÂÃÂ»re rÃÂÃÂ©flexion et, ordinairement, sans le conseil du
-confesseur ou dÃ¢ÂÂune autre personne prudente, afin de ne pas nous exposer
-au pÃÂÃÂ©ril de pÃÂÃÂ©cher.
+Manquer aux vœux est un péché. Aussi nous ne devons pas faire de
+vœux sans une mûre réflexion et, ordinairement, sans le conseil du
+confesseur ou d'une autre personne prudente, afin de ne pas nous exposer
+au péril de pécher.
 
-Peut-on faire des vÃÂux ÃÂÃÂ  la Sainte Vierge et aux Saints ?
+Peut-on faire des vœux à la Sainte Vierge et aux Saints ?
 
-On fait les vÃÂux seulement ÃÂÃÂ  Dieu ; cependant on peut promettre ÃÂÃÂ  Dieu
-de faire quelque chose en lÃ¢ÂÂhonneur de la Sainte Vierge ou des Saints.
+On fait les vœux seulement à Dieu ; cependant on peut promettre à Dieu
+de faire quelque chose en l'honneur de la Sainte Vierge ou des Saints.
 
-ÃÂ
+### § 3. Le troisième commandement.
 
-ÃÂ
+Que nous ordonne le troisième commandement : Rappelle-toi de sanctifier les
+fêtes ?
 
-[Haut du document](#_top)
+Le troisième commandement : Rappelle-toi de sanctifier les fêtes, nous
+ordonne d'honorer Dieu par les pratiques du culte les jours de fête.
 
-ÃÂÃÂ
+Quels sont les jours de fête ?
 
-### ÃÂÃÂ§ 3. Le troisiÃÂÃÂ¨me commandement.
-
-Que nous ordonne le troisiÃÂÃÂ¨me commandement : Rappelle-toi de sanctifier les
-fÃÂÃÂªtes ?
-
-Le troisiÃÂÃÂ¨me commandement : Rappelle-toi de sanctifier les fÃÂÃÂªtes, nous
-ordonne dÃ¢ÂÂhonorer Dieu par les pratiques du culte les jours de fÃÂÃÂªte.
-
-Quels sont les jours de fÃÂÃÂªte ?
-
-Dans lÃ¢ÂÂancienne loi, cÃ¢ÂÂÃÂÃÂ©taient le jour du sabbat et les autres
-jours particuliÃÂÃÂ¨rement solennels pour le peuple hÃÂÃÂ©breu ; dans la loi nouvelle,
-ce sont les dimanches et autres solennitÃÂÃÂ©s ÃÂÃÂ©tablies par lÃ¢ÂÂEglise.
+Dans l'ancienne loi, c'étaient le jour du sabbat et les autres
+jours particulièrement solennels pour le peuple hébreu ; dans la loi nouvelle,
+ce sont les dimanches et autres solennités établies par l'Eglise.
 
 Pourquoi dans la loi nouvelle sanctifie-t-on le dimanche au lieu du samedi ?
 
-Le dimanche, qui signifie jour du Seigneur a ÃÂÃÂ©tÃÂÃÂ© substituÃÂÃÂ© au samedi, parce
-que cÃ¢ÂÂest ÃÂÃÂ  pareil jour que JÃÂÃÂ©sus-Christ Notre Seigneur est ressuscitÃÂÃÂ©.
+Le dimanche, qui signifie jour du Seigneur a été substitué au samedi, parce
+que c'est à pareil jour que Jésus-Christ Notre Seigneur est ressuscité.
 
-Quelle est la pratique du culte qui nous est commandÃÂÃÂ©e aux jours de fÃÂÃÂªte ?
+Quelle est la pratique du culte qui nous est commandée aux jours de fête ?
 
-Il nous est commandÃÂÃÂ© dÃ¢ÂÂassister dÃÂÃÂ©votement au saint sacrifice de la
+Il nous est commandé d'assister dévotement au saint sacrifice de la
 Messe.
 
-Par quelles autres pratiques un bon chrÃÂÃÂ©tien sanctifie-t-il les fÃÂÃÂªtes ?
+Par quelles autres pratiques un bon chrétien sanctifie-t-il les fêtes ?
 
-Un bon chrÃÂÃÂ©tien sanctifie les fÃÂÃÂªtes :
+Un bon chrétien sanctifie les fêtes :
 
-1 en assistant ÃÂÃÂ  la Doctrine chrÃÂÃÂ©tienne, aux prÃÂÃÂ©dications et aux offices ;
+1 en assistant à la Doctrine chrétienne, aux prédications et aux offices ;
 
 2 en recevant souvent avec les dispositions convenables les sacrements de
-PÃÂÃÂ©nitence et dÃ¢ÂÂEucharistie ;
+Pénitence et d'Eucharistie ;
 
-3 en se livrant ÃÂÃÂ  la priÃÂÃÂ¨re et aux ÃÂuvres de charitÃÂÃÂ© chrÃÂÃÂ©tienne envers
+3 en se livrant à la prière et aux œuvres de charité chrétienne envers
 le prochain.
 
-Que nous dÃÂÃÂ©fend le troisiÃÂÃÂ¨me commandement ?
+Que nous défend le troisième commandement ?
 
-Le troisiÃÂÃÂ¨me commandement nous dÃÂÃÂ©fend les ÃÂuvres serviles et toute
-autre occupation qui nous dÃÂÃÂ©tourne du culte divin.
+Le troisième commandement nous défend les œuvres serviles et toute
+autre occupation qui nous détourne du culte divin.
 
-Quelles sont les ÃÂuvres serviles dÃÂÃÂ©fendues les jours de fÃÂÃÂªte ?
+Quelles sont les œuvres serviles défendues les jours de fête ?
 
-Les ÃÂuvres serviles dÃÂÃÂ©fendues les jours de fÃÂÃÂªte sont les travaux dits
-manuels, cÃ¢ÂÂest-ÃÂÃÂ -dire les travaux matÃÂÃÂ©riels auxquels le corps a plus de
-part que lÃ¢ÂÂesprit, comme ceux que font ordinairement les serviteurs, les
+Les œuvres serviles défendues les jours de fête sont les travaux dits
+manuels, c'est-à-dire les travaux matériels auxquels le corps a plus de
+part que l'esprit, comme ceux que font ordinairement les serviteurs, les
 ouvriers et les artisans.
 
-Quel pÃÂÃÂ©chÃÂÃÂ© commet-on en travaillant les jours de fÃÂÃÂªte ?
+Quel péché commet-on en travaillant les jours de fête ?
 
-En travaillant les jours de fÃÂÃÂªte on commet un pÃÂÃÂ©chÃÂÃÂ© mortel ; cependant si le
-travail dure peu de temps, il nÃ¢ÂÂy a pas de faute grave.
+En travaillant les jours de fête on commet un péché mortel ; cependant si le
+travail dure peu de temps, il n'y a pas de faute grave.
 
-NÃ¢ÂÂy a-t-il aucune ÃÂuvre servile qui soit permise les jours de
-fÃÂÃÂªte ?
+N'y a-t-il aucune œuvre servile qui soit permise les jours de
+fête ?
 
-Les jours de fÃÂÃÂªte sont permis les travaux nÃÂÃÂ©cessaires ÃÂÃÂ  la vie ou au service
-de Dieu et ceux quÃ¢ÂÂon fait pour une cause grave, en demandant, sÃ¢ÂÂil
-se peut, la permission ÃÂÃÂ  son curÃÂÃÂ©.
+Les jours de fête sont permis les travaux nécessaires à la vie ou au service
+de Dieu et ceux qu'on fait pour une cause grave, en demandant, s'il
+se peut, la permission à son curé.
 
-Pourquoi les ÃÂuvres serviles sont-elles dÃÂÃÂ©fendues les jours de fÃÂÃÂªte ?
+Pourquoi les œuvres serviles sont-elles défendues les jours de fête ?
 
-Les ÃÂuvres serviles sont dÃÂÃÂ©fendues, les jours de fÃÂÃÂªte, pour que nous
-puissions mieux nous occuper au culte divin et au salut de notre ÃÂÃÂ¢me, et pour
-que nous nous reposions de nos fatigues. Aussi il nÃ¢ÂÂest pas dÃÂÃÂ©fendu de se
-livrer ÃÂÃÂ  dÃ¢ÂÂhonnÃÂÃÂªtes amusements.
+Les œuvres serviles sont défendues, les jours de fête, pour que nous
+puissions mieux nous occuper au culte divin et au salut de notre âme, et pour
+que nous nous reposions de nos fatigues. Aussi il n'est pas défendu de se
+livrer à d'honnêtes amusements.
 
-Quelles autres choses devons-nous ÃÂÃÂ©viter surtout les jours de fÃÂÃÂªte ?
+Quelles autres choses devons-nous éviter surtout les jours de fête ?
 
-Les jours de fÃÂÃÂªte nous devons ÃÂÃÂ©viter par dessus tout le pÃÂÃÂ©chÃÂÃÂ© et tout ce qui
-peut nous porter au pÃÂÃÂ©chÃÂÃÂ©, comme les amusements et les rÃÂÃÂ©unions dangereuses.
+Les jours de fête nous devons éviter par dessus tout le péché et tout ce qui
+peut nous porter au péché, comme les amusements et les réunions dangereuses.
 
-ÃÂ
+## Chapitre 3. Les commandements qui concernent le prochain.
 
-if !supportLineBreakNewLine?
+### § 1. Le quatrième commandement.
 
-endif?
+Que nous ordonne le quatrième commandement : Honore ton père et ta mère ?
 
-[Haut du document](#_top)
+Le quatrième commandement : Honore ton père et ta mère, nous ordonne de
+respecter notre père et notre mère, de leur obéir en tout ce qui n'est
+pas péché et de les assister dans leurs besoins spirituels et temporels.
 
-ÃÂ
+Que nous défend le quatrième commandement ?
 
-## Chapitre 3. Les commandements qui concernent le prochain. ÃÂ
+Le quatrième commandement nous défend d'offenser nos parents en
+paroles, en actes et de toute autre manière.
 
-### ÃÂÃÂ§ 1. Le quatriÃÂÃÂ¨me commandement.
-
-Que nous ordonne le quatriÃÂÃÂ¨me commandement : Honore ton pÃÂÃÂ¨re et ta mÃÂÃÂ¨re ?
-
-Le quatriÃÂÃÂ¨me commandement : Honore ton pÃÂÃÂ¨re et ta mÃÂÃÂ¨re, nous ordonne de
-respecter notre pÃÂÃÂ¨re et notre mÃÂÃÂ¨re, de leur obÃÂÃÂ©ir en tout ce qui nÃ¢ÂÂest
-pas pÃÂÃÂ©chÃÂÃÂ© et de les assister dans leurs besoins spirituels et temporels.
-
-Que nous dÃÂÃÂ©fend le quatriÃÂÃÂ¨me commandement ?
-
-Le quatriÃÂÃÂ¨me commandement nous dÃÂÃÂ©fend dÃ¢ÂÂoffenser nos parents en
-paroles, en actes et de toute autre maniÃÂÃÂ¨re.
-
-Sous le nom de pÃÂÃÂ¨re et mÃÂÃÂ¨re quelles autres personnes comprend ce
+Sous le nom de père et mère quelles autres personnes comprend ce
 commandement ?
 
-Sous le nom de pÃÂÃÂ¨re et de mÃÂÃÂ¨re, ce commandement comprend encore tous nos
-supÃÂÃÂ©rieurs tant ecclÃÂÃÂ©siastiques que laÃÂÃÂ¯ques, auxquels nous devons donc
-obÃÂÃÂ©issance et respect.
+Sous le nom de père et de mère, ce commandement comprend encore tous nos
+supérieurs tant ecclésiastiques que laïques, auxquels nous devons donc
+obéissance et respect.
 
-DÃ¢ÂÂoÃÂÃÂ¹ vient aux parents lÃ¢ÂÂautoritÃÂÃÂ© de commander ÃÂÃÂ  leurs enfants
-et lÃ¢ÂÂobligation pour les enfants de leur obÃÂÃÂ©ir ?
+D'où vient aux parents l'autorité de commander à leurs enfants
+et l'obligation pour les enfants de leur obéir ?
 
-LÃ¢ÂÂautoritÃÂÃÂ© quÃ¢ÂÂont les parents de commander ÃÂÃÂ  leurs enfants et
-lÃ¢ÂÂobligation pour les enfants dÃ¢ÂÂobÃÂÃÂ©ir vient de Dieu qui a constituÃÂÃÂ©
-et ordonnÃÂÃÂ© la famille, de telle sorte que lÃ¢ÂÂhomme y trouve les premiers
-moyens nÃÂÃÂ©cessaires ÃÂÃÂ  son perfectionnement matÃÂÃÂ©riel et spirituel.
+L'autorité qu'ont les parents de commander à leurs enfants et
+l'obligation pour les enfants d'obéir vient de Dieu qui a constitué
+et ordonné la famille, de telle sorte que l'homme y trouve les premiers
+moyens nécessaires à son perfectionnement matériel et spirituel.
 
 Les parents ont-ils des devoirs envers leurs enfants ?
 
-Les parents ont le devoir dÃ¢ÂÂaimer, de soigner et nourrir leurs
-enfants, de pourvoir ÃÂÃÂ  leur ÃÂÃÂ©ducation religieuse et civile, de leur donner le
-bon exemple, de les ÃÂÃÂ©loigner des occasions de pÃÂÃÂ©chÃÂÃÂ©, de les corriger de leurs
-fautes et de les aider ÃÂÃÂ  embrasser lÃ¢ÂÂÃÂÃÂ©tat auquel ils sont appelÃÂÃÂ©s de
+Les parents ont le devoir d'aimer, de soigner et nourrir leurs
+enfants, de pourvoir à leur éducation religieuse et civile, de leur donner le
+bon exemple, de les éloigner des occasions de péché, de les corriger de leurs
+fautes et de les aider à embrasser l'état auquel ils sont appelés de
 Dieu.
 
-Dieu nous a-t-il donnÃÂÃÂ© le modÃÂÃÂ¨le de la famille parfaite ?
+Dieu nous a-t-il donné le modèle de la famille parfaite ?
 
-Dieu nous a donnÃÂÃÂ© le modÃÂÃÂ¨le de la famille parfaite dans la sainte Famille,
-oÃÂÃÂ¹ JÃÂÃÂ©sus-Christ vÃÂÃÂ©cut soumis ÃÂÃÂ  la TrÃÂÃÂ¨s Sainte Vierge et ÃÂÃÂ  saint Joseph
-jusquÃ¢ÂÂÃÂÃÂ  trente ans, cÃ¢ÂÂest-ÃÂÃÂ -dire jusquÃ¢ÂÂÃÂÃÂ  ce quÃ¢ÂÂil
-commenÃÂÃÂ§ÃÂÃÂ¢t ÃÂÃÂ  exercer la mission que lui avait confiÃÂÃÂ©e le PÃÂÃÂ¨re ÃÂÃÂ©ternel de prÃÂÃÂªcher
-lÃ¢ÂÂEvangile.
+Dieu nous a donné le modèle de la famille parfaite dans la sainte Famille,
+où Jésus-Christ vécut soumis à la Très Sainte Vierge et à saint Joseph
+jusqu'à trente ans, c'est-à-dire jusqu'à ce qu'il
+commençât à exercer la mission que lui avait confiée le Père éternel de prêcher
+l'Evangile.
 
-Si les familles vivaient isolÃÂÃÂ©ment, sÃÂÃÂ©parÃÂÃÂ©es lÃ¢ÂÂune de lÃ¢ÂÂautre,
-pourraient-elles pourvoir ÃÂÃÂ  tous leurs besoins matÃÂÃÂ©riels et moraux ?
+Si les familles vivaient isolément, séparées l'une de l'autre,
+pourraient-elles pourvoir à tous leurs besoins matériels et moraux ?
 
-Si les familles vivaient isolÃÂÃÂ©ment, sÃÂÃÂ©parÃÂÃÂ©es lÃ¢ÂÂune de lÃ¢ÂÂautre,
-elles ne pourraient pourvoir ÃÂÃÂ  leurs besoins, et il est nÃÂÃÂ©cessaire
-quÃ¢ÂÂelles soient unies en sociÃÂÃÂ©tÃÂÃÂ© civile afin de sÃ¢ÂÂaider
+Si les familles vivaient isolément, séparées l'une de l'autre,
+elles ne pourraient pourvoir à leurs besoins, et il est nécessaire
+qu'elles soient unies en société civile afin de s'aider
 mutuellement pour leur perfectionnement et leur bonheur communs.
 
-QuÃ¢ÂÂest-ce que la sociÃÂÃÂ©tÃÂÃÂ© civile ?
+Qu'est-ce que la société civile ?
 
-La sociÃÂÃÂ©tÃÂÃÂ© civile est la rÃÂÃÂ©union de nombreuses familles, dÃÂÃÂ©pendant de
-lÃ¢ÂÂautoritÃÂÃÂ© dÃ¢ÂÂun chef, pour sÃ¢ÂÂaider rÃÂÃÂ©ciproquement ÃÂÃÂ  atteindre
+La société civile est la réunion de nombreuses familles, dépendant de
+l'autorité d'un chef, pour s'aider réciproquement à atteindre
 leur perfectionnement mutuel et le bonheur temporel.
 
-DÃ¢ÂÂoÃÂÃÂ¹ vient ÃÂÃÂ  la sociÃÂÃÂ©tÃÂÃÂ© civile lÃ¢ÂÂautoritÃÂÃÂ© qui la gouverne ?
+D'où vient à la société civile l'autorité qui la gouverne ?
 
-LÃ¢ÂÂautoritÃÂÃÂ© qui gouverne la sociÃÂÃÂ©tÃÂÃÂ© civile vient de Dieu qui la veut
-constituÃÂÃÂ©e pour le bien commun.
+L'autorité qui gouverne la société civile vient de Dieu qui la veut
+constituée pour le bien commun.
 
-Y a-t-il obligation de respecter lÃ¢ÂÂautoritÃÂÃÂ© qui gouverne la sociÃÂÃÂ©tÃÂÃÂ©
-civile et de lui obÃÂÃÂ©ir ?
+Y a-t-il obligation de respecter l'autorité qui gouverne la société
+civile et de lui obéir ?
 
-Oui, tous ceux qui appartiennent ÃÂÃÂ  la sociÃÂÃÂ©tÃÂÃÂ© civile ont le devoir de
-respecter lÃ¢ÂÂautoritÃÂÃÂ© et de lui obÃÂÃÂ©ir parce que cette autoritÃÂÃÂ© vient de
-Dieu et quÃ¢ÂÂainsi le veut le bien commun.
+Oui, tous ceux qui appartiennent à la société civile ont le devoir de
+respecter l'autorité et de lui obéir parce que cette autorité vient de
+Dieu et qu'ainsi le veut le bien commun.
 
-Doit-on respecter toutes les lois qui sont imposÃÂÃÂ©es par lÃ¢ÂÂautoritÃÂÃÂ©
+Doit-on respecter toutes les lois qui sont imposées par l'autorité
 civile ?
 
-On doit respecter toutes les lois que lÃ¢ÂÂautoritÃÂÃÂ© civile impose, pourvu
-quÃ¢ÂÂelles ne soient pas opposÃÂÃÂ©es ÃÂÃÂ  la loi de Dieu ; cÃ¢ÂÂest le
-commandement et lÃ¢ÂÂexemple de Notre Seigneur JÃÂÃÂ©sus-Christ.
+On doit respecter toutes les lois que l'autorité civile impose, pourvu
+qu'elles ne soient pas opposées à la loi de Dieu ; c'est le
+commandement et l'exemple de Notre Seigneur Jésus-Christ.
 
-Outre lÃ¢ÂÂobÃÂÃÂ©issance et le respect aux lois imposÃÂÃÂ©es par
-lÃ¢ÂÂautoritÃÂÃÂ©, ceux qui font partie de la sociÃÂÃÂ©tÃÂÃÂ© civile ont-ils
-dÃ¢ÂÂautres devoirs ?
+Outre l'obéissance et le respect aux lois imposées par
+l'autorité, ceux qui font partie de la société civile ont-ils
+d'autres devoirs ?
 
-Ceux qui font partie de la sociÃÂÃÂ©tÃÂÃÂ© civile, outre lÃ¢ÂÂobligation du
-respect et de lÃ¢ÂÂobÃÂÃÂ©issance envers les lois, ont le devoir de vivre dans
-la concorde et de travailler de toutes leurs forces et de tous leurs moyens ÃÂÃÂ  y
-faire rÃÂÃÂ©gner, pour lÃ¢ÂÂavantage commun, la vertu, la paix, lÃ¢ÂÂordre et
-la prospÃÂÃÂ©ritÃÂÃÂ©.
+Ceux qui font partie de la société civile, outre l'obligation du
+respect et de l'obéissance envers les lois, ont le devoir de vivre dans
+la concorde et de travailler de toutes leurs forces et de tous leurs moyens à y
+faire régner, pour l'avantage commun, la vertu, la paix, l'ordre et
+la prospérité.
 
-ÃÂ
+## § 2. Le cinquième commandement.
 
-if !supportLineBreakNewLine?
+Que nous défend le cinquième commandement : Tu ne tueras pas ?
 
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-## ÃÂÃÂ§ 2. Le cinquiÃÂÃÂ¨me commandement.
-
-Que nous dÃÂÃÂ©fend le cinquiÃÂÃÂ¨me commandement : Tu ne tueras pas ?
-
-Le cinquiÃÂÃÂ¨me commandement : Tu ne tueras pas, dÃÂÃÂ©fend de donner la mort au
+Le cinquième commandement : Tu ne tueras pas, défend de donner la mort au
 prochain, de le battre, de le frapper, ou de lui faire quelque autre mal dans
-son corps, soit par soi-mÃÂÃÂªme, soit par les autres. Il dÃÂÃÂ©fend encore de
-lÃ¢ÂÂoffenser par des paroles injurieuses et de lui vouloir du mal. Dans ce
-commandement Dieu dÃÂÃÂ©fend aussi de se donner la mort, ce qui est le suicide.
+son corps, soit par soi-même, soit par les autres. Il défend encore de
+l'offenser par des paroles injurieuses et de lui vouloir du mal. Dans ce
+commandement Dieu défend aussi de se donner la mort, ce qui est le suicide.
 
-Pourquoi est-ce un pÃÂÃÂ©chÃÂÃÂ© grave de tuer son prochain ?
+Pourquoi est-ce un péché grave de tuer son prochain ?
 
-Parce que celui qui tue usurpe tÃÂÃÂ©mÃÂÃÂ©rairement le droit sur la vie de
-lÃ¢ÂÂhomme qui nÃ¢ÂÂappartient quÃ¢ÂÂÃÂÃÂ  Dieu seul, parce quÃ¢ÂÂil
-dÃÂÃÂ©truit la sÃÂÃÂ©curitÃÂÃÂ© de la sociÃÂÃÂ©tÃÂÃÂ© humaine, et parce quÃ¢ÂÂil enlÃÂÃÂ¨ve au
-prochain la vie, qui est le plus grand bien naturel quÃ¢ÂÂil ait sur la
+Parce que celui qui tue usurpe témérairement le droit sur la vie de
+l'homme qui n'appartient qu'à Dieu seul, parce qu'il
+détruit la sécurité de la société humaine, et parce qu'il enlève au
+prochain la vie, qui est le plus grand bien naturel qu'il ait sur la
 terre.
 
-Y a-t-il des cas oÃÂÃÂ¹ il soit permis de tuer son prochain ?
+Y a-t-il des cas où il soit permis de tuer son prochain ?
 
 Il est permis de tuer son prochain quand on combat dans une guerre juste ;
-quand, par ordre de lÃ¢ÂÂautoritÃÂÃÂ© suprÃÂÃÂªme, on exÃÂÃÂ©cute une condamnation ÃÂÃÂ
-mort, chÃÂÃÂ¢timent de quelque crime, et enfin quand on est en cas de nÃÂÃÂ©cessaire et
-lÃÂÃÂ©gitime dÃÂÃÂ©fense contre un injuste agresseur.
+quand, par ordre de l'autorité suprême, on exécute une condamnation à
+mort, châtiment de quelque crime, et enfin quand on est en cas de nécessaire et
+légitime défense contre un injuste agresseur.
 
-Dieu dans le cinquiÃÂÃÂ¨me commandement dÃÂÃÂ©fend-il aussi de nuire ÃÂÃÂ  la vie
+Dieu dans le cinquième commandement défend-il aussi de nuire à la vie
 spirituelle du Prochain ?
 
-Oui, Dieu, dans le cinquiÃÂÃÂ¨me commandement, dÃÂÃÂ©fend aussi de nuire ÃÂÃÂ  la vie
+Oui, Dieu, dans le cinquième commandement, défend aussi de nuire à la vie
 spirituelle du prochain par le scandale.
 
-QuÃ¢ÂÂest-ce que le scandale ?
+Qu'est-ce que le scandale ?
 
 Le scandale est toute parole, tout acte ou toute omission qui est pour les
-autres une occasion de commettre le pÃÂÃÂ©chÃÂÃÂ©.
+autres une occasion de commettre le péché.
 
-Le scandale est-il un pÃÂÃÂ©chÃÂÃÂ© grave ?
+Le scandale est-il un péché grave ?
 
-Le scandale est un pÃÂÃÂ©chÃÂÃÂ© grave parce quÃ¢ÂÂil tend ÃÂÃÂ  dÃÂÃÂ©truire la plus
-grande ÃÂuvre de Dieu qui est la RÃÂÃÂ©demption, par la perte dÃ¢ÂÂune ÃÂÃÂ¢me ;
-parce quÃ¢ÂÂil donne au prochain la mort de lÃ¢ÂÂÃÂÃÂ¢me en lui enlevant la
-vie de la grÃÂÃÂ¢ce, qui est plus prÃÂÃÂ©cieuse que la vie du corps ; parce quÃ¢ÂÂil
-est cause dÃ¢ÂÂune multitude de pÃÂÃÂ©chÃÂÃÂ©s. Aussi Dieu menace-t-il des plus
-sÃÂÃÂ©vÃÂÃÂ¨res chÃÂÃÂ¢timents ceux qui donnent le scandale.
+Le scandale est un péché grave parce qu'il tend à détruire la plus
+grande œuvre de Dieu qui est la Rédemption, par la perte d'une âme ;
+parce qu'il donne au prochain la mort de l'âme en lui enlevant la
+vie de la grâce, qui est plus précieuse que la vie du corps ; parce qu'il
+est cause d'une multitude de péchés. Aussi Dieu menace-t-il des plus
+sévères châtiments ceux qui donnent le scandale.
 
-Pourquoi dans le cinquiÃÂÃÂ¨me commandement Dieu dÃÂÃÂ©fend-il de se donner la mort
-ÃÂÃÂ  soi-mÃÂÃÂªme ou de se suicider ?
+Pourquoi dans le cinquième commandement Dieu défend-il de se donner la mort
+à soi-même ou de se suicider ?
 
-Dans le cinquiÃÂÃÂ¨me commandement, Dieu dÃÂÃÂ©fend le suicide parce que
-lÃ¢ÂÂhomme nÃ¢ÂÂest pas le maÃÂÃÂ®tre de sa vie comme il ne lÃ¢ÂÂest pas
-de celle dÃ¢ÂÂautrui. Et lÃ¢ÂÂEglise punit le suicide par la privation de
-la sÃÂÃÂ©pulture ecclÃÂÃÂ©siastique.
+Dans le cinquième commandement, Dieu défend le suicide parce que
+l'homme n'est pas le maître de sa vie comme il ne l'est pas
+de celle d'autrui. Et l'Eglise punit le suicide par la privation de
+la sépulture ecclésiastique.
 
-Le cinquiÃÂÃÂ¨me commandement dÃÂÃÂ©fend-il aussi le duel ?
+Le cinquième commandement défend-il aussi le duel ?
 
-Oui, le cinquiÃÂÃÂ¨me commandement dÃÂÃÂ©fend aussi le duel, parce que le duel
-participe de la malice du suicide et de celle de lÃ¢ÂÂhomicide ; et
-quiconque y assiste volontairement, mÃÂÃÂªme comme simple spectateur, est
-excommuniÃÂÃÂ©.
+Oui, le cinquième commandement défend aussi le duel, parce que le duel
+participe de la malice du suicide et de celle de l'homicide ; et
+quiconque y assiste volontairement, même comme simple spectateur, est
+excommunié.
 
-Le duel est-il encore dÃÂÃÂ©fendu quand il nÃ¢ÂÂy a pas pÃÂÃÂ©ril de mort ?
+Le duel est-il encore défendu quand il n'y a pas péril de mort ?
 
-Oui, le duel mÃÂÃÂªme est dÃÂÃÂ©fendu, parce que non seulement nous ne pouvons pas
-tuer, mais nous ne pouvons pas mÃÂÃÂªme blesser volontairement nous-mÃÂÃÂªmes ni les
+Oui, le duel même est défendu, parce que non seulement nous ne pouvons pas
+tuer, mais nous ne pouvons pas même blesser volontairement nous-mêmes ni les
 autres.
 
-La dÃÂÃÂ©fense de lÃ¢ÂÂhonneur peut-elle excuser le duel ?
+La défense de l'honneur peut-elle excuser le duel ?
 
-Non, parce quÃ¢ÂÂil nÃ¢ÂÂest pas vrai que par le duel on rÃÂÃÂ©pare
-lÃ¢ÂÂoffense, et parce quÃ¢ÂÂon ne peut pas rÃÂÃÂ©parer lÃ¢ÂÂhonneur par
-une action injuste, dÃÂÃÂ©raisonnable et barbare, comme est le duel.
+Non, parce qu'il n'est pas vrai que par le duel on répare
+l'offense, et parce qu'on ne peut pas réparer l'honneur par
+une action injuste, déraisonnable et barbare, comme est le duel.
 
-Que nous ordonne le cinquiÃÂÃÂ¨me commandement ?
+Que nous ordonne le cinquième commandement ?
 
-Le cinquiÃÂÃÂ¨me commandement nous ordonne de pardonner ÃÂÃÂ  nos ennemis et de
-vouloir du bien ÃÂÃÂ  tout le monde.
+Le cinquième commandement nous ordonne de pardonner à nos ennemis et de
+vouloir du bien à tout le monde.
 
-Que doit faire celui qui a portÃÂÃÂ© tort au prochain pour la vie du corps ou
-pour la vie de lÃ¢ÂÂÃÂÃÂ¢me ?
+Que doit faire celui qui a porté tort au prochain pour la vie du corps ou
+pour la vie de l'âme ?
 
-Il ne suffit pas que celui qui a portÃÂÃÂ© tort au prochain se confesse, il doit
-aussi rÃÂÃÂ©parer le mal quÃ¢ÂÂil a fait en compensant les torts quÃ¢ÂÂil a
-portÃÂÃÂ©s, en rÃÂÃÂ©tractant les erreurs quÃ¢ÂÂil a enseignÃÂÃÂ©es, en donnant le bon
+Il ne suffit pas que celui qui a porté tort au prochain se confesse, il doit
+aussi réparer le mal qu'il a fait en compensant les torts qu'il a
+portés, en rétractant les erreurs qu'il a enseignées, en donnant le bon
 exemple.
 
-ÃÂ
+### § 3. Le sixième et le neuvième commandemants.
 
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂÃÂ
-
-### ÃÂÃÂ§ 3. Le sixiÃÂÃÂ¨me et le neuviÃÂÃÂ¨me commandemants.
-
-Que nous dÃÂÃÂ©fend le sixiÃÂÃÂ¨me commandement : Tu ne feras pas dÃ¢ÂÂimpuretÃÂÃÂ©s
+Que nous défend le sixième commandement : Tu ne feras pas d'impuretés
 ?
 
-Le sixiÃÂÃÂ¨me commandement : Tu ne feras pas dÃ¢ÂÂimpuretÃÂÃÂ©s, nous dÃÂÃÂ©fend
-tout acte, tout regard, toute parole contraire ÃÂÃÂ  la chastetÃÂÃÂ©, et
-lÃ¢ÂÂinfidÃÂÃÂ©litÃÂÃÂ© dans le mariage.
+Le sixième commandement : Tu ne feras pas d'impuretés, nous défend
+tout acte, tout regard, toute parole contraire à la chasteté, et
+l'infidélité dans le mariage.
 
-Que dÃÂÃÂ©fend le neuviÃÂÃÂ¨me commandement ?
+Que défend le neuvième commandement ?
 
-Le neuviÃÂÃÂ¨me commandement dÃÂÃÂ©fend expressÃÂÃÂ©ment tout dÃÂÃÂ©sir contraire ÃÂÃÂ  la
-fidÃÂÃÂ©litÃÂÃÂ© que les ÃÂÃÂ©poux se sont jurÃÂÃÂ©s en sÃ¢ÂÂunissant par le mariage. Il
-dÃÂÃÂ©fend aussi toute pensÃÂÃÂ©e coupable ou tout dÃÂÃÂ©sir dÃ¢ÂÂactes dÃÂÃÂ©fendus par le
-sixiÃÂÃÂ¨me commandement.
+Le neuvième commandement défend expressément tout désir contraire à la
+fidélité que les époux se sont jurés en s'unissant par le mariage. Il
+défend aussi toute pensée coupable ou tout désir d'actes défendus par le
+sixième commandement.
 
-LÃ¢ÂÂimpuretÃÂÃÂ© est-elle un grand pÃÂÃÂ©chÃÂÃÂ© ?
+L'impureté est-elle un grand péché ?
 
-CÃ¢ÂÂest un pÃÂÃÂ©chÃÂÃÂ© trÃÂÃÂ¨s grave et abominable devant Dieu et devant les
-hommes ; il avilit lÃ¢ÂÂhomme ÃÂÃÂ  la condition des animaux sans raison,
-lÃ¢ÂÂentraÃÂÃÂ®ne ÃÂÃÂ  beaucoup dÃ¢ÂÂautres pÃÂÃÂ©chÃÂÃÂ©s et de vices, et provoque les
-plus terribles chÃÂÃÂ¢timents en cette vie et en lÃ¢ÂÂautre.
+C'est un péché très grave et abominable devant Dieu et devant les
+hommes ; il avilit l'homme à la condition des animaux sans raison,
+l'entraîne à beaucoup d'autres péchés et de vices, et provoque les
+plus terribles châtiments en cette vie et en l'autre.
 
-Toutes les pensÃÂÃÂ©es qui nous viennent ÃÂÃÂ  lÃ¢ÂÂesprit contre la puretÃÂÃÂ©
-sont-elles des pÃÂÃÂ©chÃÂÃÂ©s ?
+Toutes les pensées qui nous viennent à l'esprit contre la pureté
+sont-elles des péchés ?
 
-Les pensÃÂÃÂ©es qui nous viennent ÃÂÃÂ  lÃ¢ÂÂesprit contre la puretÃÂÃÂ© ne sont pas
-par elles-mÃÂÃÂªmes des pÃÂÃÂ©chÃÂÃÂ©s, elles sont plutÃÂÃÂ´t des tentations et des excitations
-au pÃÂÃÂ©chÃÂÃÂ©.
+Les pensées qui nous viennent à l'esprit contre la pureté ne sont pas
+par elles-mêmes des péchés, elles sont plutôt des tentations et des excitations
+au péché.
 
-Quand est-ce que les mauvaises pensÃÂÃÂ©es sont des pÃÂÃÂ©chÃÂÃÂ©s ?
+Quand est-ce que les mauvaises pensées sont des péchés ?
 
-Les mauvaises pensÃÂÃÂ©es, mÃÂÃÂªme quand elles ne sont pas suivies dÃ¢ÂÂeffet,
-sont des pÃÂÃÂ©chÃÂÃÂ©s lorsque nous leur donnons occasion dÃ¢ÂÂune maniÃÂÃÂ¨re
-coupable, ou que nous y consentons ou que nous nous exposons au pÃÂÃÂ©ril prochain
-dÃ¢ÂÂy consentir.
+Les mauvaises pensées, même quand elles ne sont pas suivies d'effet,
+sont des péchés lorsque nous leur donnons occasion d'une manière
+coupable, ou que nous y consentons ou que nous nous exposons au péril prochain
+d'y consentir.
 
-Que nous ordonnent le sixiÃÂÃÂ¨me et le neuviÃÂÃÂ¨me commandements ?
+Que nous ordonnent le sixième et le neuvième commandements ?
 
-Le sixiÃÂÃÂ¨me commandement nous ordonne dÃ¢ÂÂÃÂÃÂªtre chastes et modestes dans
-nos actes, nos regards, notre maintien et nos paroles. Le neuviÃÂÃÂ¨me commandement
-nous ordonne dÃ¢ÂÂÃÂÃÂªtre chastes et purs mÃÂÃÂªme intÃÂÃÂ©rieurement
-cÃ¢ÂÂest-ÃÂÃÂ -dire dans notre esprit et notre cÃÂur.
+Le sixième commandement nous ordonne d'être chastes et modestes dans
+nos actes, nos regards, notre maintien et nos paroles. Le neuvième commandement
+nous ordonne d'être chastes et purs même intérieurement
+c'est-à-dire dans notre esprit et notre cœur.
 
-Que convient-il de faire pour observer le sixiÃÂÃÂ¨me et le neuviÃÂÃÂ¨me
+Que convient-il de faire pour observer le sixième et le neuvième
 commandements ?
 
-Pour bien observer le sixiÃÂÃÂ¨me et le neuviÃÂÃÂ¨me commandements, nous devons
-prier Dieu souvent et du fond du cÃÂur, ÃÂÃÂªtre dÃÂÃÂ©vots ÃÂÃÂ  la Vierge Marie, MÃÂÃÂ¨re
-de la puretÃÂÃÂ©, nous rappeler que Dieu nous voit, penser ÃÂÃÂ  la mort, aux
-chÃÂÃÂ¢timents divins, ÃÂÃÂ  la passion de JÃÂÃÂ©sus-Christ, garder nos sens, pratiquer la
-mortification chrÃÂÃÂ©tienne et frÃÂÃÂ©quenter les sacrements avec les dispositions
+Pour bien observer le sixième et le neuvième commandements, nous devons
+prier Dieu souvent et du fond du cœur, être dévots à la Vierge Marie, Mère
+de la pureté, nous rappeler que Dieu nous voit, penser à la mort, aux
+châtiments divins, à la passion de Jésus-Christ, garder nos sens, pratiquer la
+mortification chrétienne et fréquenter les sacrements avec les dispositions
 convenables.
 
-Que devons-nous fuir pour nous maintenir dans la puretÃÂÃÂ© ?
+Que devons-nous fuir pour nous maintenir dans la pureté ?
 
-Pour nous maintenir dans la puretÃÂÃÂ©, il convient de fuir lÃ¢ÂÂoisivetÃÂÃÂ©,
-les mauvaises compagnies, lÃ¢ÂÂintempÃÂÃÂ©rance, dÃ¢ÂÂÃÂÃÂ©viter les images
-indÃÂÃÂ©centes, les spectacles licencieux, les conversations dangereuses et toutes
-les autres occasions de pÃÂÃÂ©chÃÂÃÂ©.
+Pour nous maintenir dans la pureté, il convient de fuir l'oisiveté,
+les mauvaises compagnies, l'intempérance, d'éviter les images
+indécentes, les spectacles licencieux, les conversations dangereuses et toutes
+les autres occasions de péché.
 
-ÃÂ
+### § 4. Le septième commandement.
 
-ÃÂ
+Que nous défend le septième commandement : Tu ne voleras pas ?
 
-[Haut du document](#_top)
+Le septième commandement : Tu ne voleras pas, nous défend de prendre ou de
+retenir le bien d'autrui injustement, et de faire tort au prochain en ses
+biens de quelque manière que ce soit.
 
-ÃÂÃÂ
+Qu'est-ce que voler ?
 
-### ÃÂÃÂ§ 4. Le septiÃÂÃÂ¨me commandement.
+Voler, c'est prendre injustement le bien d'autrui contre la
+volonté de son maître, dans le cas où celui-ci a pleine raison et droit absolu
+de n'en vouloir pas être privé.
 
-Que nous dÃÂÃÂ©fend le septiÃÂÃÂ¨me commandement : Tu ne voleras pas ?
+Pourquoi le vol est-il défendu ?
 
-Le septiÃÂÃÂ¨me commandement : Tu ne voleras pas, nous dÃÂÃÂ©fend de prendre ou de
-retenir le bien dÃ¢ÂÂautrui injustement, et de faire tort au prochain en ses
-biens de quelque maniÃÂÃÂ¨re que ce soit.
-
-QuÃ¢ÂÂest-ce que voler ?
-
-Voler, cÃ¢ÂÂest prendre injustement le bien dÃ¢ÂÂautrui contre la
-volontÃÂÃÂ© de son maÃÂÃÂ®tre, dans le cas oÃÂÃÂ¹ celui-ci a pleine raison et droit absolu
-de nÃ¢ÂÂen vouloir pas ÃÂÃÂªtre privÃÂÃÂ©.
-
-Pourquoi le vol est-il dÃÂÃÂ©fendu ?
-
-Parce que, par le vol, on pÃÂÃÂ¨che contre la justice et en fait injure au
-prochain en prenant et retenant contre son droit et sa volontÃÂÃÂ© ce qui lui
+Parce que, par le vol, on pèche contre la justice et en fait injure au
+prochain en prenant et retenant contre son droit et sa volonté ce qui lui
 appartient.
 
-QuÃ¢ÂÂest-ce que le bien dÃ¢ÂÂautrui ?
+Qu'est-ce que le bien d'autrui ?
 
-Le bien dÃ¢ÂÂautrui est tout ce qui appartient au prochain, quÃ¢ÂÂil
-en ait la propriÃÂÃÂ©tÃÂÃÂ© ou lÃ¢ÂÂusage, ou quÃ¢ÂÂil lÃ¢ÂÂait simplement le
-dÃÂÃÂ©pÃÂÃÂ´t.
+Le bien d'autrui est tout ce qui appartient au prochain, qu'il
+en ait la propriété ou l'usage, ou qu'il l'ait simplement le
+dépôt.
 
-De combien de maniÃÂÃÂ¨res prend-on injustement le bien dÃ¢ÂÂautrui ?
+De combien de manières prend-on injustement le bien d'autrui ?
 
-De deux maniÃÂÃÂ¨res : par le vol et par la rapine.
+De deux manières : par le vol et par la rapine.
 
 Comment se commet le vol ?
 
-Le vol se commet quand on prend le bien dÃ¢ÂÂautrui en se cachant.
+Le vol se commet quand on prend le bien d'autrui en se cachant.
 
 Comment se commet la rapine ?
 
 La rapine se commet quand on prend avec violence et ouvertement le bien
-dÃ¢ÂÂautrui.
+d'autrui.
 
-Dans quels cas peut-on prendre le bien dÃ¢ÂÂautrui sans faire de pÃÂÃÂ©chÃÂÃÂ© ?
+Dans quels cas peut-on prendre le bien d'autrui sans faire de péché ?
 
-Quand le maÃÂÃÂ®tre nÃ¢ÂÂest pas opposÃÂÃÂ© ou que son opposition est injuste, ce
-qui arriverait si quelquÃ¢ÂÂun ÃÂÃÂ©tait dans lÃ¢ÂÂextrÃÂÃÂªme nÃÂÃÂ©cessitÃÂÃÂ©, pourvu
-quÃ¢ÂÂil prit seulement ce qui lui est strictement nÃÂÃÂ©cessaire pour subvenir
-ÃÂÃÂ  son besoin urgent et extrÃÂÃÂªme.
+Quand le maître n'est pas opposé ou que son opposition est injuste, ce
+qui arriverait si quelqu'un était dans l'extrême nécessité, pourvu
+qu'il prit seulement ce qui lui est strictement nécessaire pour subvenir
+à son besoin urgent et extrême.
 
 Ne peut-on faire tort au prochain dans ses biens que par le vol et la rapine
 ?
 
-On lui fait tort encore par la fraude, par lÃ¢ÂÂusure et par toute autre
-injustice que lÃ¢ÂÂon commet contre ses biens.
+On lui fait tort encore par la fraude, par l'usure et par toute autre
+injustice que l'on commet contre ses biens.
 
 Comment se commet la fraude ?
 
 Il y a fraude quand on trompe le prochain dans le commerce par de faux
 poids, de fausses mesures, de la fausse monnaie et de mauvaises marchandises ;
-quand on falsifie les ÃÂÃÂ©critures et les papiers ; en un mot toutes les fois
-quÃ¢ÂÂon induit en erreur dans les ventes, les achats et tout autre contrat,
+quand on falsifie les écritures et les papiers ; en un mot toutes les fois
+qu'on induit en erreur dans les ventes, les achats et tout autre contrat,
 et aussi quand on ne veut pas donner le juste prix et le prix convenu.
 
-En quoi consiste lÃ¢ÂÂusure ?
+En quoi consiste l'usure ?
 
-LÃ¢ÂÂusure consiste ÃÂÃÂ  exiger, sans titre lÃÂÃÂ©gitime, un intÃÂÃÂ©rÃÂÃÂªt illicite
-pour une somme prÃÂÃÂªtÃÂÃÂ©e, en abusant du besoin et de lÃ¢ÂÂignorance
-dÃ¢ÂÂautrui.
+L'usure consiste à exiger, sans titre légitime, un intérêt illicite
+pour une somme prêtée, en abusant du besoin et de l'ignorance
+d'autrui.
 
 Quelles autres injustices commet-on contre le bien du prochain ?
 
-Ce sont des injustices que de lui faire perdre injustement ce quÃ¢ÂÂil a,
+Ce sont des injustices que de lui faire perdre injustement ce qu'il a,
 de lui faire tort dans ses possessions, de ne pas travailler comme on le doit,
-de ne pas payer par malice des dettes ou des marchandises achetÃÂÃÂ©es, de frapper
-ou de tuer les animaux qui lui appartiennent, dÃ¢ÂÂendommager ou laisser
-endommager ce quÃ¢ÂÂon a en garde, dÃ¢ÂÂempÃÂÃÂªcher quelquÃ¢ÂÂun de faire
-un juste bÃÂÃÂ©nÃÂÃÂ©fice, de tenir la main aux voleurs, de recevoir, cacher ou acheter
-des choses volÃÂÃÂ©es.
+de ne pas payer par malice des dettes ou des marchandises achetées, de frapper
+ou de tuer les animaux qui lui appartiennent, d'endommager ou laisser
+endommager ce qu'on a en garde, d'empêcher quelqu'un de faire
+un juste bénéfice, de tenir la main aux voleurs, de recevoir, cacher ou acheter
+des choses volées.
 
-Est-ce un pÃÂÃÂ©chÃÂÃÂ© grave que de voler ?
+Est-ce un péché grave que de voler ?
 
-CÃ¢ÂÂest un pÃÂÃÂ©chÃÂÃÂ© grave contre la justice quand il sÃ¢ÂÂagit
-dÃ¢ÂÂune matiÃÂÃÂ¨re grave, car il est trÃÂÃÂ¨s important que le droit de chacun sur
-son bien propre soit respectÃÂÃÂ©, et cela pour le bien des individus, des familles
-et de la sociÃÂÃÂ©tÃÂÃÂ©.
+C'est un péché grave contre la justice quand il s'agit
+d'une matière grave, car il est très important que le droit de chacun sur
+son bien propre soit respecté, et cela pour le bien des individus, des familles
+et de la société.
 
-Quand est-ce que la matiÃÂÃÂ¨re du vol est grave ?
+Quand est-ce que la matière du vol est grave ?
 
-Elle est grave lorsquÃ¢ÂÂon prend une chose importante et aussi lorsque,
-bien quÃ¢ÂÂon prenne une chose de peu de valeur, le prochain en souffre un
+Elle est grave lorsqu'on prend une chose importante et aussi lorsque,
+bien qu'on prenne une chose de peu de valeur, le prochain en souffre un
 grave dommage.
 
-Que nous ordonne le septiÃÂÃÂ¨me commandement ?
+Que nous ordonne le septième commandement ?
 
-Le septiÃÂÃÂ¨me commandement nous ordonne de respecter le bien dÃ¢ÂÂautrui,
-de donner le juste salaire aux ouvriers, et dÃ¢ÂÂobserver la justice en tout
-ce qui concerne la propriÃÂÃÂ©tÃÂÃÂ© dÃ¢ÂÂautrui.
+Le septième commandement nous ordonne de respecter le bien d'autrui,
+de donner le juste salaire aux ouvriers, et d'observer la justice en tout
+ce qui concerne la propriété d'autrui.
 
-Pour celui qui a pÃÂÃÂ©chÃÂÃÂ© contre le septiÃÂÃÂ¨me commandement suffit-il quÃ¢ÂÂil
+Pour celui qui a péché contre le septième commandement suffit-il qu'il
 se confesse ?
 
-Pour celui qui a pÃÂÃÂ©chÃÂÃÂ© contre le septiÃÂÃÂ¨me commandement, la confession ne
-suffit pas ; il faut quÃ¢ÂÂil fasse son possible pour restituer le bien
-dÃ¢ÂÂautrui et rÃÂÃÂ©parer les dommages causÃÂÃÂ©s.
+Pour celui qui a péché contre le septième commandement, la confession ne
+suffit pas ; il faut qu'il fasse son possible pour restituer le bien
+d'autrui et réparer les dommages causés.
 
-QuÃ¢ÂÂest-ce que la rÃÂÃÂ©paration des dommages causÃÂÃÂ©s ?
+Qu'est-ce que la réparation des dommages causés ?
 
-La rÃÂÃÂ©paration des dommages causÃÂÃÂ©s est la compensation quÃ¢ÂÂon doit
-donner au prochain pour les fruits et les bÃÂÃÂ©nÃÂÃÂ©fices perdus ÃÂÃÂ  cause du vol et
-des autres injustices commises ÃÂÃÂ  son dÃÂÃÂ©triment.
+La réparation des dommages causés est la compensation qu'on doit
+donner au prochain pour les fruits et les bénéfices perdus à cause du vol et
+des autres injustices commises à son détriment.
 
-A qui doit-on restituer le bien volÃÂÃÂ© ?
+A qui doit-on restituer le bien volé ?
 
-A celui qui a ÃÂÃÂ©tÃÂÃÂ© volÃÂÃÂ© ; ÃÂÃÂ  ses hÃÂÃÂ©ritiers, sÃ¢ÂÂil est mort ; et si
-cÃ¢ÂÂest vraiment impossible, on doit en donner la valeur au profit des
-pauvres et des ÃÂuvres pieuses.
+A celui qui a été volé ; à ses héritiers, s'il est mort ; et si
+c'est vraiment impossible, on doit en donner la valeur au profit des
+pauvres et des œuvres pieuses.
 
 Que doit-on faire quand on trouve une chose de grande valeur ?
 
-On doit apporter un grand empressement ÃÂÃÂ  en trouver le maÃÂÃÂ®tre et la lui
-restituer fidÃÂÃÂ¨lement.
+On doit apporter un grand empressement à en trouver le maître et la lui
+restituer fidèlement.
 
-ÃÂ
+### § 5. Le huitième commandement.
 
-if !supportLineBreakNewLine?
+Que nous défend le huitième commandement : Tu ne diras pas de faux
+témoignage ?
 
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 5. Le huitiÃÂÃÂ¨me commandement.
-
-Que nous dÃÂÃÂ©fend le huitiÃÂÃÂ¨me commandement : Tu ne diras pas de faux
-tÃÂÃÂ©moignage ?
-
-Le huitiÃÂÃÂ¨me commandement : Tu ne diras pas de faux tÃÂÃÂ©moignage, nous dÃÂÃÂ©fend
-de dÃÂÃÂ©poser faussement en justice. Il nous dÃÂÃÂ©fend encore la diffamation ou
-mÃÂÃÂ©disance, la calomnie, la flatterie, le jugement et le soupÃÂÃÂ§on tÃÂÃÂ©mÃÂÃÂ©raires et
+Le huitième commandement : Tu ne diras pas de faux témoignage, nous défend
+de déposer faussement en justice. Il nous défend encore la diffamation ou
+médisance, la calomnie, la flatterie, le jugement et le soupçon téméraires et
 toute sorte de mensonge.
 
-QuÃ¢ÂÂest-ce que la diffamation ou mÃÂÃÂ©disance ?
+Qu'est-ce que la diffamation ou médisance ?
 
-La diffamation ou mÃÂÃÂ©disance est un pÃÂÃÂ©chÃÂÃÂ© qui consiste ÃÂÃÂ  manifester sans un
-juste motif les pÃÂÃÂ©chÃÂÃÂ©s et les dÃÂÃÂ©fauts dÃ¢ÂÂautrui.
+La diffamation ou médisance est un péché qui consiste à manifester sans un
+juste motif les péchés et les défauts d'autrui.
 
-QuÃ¢ÂÂest-ce que la calomnie ?
+Qu'est-ce que la calomnie ?
 
-La calomnie est un pÃÂÃÂ©chÃÂÃÂ© qui consiste ÃÂÃÂ  attribuer mÃÂÃÂ©chamment au prochain des
-fautes et des dÃÂÃÂ©fauts quÃ¢ÂÂil nÃ¢ÂÂa pas.
+La calomnie est un péché qui consiste à attribuer méchamment au prochain des
+fautes et des défauts qu'il n'a pas.
 
-QuÃ¢ÂÂest-ce que la flatterie ?
+Qu'est-ce que la flatterie ?
 
-La flatterie est un pÃÂÃÂ©chÃÂÃÂ© qui consiste ÃÂÃÂ  tromper quelquÃ¢ÂÂun en disant
-faussement du bien de lui ou dÃ¢ÂÂun autre, dans le but dÃ¢ÂÂen retirer
+La flatterie est un péché qui consiste à tromper quelqu'un en disant
+faussement du bien de lui ou d'un autre, dans le but d'en retirer
 quelque avantage.
 
-QuÃ¢ÂÂest-ce que le jugement ou soupÃÂÃÂ§on tÃÂÃÂ©mÃÂÃÂ©raire ?
+Qu'est-ce que le jugement ou soupçon téméraire ?
 
-Le jugement ou le soupÃÂÃÂ§on tÃÂÃÂ©mÃÂÃÂ©raire est un pÃÂÃÂ©chÃÂÃÂ© qui consiste ÃÂÃÂ  mal juger ou
-ÃÂÃÂ  soupÃÂÃÂ§onner de mal le prochain sans un juste motif.
+Le jugement ou le soupçon téméraire est un péché qui consiste à mal juger ou
+à soupçonner de mal le prochain sans un juste motif.
 
-QuÃ¢ÂÂest-ce que le mensonge ?
+Qu'est-ce que le mensonge ?
 
-Le mensonge est un pÃÂÃÂ©chÃÂÃÂ© qui consiste ÃÂÃÂ  affirmer comme vrai ou comme faux,
-par des paroles ou par des actes, ce quÃ¢ÂÂon ne croit pas tel.
+Le mensonge est un péché qui consiste à affirmer comme vrai ou comme faux,
+par des paroles ou par des actes, ce qu'on ne croit pas tel.
 
-De combien dÃ¢ÂÂespÃÂÃÂ¨ces est le mensonge ?
+De combien d'espèces est le mensonge ?
 
-Le mensonge est de trois espÃÂÃÂ¨ces : le mensonge joyeux, le mensonge officieux
+Le mensonge est de trois espèces : le mensonge joyeux, le mensonge officieux
 et le mensonge pernicieux.
 
-QuÃ¢ÂÂest-ce que le mensonge joyeux ?
+Qu'est-ce que le mensonge joyeux ?
 
 Le mensonge joyeux est celui dans lequel on ment par pure plaisanterie et
-sans faire tort ÃÂÃÂ  personne.
+sans faire tort à personne.
 
-QuÃ¢ÂÂest-ce que le mensonge officieux ?
+Qu'est-ce que le mensonge officieux ?
 
-Le mensonge officieux est lÃ¢ÂÂaffirmation dÃ¢ÂÂune chose fausse pour
-sa propre utilitÃÂÃÂ© ou celle dÃ¢ÂÂun autre, mais sans quÃ¢ÂÂil y ait de
-prÃÂÃÂ©judice pour personne.
+Le mensonge officieux est l'affirmation d'une chose fausse pour
+sa propre utilité ou celle d'un autre, mais sans qu'il y ait de
+préjudice pour personne.
 
-QuÃ¢ÂÂest-ce que le mensonge pernicieux ?
+Qu'est-ce que le mensonge pernicieux ?
 
-Le mensonge pernicieux est lÃ¢ÂÂaffirmation dÃ¢ÂÂune chose fausse qui
+Le mensonge pernicieux est l'affirmation d'une chose fausse qui
 fait tort au prochain.
 
 Est-il permis de mentir ?
 
-Il nÃ¢ÂÂest jamais permis de mentir ni par plaisanterie, ni pour son
-propre avantage ni pour celui dÃ¢ÂÂautrui, car cÃ¢ÂÂest une chose
-mauvaise par elle-mÃÂÃÂªme.
+Il n'est jamais permis de mentir ni par plaisanterie, ni pour son
+propre avantage ni pour celui d'autrui, car c'est une chose
+mauvaise par elle-même.
 
-Quel pÃÂÃÂ©chÃÂÃÂ© est le mensonge ?
+Quel péché est le mensonge ?
 
-Quand le mensonge est joyeux ou officieux, cÃ¢ÂÂest un pÃÂÃÂ©chÃÂÃÂ© vÃÂÃÂ©niel ;
-mais sÃ¢ÂÂil est pernicieux, cÃ¢ÂÂest un pÃÂÃÂ©chÃÂÃÂ© mortel si le prÃÂÃÂ©judice
-causÃÂÃÂ© est grave.
+Quand le mensonge est joyeux ou officieux, c'est un péché véniel ;
+mais s'il est pernicieux, c'est un péché mortel si le préjudice
+causé est grave.
 
-Est-il toujours nÃÂÃÂ©cessaire de dire tout ce quÃ¢ÂÂon pense ?
+Est-il toujours nécessaire de dire tout ce qu'on pense ?
 
-Non, cela nÃ¢ÂÂest pas toujours nÃÂÃÂ©cessaire, surtout quand celui qui vous
-interroge nÃ¢ÂÂa pas le droit de savoir ce quÃ¢ÂÂil demande.
+Non, cela n'est pas toujours nécessaire, surtout quand celui qui vous
+interroge n'a pas le droit de savoir ce qu'il demande.
 
-Pour celui qui a pÃÂÃÂ©chÃÂÃÂ© contre le huitiÃÂÃÂ¨me commandement suffit-il quÃ¢ÂÂil
-sÃ¢ÂÂen confesse ?
+Pour celui qui a péché contre le huitième commandement suffit-il qu'il
+s'en confesse ?
 
-Pour celui qui a pÃÂÃÂ©chÃÂÃÂ© contre le huitiÃÂÃÂ¨me commandement, il ne suffit pas
-quÃ¢ÂÂil sÃ¢ÂÂen confesse ; il est obligÃÂÃÂ© de rÃÂÃÂ©tracter ce quÃ¢ÂÂil a
-dit de calomnieux contre le prochain, et de rÃÂÃÂ©parer du mieux quÃ¢ÂÂil le
-peut les dommages quÃ¢ÂÂil lui a causÃÂÃÂ©s.
+Pour celui qui a péché contre le huitième commandement, il ne suffit pas
+qu'il s'en confesse ; il est obligé de rétracter ce qu'il a
+dit de calomnieux contre le prochain, et de réparer du mieux qu'il le
+peut les dommages qu'il lui a causés.
 
-Que nous ordonne le huitiÃÂÃÂ¨me commandement ?
+Que nous ordonne le huitième commandement ?
 
-Le huitiÃÂÃÂ¨me commandement nous ordonne de dire quand il le faut la vÃÂÃÂ©ritÃÂÃÂ©, et
-dÃ¢ÂÂinterprÃÂÃÂ©ter en bien, autant que nous le pouvons, les actions de notre
+Le huitième commandement nous ordonne de dire quand il le faut la vérité, et
+d'interpréter en bien, autant que nous le pouvons, les actions de notre
 prochain.
 
-ÃÂ
+### § 6. Le dixième commandement.
 
-ÃÂ
+Que nous défend le dixième commandement : Tu ne désireras pas le bien
+d'autrui ?
 
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 6. Le dixiÃÂÃÂ¨me commandement.
-
-Que nous dÃÂÃÂ©fend le dixiÃÂÃÂ¨me commandement : Tu ne dÃÂÃÂ©sireras pas le bien
-dÃ¢ÂÂautrui ?
-
-Le dixiÃÂÃÂ¨me commandement : Tu ne dÃÂÃÂ©sireras pas le bien dÃ¢ÂÂautrui, nous
-dÃÂÃÂ©fend le dÃÂÃÂ©sir de priver autrui de son bien et le dÃÂÃÂ©sir dÃ¢ÂÂacquÃÂÃÂ©rir du
+Le dixième commandement : Tu ne désireras pas le bien d'autrui, nous
+défend le désir de priver autrui de son bien et le désir d'acquérir du
 bien par des moyens injustes.
 
-Pourquoi Dieu nous dÃÂÃÂ©fend-il aussi le dÃÂÃÂ©sir du bien dÃ¢ÂÂautrui ?
+Pourquoi Dieu nous défend-il aussi le désir du bien d'autrui ?
 
-Dieu nous dÃÂÃÂ©fend les dÃÂÃÂ©sirs dÃÂÃÂ©rÃÂÃÂ©glÃÂÃÂ©s du bien dÃ¢ÂÂautrui, parce
-quÃ¢ÂÂil veut que nous soyons justes, mÃÂÃÂªme intÃÂÃÂ©rieurement, et que nous nous
-tenions toujours trÃÂÃÂ¨s ÃÂÃÂ©loignÃÂÃÂ©s des actes injustes.
+Dieu nous défend les désirs déréglés du bien d'autrui, parce
+qu'il veut que nous soyons justes, même intérieurement, et que nous nous
+tenions toujours très éloignés des actes injustes.
 
-Que nous ordonne le dixiÃÂÃÂ¨me commandement ?
+Que nous ordonne le dixième commandement ?
 
-Le dixiÃÂÃÂ¨me commandement nous ordonne de nous contenter de lÃ¢ÂÂÃÂÃÂ©tat dans
-lequel Dieu nous a placÃÂÃÂ©s, et de souffrir avec patience la pauvretÃÂÃÂ© quand Dieu
-nous veut dans cet ÃÂÃÂ©tat.
+Le dixième commandement nous ordonne de nous contenter de l'état dans
+lequel Dieu nous a placés, et de souffrir avec patience la pauvreté quand Dieu
+nous veut dans cet état.
 
-Comment un chrÃÂÃÂ©tien peut-il ÃÂÃÂªtre content dans la pauvretÃÂÃÂ© ?
+Comment un chrétien peut-il être content dans la pauvreté ?
 
-Un chrÃÂÃÂ©tien peut ÃÂÃÂªtre content mÃÂÃÂªme dans la pauvretÃÂÃÂ©, en considÃÂÃÂ©rant que le
+Un chrétien peut être content même dans la pauvreté, en considérant que le
 plus grand des biens est une conscience pure et tranquille, que notre vraie
-patrie est le ciel, et que JÃÂÃÂ©sus-Christ sÃ¢ÂÂest fait pauvre par amour pour
-nous et a promis une rÃÂÃÂ©compense spÃÂÃÂ©ciale ÃÂÃÂ  tous ceux qui supportent avec
-patience la pauvretÃÂÃÂ©.
+patrie est le ciel, et que Jésus-Christ s'est fait pauvre par amour pour
+nous et a promis une récompense spéciale à tous ceux qui supportent avec
+patience la pauvreté.
 
-ÃÂ
+## Chapitre 4 Les préceptes de l'Eglise.
 
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂ
-
-## Chapitre 4 Les prÃÂÃÂ©ceptes de lÃ¢ÂÂEglise. ÃÂ  ÃÂ
-
-### ÃÂÃÂ§ 1. Les prÃÂÃÂ©ceptes de lÃ¢ÂÂEglise en gÃÂÃÂ©nÃÂÃÂ©ral.
+### § 1. Les préceptes de l'Eglise en général.
 
 Outre les commandements de Dieu, que devons-nous encore observer ?
 
 En dehors des commandements de Dieu, nous devons encore observer les
-prÃÂÃÂ©ceptes de lÃ¢ÂÂEglise.
+préceptes de l'Eglise.
 
-Sommes-nous obligÃÂÃÂ©s dÃ¢ÂÂobÃÂÃÂ©ir ÃÂÃÂ  lÃ¢ÂÂEglise ?
+Sommes-nous obligés d'obéir à l'Eglise ?
 
-Sans aucun doute nous sommes obligÃÂÃÂ©s dÃ¢ÂÂobÃÂÃÂ©ir ÃÂÃÂ  lÃ¢ÂÂEglise parce
-que JÃÂÃÂ©sus-Christ lui-mÃÂÃÂªme nous lÃ¢ÂÂordonne, et parce que les prÃÂÃÂ©ceptes de
-lÃ¢ÂÂEglise aident ÃÂÃÂ  observer les commandements de Dieu.
+Sans aucun doute nous sommes obligés d'obéir à l'Eglise parce
+que Jésus-Christ lui-même nous l'ordonne, et parce que les préceptes de
+l'Eglise aident à observer les commandements de Dieu.
 
-Quand commence lÃ¢ÂÂobligation dÃ¢ÂÂobserver les prÃÂÃÂ©ceptes de
-lÃ¢ÂÂEglise ?
+Quand commence l'obligation d'observer les préceptes de
+l'Eglise ?
 
-LÃ¢ÂÂobligation dÃ¢ÂÂobserver les prÃÂÃÂ©ceptes de lÃ¢ÂÂEglise commence
-gÃÂÃÂ©nÃÂÃÂ©ralement quand on a lÃ¢ÂÂusage de la raison.
+L'obligation d'observer les préceptes de l'Eglise commence
+généralement quand on a l'usage de la raison.
 
-Est-ce un pÃÂÃÂ©chÃÂÃÂ© de transgresser un prÃÂÃÂ©cepte de lÃ¢ÂÂEglise ?
+Est-ce un péché de transgresser un précepte de l'Eglise ?
 
-Transgresser dÃÂÃÂ©libÃÂÃÂ©rÃÂÃÂ©ment un prÃÂÃÂ©cepte de lÃ¢ÂÂEglise en matiÃÂÃÂ¨re grave est
-un pÃÂÃÂ©chÃÂÃÂ© mortel.
+Transgresser délibérément un précepte de l'Eglise en matière grave est
+un péché mortel.
 
-Qui peut dispenser dÃ¢ÂÂun prÃÂÃÂ©cepte de lÃ¢ÂÂEglise ?
+Qui peut dispenser d'un précepte de l'Eglise ?
 
-Il nÃ¢ÂÂy a que le Pape qui puisse dispenser des prÃÂÃÂ©ceptes de
-lÃ¢ÂÂEglise, et ceux ÃÂÃÂ  qui il en a donnÃÂÃÂ© le pouvoir.
+Il n'y a que le Pape qui puisse dispenser des préceptes de
+l'Eglise, et ceux à qui il en a donné le pouvoir.
 
-Combien y a-t-il de prÃÂÃÂ©ceptes de lÃ¢ÂÂEglise, et quels sont-ils ?
+Combien y a-t-il de préceptes de l'Eglise, et quels sont-ils ?
 
-Les prÃÂÃÂ©ceptes de lÃ¢ÂÂEglise sont au nombre de cinq :
+Les préceptes de l'Eglise sont au nombre de cinq :
 
-1 Entendre la messe tous les dimanches et les autres fÃÂÃÂªtes commandÃÂÃÂ©es.
+1 Entendre la messe tous les dimanches et les autres fêtes commandées.
 
-2 JeÃÂÃÂ»ner pendant le CarÃÂÃÂªme, aux quatre-temps et pour les Vigiles commandÃÂÃÂ©es
-; ne pas manger de viande les jours dÃÂÃÂ©fendus.
+2 Jeûner pendant le Carême, aux quatre-temps et pour les Vigiles commandées
+; ne pas manger de viande les jours défendus.
 
-3 Se confesser au moins une fois lÃ¢ÂÂan et communier ÃÂÃÂ  PÃÂÃÂ¢ques, chacun
+3 Se confesser au moins une fois l'an et communier à Pâques, chacun
 dans sa paroisse.
 
-4 Payer les dÃÂÃÂ®mes dues ÃÂÃÂ  lÃ¢ÂÂEglise, selon les usages.
+4 Payer les dîmes dues à l'Eglise, selon les usages.
 
-5 Ne pas cÃÂÃÂ©lÃÂÃÂ©brer de mariages en temps prohibÃÂÃÂ©, cÃ¢ÂÂest-ÃÂÃÂ -dire du
-premier dimanche de lÃ¢ÂÂAvent ÃÂÃÂ  lÃ¢ÂÂEpiphanie et du premier jour de
-CarÃÂÃÂªme ÃÂÃÂ  lÃ¢ÂÂoctave de PÃÂÃÂ¢ques.
+5 Ne pas célébrer de mariages en temps prohibé, c'est-à-dire du
+premier dimanche de l'Avent à l'Epiphanie et du premier jour de
+Carême à l'octave de Pâques.
 
-ÃÂ
+### § 2. Le premier précepte de l'Eglise.
 
-ÃÂ
+Que nous ordonne le premier précepte ou commandement de l'Eglise :
+Entendre la messe tous les dimanches et les autres fêtes commandées ?
 
-[Haut du document](#_top)
+Le premier précepte de l'Eglise : Entendre la messe tous les dimanches
+e t les autres fêtes commandées, nous ordonne d'assister avec dévotion à
+la sainte Messe tous les dimanches et autres fêtes de précepte.
 
-ÃÂ
+Quelle est la messe à laquelle l'Eglise désire qu'on assiste les
+dimanches et autres fêtes d'obligation ?
 
-### ÃÂÃÂ§ 2. Le premier prÃÂÃÂ©cepte de lÃ¢ÂÂEglise.
-
-Que nous ordonne le premier prÃÂÃÂ©cepte ou commandement de lÃ¢ÂÂEglise :
-Entendre la messe tous les dimanches et les autres fÃÂÃÂªtes commandÃÂÃÂ©es ?
-
-Le premier prÃÂÃÂ©cepte de lÃ¢ÂÂEglise : Entendre la messe tous les dimanches
-e t les autres fÃÂÃÂªtes commandÃÂÃÂ©es, nous ordonne dÃ¢ÂÂassister avec dÃÂÃÂ©votion ÃÂÃÂ
-la sainte Messe tous les dimanches et autres fÃÂÃÂªtes de prÃÂÃÂ©cepte.
-
-Quelle est la messe ÃÂÃÂ  laquelle lÃ¢ÂÂEglise dÃÂÃÂ©sire quÃ¢ÂÂon assiste les
-dimanches et autres fÃÂÃÂªtes dÃ¢ÂÂobligation ?
-
-La Messe ÃÂÃÂ  laquelle lÃ¢ÂÂEglise dÃÂÃÂ©sire quÃ¢ÂÂon assiste, autant que
-possible, les dimanches et autres fÃÂÃÂªtes dÃ¢ÂÂobligation est la Messe
+La Messe à laquelle l'Eglise désire qu'on assiste, autant que
+possible, les dimanches et autres fêtes d'obligation est la Messe
 paroissiale.
 
-Pourquoi lÃ¢ÂÂEglise recommande-t-elle aux fidÃÂÃÂ¨les dÃ¢ÂÂassister ÃÂÃÂ  la
+Pourquoi l'Eglise recommande-t-elle aux fidèles d'assister à la
 Messe paroissiale ?
 
-LÃ¢ÂÂEglise recommande aux fidÃÂÃÂ¨les dÃ¢ÂÂassister ÃÂÃÂ  la Messe
+L'Eglise recommande aux fidèles d'assister à la Messe
 paroissiale :
 
-1 afin que ceux qui appartiennent ÃÂÃÂ  la mÃÂÃÂªme paroisse sÃ¢ÂÂunissent pour
-prier ensemble avec le curÃÂÃÂ© qui est leur chef ;
+1 afin que ceux qui appartiennent à la même paroisse s'unissent pour
+prier ensemble avec le curé qui est leur chef ;
 
 2 afin que les paroissiens participent davantage au saint Sacrifice qui est
-spÃÂÃÂ©cialement appliquÃÂÃÂ© pour eux ;
+spécialement appliqué pour eux ;
 
-3 afin quÃ¢ÂÂils entendent les vÃÂÃÂ©ritÃÂÃÂ©s de lÃ¢ÂÂEvangile que les curÃÂÃÂ©s
-ont lÃ¢ÂÂobligation dÃ¢ÂÂexposer ÃÂÃÂ  la Sainte Messe ;
+3 afin qu'ils entendent les vérités de l'Evangile que les curés
+ont l'obligation d'exposer à la Sainte Messe ;
 
-4 afin quÃ¢ÂÂils connaissent les prescriptions et les avis qui sont
-publiÃÂÃÂ©s ÃÂÃÂ  cette Messe.
+4 afin qu'ils connaissent les prescriptions et les avis qui sont
+publiés à cette Messe.
 
 Que veut dire le mot : dimanche ?
 
-Le mot dimanche veut dire jour du Seigneur, cÃ¢ÂÂest-ÃÂÃÂ -dire jour
-spÃÂÃÂ©cialement consacrÃÂÃÂ© au service divin.
+Le mot dimanche veut dire jour du Seigneur, c'est-à-dire jour
+spécialement consacré au service divin.
 
-Pourquoi dans le premier commandement de lÃ¢ÂÂEglise est-il fait une
-mention spÃÂÃÂ©ciale du dimanche ?
+Pourquoi dans le premier commandement de l'Eglise est-il fait une
+mention spéciale du dimanche ?
 
-Dans le premier commandement de lÃ¢ÂÂEglise il est fait une mention
-spÃÂÃÂ©ciale du dimanche, parce quÃ¢ÂÂil est la fÃÂÃÂªte principale chez les
-chrÃÂÃÂ©tiens comme le sabbat (samedi) ÃÂÃÂ©tait fÃÂÃÂªte principale chez les Juifs, par
-lÃ¢ÂÂinstitution de Dieu lui-mÃÂÃÂªme.
+Dans le premier commandement de l'Eglise il est fait une mention
+spéciale du dimanche, parce qu'il est la fête principale chez les
+chrétiens comme le sabbat (samedi) était fête principale chez les Juifs, par
+l'institution de Dieu lui-même.
 
-Quelles autres fÃÂÃÂªtes a instituÃÂÃÂ©es lÃ¢ÂÂEglise ?
+Quelles autres fêtes a instituées l'Eglise ?
 
-LÃ¢ÂÂEglise a instituÃÂÃÂ© aussi les fÃÂÃÂªtes de Notre Seigneur, de la trÃÂÃÂ¨s
+L'Eglise a institué aussi les fêtes de Notre Seigneur, de la très
 Sainte Vierge, des Anges et des Saints.
 
-Pourquoi lÃ¢ÂÂEglise a-t-elle instituÃÂÃÂ© dÃ¢ÂÂautres fÃÂÃÂªtes de Notre
+Pourquoi l'Eglise a-t-elle institué d'autres fêtes de Notre
 Seigneur ?
 
-LÃ¢ÂÂEglise a instituÃÂÃÂ© dÃ¢ÂÂautres fÃÂÃÂªtes de Notre Seigneur en souvenir
-de ses divins mystÃÂÃÂ¨res.
+L'Eglise a institué d'autres fêtes de Notre Seigneur en souvenir
+de ses divins mystères.
 
-Pourquoi ont ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ©es les fÃÂÃÂªtes de la trÃÂÃÂ¨s Sainte ViergeÃ¢ÂÂ des
+Pourquoi ont été instituées les fêtes de la très Sainte Vierge' des
 Anges et des Saints ?
 
-Les fÃÂÃÂªtes de la TrÃÂÃÂ¨s Sainte Vierge, des Anges et des Saints ont ÃÂÃÂ©tÃÂÃÂ©
-instituÃÂÃÂ©es :
+Les fêtes de la Très Sainte Vierge, des Anges et des Saints ont été
+instituées :
 
-1 en souvenir des grÃÂÃÂ¢ces que Dieu leur a faites et pour en remercier la
-divine bontÃÂÃÂ© ;
+1 en souvenir des grâces que Dieu leur a faites et pour en remercier la
+divine bonté ;
 
 2 afin que nous les honorions, que nous imitions leurs exemples et que nous
-obtenions le secours de leurs priÃÂÃÂ¨res.
+obtenions le secours de leurs prières.
 
-ÃÂ
+### § 3. Le second précepte de l'Eglise.
 
-[Haut du document](#_top)
+Que nous ordonne le second précepte de l'Eglise par les mots : Jeûner
+aux jours commandés ?
 
-ÃÂ
+Le second précepte de l'Eglise par les mots : Jeûner aux jours
+commandés nous ordonne de jeûner :
 
-### ÃÂÃÂ§ 3. Le second prÃÂÃÂ©cepte de lÃ¢ÂÂEglise.
+1 pendant le Carême ;
 
-Que nous ordonne le second prÃÂÃÂ©cepte de lÃ¢ÂÂEglise par les mots : JeÃÂÃÂ»ner
-aux jours commandÃÂÃÂ©s ?
-
-Le second prÃÂÃÂ©cepte de lÃ¢ÂÂEglise par les mots : JeÃÂÃÂ»ner aux jours
-commandÃÂÃÂ©s nous ordonne de jeÃÂÃÂ»ner :
-
-1 pendant le CarÃÂÃÂªme ;
-
-2 ÃÂÃÂ  certains jours de lÃ¢ÂÂAvent, lÃÂÃÂ  oÃÂÃÂ¹ le jeÃÂÃÂ»ne est prescrit ;
+2 à certains jours de l'Avent, là où le jeûne est prescrit ;
 
 3 aux quatre-temps ;
 
-4 ÃÂÃÂ  certaines Vigiles.
+4 à certaines Vigiles.
 
-En quoi consiste le jeÃÂÃÂ»ne ?
+En quoi consiste le jeûne ?
 
-Le jeÃÂÃÂ»ne consiste ÃÂÃÂ  ne faire quÃ¢ÂÂun seul repas par jour et ÃÂÃÂ
-sÃ¢ÂÂabstenir des aliments dÃÂÃÂ©fendus.
+Le jeûne consiste à ne faire qu'un seul repas par jour et à
+s'abstenir des aliments défendus.
 
-Aux jours de jeÃÂÃÂ»ne, peut-on faire le soir une petite collation ?
+Aux jours de jeûne, peut-on faire le soir une petite collation ?
 
-Par une condescendance de lÃ¢ÂÂEglise on peut, les jours de jeÃÂÃÂ»ne, faire
+Par une condescendance de l'Eglise on peut, les jours de jeûne, faire
 le soir une petite collation.
 
-A quoi sert le jeÃÂÃÂ»ne ?
+A quoi sert le jeûne ?
 
-Le jeÃÂÃÂ»ne sert ÃÂÃÂ  mieux nous prÃÂÃÂ©parer ÃÂÃÂ  la priÃÂÃÂ¨re, ÃÂÃÂ  faire pÃÂÃÂ©nitence des
-pÃÂÃÂ©chÃÂÃÂ©s commis, et ÃÂÃÂ  nous prÃÂÃÂ©server dÃ¢ÂÂen commettre de nouveaux.
+Le jeûne sert à mieux nous préparer à la prière, à faire pénitence des
+péchés commis, et à nous préserver d'en commettre de nouveaux.
 
-Qui est obligÃÂÃÂ© au jeÃÂÃÂ»ne ?
+Qui est obligé au jeûne ?
 
-Sont obligÃÂÃÂ©s au jeÃÂÃÂ»ne tous les chrÃÂÃÂ©tiens qui ont vingt et un ans accomplis,
-et qui ne sont ni dispensÃÂÃÂ©s ni excusÃÂÃÂ©s par un empÃÂÃÂªchement lÃÂÃÂ©gitime.
+Sont obligés au jeûne tous les chrétiens qui ont vingt et un ans accomplis,
+et qui ne sont ni dispensés ni excusés par un empêchement légitime.
 
-Ceux qui ne sont pas obligÃÂÃÂ©s au jeÃÂÃÂ»ne sont-ils absolument dispensÃÂÃÂ©s de toute
+Ceux qui ne sont pas obligés au jeûne sont-ils absolument dispensés de toute
 mortification ?
 
-Ceux qui ne sont pas obligÃÂÃÂ©s au jeÃÂÃÂ»ne ne sont pas absolument dispensÃÂÃÂ©s de
-toute mortification, parce que nous sommes tous obligÃÂÃÂ©s ÃÂÃÂ  faire pÃÂÃÂ©nitence.
+Ceux qui ne sont pas obligés au jeûne ne sont pas absolument dispensés de
+toute mortification, parce que nous sommes tous obligés à faire pénitence.
 
-Dans quel but a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© le CarÃÂÃÂªme ?
+Dans quel but a été institué le Carême ?
 
-Le CarÃÂÃÂªme a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© pour imiter en quelque faÃÂÃÂ§on le jeÃÂÃÂ»ne rigoureux de
-quarante jours que JÃÂÃÂ©sus-Christ fit dans le dÃÂÃÂ©sert, et pour nous prÃÂÃÂ©parer par
-la pÃÂÃÂ©nitence ÃÂÃÂ  cÃÂÃÂ©lÃÂÃÂ©brer saintement la fÃÂÃÂªte de PÃÂÃÂ¢ques.
+Le Carême a été institué pour imiter en quelque façon le jeûne rigoureux de
+quarante jours que Jésus-Christ fit dans le désert, et pour nous préparer par
+la pénitence à célébrer saintement la fête de Pâques.
 
-Dans quel but a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© le jeÃÂÃÂ»ne de lÃ¢ÂÂAvent ?
+Dans quel but a été institué le jeûne de l'Avent ?
 
-Le jeÃÂÃÂ»ne de lÃ¢ÂÂAvent a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© pour nous disposer ÃÂÃÂ  cÃÂÃÂ©lÃÂÃÂ©brer saintement
-la fÃÂÃÂªte de NoÃÂÃÂ«l.
+Le jeûne de l'Avent a été institué pour nous disposer à célébrer saintement
+la fête de Noël.
 
-Dans quel but a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© le jeÃÂÃÂ»ne des quatre-temps ?
+Dans quel but a été institué le jeûne des quatre-temps ?
 
-Le jeÃÂÃÂ»ne des quatre-temps a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© :
+Le jeûne des quatre-temps a été institué :
 
-pour consacrer chaque saison de lÃ¢ÂÂannÃÂÃÂ©e par une pÃÂÃÂ©nitence de quelques
+pour consacrer chaque saison de l'année par une pénitence de quelques
 jours ;
 
-pour demander ÃÂÃÂ  Dieu la conservation des fruits de la terre ;
+pour demander à Dieu la conservation des fruits de la terre ;
 
-pour le remercier des fruits quÃ¢ÂÂil nous a dÃÂÃÂ©jÃÂÃÂ  donnÃÂÃÂ©s ;
+pour le remercier des fruits qu'il nous a déjà donnés ;
 
-et pour le prier de donner ÃÂÃÂ  son Eglise de saints ministres, dont
-lÃ¢ÂÂordination est faite les samedis des quatre-temps.
+et pour le prier de donner à son Eglise de saints ministres, dont
+l'ordination est faite les samedis des quatre-temps.
 
-Dans quel but a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© le jeÃÂÃÂ»ne des Vigiles ?
+Dans quel but a été institué le jeûne des Vigiles ?
 
-Le jeÃÂÃÂ»ne des Vigiles a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© pour nous prÃÂÃÂ©parer ÃÂÃÂ  cÃÂÃÂ©lÃÂÃÂ©brer saintement
-les fÃÂÃÂªtes principales.
+Le jeûne des Vigiles a été institué pour nous préparer à célébrer saintement
+les fêtes principales.
 
-QuÃ¢ÂÂest-ce qui nous est dÃÂÃÂ©fendu le vendredi et les samedis oÃÂÃÂ¹ il
-nÃ¢ÂÂy a pas de dispense ?
+Qu'est-ce qui nous est défendu le vendredi et les samedis où il
+n'y a pas de dispense ?
 
-Le vendredi et les samedis oÃÂÃÂ¹ il nÃ¢ÂÂy a pas de dispense, il nous est
-dÃÂÃÂ©fendu de manger de la viande, sauf en cas de nÃÂÃÂ©cessitÃÂÃÂ©.
+Le vendredi et les samedis où il n'y a pas de dispense, il nous est
+défendu de manger de la viande, sauf en cas de nécessité.
 
-Pourquoi lÃ¢ÂÂEglise a-t-elle voulu que nous nous abstenions ces jours-lÃÂÃÂ
+Pourquoi l'Eglise a-t-elle voulu que nous nous abstenions ces jours-là
 de manger de la viande ?
 
-Afin que nous fassions pÃÂÃÂ©nitence chaque semaine. et surtout le vendredi en
-lÃ¢ÂÂhonneur de la Passion, et le samedi en souvenir de la sÃÂÃÂ©pulture de
-JÃÂÃÂ©sus-Christ, et en lÃ¢ÂÂhonneur de la TrÃÂÃÂ¨s Sainte Vierge.
+Afin que nous fassions pénitence chaque semaine. et surtout le vendredi en
+l'honneur de la Passion, et le samedi en souvenir de la sépulture de
+Jésus-Christ, et en l'honneur de la Très Sainte Vierge.
 
-ÃÂ
+### § 4. Le troisième précepte de l'Eglise.
 
-ÃÂ
+Que nous commande l'Eglise par les paroles du troisième précepte : Se
+confesser au moins une fois l'an ?
 
-[Haut du document](#_top)
+Par les paroles du troisième précepte : Se confesser au moins une fois
+l'an, l'Eglise oblige tous les chrétiens qui sont arrivés à
+l'usage de la raison de l'approcher au moins une fois l'an du
+sacrement de Pénitence.
 
-ÃÂ
-
-### ÃÂÃÂ§ 4. Le troisiÃÂÃÂ¨me prÃÂÃÂ©cepte de lÃ¢ÂÂEglise.
-
-Que nous commande lÃ¢ÂÂEglise par les paroles du troisiÃÂÃÂ¨me prÃÂÃÂ©cepte : Se
-confesser au moins une fois lÃ¢ÂÂan ?
-
-Par les paroles du troisiÃÂÃÂ¨me prÃÂÃÂ©cepte : Se confesser au moins une fois
-lÃ¢ÂÂan, lÃ¢ÂÂEglise oblige tous les chrÃÂÃÂ©tiens qui sont arrivÃÂÃÂ©s ÃÂÃÂ
-lÃ¢ÂÂusage de la raison de lÃ¢ÂÂapprocher au moins une fois lÃ¢ÂÂan du
-sacrement de PÃÂÃÂ©nitence.
-
-Quel est le temps le plus opportun pour satisfaire au prÃÂÃÂ©cepte de la
+Quel est le temps le plus opportun pour satisfaire au précepte de la
 Confession annuelle ?
 
-Le temps le plus opportun pour satisfaire au prÃÂÃÂ©cepte de la Confession
-annuelle est le CarÃÂÃÂªme, selon lÃ¢ÂÂusage introduit et approuvÃÂÃÂ© dans toute
-lÃ¢ÂÂEglise.
+Le temps le plus opportun pour satisfaire au précepte de la Confession
+annuelle est le Carême, selon l'usage introduit et approuvé dans toute
+l'Eglise.
 
-Pourquoi lÃ¢ÂÂEglise dit-elle que nous nous confessions au moins une fois
-lÃ¢ÂÂan ?
+Pourquoi l'Eglise dit-elle que nous nous confessions au moins une fois
+l'an ?
 
-LÃ¢ÂÂEglise dit : au moins, pour nous faire connaÃÂÃÂ®tre son dÃÂÃÂ©sir que nous
+L'Eglise dit : au moins, pour nous faire connaître son désir que nous
 nous approchions plus souvent des sacrements.
 
-CÃ¢ÂÂest donc une chose utile de se confesser souvent ?
+C'est donc une chose utile de se confesser souvent ?
 
-CÃ¢ÂÂest une chose trÃÂÃÂ¨s utile de se confesser souvent, surtout parce quÃ¢ÂÂil
-est difficile de se bien confesser et de se tenir ÃÂÃÂ©loignÃÂÃÂ© du pÃÂÃÂ©chÃÂÃÂ© mortel si
-lÃ¢ÂÂon se confesse rarement.
+C'est une chose très utile de se confesser souvent, surtout parce qu'il
+est difficile de se bien confesser et de se tenir éloigné du péché mortel si
+l'on se confesse rarement.
 
-Que nous prescrit lÃ¢ÂÂEglise par les autres paroles du troisiÃÂÃÂ¨me
-prÃÂÃÂ©cepte Communier au moins ÃÂÃÂ  PÃÂÃÂ¢ques, chacun dans sa paroisse ?
+Que nous prescrit l'Eglise par les autres paroles du troisième
+précepte Communier au moins à Pâques, chacun dans sa paroisse ?
 
-Par les autres paroles du troisiÃÂÃÂ¨me prÃÂÃÂ©cepte : communier au moins ÃÂÃÂ  PÃÂÃÂ¢ques
-chacun dans sa paroisse, lÃ¢ÂÂEglise oblige tous les chrÃÂÃÂ©tiens qui sont
-arrivÃÂÃÂ©s ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ¢ge de discrÃÂÃÂ©tion, ÃÂÃÂ  recevoir tous les ans la trÃÂÃÂ¨s sainte
+Par les autres paroles du troisième précepte : communier au moins à Pâques
+chacun dans sa paroisse, l'Eglise oblige tous les chrétiens qui sont
+arrivés à l'âge de discrétion, à recevoir tous les ans la très sainte
 Eucharistie, dans leur paroisse, pendant le temps pascal.
 
-Y a-t-il un autre temps en dehors de PÃÂÃÂ¢ques, oÃÂÃÂ¹ nous soyons obligÃÂÃÂ©s de
+Y a-t-il un autre temps en dehors de Pâques, où nous soyons obligés de
 communier ?
 
-Nous sommes obligÃÂÃÂ©s de communier aussi quand nous Sommes en danger de mort.
+Nous sommes obligés de communier aussi quand nous Sommes en danger de mort.
 
-Pourquoi est-il dit que nous devons communier au moins ÃÂÃÂ  PÃÂÃÂ¢ques ?
+Pourquoi est-il dit que nous devons communier au moins à Pâques ?
 
-Parce que lÃ¢ÂÂEglise dÃÂÃÂ©sire vivement que non seulement ÃÂÃÂ  PÃÂÃÂ¢ques, mais le
+Parce que l'Eglise désire vivement que non seulement à Pâques, mais le
 plus souvent possible, nous nous approchions de la sainte Communion qui est la
-divine nourriture de nos ÃÂÃÂ¢mes.
+divine nourriture de nos âmes.
 
-Satisfait-on ÃÂÃÂ  ce prÃÂÃÂ©cepte par une confession ou une communion sacrilÃÂÃÂ¨ge ?
+Satisfait-on à ce précepte par une confession ou une communion sacrilège ?
 
-On ne satisfait pas au troisiÃÂÃÂ¨me prÃÂÃÂ©cepte de lÃ¢ÂÂEglise par une
-confession ou une communion sacrilÃÂÃÂ¨ge, parce que lÃ¢ÂÂintention de
-lÃ¢ÂÂEglise est quÃ¢ÂÂon reÃÂÃÂ§oive ces sacrements pour la fin qui a motivÃÂÃÂ©
-leur institution, cÃ¢ÂÂest-ÃÂÃÂ -dire pour notre sanctification.
+On ne satisfait pas au troisième précepte de l'Eglise par une
+confession ou une communion sacrilège, parce que l'intention de
+l'Eglise est qu'on reçoive ces sacrements pour la fin qui a motivé
+leur institution, c'est-à-dire pour notre sanctification.
 
-ÃÂ
+### § 5. Le quatrième précepte de l'Eglise.
 
-[Haut du document](#_top)
+Comment observe-t-on le quatrième précepte de l'Eglise : Payer les
+dîmes dues à l'Eglise ?
 
-ÃÂ
+Le quatrième précepte : Payer les dîmes dues à l'Eglise,
+s'observe en payant les offrandes ou prestations qui ont été établies
+pour reconnaître le souverain domaine de Dieu sur toutes choses, et pour
+pourvoir à l'honnête subsistance de ses ministres.
 
-### ÃÂÃÂ§ 5. Le quatriÃÂÃÂ¨me prÃÂÃÂ©cepte de lÃ¢ÂÂEglise.
+Comment doit-on payer les dîmes ?
 
-Comment observe-t-on le quatriÃÂÃÂ¨me prÃÂÃÂ©cepte de lÃ¢ÂÂEglise : Payer les
-dÃÂÃÂ®mes dues ÃÂÃÂ  lÃ¢ÂÂEglise ?
+On doit payer les dîmes sur les choses et de la manière que comporte
+l'habitude des lieux.
 
-Le quatriÃÂÃÂ¨me prÃÂÃÂ©cepte : Payer les dÃÂÃÂ®mes dues ÃÂÃÂ  lÃ¢ÂÂEglise,
-sÃ¢ÂÂobserve en payant les offrandes ou prestations qui ont ÃÂÃÂ©tÃÂÃÂ© ÃÂÃÂ©tablies
-pour reconnaÃÂÃÂ®tre le souverain domaine de Dieu sur toutes choses, et pour
-pourvoir ÃÂÃÂ  lÃ¢ÂÂhonnÃÂÃÂªte subsistance de ses ministres.
+### § 6. Le cinquième précepte de l'Eglise.
 
-Comment doit-on payer les dÃÂÃÂ®mes ?
+Que nous défend l'Eglise par le cinquième précepte : Ne pas célébrer
+de mariage en temps prohibé ?
 
-On doit payer les dÃÂÃÂ®mes sur les choses et de la maniÃÂÃÂ¨re que comporte
-lÃ¢ÂÂhabitude des lieux.
+Par le cinquième précepte l'Eglise ne défend pas la célébration du
+sacrement de Mariage, mais seulement la solennité des mariages, du premier
+dimanche de l'Avent à l'Epiphanie et du premier jour de Carême à
+l'Octave de pâques.
 
-ÃÂ
+En quoi consiste cette solennité des mariages ?
 
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 6. Le cinquiÃÂÃÂ¨me prÃÂÃÂ©cepte de lÃ¢ÂÂEglise.
-
-Que nous dÃÂÃÂ©fend lÃ¢ÂÂEglise par le cinquiÃÂÃÂ¨me prÃÂÃÂ©cepte : Ne pas cÃÂÃÂ©lÃÂÃÂ©brer
-de mariage en temps prohibÃÂÃÂ© ?
-
-Par le cinquiÃÂÃÂ¨me prÃÂÃÂ©cepte lÃ¢ÂÂEglise ne dÃÂÃÂ©fend pas la cÃÂÃÂ©lÃÂÃÂ©bration du
-sacrement de Mariage, mais seulement la solennitÃÂÃÂ© des mariages, du premier
-dimanche de lÃ¢ÂÂAvent ÃÂÃÂ  lÃ¢ÂÂEpiphanie et du premier jour de CarÃÂÃÂªme ÃÂÃÂ
-lÃ¢ÂÂOctave de pÃÂÃÂ¢ques.
-
-En quoi consiste cette solennitÃÂÃÂ© des mariages ?
-
-La solennitÃÂÃÂ© des mariages prohibÃÂÃÂ©e par ce prÃÂÃÂ©cepte consiste dans la Messe
-propre pour les ÃÂÃÂ©poux, dans la bÃÂÃÂ©nÃÂÃÂ©diction nuptiale, et dans la pompe
+La solennité des mariages prohibée par ce précepte consiste dans la Messe
+propre pour les époux, dans la bénédiction nuptiale, et dans la pompe
 extraordinaire des mariages.
 
-Pourquoi les mariages solennels ne conviennent-ils pas pendant lÃ¢ÂÂAvent
-et le CarÃÂÃÂªme ?
+Pourquoi les mariages solennels ne conviennent-ils pas pendant l'Avent
+et le Carême ?
 
-Les mariages solennels ne conviennent pas pendant lÃ¢ÂÂAvent et le
-CarÃÂÃÂªme, parce que ce sont des temps spÃÂÃÂ©cialement consacrÃÂÃÂ©s ÃÂÃÂ  la pÃÂÃÂ©nitence et ÃÂÃÂ
-la priÃÂÃÂ¨re.
+Les mariages solennels ne conviennent pas pendant l'Avent et le
+Carême, parce que ce sont des temps spécialement consacrés à la pénitence et à
+la prière.
 
-ÃÂ
+## Chapitre 5 Les devoirs particuliers de chaque état et les conseils évangéliques.
 
-ÃÂ
+### § 1. Les devoirs d'état.
 
-[Haut du document](#_top)
+Qu'est-ce que les devoirs d'état ?
 
-ÃÂ
+Par devoir d'état on entend les obligations particulières que chacun a
+par suite de son état, de sa condition et de la situation qu'il occupe.
 
-## Chapitre 5 Les devoirs particuliers de chaque ÃÂÃÂ©tat et les conseils ÃÂÃÂ©vangÃÂÃÂ©liques. ÃÂ  ÃÂ
+Qui a imposé aux divers états leurs devoirs particuliers ?
 
-### ÃÂÃÂ§ 1. Les devoirs dÃ¢ÂÂÃÂÃÂ©tat.
+C'est Dieu qui a imposé aux divers états leurs devoirs particuliers,
+parce que ces devoirs dérivent de ses divins commandements.
 
-QuÃ¢ÂÂest-ce que les devoirs dÃ¢ÂÂÃÂÃÂ©tat ?
+Comment les devoirs particuliers dérivent-ils des dix commandements ?
 
-Par devoir dÃ¢ÂÂÃÂÃÂ©tat on entend les obligations particuliÃÂÃÂ¨res que chacun a
-par suite de son ÃÂÃÂ©tat, de sa condition et de la situation quÃ¢ÂÂil occupe.
+Par exemple, dans le quatrième commandement, sous le nom de père et de mère,
+sont compris encore tous nos supérieurs, et ainsi de ce commandement dérivent
+tous les devoirs d'obéissance, d'amour et de respect des inférieurs
+envers leurs supérieurs, et tous les devoirs de vigilance qu'ont les
+supérieurs envers leurs inférieurs.
 
-Qui a imposÃÂÃÂ© aux divers ÃÂÃÂ©tats leurs devoirs particuliers ?
+De quels commandements dérivent les devoirs des ouvriers, des commerçants,
+de ceux qui administrent les biens d'autrui et autres semblables ?
 
-CÃ¢ÂÂest Dieu qui a imposÃÂÃÂ© aux divers ÃÂÃÂ©tats leurs devoirs particuliers,
-parce que ces devoirs dÃÂÃÂ©rivent de ses divins commandements.
+Les devoirs de fidélité, de sincérité, de justice, d'équité
+qu'ils ont, dérivent du septième, du huitième et du dixième commandements
+qui défendent toute fraude, injustice, négligence et duplicité.
 
-Comment les devoirs particuliers dÃÂÃÂ©rivent-ils des dix commandements ?
+De quel commandement dérivent les devoirs des personnes consacrées à Dieu ?
 
-Par exemple, dans le quatriÃÂÃÂ¨me commandement, sous le nom de pÃÂÃÂ¨re et de mÃÂÃÂ¨re,
-sont compris encore tous nos supÃÂÃÂ©rieurs, et ainsi de ce commandement dÃÂÃÂ©rivent
-tous les devoirs dÃ¢ÂÂobÃÂÃÂ©issance, dÃ¢ÂÂamour et de respect des infÃÂÃÂ©rieurs
-envers leurs supÃÂÃÂ©rieurs, et tous les devoirs de vigilance quÃ¢ÂÂont les
-supÃÂÃÂ©rieurs envers leurs infÃÂÃÂ©rieurs.
+Les devoirs des personnes consacrées à Dieu dérivent du second commandement
+qui ordonne d'accomplir les vœux et les promesses faites à Dieu :
+car c'est ainsi que ces personnes se sont obligées à l'observation
+de tous les conseils évangéliques ou de quelques-uns.
 
-De quels commandements dÃÂÃÂ©rivent les devoirs des ouvriers, des commerÃÂÃÂ§ants,
-de ceux qui administrent les biens dÃ¢ÂÂautrui et autres semblables ?
+### § 2. Les conseils évangéliques.
 
-Les devoirs de fidÃÂÃÂ©litÃÂÃÂ©, de sincÃÂÃÂ©ritÃÂÃÂ©, de justice, dÃ¢ÂÂÃÂÃÂ©quitÃÂÃÂ©
-quÃ¢ÂÂils ont, dÃÂÃÂ©rivent du septiÃÂÃÂ¨me, du huitiÃÂÃÂ¨me et du dixiÃÂÃÂ¨me commandements
-qui dÃÂÃÂ©fendent toute fraude, injustice, nÃÂÃÂ©gligence et duplicitÃÂÃÂ©.
+Qu'est-ce que les conseils évangéliques ?
 
-De quel commandement dÃÂÃÂ©rivent les devoirs des personnes consacrÃÂÃÂ©es ÃÂÃÂ  Dieu ?
+Les conseils évangéliques sont certains moyens suggérés par Jésus-Christ
+dans le saint Evangile pour atteindre la perfection chrétienne.
 
-Les devoirs des personnes consacrÃÂÃÂ©es ÃÂÃÂ  Dieu dÃÂÃÂ©rivent du second commandement
-qui ordonne dÃ¢ÂÂaccomplir les vÃÂux et les promesses faites ÃÂÃÂ  Dieu :
-car cÃ¢ÂÂest ainsi que ces personnes se sont obligÃÂÃÂ©es ÃÂÃÂ  lÃ¢ÂÂobservation
-de tous les conseils ÃÂÃÂ©vangÃÂÃÂ©liques ou de quelques-uns.
+Quels sont les conseils évangéliques ?
 
-ÃÂ
+Les conseils évangéliques sont : la pauvreté volontaire, la chasteté
+perpétuelle et l'obéissance en tout ce qui n'est pas péché.
 
-ÃÂ
+A quoi servent les conseils évangéliques ?
 
-[Haut du document](#_top)
+Les conseils évangéliques servent à faciliter l'observation des
+commandements et à mieux assurer le salut éternel.
 
-ÃÂ
-
-### ÃÂÃÂ§ 2. Les conseils ÃÂÃÂ©vangÃÂÃÂ©liques.
-
-QuÃ¢ÂÂest-ce que les conseils ÃÂÃÂ©vangÃÂÃÂ©liques ?
-
-Les conseils ÃÂÃÂ©vangÃÂÃÂ©liques sont certains moyens suggÃÂÃÂ©rÃÂÃÂ©s par JÃÂÃÂ©sus-Christ
-dans le saint Evangile pour atteindre la perfection chrÃÂÃÂ©tienne.
-
-Quels sont les conseils ÃÂÃÂ©vangÃÂÃÂ©liques ?
-
-Les conseils ÃÂÃÂ©vangÃÂÃÂ©liques sont : la pauvretÃÂÃÂ© volontaire, la chastetÃÂÃÂ©
-perpÃÂÃÂ©tuelle et lÃ¢ÂÂobÃÂÃÂ©issance en tout ce qui nÃ¢ÂÂest pas pÃÂÃÂ©chÃÂÃÂ©.
-
-A quoi servent les conseils ÃÂÃÂ©vangÃÂÃÂ©liques ?
-
-Les conseils ÃÂÃÂ©vangÃÂÃÂ©liques servent ÃÂÃÂ  faciliter lÃ¢ÂÂobservation des
-commandements et ÃÂÃÂ  mieux assurer le salut ÃÂÃÂ©ternel.
-
-Pourquoi les conseils ÃÂÃÂ©vangÃÂÃÂ©liques facilitent-ils lÃ¢ÂÂobservation des
+Pourquoi les conseils évangéliques facilitent-ils l'observation des
 commandements ?
 
-Les conseils ÃÂÃÂ©vangÃÂÃÂ©liques facilitent lÃ¢ÂÂobservation des commandements
-parce quÃ¢ÂÂils aident ÃÂÃÂ  dÃÂÃÂ©tacher le cÃÂur de lÃ¢ÂÂamour des
-richesses, des plaisirs et des honneurs, et quÃ¢ÂÂainsi ils ÃÂÃÂ©loignent du
-pÃÂÃÂ©chÃÂÃÂ©.
+Les conseils évangéliques facilitent l'observation des commandements
+parce qu'ils aident à détacher le cœur de l'amour des
+richesses, des plaisirs et des honneurs, et qu'ainsi ils éloignent du
+péché.
 
-ÃÂ
+# 4e partie Les sacrements.
 
-if !supportLineBreakNewLine?
+## Chapitre 1 Les sacrements en général.
 
-endif?
+### § 1. Nature des sacrements.
 
-[Haut du document](#_top)
+De quoi est-il question dans la quatrième partie de la Doctrine chrétienne ?
 
-ÃÂ
-
-# 4e partie Les sacrements. ÃÂ
-
-## Chapitre 1 Les sacrements en gÃÂÃÂ©nÃÂÃÂ©ral. ÃÂ  ÃÂ
-
-### ÃÂÃÂ§ 1. Nature des sacrements.
-
-De quoi est-il question dans la quatriÃÂÃÂ¨me partie de la Doctrine chrÃÂÃÂ©tienne ?
-
-Dans la quatriÃÂÃÂ¨me partie de la Doctrine chrÃÂÃÂ©tienne il est question des
+Dans la quatrième partie de la Doctrine chrétienne il est question des
 sacrements.
 
-QuÃ¢ÂÂentend-on par le mot sacrement ?
+Qu'entend-on par le mot sacrement ?
 
-Par le mot sacrement on entend un signe sensible et efficace de la grÃÂÃÂ¢ce,
+Par le mot sacrement on entend un signe sensible et efficace de la grâce,
 parce que tous les sacrements signifient, par le moyen de choses sensibles, la
-grÃÂÃÂ¢ce divine quÃ¢ÂÂils produisent dans notre ÃÂÃÂ¢me.
+grâce divine qu'ils produisent dans notre âme.
 
 Pourquoi appelez-vous les sacrements signes sensibles et efficaces de la
-grÃÂÃÂ¢ce ?
+grâce ?
 
-JÃ¢ÂÂappelle les sacrements signes sensibles et efficaces de la grÃÂÃÂ¢ce,
+J'appelle les sacrements signes sensibles et efficaces de la grâce,
 parce que tous les sacrements signifient, par le moyen de choses sensibles, la
-grÃÂÃÂ¢ce divine quÃ¢ÂÂils produisent dans notre ÃÂÃÂ¢me.
+grâce divine qu'ils produisent dans notre âme.
 
 Expliquez par un exemple comment les sacrements sont des signes sensibles et
-efficaces de la grÃÂÃÂ¢ce ?
+efficaces de la grâce ?
 
-Dans le BaptÃÂÃÂªme, lÃ¢ÂÂacte par lequel on verse lÃ¢ÂÂeau sur la tÃÂÃÂªte de
-la personne, et les paroles " Je te baptise (cÃ¢ÂÂest-ÃÂÃÂ -dire je te
-lave), au nom du PÃÂÃÂ¨re, du Fils et du Saint-Esprit ", sont un signe
-sensible de ce que le BaptÃÂÃÂªme opÃÂÃÂ¨re dans lÃ¢ÂÂÃÂÃÂ¢me : de mÃÂÃÂªme que lÃ¢ÂÂeau
-lave le corps, ainsi la grÃÂÃÂ¢ce donnÃÂÃÂ©e par le BaptÃÂÃÂªme purifie lÃ¢ÂÂÃÂÃÂ¢me du
-pÃÂÃÂ©chÃÂÃÂ©.
+Dans le Baptême, l'acte par lequel on verse l'eau sur la tête de
+la personne, et les paroles " Je te baptise (c'est-à-dire je te
+lave), au nom du Père, du Fils et du Saint-Esprit ", sont un signe
+sensible de ce que le Baptême opère dans l'âme : de même que l'eau
+lave le corps, ainsi la grâce donnée par le Baptême purifie l'âme du
+péché.
 
 Combien g a-t-il de sacrements et quels sont-ils ?
 
-Il y a sept sacrements qui sont : le BaptÃÂÃÂªme, la Confirmation,
-lÃ¢ÂÂEucharistie, la PÃÂÃÂ©nitence, lÃ¢ÂÂExtrÃÂÃÂªme-onction, lÃ¢ÂÂOrdre et le
+Il y a sept sacrements qui sont : le Baptême, la Confirmation,
+l'Eucharistie, la Pénitence, l'Extrême-onction, l'Ordre et le
 Mariage.
 
 Combien faut-il de choses pour faire un sacrement ?
 
-Pour faire un sacrement, il faut la matiÃÂÃÂ¨re, la forme et un ministre qui ait
-lÃ¢ÂÂintention de faire ce que fait lÃ¢ÂÂEglise.
+Pour faire un sacrement, il faut la matière, la forme et un ministre qui ait
+l'intention de faire ce que fait l'Eglise.
 
-QuÃ¢ÂÂest-ce que la matiÃÂÃÂ¨re des sacrements ?
+Qu'est-ce que la matière des sacrements ?
 
-La matiÃÂÃÂ¨re des sacrements est la chose sensible quÃ¢ÂÂon emploie pour les
-faire ; comme, pai exemple, lÃ¢ÂÂeau naturelle dans le BaptÃÂÃÂªme,
-lÃ¢ÂÂhuile et le baume dans la Confirmation.
+La matière des sacrements est la chose sensible qu'on emploie pour les
+faire ; comme, pai exemple, l'eau naturelle dans le Baptême,
+l'huile et le baume dans la Confirmation.
 
-QuÃ¢ÂÂest-ce que la forme des sacrements ?
+Qu'est-ce que la forme des sacrements ?
 
-La forme des sacrements consiste dans les paroles quÃ¢ÂÂon prononce pour
+La forme des sacrements consiste dans les paroles qu'on prononce pour
 les faire.
 
-QuÃ¢ÂÂest-ce que le ministre des sacrements ?
+Qu'est-ce que le ministre des sacrements ?
 
-Le ministre des sacrements est la personne qui fait ou confÃÂÃÂ¨re le sacrement.
+Le ministre des sacrements est la personne qui fait ou confère le sacrement.
 
-ÃÂ
+### § 2. L'effet principal des sacrements : La Grâce.
 
-if !supportLineBreakNewLine?
+Qu'est-ce que la grâce ?
 
-endif?
+La grâce de Dieu est un don intérieur surnaturel, qui nous est donné sans
+aucun mérite de notre part, mais par les mérites de Jésus-Christ, en vue de la
+vie éternelle.
 
-[Haut du document](#_top)
+Comment divise-t-on la grâce ?
 
-ÃÂ
+On divise la grâce en grâce sanctifiante qu'on appelle aussi
+habituelle, et en grâce actuelle.
 
-### ÃÂÃÂ§ 2. LÃ¢ÂÂeffet principal des sacrements : La GrÃÂÃÂ¢ce.
+Qu'est-ce que la grâce sanctifiante ?
 
-QuÃ¢ÂÂest-ce que la grÃÂÃÂ¢ce ?
+La grâce sanctifiante est un don surnaturel inhérent à notre âme, qui nous
+rend justes, enfants adoptifs de Dieu et héritiers du paradis.
 
-La grÃÂÃÂ¢ce de Dieu est un don intÃÂÃÂ©rieur surnaturel, qui nous est donnÃÂÃÂ© sans
-aucun mÃÂÃÂ©rite de notre part, mais par les mÃÂÃÂ©rites de JÃÂÃÂ©sus-Christ, en vue de la
-vie ÃÂÃÂ©ternelle.
+Combien y a-t-il de sortes de grâce sanctifiante ?
 
-Comment divise-t-on la grÃÂÃÂ¢ce ?
-
-On divise la grÃÂÃÂ¢ce en grÃÂÃÂ¢ce sanctifiante quÃ¢ÂÂon appelle aussi
-habituelle, et en grÃÂÃÂ¢ce actuelle.
-
-QuÃ¢ÂÂest-ce que la grÃÂÃÂ¢ce sanctifiante ?
-
-La grÃÂÃÂ¢ce sanctifiante est un don surnaturel inhÃÂÃÂ©rent ÃÂÃÂ  notre ÃÂÃÂ¢me, qui nous
-rend justes, enfants adoptifs de Dieu et hÃÂÃÂ©ritiers du paradis.
-
-Combien y a-t-il de sortes de grÃÂÃÂ¢ce sanctifiante ?
-
-Il y a deux sortes de grÃÂÃÂ¢ce sanctifiante : la grÃÂÃÂ¢ce premiÃÂÃÂ¨re et la grÃÂÃÂ¢ce
+Il y a deux sortes de grâce sanctifiante : la grâce première et la grâce
 seconde.
 
-QuÃ¢ÂÂest-ce que la grÃÂÃÂ¢ce premiÃÂÃÂ¨re ?
+Qu'est-ce que la grâce première ?
 
-La grÃÂÃÂ¢ce premiÃÂÃÂ¨re est celle par laquelle lÃ¢ÂÂhomme passe de lÃ¢ÂÂÃÂÃÂ©tat
-de pÃÂÃÂ©chÃÂÃÂ© mortel ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ©tat de justice.
+La grâce première est celle par laquelle l'homme passe de l'état
+de péché mortel à l'état de justice.
 
-Et quÃ¢ÂÂest-ce que la grÃÂÃÂ¢ce seconde ?
+Et qu'est-ce que la grâce seconde ?
 
-La grÃÂÃÂ¢ce seconde est un accroissement de la grÃÂÃÂ¢ce premiÃÂÃÂ¨re.
+La grâce seconde est un accroissement de la grâce première.
 
-QuÃ¢ÂÂest-ce que la grÃÂÃÂ¢ce actuelle ?
+Qu'est-ce que la grâce actuelle ?
 
-La grÃÂÃÂ¢ce actuelle est un don surnaturel qui illumine notre esprit, meut et
-fortifie notre volontÃÂÃÂ©, pour que nous fassions le bien et ÃÂÃÂ©vitions le mal.
+La grâce actuelle est un don surnaturel qui illumine notre esprit, meut et
+fortifie notre volonté, pour que nous fassions le bien et évitions le mal.
 
-Pouvons-nous rÃÂÃÂ©sister ÃÂÃÂ  la grÃÂÃÂ¢ce de Dieu ?
+Pouvons-nous résister à la grâce de Dieu ?
 
-Oui, nous pouvons rÃÂÃÂ©sister ÃÂÃÂ  la grÃÂÃÂ¢ce de Dieu, car elle ne dÃÂÃÂ©truit pas notre
+Oui, nous pouvons résister à la grâce de Dieu, car elle ne détruit pas notre
 libre arbitre.
 
-Par nos seules forces pouvons-nous faire quelque chose pour la vie ÃÂÃÂ©ternelle
+Par nos seules forces pouvons-nous faire quelque chose pour la vie éternelle
 ?
 
-Sans le secours de la grÃÂÃÂ¢ce de Dieu, par nos seules forces, nous ne pouvons
-rien faire pour la vie ÃÂÃÂ©ternelle.
+Sans le secours de la grâce de Dieu, par nos seules forces, nous ne pouvons
+rien faire pour la vie éternelle.
 
-Comment Dieu nous communique-t-il la grÃÂÃÂ¢ce ?
+Comment Dieu nous communique-t-il la grâce ?
 
-Dieu nous communique la grÃÂÃÂ¢ce principalement par le moyen des sacrements.
+Dieu nous communique la grâce principalement par le moyen des sacrements.
 
-Outre la grÃÂÃÂ¢ce sanctifiante, les sacrements nous confÃÂÃÂ¨rent-ils une autre
-grÃÂÃÂ¢ce ?
+Outre la grâce sanctifiante, les sacrements nous confèrent-ils une autre
+grâce ?
 
-Outre la grÃÂÃÂ¢ce sanctifiante, les sacrements confÃÂÃÂ¨rent aussi la grÃÂÃÂ¢ce
+Outre la grâce sanctifiante, les sacrements confèrent aussi la grâce
 sacramentelle.
 
-QuÃ¢ÂÂest-ce que la grÃÂÃÂ¢ce sacramentelle ?
+Qu'est-ce que la grâce sacramentelle ?
 
-La grÃÂÃÂ¢ce sacramentelle consiste dans le droit quÃ¢ÂÂon acquiert en
-recevant un sacrement quelconque, dÃ¢ÂÂavoir, en temps opportun, les grÃÂÃÂ¢ces
-actuelles nÃÂÃÂ©cessaires pour remplir les obligations qui dÃÂÃÂ©rivent du sacrement
-reÃÂÃÂ§u. Ainsi, lorsque nous avons ÃÂÃÂ©tÃÂÃÂ© baptisÃÂÃÂ©s, nous avons reÃÂÃÂ§u le droit
-dÃ¢ÂÂavoir les grÃÂÃÂ¢ces nÃÂÃÂ©cessaires pour vivre chrÃÂÃÂ©tiennement.
+La grâce sacramentelle consiste dans le droit qu'on acquiert en
+recevant un sacrement quelconque, d'avoir, en temps opportun, les grâces
+actuelles nécessaires pour remplir les obligations qui dérivent du sacrement
+reçu. Ainsi, lorsque nous avons été baptisés, nous avons reçu le droit
+d'avoir les grâces nécessaires pour vivre chrétiennement.
 
-Les sacrements donnent-ils toujours la grÃÂÃÂ¢ce ÃÂÃÂ  celui qui les reÃÂÃÂ§oit ?
+Les sacrements donnent-ils toujours la grâce à celui qui les reçoit ?
 
-Les sacrements donnent toujours la grÃÂÃÂ¢ce pourvu quÃ¢ÂÂon les reÃÂÃÂ§oive avec
-les dispositions nÃÂÃÂ©cessaires.
+Les sacrements donnent toujours la grâce pourvu qu'on les reçoive avec
+les dispositions nécessaires.
 
-Qui a donnÃÂÃÂ© aux sacrements la vertu de confÃÂÃÂ©rer la grÃÂÃÂ¢ce ?
+Qui a donné aux sacrements la vertu de conférer la grâce ?
 
-CÃ¢ÂÂest JÃÂÃÂ©sus-Christ qui, par sa passion et sa mort, a donnÃÂÃÂ© aux
-sacrements la vertu de confÃÂÃÂ©rer la grÃÂÃÂ¢ce.
+C'est Jésus-Christ qui, par sa passion et sa mort, a donné aux
+sacrements la vertu de conférer la grâce.
 
-Quels sont les sacrements qui confÃÂÃÂ¨rent la premiÃÂÃÂ¨re grÃÂÃÂ¢ce sanctifiante ?
+Quels sont les sacrements qui confèrent la première grâce sanctifiante ?
 
-Les sacrements qui confÃÂÃÂ¨rent la premiÃÂÃÂ¨re grÃÂÃÂ¢ce sanctifiante et, par lÃÂÃÂ , nous
-rendent amis de Dieu, sont au nombre de deux : le BaptÃÂÃÂªme et la PÃÂÃÂ©nitence.
+Les sacrements qui confèrent la première grâce sanctifiante et, par là, nous
+rendent amis de Dieu, sont au nombre de deux : le Baptême et la Pénitence.
 
-Comment, en consÃÂÃÂ©quence, appelle-t-on ces deux sacrements ?
+Comment, en conséquence, appelle-t-on ces deux sacrements ?
 
-Ces deux sacrements, cÃ¢ÂÂest-ÃÂÃÂ -dire le BaptÃÂÃÂªme et la PÃÂÃÂ©nitence,
-sÃ¢ÂÂappellent sacrements des morts, parce quÃ¢ÂÂils sont ÃÂÃÂ©tablis
-principalement pour rendre aux ÃÂÃÂ¢mes mortes par le pÃÂÃÂ©chÃÂÃÂ©, la vie de la grÃÂÃÂ¢ce.
+Ces deux sacrements, c'est-à-dire le Baptême et la Pénitence,
+s'appellent sacrements des morts, parce qu'ils sont établis
+principalement pour rendre aux âmes mortes par le péché, la vie de la grâce.
 
-Quels sont les sacrements qui augmentent la grÃÂÃÂ¢ce en celui qui la possÃÂÃÂ¨de ?
+Quels sont les sacrements qui augmentent la grâce en celui qui la possède ?
 
-Les sacrements qui augmentent la grÃÂÃÂ¢ce en celui qui la possÃÂÃÂ¨de sont les cinq
-autres, donc la Confirmation, lÃ¢ÂÂEucharistie, lÃ¢ÂÂExtrÃÂÃÂªme-onction,
-lÃ¢ÂÂOrdre et le Mariage, qui donnent la grÃÂÃÂ¢ce seconde.
+Les sacrements qui augmentent la grâce en celui qui la possède sont les cinq
+autres, donc la Confirmation, l'Eucharistie, l'Extrême-onction,
+l'Ordre et le Mariage, qui donnent la grâce seconde.
 
-Comment sÃ¢ÂÂappellent par suite ces cinq sacrements ?
+Comment s'appellent par suite ces cinq sacrements ?
 
-Ces cinq sacrements, ÃÂÃÂ  savoir : la Confirmation, lÃ¢ÂÂEucharistie,
-lÃ¢ÂÂExtrÃÂÃÂªme-onction, lÃ¢ÂÂOrdre et le Mariage, sÃ¢ÂÂappellent
-sacrements des vivants, parce que ceux qui les reÃÂÃÂ§oivent doivent ÃÂÃÂªtre exempts
-de pÃÂÃÂ©chÃÂÃÂ© mortel, cÃ¢ÂÂest-ÃÂÃÂ -dire dÃÂÃÂ©jÃÂÃÂ  vivants par la grÃÂÃÂ¢ce sanctifiante.
+Ces cinq sacrements, à savoir : la Confirmation, l'Eucharistie,
+l'Extrême-onction, l'Ordre et le Mariage, s'appellent
+sacrements des vivants, parce que ceux qui les reçoivent doivent être exempts
+de péché mortel, c'est-à-dire déjà vivants par la grâce sanctifiante.
 
-Quel pÃÂÃÂ©chÃÂÃÂ© commet celui qui reÃÂÃÂ§oit un des sacrements des vivants en sachant
-quÃ¢ÂÂil nÃ¢ÂÂest pas en ÃÂÃÂ©tat de grÃÂÃÂ¢ce ?
+Quel péché commet celui qui reçoit un des sacrements des vivants en sachant
+qu'il n'est pas en état de grâce ?
 
-Celui qui reÃÂÃÂ§oit un des sacrements des vivants en sachant quÃ¢ÂÂil
-nÃ¢ÂÂest pas en ÃÂÃÂ©tat de grÃÂÃÂ¢ce, commet un grave sacrilÃÂÃÂ¨ge.
+Celui qui reçoit un des sacrements des vivants en sachant qu'il
+n'est pas en état de grâce, commet un grave sacrilège.
 
-Quels sont les sacrements les plus nÃÂÃÂ©cessaires pour notre salut ?
+Quels sont les sacrements les plus nécessaires pour notre salut ?
 
-Les sacrements les plus nÃÂÃÂ©cessaires pour notre salut sont le BaptÃÂÃÂªme et la
-PÃÂÃÂ©nitence. Le BaptÃÂÃÂªme est nÃÂÃÂ©cessaire ÃÂÃÂ  tous absolument. Et la PÃÂÃÂ©nitence est
-nÃÂÃÂ©cessaire ÃÂÃÂ  tous ceux qui ont pÃÂÃÂ©chÃÂÃÂ© mortellement aprÃÂÃÂ¨s le BaptÃÂÃÂªme.
+Les sacrements les plus nécessaires pour notre salut sont le Baptême et la
+Pénitence. Le Baptême est nécessaire à tous absolument. Et la Pénitence est
+nécessaire à tous ceux qui ont péché mortellement après le Baptême.
 
 Quel est le plus grand de tous les sacrements ?
 
 Le plus grand de tous les sacrements est le sacrement de
-lÃ¢ÂÂEucharistie, parce quÃ¢ÂÂil contient non seulement la grÃÂÃÂ¢ce, mais
-encore JÃÂÃÂ©sus-Christ, auteur de la grÃÂÃÂ¢ce et des sacrements.
+l'Eucharistie, parce qu'il contient non seulement la grâce, mais
+encore Jésus-Christ, auteur de la grâce et des sacrements.
 
-ÃÂ
+### § 3. Le caractère imprimé par certains sacrements
 
-if !supportLineBreakNewLine?
+Quels sont les sacrements qu'on ne peut recevoir qu'une fois ?
 
-endif?
+Les sacrements qu'on ne peut recevoir qu'une fois sont au nombre
+de trois : le Baptême, la Confirmation et l'Ordre.
 
-[Haut du document](#_top)
+Pourquoi ces trois sacrements, le Baptême, la Confirmation et l'Ordre,
+ne peuvent-ils être reçus qu'une fois ?
 
-ÃÂ
+Ces trois sacrements, le Baptême, la Confirmation et l'Ordre ne
+peuvent être reçus qu'une fois parce qu'ils impriment un caractère.
 
-### ÃÂÃÂ§ 3. Le caractÃÂÃÂ¨re imprimÃÂÃÂ© par certains sacrements
-
-Quels sont les sacrements quÃ¢ÂÂon ne peut recevoir quÃ¢ÂÂune fois ?
-
-Les sacrements quÃ¢ÂÂon ne peut recevoir quÃ¢ÂÂune fois sont au nombre
-de trois : le BaptÃÂÃÂªme, la Confirmation et lÃ¢ÂÂOrdre.
-
-Pourquoi ces trois sacrements, le BaptÃÂÃÂªme, la Confirmation et lÃ¢ÂÂOrdre,
-ne peuvent-ils ÃÂÃÂªtre reÃÂÃÂ§us quÃ¢ÂÂune fois ?
-
-Ces trois sacrements, le BaptÃÂÃÂªme, la Confirmation et lÃ¢ÂÂOrdre ne
-peuvent ÃÂÃÂªtre reÃÂÃÂ§us quÃ¢ÂÂune fois parce quÃ¢ÂÂils impriment un caractÃÂÃÂ¨re.
-
-QuÃ¢ÂÂest-ce que le caractÃÂÃÂ¨re imprimÃÂÃÂ© dans lÃ¢ÂÂÃÂÃÂ¢me par chacun de ces
+Qu'est-ce que le caractère imprimé dans l'âme par chacun de ces
 trois sacrements
 
-Le caractÃÂÃÂ¨re imprimÃÂÃÂ© dans lÃ¢ÂÂÃÂÃÂ¢me par chacun de ces trois sacrements est
-un signe spirituel qui ne peut plus sÃ¢ÂÂeffacer.
+Le caractère imprimé dans l'âme par chacun de ces trois sacrements est
+un signe spirituel qui ne peut plus s'effacer.
 
-A quoi sert le caractÃÂÃÂ¨re quÃ¢ÂÂimpriment dans lÃ¢ÂÂÃÂÃÂ¢me ces trois
+A quoi sert le caractère qu'impriment dans l'âme ces trois
 sacrements ?
 
-Le caractÃÂÃÂ¨re quÃ¢ÂÂimpriment dans lÃ¢ÂÂÃÂÃÂ¢me ces trois sacrements Sert ÃÂÃÂ
-nous marquer dans le BaptÃÂÃÂªme comme membres de JÃÂÃÂ©sus-Christ, dans la
-Confirmation comme ses soldats, dans lÃ¢ÂÂOrdre comme ses ministres.
+Le caractère qu'impriment dans l'âme ces trois sacrements Sert à
+nous marquer dans le Baptême comme membres de Jésus-Christ, dans la
+Confirmation comme ses soldats, dans l'Ordre comme ses ministres.
 
-ÃÂ
+## Chapitre 2 Le Baptême.
 
-if !supportLineBreakNewLine?
+### § 1. Nature et effets du baptême.
 
-endif?
+Qu'est-ce que le sacrement de Baptême ?
 
-[Haut du document](#_top)
+Le Baptême est le sacrement par lequel nous renaissons à la grâce de Dieu et
+nous devenons chrétiens.
 
-ÃÂ
+Quels sont les effets du sacrement de Baptême ?
 
-## Chapitre 2 Le BaptÃÂÃÂªme. ÃÂ  ÃÂ ÃÂ
-
-### ÃÂÃÂ§ 1. Nature et effets du baptÃÂÃÂªme.
-
-QuÃ¢ÂÂest-ce que le sacrement de BaptÃÂÃÂªme ?
-
-Le BaptÃÂÃÂªme est le sacrement par lequel nous renaissons ÃÂÃÂ  la grÃÂÃÂ¢ce de Dieu et
-nous devenons chrÃÂÃÂ©tiens.
-
-Quels sont les effets du sacrement de BaptÃÂÃÂªme ?
-
-Le sacrement de BaptÃÂÃÂªme confÃÂÃÂ¨re la premiÃÂÃÂ¨re grÃÂÃÂ¢ce sanctifiante qui efface le
-pÃÂÃÂ©chÃÂÃÂ© originel et aussi le pÃÂÃÂ©chÃÂÃÂ© actuel sÃ¢ÂÂil existe. Il remet toute la
-peine due pour ces pÃÂÃÂ©chÃÂÃÂ©s, imprime le caractÃÂÃÂ¨re de chrÃÂÃÂ©tien, nous fait enfants
-de Dieu, membres de lÃ¢ÂÂEglise et hÃÂÃÂ©ritiers du paradis, et nous rend
+Le sacrement de Baptême confère la première grâce sanctifiante qui efface le
+péché originel et aussi le péché actuel s'il existe. Il remet toute la
+peine due pour ces péchés, imprime le caractère de chrétien, nous fait enfants
+de Dieu, membres de l'Eglise et héritiers du paradis, et nous rend
 capables de recevoir les autres sacrements.
 
-Quelle est la matiÃÂÃÂ¨re du BaptÃÂÃÂªme ?
+Quelle est la matière du Baptême ?
 
-La matiÃÂÃÂ¨re du BaptÃÂÃÂªme est lÃ¢ÂÂeau naturelle quÃ¢ÂÂon verse sur la
-tÃÂÃÂªte de celui quÃ¢ÂÂon baptise, en assez grande quantitÃÂÃÂ© pour quÃ¢ÂÂelle
+La matière du Baptême est l'eau naturelle qu'on verse sur la
+tête de celui qu'on baptise, en assez grande quantité pour qu'elle
 coule.
 
-Quelle est la forme du BaptÃÂÃÂªme ?
+Quelle est la forme du Baptême ?
 
-La forme du BaptÃÂÃÂªme est celle-ci : " Je te baptise au nom du PÃÂÃÂ¨re et du
+La forme du Baptême est celle-ci : " Je te baptise au nom du Père et du
 Fils et du Saint-Esprit ".
 
-ÃÂ
+### § 2. Ministre du baptême.
 
-if !supportLineBreakNewLine?
+A qui appartient-il de donner le Baptême ?
 
-endif?
+Donner le Baptême appartient de droit aux Evêques et curés, mais en cas de
+nécessité, toute personne peut le donner, que ce soit un homme ou une femme,
+même un hérétique ou un infidèle, pourvu qu'il accomplisse le rite du
+Baptême et qu'il ait l'intention de faire ce que fait
+l'Eglise.
 
-[Haut du document](#_top)
+S'il y avait nécessité de baptiser quelqu'un en danger de mort
+et qu'il se trouvât plusieurs personnes présentes, laquelle devrait
+donner le baptême ?
 
-ÃÂ
-
-### ÃÂÃÂ§ 2. Ministre du baptÃÂÃÂªme.
-
-A qui appartient-il de donner le BaptÃÂÃÂªme ?
-
-Donner le BaptÃÂÃÂªme appartient de droit aux EvÃÂÃÂªques et curÃÂÃÂ©s, mais en cas de
-nÃÂÃÂ©cessitÃÂÃÂ©, toute personne peut le donner, que ce soit un homme ou une femme,
-mÃÂÃÂªme un hÃÂÃÂ©rÃÂÃÂ©tique ou un infidÃÂÃÂ¨le, pourvu quÃ¢ÂÂil accomplisse le rite du
-BaptÃÂÃÂªme et quÃ¢ÂÂil ait lÃ¢ÂÂintention de faire ce que fait
-lÃ¢ÂÂEglise.
-
-SÃ¢ÂÂil y avait nÃÂÃÂ©cessitÃÂÃÂ© de baptiser quelquÃ¢ÂÂun en danger de mort
-et quÃ¢ÂÂil se trouvÃÂÃÂ¢t plusieurs personnes prÃÂÃÂ©sentes, laquelle devrait
-donner le baptÃÂÃÂªme ?
-
-SÃ¢ÂÂil y avait nÃÂÃÂ©cessitÃÂÃÂ© de baptiser quelquÃ¢ÂÂun en danger de mort
-et quÃ¢ÂÂil se trouvÃÂÃÂ¢t plusieurs personnes prÃÂÃÂ©sentes ; sÃ¢ÂÂil y avait un
-prÃÂÃÂªtre, cÃ¢ÂÂest lui qui devrait le baptiser ; en son absence un
-ecclÃÂÃÂ©siastique dÃ¢ÂÂordre infÃÂÃÂ©rieur ; et en lÃ¢ÂÂabsence de celui-ci, un
-homme laÃÂÃÂ¯que de prÃÂÃÂ©fÃÂÃÂ©rence ÃÂÃÂ  une femme, ÃÂÃÂ  moins que celle-ci ne sache mieux
-faire ou que la dÃÂÃÂ©cence nÃ¢ÂÂexige que ce soit elle.
+S'il y avait nécessité de baptiser quelqu'un en danger de mort
+et qu'il se trouvât plusieurs personnes présentes ; s'il y avait un
+prêtre, c'est lui qui devrait le baptiser ; en son absence un
+ecclésiastique d'ordre inférieur ; et en l'absence de celui-ci, un
+homme laïque de préférence à une femme, à moins que celle-ci ne sache mieux
+faire ou que la décence n'exige que ce soit elle.
 
 Quelle intention doit avoir celui qui baptise ?
 
-Celui qui baptise doit avoir lÃ¢ÂÂintention de faire ce que fait
-lÃ¢ÂÂEglise dans le BaptÃÂÃÂªme.
+Celui qui baptise doit avoir l'intention de faire ce que fait
+l'Eglise dans le Baptême.
 
-ÃÂ
+### § 3. Rite du Baptême et dispositions de celui qui le reçoit à l'âge de raison.
 
-[Haut du document](#_top)
+Comment fait-on pour donner le Baptême ?
 
-ÃÂ
+On donne le Baptême en versant de l'eau sur la tête de celui
+qu'on baptise, et si on ne peut pas sur la tête, sur quelque autre partie
+principale du corps, et en disant en même temps : " Je te baptise au nom
+du Père et du Fils et du Saint-Esprit ".
 
-### ÃÂÃÂ§ 3. Rite du BaptÃÂÃÂªme et dispositions de celui qui le reÃÂÃÂ§oit ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ¢ge de raison.
+Si l'un versait l'eau et que l'autre prononçât les
+paroles, la personne serait-elle baptisée ?
 
-Comment fait-on pour donner le BaptÃÂÃÂªme ?
+Si l'un versait l'eau et que l'autre prononçât les
+paroles, la personne ne serait pas baptisée : il est nécessaire que ce soit la
+même personne qui verse l'eau et prononce les paroles.
 
-On donne le BaptÃÂÃÂªme en versant de lÃ¢ÂÂeau sur la tÃÂÃÂªte de celui
-quÃ¢ÂÂon baptise, et si on ne peut pas sur la tÃÂÃÂªte, sur quelque autre partie
-principale du corps, et en disant en mÃÂÃÂªme temps : " Je te baptise au nom
-du PÃÂÃÂ¨re et du Fils et du Saint-Esprit ".
-
-Si lÃ¢ÂÂun versait lÃ¢ÂÂeau et que lÃ¢ÂÂautre prononÃÂÃÂ§ÃÂÃÂ¢t les
-paroles, la personne serait-elle baptisÃÂÃÂ©e ?
-
-Si lÃ¢ÂÂun versait lÃ¢ÂÂeau et que lÃ¢ÂÂautre prononÃÂÃÂ§ÃÂÃÂ¢t les
-paroles, la personne ne serait pas baptisÃÂÃÂ©e : il est nÃÂÃÂ©cessaire que ce soit la
-mÃÂÃÂªme personne qui verse lÃ¢ÂÂeau et prononce les paroles.
-
-Si on a un doute que la personne soit morte, doit-on nÃÂÃÂ©gliger de la baptiser
+Si on a un doute que la personne soit morte, doit-on négliger de la baptiser
 ?
 
 Si on a un doute que la personne soit morte, on doit la baptiser sous
-condition en disant : " Si tu es en vie, je te baptise au nom du PÃÂÃÂ¨re et
+condition en disant : " Si tu es en vie, je te baptise au nom du Père et
 du Fils et du Saint-Esprit ".
 
-Quand doit-on porter les enfants ÃÂÃÂ  lÃ¢ÂÂEglise pour les faire baptiser ?
+Quand doit-on porter les enfants à l'Eglise pour les faire baptiser ?
 
-On doit porter les enfants ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ©glise pour les faire baptiser le plus
-tÃÂÃÂ´t possible.
+On doit porter les enfants à l'église pour les faire baptiser le plus
+tôt possible.
 
-Pourquoi doit-on mettre tant dÃ¢ÂÂempressement ÃÂÃÂ  faire recevoir le
-baptÃÂÃÂªme aux enfants ?
+Pourquoi doit-on mettre tant d'empressement à faire recevoir le
+baptême aux enfants ?
 
-On doit mettre tant dÃ¢ÂÂempressement ÃÂÃÂ  faire baptiser les enfants parce
-que, ÃÂÃÂ  cause de la fragilitÃÂÃÂ© de leur ÃÂÃÂ¢ge, ils sont exposÃÂÃÂ©s ÃÂÃÂ  bien des dangers
-de mourir et quÃ¢ÂÂils ne peuvent se sauver sans le BaptÃÂÃÂªme.
+On doit mettre tant d'empressement à faire baptiser les enfants parce
+que, à cause de la fragilité de leur âge, ils sont exposés à bien des dangers
+de mourir et qu'ils ne peuvent se sauver sans le Baptême.
 
-Ils pÃÂÃÂ¨chent donc les pÃÂÃÂ¨res et les mÃÂÃÂ¨res qui par leur nÃÂÃÂ©gligence laissent
-mourir leurs enfants sans BaptÃÂÃÂªme, ou mÃÂÃÂªme qui le diffÃÂÃÂ¨rent simplement ?
+Ils pèchent donc les pères et les mères qui par leur négligence laissent
+mourir leurs enfants sans Baptême, ou même qui le diffèrent simplement ?
 
-Oui, les pÃÂÃÂ¨res et les mÃÂÃÂ¨res qui, par leur nÃÂÃÂ©gligence, laissent mourir leurs
-enfants sans BaptÃÂÃÂªme pÃÂÃÂ¨chent gravement, parce quÃ¢ÂÂils privent leurs
-enfants de la vie ÃÂÃÂ©ternelle. Ils pÃÂÃÂ¨chent mÃÂÃÂªme gravement en diffÃÂÃÂ©rant longtemps
-le BaptÃÂÃÂªme, parce quÃ¢ÂÂils les exposent au danger de mourir sans
-lÃ¢ÂÂavoir reÃÂÃÂ§u.
+Oui, les pères et les mères qui, par leur négligence, laissent mourir leurs
+enfants sans Baptême pèchent gravement, parce qu'ils privent leurs
+enfants de la vie éternelle. Ils pèchent même gravement en différant longtemps
+le Baptême, parce qu'ils les exposent au danger de mourir sans
+l'avoir reçu.
 
-Quand celui qui est baptisÃÂÃÂ© a atteint lÃ¢ÂÂÃÂÃÂ¢ge de raison, quelles
+Quand celui qui est baptisé a atteint l'âge de raison, quelles
 dispositions doit-il avoir ?
 
-LÃ¢ÂÂadulte quÃ¢ÂÂon baptise doit, outre la foi, avoir la douleur au
-moins imparfaite des pÃÂÃÂ©chÃÂÃÂ©s mortels quÃ¢ÂÂil aurait commis.
+L'adulte qu'on baptise doit, outre la foi, avoir la douleur au
+moins imparfaite des péchés mortels qu'il aurait commis.
 
-Si un adulte ÃÂÃÂ©tait baptisÃÂÃÂ© en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel sans avoir cette douleur,
+Si un adulte était baptisé en état de péché mortel sans avoir cette douleur,
 que recevrait-il ?
 
-Si un adulte ÃÂÃÂ©tait baptisÃÂÃÂ© en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel sans avoir cette douleur,
-il recevrait le caractÃÂÃÂ¨re du BaptÃÂÃÂªme mais non la rÃÂÃÂ©mission des pÃÂÃÂ©chÃÂÃÂ©s ni la
-grÃÂÃÂ¢ce sanctifiante. Et ces effets resteraient suspendus tant que
-lÃ¢ÂÂempÃÂÃÂªchement nÃ¢ÂÂaurait pas ÃÂÃÂ©tÃÂÃÂ© levÃÂÃÂ© par la douleur parfaite des
-pÃÂÃÂ©chÃÂÃÂ©s ou par le sacrement de PÃÂÃÂ©nitence.
+Si un adulte était baptisé en état de péché mortel sans avoir cette douleur,
+il recevrait le caractère du Baptême mais non la rémission des péchés ni la
+grâce sanctifiante. Et ces effets resteraient suspendus tant que
+l'empêchement n'aurait pas été levé par la douleur parfaite des
+péchés ou par le sacrement de Pénitence.
 
-if !supportLineBreakNewLine?
+### § 4. Nécessité du Baptême et devoirs du baptisé
 
-endif?
+Le Baptême est-il nécessaire pour être sauvé ?
 
-[Haut du document](#_top)
-
-ÃÂ
-
-ÃÂ
-
-### ÃÂÃÂ§ 4. NÃÂÃÂ©cessitÃÂÃÂ© du BaptÃÂÃÂªme et devoirs du baptisÃÂÃÂ©
-
-Le BaptÃÂÃÂªme est-il nÃÂÃÂ©cessaire pour ÃÂÃÂªtre sauvÃÂÃÂ© ?
-
-Le BaptÃÂÃÂªme est absolument nÃÂÃÂ©cessaire pour ÃÂÃÂªtre sauvÃÂÃÂ©, car le Seigneur a dit
-expressÃÂÃÂ©ment : " Celui qui ne renaÃÂÃÂ®tra pas dans lÃ¢ÂÂeau et le
+Le Baptême est absolument nécessaire pour être sauvé, car le Seigneur a dit
+expressément : " Celui qui ne renaîtra pas dans l'eau et le
 Saint-Esprit ne pourra entrer dans le royaume des cieux ".
 
-Peut-on supplÃÂÃÂ©er en quelque maniÃÂÃÂ¨re au dÃÂÃÂ©faut du BaptÃÂÃÂªme ?
+Peut-on suppléer en quelque manière au défaut du Baptême ?
 
-Le dÃÂÃÂ©faut du sacrement de BaptÃÂÃÂªme peut ÃÂÃÂªtre supplÃÂÃÂ©ÃÂÃÂ© par le martyre quÃ¢ÂÂon
-appelle BaptÃÂÃÂªme de sang, ou par un acte de parfait amour de Dieu ou de
-contrition joint au dÃÂÃÂ©sir au moins implicite du BaptÃÂÃÂªme, et ceci
-sÃ¢ÂÂappelle BaptÃÂÃÂªme de dÃÂÃÂ©sir.
+Le défaut du sacrement de Baptême peut être suppléé par le martyre qu'on
+appelle Baptême de sang, ou par un acte de parfait amour de Dieu ou de
+contrition joint au désir au moins implicite du Baptême, et ceci
+s'appelle Baptême de désir.
 
-A quoi sÃ¢ÂÂoblige celui qui reÃÂÃÂ§oit le BaptÃÂÃÂªme ?
+A quoi s'oblige celui qui reçoit le Baptême ?
 
-Celui qui reÃÂÃÂ§oit le BaptÃÂÃÂªme sÃ¢ÂÂoblige ÃÂÃÂ  professer toujours la foi et ÃÂÃÂ
-pratiquer la loi de JÃÂÃÂ©sus-Christ et de son Eglise.
+Celui qui reçoit le Baptême s'oblige à professer toujours la foi et à
+pratiquer la loi de Jésus-Christ et de son Eglise.
 
-A quoi renonce-t-on en recevant le saint BaptÃÂÃÂªme ?
+A quoi renonce-t-on en recevant le saint Baptême ?
 
-En recevant le saint BaptÃÂÃÂªme, on renonce pour toujours au dÃÂÃÂ©mon, ÃÂÃÂ  ses
-oeuvres et ÃÂÃÂ  ses pompes.
+En recevant le saint Baptême, on renonce pour toujours au démon, à ses
+oeuvres et à ses pompes.
 
-QuÃ¢ÂÂentend-on par les oeuvres ou par les pompes du dÃÂÃÂ©mon ?
+Qu'entend-on par les oeuvres ou par les pompes du démon ?
 
-Par les oeuvres et les pompes du dÃÂÃÂ©mon, on entend les pÃÂÃÂ©chÃÂÃÂ©s et les maximes
+Par les oeuvres et les pompes du démon, on entend les péchés et les maximes
 du monde contraires aux maximes du saint Evangile.
 
-ÃÂ
+### § 5. Le nom et les parrains.
 
-ÃÂ
+Pourquoi impose-t-on le nom d'un Saint à celui qu'on baptise ?
 
-[Haut du document](#_top)
-
-ÃÂÃÂ
-
-### ÃÂÃÂ§ 5. Le nom et les parrains.
-
-Pourquoi impose-t-on le nom dÃ¢ÂÂun Saint ÃÂÃÂ  celui quÃ¢ÂÂon baptise ?
-
-On impose le nom dÃ¢ÂÂun Saint ÃÂÃÂ  celui quÃ¢ÂÂon baptise pour le mettre
-sous la protection spÃÂÃÂ©ciale dÃ¢ÂÂun patron cÃÂÃÂ©leste et pour lÃ¢ÂÂanimer ÃÂÃÂ
+On impose le nom d'un Saint à celui qu'on baptise pour le mettre
+sous la protection spéciale d'un patron céleste et pour l'animer à
 imiter ses exemples.
 
-QuÃ¢ÂÂest-ce que les parrains et marraines du BaptÃÂÃÂªme ?
+Qu'est-ce que les parrains et marraines du Baptême ?
 
-Les parrains et les marraines du BaptÃÂÃÂªme sont les personnes qui, par une
-disposition de lÃ¢ÂÂEglise, tiennent les enfants sur les fonts baptismaux,
-rÃÂÃÂ©pondent pour eux et se rendent garants devant Dieu de leur ÃÂÃÂ©ducation
-chrÃÂÃÂ©tienne, spÃÂÃÂ©cialement si les parents y manquaient.
+Les parrains et les marraines du Baptême sont les personnes qui, par une
+disposition de l'Eglise, tiennent les enfants sur les fonts baptismaux,
+répondent pour eux et se rendent garants devant Dieu de leur éducation
+chrétienne, spécialement si les parents y manquaient.
 
-Sommes-nous obligÃÂÃÂ©s de tenir les promesses et renonciations que nos parrains
+Sommes-nous obligés de tenir les promesses et renonciations que nos parrains
 ont faites pour nous ?
 
-Nous sommes certainement obligÃÂÃÂ©s de tenir les promesses et renonciations que
-nos parrains ont faites pour nous, parce que Dieu ne nous a reÃÂÃÂ§us dans sa grÃÂÃÂ¢ce
-quÃ¢ÂÂÃÂÃÂ  cette condition.
+Nous sommes certainement obligés de tenir les promesses et renonciations que
+nos parrains ont faites pour nous, parce que Dieu ne nous a reçus dans sa grâce
+qu'à cette condition.
 
 Quelles personnes doit-on choisir pour parrains et marraines ?
 
 On doit choisir pour parrains et marraines des personnes catholiques, de
-bonnes moeurs et qui obÃÂÃÂ©issent aux lois de lÃ¢ÂÂEglise.
+bonnes moeurs et qui obéissent aux lois de l'Eglise.
 
 Quelles sont les obligations des parrains et des marraines ?
 
-Les parrains et les marraines sont obligÃÂÃÂ©s dÃ¢ÂÂavoir soin que leurs fils
-spirituels soient instruits des vÃÂÃÂ©ritÃÂÃÂ©s de la foi et vivent en bons chrÃÂÃÂ©tiens,
-et de les ÃÂÃÂ©difier par leur bon exemple.
+Les parrains et les marraines sont obligés d'avoir soin que leurs fils
+spirituels soient instruits des vérités de la foi et vivent en bons chrétiens,
+et de les édifier par leur bon exemple.
 
-Quel lien contractent les parrains dans le BaptÃÂÃÂªme ?
+Quel lien contractent les parrains dans le Baptême ?
 
-Les parrains contractent une parentÃÂÃÂ© spirituelle avec le baptisÃÂÃÂ© et avec ses
-parents, dÃ¢ÂÂoÃÂÃÂ¹ rÃÂÃÂ©sulte un empÃÂÃÂªchement de mariage avec eux.
-
-ÃÂ
-
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂ
+Les parrains contractent une parenté spirituelle avec le baptisé et avec ses
+parents, d'où résulte un empêchement de mariage avec eux.
 
 ## Chapitre 3 La Confirmation.
 
-QuÃ¢ÂÂest-ce que le sacrement de Confirmation ?
+Qu'est-ce que le sacrement de Confirmation ?
 
 La Confirmation est un sacrement qui nous donne le Saint-Esprit, imprime
-dans notre ÃÂÃÂ¢me le caractÃÂÃÂ¨re de soldats du Christ et nous rend parfaits
-chrÃÂÃÂ©tiens.
+dans notre âme le caractère de soldats du Christ et nous rend parfaits
+chrétiens.
 
-Comment le sacrement de Confirmation nous rend-il parfaits chrÃÂÃÂ©tiens ?
+Comment le sacrement de Confirmation nous rend-il parfaits chrétiens ?
 
-La Confirmation nous rend parfaits chrÃÂÃÂ©tiens parce quÃ¢ÂÂelle nous
+La Confirmation nous rend parfaits chrétiens parce qu'elle nous
 confirme dans la foi et perfectionne les autres vertus et les dons que nous
-avons reÃÂÃÂ§us dans le saint BaptÃÂÃÂªme et cÃ¢ÂÂest de lÃÂÃÂ  que lui vient son nom de
+avons reçus dans le saint Baptême et c'est de là que lui vient son nom de
 Confirmation.
 
-Quels sont les dons du Saint-Esprit, quÃ¢ÂÂon reÃÂÃÂ§oit dans la Confirmation
+Quels sont les dons du Saint-Esprit, qu'on reçoit dans la Confirmation
 ?
 
-Les dons du Saint-Esprit quÃ¢ÂÂon reÃÂÃÂ§oit dans la Confirmation sont les
-sept suivants : la Sagesse, lÃ¢ÂÂIntelligence, le Conseil, la Force, la
-Science, la PiÃÂÃÂ©tÃÂÃÂ© et la Crainte de Dieu.
+Les dons du Saint-Esprit qu'on reçoit dans la Confirmation sont les
+sept suivants : la Sagesse, l'Intelligence, le Conseil, la Force, la
+Science, la Piété et la Crainte de Dieu.
 
-Quelle est la matiÃÂÃÂ¨re de ce sacrement ?
+Quelle est la matière de ce sacrement ?
 
-La matiÃÂÃÂ¨re de ce sacrement, outre lÃ¢ÂÂimposition des mains de
-lÃ¢ÂÂEvÃÂÃÂªque, est lÃ¢ÂÂonction faite sur le front du baptisÃÂÃÂ© avec le saint
-ChrÃÂÃÂªme : cÃ¢ÂÂest pour cela quÃ¢ÂÂon lÃ¢ÂÂappelle aussi Onction.
+La matière de ce sacrement, outre l'imposition des mains de
+l'Evêque, est l'onction faite sur le front du baptisé avec le saint
+Chrême : c'est pour cela qu'on l'appelle aussi Onction.
 
-QuÃ¢ÂÂest-ce que le saint ChrÃÂÃÂªme ?
+Qu'est-ce que le saint Chrême ?
 
-Le saint ChrÃÂÃÂªme est de lÃ¢ÂÂhuile dÃ¢ÂÂolive mÃÂÃÂªlÃÂÃÂ©e avec du baume et
-consacrÃÂÃÂ©e par lÃ¢ÂÂEvÃÂÃÂªque le Jeudi-Saint.
+Le saint Chrême est de l'huile d'olive mêlée avec du baume et
+consacrée par l'Evêque le Jeudi-Saint.
 
-Que signifient lÃ¢ÂÂhuile et le baume dans ce sacrement ?
+Que signifient l'huile et le baume dans ce sacrement ?
 
-Dans ce sacrement lÃ¢ÂÂhuile qui sÃ¢ÂÂÃÂÃÂ©tend et fortifie, signifie
-lÃ¢ÂÂabondance de la grÃÂÃÂ¢ce qui se rÃÂÃÂ©pand dans lÃ¢ÂÂÃÂÃÂ¢me du chrÃÂÃÂ©tien pour
-le confirmer dans la foi ; et le baume, qui est odorant et prÃÂÃÂ©serve de la
-corruption, signifie que le chrÃÂÃÂ©tien, fortifiÃÂÃÂ© par cette grÃÂÃÂ¢ce, est capable de
-rÃÂÃÂ©pandre la bonne odeur des vertus chrÃÂÃÂ©tiennes et de se prÃÂÃÂ©server de la
+Dans ce sacrement l'huile qui s'étend et fortifie, signifie
+l'abondance de la grâce qui se répand dans l'âme du chrétien pour
+le confirmer dans la foi ; et le baume, qui est odorant et préserve de la
+corruption, signifie que le chrétien, fortifié par cette grâce, est capable de
+répandre la bonne odeur des vertus chrétiennes et de se préserver de la
 corruption des vices.
 
 Quelle est la forme du sacrement de Confirmation ?
 
 La forme du sacrement de Confirmation est celle-ci : " Je te signe du
-signe de la Croix et te confirme avec le ChrÃÂÃÂªme du salut, au nom du PÃÂÃÂ¨re et du
+signe de la Croix et te confirme avec le Chrême du salut, au nom du Père et du
 Fils et du Saint-Esprit. Ainsi soit-il ".
 
 Quel est le ministre du sacrement de Confirmation ?
 
-Le ministre ordinaire du sacrement de Confirmation est lÃ¢ÂÂEvÃÂÃÂªque seul.
+Le ministre ordinaire du sacrement de Confirmation est l'Evêque seul.
 
-Avec quelles cÃÂÃÂ©rÃÂÃÂ©monies lÃ¢ÂÂEvÃÂÃÂªque administre-t-il la confirmation ?
+Avec quelles cérémonies l'Evêque administre-t-il la confirmation ?
 
-LÃ¢ÂÂEvÃÂÃÂªque, pour administrer le sacrement de Confirmation, ÃÂÃÂ©tend
-dÃ¢ÂÂabord les mains sur les confirmands en invoquant sur eux le
-Saint-Esprit ; puis il fait une onction en forme de croix avec le saint ChrÃÂÃÂªme
+L'Evêque, pour administrer le sacrement de Confirmation, étend
+d'abord les mains sur les confirmands en invoquant sur eux le
+Saint-Esprit ; puis il fait une onction en forme de croix avec le saint Chrême
 sur le front de chacun, en disant les paroles de la forme ; ensuite, de la main
-droite, il donne un lÃÂÃÂ©ger soufflet sur la joue du confirmÃÂÃÂ© en lui disant :
-" La paix soit avec toi " ; enfin il bÃÂÃÂ©nit solennellement tous les
-confirmÃÂÃÂ©s.
+droite, il donne un léger soufflet sur la joue du confirmé en lui disant :
+" La paix soit avec toi " ; enfin il bénit solennellement tous les
+confirmés.
 
-Pourquoi lÃ¢ÂÂonction est-elle faite sur le front ?
+Pourquoi l'onction est-elle faite sur le front ?
 
-LÃ¢ÂÂonction est faite sur le front, oÃÂÃÂ¹ apparaissent les signes de la
-crainte et de la honte, afin que le confirmÃÂÃÂ© comprenne quÃ¢ÂÂil ne doit pas
-rougir du nom et de la profession de chrÃÂÃÂ©tien, ni avoir peur des ennemis de la
+L'onction est faite sur le front, où apparaissent les signes de la
+crainte et de la honte, afin que le confirmé comprenne qu'il ne doit pas
+rougir du nom et de la profession de chrétien, ni avoir peur des ennemis de la
 foi.
 
-Pourquoi lÃ¢ÂÂEvÃÂÃÂªque donne-t-il un lÃÂÃÂ©ger soufflet au confirmÃÂÃÂ© ?
+Pourquoi l'Evêque donne-t-il un léger soufflet au confirmé ?
 
-LÃ¢ÂÂEvÃÂÃÂªque donne un lÃÂÃÂ©ger soufflet au confirmÃÂÃÂ© pour quÃ¢ÂÂil sache
-quÃ¢ÂÂil doit ÃÂÃÂªtre prÃÂÃÂªt ÃÂÃÂ  souffrir toute sorte dÃ¢ÂÂaffront et de peine
-pour la foi de JÃÂÃÂ©sus-Christ.
+L'Evêque donne un léger soufflet au confirmé pour qu'il sache
+qu'il doit être prêt à souffrir toute sorte d'affront et de peine
+pour la foi de Jésus-Christ.
 
 Tout le monde doit-il faire en sorte de recevoir le sacrement de
 Confirmation ?
 
 Oui, chacun doit faire en sorte de recevoir le sacrement de Confirmation et
-de le faire recevoir ÃÂÃÂ  ceux qui dÃÂÃÂ©pendent de lui.
+de le faire recevoir à ceux qui dépendent de lui.
 
-A quel ÃÂÃÂ¢ge est-il bon de recevoir le sacrement de Confirmation ?
+A quel âge est-il bon de recevoir le sacrement de Confirmation ?
 
-LÃ¢ÂÂÃÂÃÂ¢ge oÃÂÃÂ¹ il est bon de recevoir le sacrement de Confirmation est celui
-de sept ans environ ; parce quÃ¢ÂÂalors commencent habituellement les
-tentations et quÃ¢ÂÂon peut connaÃÂÃÂ®tre suffisamment la grÃÂÃÂ¢ce de ce sacrement
-et se rappeler quÃ¢ÂÂon lÃ¢ÂÂa reÃÂÃÂ§u.
+L'âge où il est bon de recevoir le sacrement de Confirmation est celui
+de sept ans environ ; parce qu'alors commencent habituellement les
+tentations et qu'on peut connaître suffisamment la grâce de ce sacrement
+et se rappeler qu'on l'a reçu.
 
 Quelles dispositions faut-il pour recevoir le sacrement de Confirmation ?
 
-Pour recevoir dignement le sacrement de Confirmation, il faut ÃÂÃÂªtre en ÃÂÃÂ©tat
-de grÃÂÃÂ¢ce, savoir les principaux mystÃÂÃÂ¨res de notre sainte foi, et sÃ¢ÂÂen
-approcher avec respect et dÃÂÃÂ©votion.
+Pour recevoir dignement le sacrement de Confirmation, il faut être en état
+de grâce, savoir les principaux mystères de notre sainte foi, et s'en
+approcher avec respect et dévotion.
 
-Celui qui recevrait la Confirmation une seconde fois pÃÂÃÂ©cherait-il ?
+Celui qui recevrait la Confirmation une seconde fois pécherait-il ?
 
-Il commettrait un sacrilÃÂÃÂ¨ge, parce que la Confirmation est un de ces
-sacrements qui impriment un caractÃÂÃÂ¨re dans lÃ¢ÂÂÃÂÃÂ¢me et que, par suite, on ne
-peut recevoir quÃ¢ÂÂune fois.
+Il commettrait un sacrilège, parce que la Confirmation est un de ces
+sacrements qui impriment un caractère dans l'âme et que, par suite, on ne
+peut recevoir qu'une fois.
 
-Que doit faire le chrÃÂÃÂ©tien., pour conserver la grÃÂÃÂ¢ce de la Confirmation ?
+Que doit faire le chrétien., pour conserver la grâce de la Confirmation ?
 
-Pour conserver la grÃÂÃÂ¢ce de la Confirmation, le chrÃÂÃÂ©tien doit prier souvent,
-faire de bonnes oeuvres, et vivre selon la loi de JÃÂÃÂ©sus-Christ, sans respect
+Pour conserver la grâce de la Confirmation, le chrétien doit prier souvent,
+faire de bonnes oeuvres, et vivre selon la loi de Jésus-Christ, sans respect
 humain.
 
 Pourquoi y a-t-il aussi des parrains et des marraines dans la Confirmation ?
 
-Afin que, par leurs paroles et leurs exemples, ils guident le confirmÃÂÃÂ© dans
-la voie du salut et quÃ¢ÂÂils le soutiennent dans le combat spirituel.
+Afin que, par leurs paroles et leurs exemples, ils guident le confirmé dans
+la voie du salut et qu'ils le soutiennent dans le combat spirituel.
 
 Quelles conditions sont requises dans le parrain ?
 
-Le parrain doit ÃÂÃÂªtre dÃ¢ÂÂÃÂÃÂ¢ge convenable, catholique, confirmÃÂÃÂ©, instruit
-des choses les plus nÃÂÃÂ©cessaires de la religion et de bonnes moeurs.
+Le parrain doit être d'âge convenable, catholique, confirmé, instruit
+des choses les plus nécessaires de la religion et de bonnes moeurs.
 
-Le parrain de la Confirmation ne contracte-t-il aucune parentÃÂÃÂ© avec le
-confirmÃÂÃÂ© et ses parents ?
+Le parrain de la Confirmation ne contracte-t-il aucune parenté avec le
+confirmé et ses parents ?
 
-Le parrain de la Confirmation contracte la mÃÂÃÂªme parentÃÂÃÂ© spirituelle que
-celui du BaptÃÂÃÂªme.
+Le parrain de la Confirmation contracte la même parenté spirituelle que
+celui du Baptême.
 
-ÃÂ
+## Chapitre 4 L'Eucharistie.
 
-ÃÂ
+### § 1. La nature de l'Eucharistie et la présence réelle de Jésus-Christ dans ce sacrement.
 
-[Haut du document](#_top)
+Qu'est-ce que le sacrement d'Eucharistie ?
 
-ÃÂÃÂ
+L'Eucharistie est un sacrement qui, par l'admirable changement
+de toute la substance du pain au Corps de Jésus-Christ et de celle du vin en
+son Sang précieux, contient vraiment, réellement et substantiellement le Corps,
+le Sang, l'Ame et la Divinité de Jésus-Christ Notre Seigneur, sous les
+espèces du pain et du vin, pour être notre nourriture spirituelle.
 
-## Chapitre 4 LÃ¢ÂÂEucharistie. ÃÂ  ÃÂ
+Y a-t-il dans l'Eucharistie le même Jésus-Christ qui est dans le ciel
+et qui est né de la très Sainte Vierge sur cette terre ?
 
-### ÃÂÃÂ§ 1. La nature de lÃ¢ÂÂEucharistie et la prÃÂÃÂ©sence rÃÂÃÂ©elle de JÃÂÃÂ©sus-Christ dans ce sacrement.
+Oui, dans l'Eucharistie, il y a vraiment le même Jésus-Christ qui est
+dans le ciel et qui est né de la Très Sainte Vierge sur la terre.
 
-QuÃ¢ÂÂest-ce que le sacrement dÃ¢ÂÂEucharistie ?
+Pourquoi croyez-vous que dans le sacrement de l'Eucharistie,
+Jésus-Christ est vraiment présent ?
 
-LÃ¢ÂÂEucharistie est un sacrement qui, par lÃ¢ÂÂadmirable changement
-de toute la substance du pain au Corps de JÃÂÃÂ©sus-Christ et de celle du vin en
-son Sang prÃÂÃÂ©cieux, contient vraiment, rÃÂÃÂ©ellement et substantiellement le Corps,
-le Sang, lÃ¢ÂÂAme et la DivinitÃÂÃÂ© de JÃÂÃÂ©sus-Christ Notre Seigneur, sous les
-espÃÂÃÂ¨ces du pain et du vin, pour ÃÂÃÂªtre notre nourriture spirituelle.
+Je crois que, dans le sacrement de l'Eucharistie, Jésus-Christ est vraiment
+présent, parce que Lui-même l'a dit et que la sainte Eglise me
+l'enseigne.
 
-Y a-t-il dans lÃ¢ÂÂEucharistie le mÃÂÃÂªme JÃÂÃÂ©sus-Christ qui est dans le ciel
-et qui est nÃÂÃÂ© de la trÃÂÃÂ¨s Sainte Vierge sur cette terre ?
+Quelle est la matière du sacrement de l'Eucharistie ?
 
-Oui, dans lÃ¢ÂÂEucharistie, il y a vraiment le mÃÂÃÂªme JÃÂÃÂ©sus-Christ qui est
-dans le ciel et qui est nÃÂÃÂ© de la TrÃÂÃÂ¨s Sainte Vierge sur la terre.
+La matière du sacrement de l'Eucharistie est celle qui fut employée
+par Jésus-Christ, c'est-à-dire le pain de froment et le vin de la vigne.
 
-Pourquoi croyez-vous que dans le sacrement de lÃ¢ÂÂEucharistie,
-JÃÂÃÂ©sus-Christ est vraiment prÃÂÃÂ©sent ?
+Quelle est la forme du sacrement de l'Eucharistie ?
 
-Je crois que, dans le sacrement de lÃ¢ÂÂEucharistie, JÃÂÃÂ©sus-Christ est vraiment
-prÃÂÃÂ©sent, parce que Lui-mÃÂÃÂªme lÃ¢ÂÂa dit et que la sainte Eglise me
-lÃ¢ÂÂenseigne.
-
-Quelle est la matiÃÂÃÂ¨re du sacrement de lÃ¢ÂÂEucharistie ?
-
-La matiÃÂÃÂ¨re du sacrement de lÃ¢ÂÂEucharistie est celle qui fut employÃÂÃÂ©e
-par JÃÂÃÂ©sus-Christ, cÃ¢ÂÂest-ÃÂÃÂ -dire le pain de froment et le vin de la vigne.
-
-Quelle est la forme du sacrement de lÃ¢ÂÂEucharistie ?
-
-La forme du sacrement de lÃ¢ÂÂEucharistie consiste dans les paroles
-employÃÂÃÂ©es par JÃÂÃÂ©sus-Christ : " Ceci est mon Corps ; ceci est mon Sang
+La forme du sacrement de l'Eucharistie consiste dans les paroles
+employées par Jésus-Christ : " Ceci est mon Corps ; ceci est mon Sang
 ".
 
-QuÃ¢ÂÂest-ce donc que lÃ¢ÂÂhostie avant la consÃÂÃÂ©cration ?
+Qu'est-ce donc que l'hostie avant la consécration ?
 
-LÃ¢ÂÂhostie, avant la consÃÂÃÂ©cration, cÃ¢ÂÂest du pain.
+L'hostie, avant la consécration, c'est du pain.
 
-AprÃÂÃÂ¨s la consÃÂÃÂ©cration quÃ¢ÂÂest lÃ¢ÂÂhostie ?
+Après la consécration qu'est l'hostie ?
 
-AprÃÂÃÂ¨s la consÃÂÃÂ©cration, lÃ¢ÂÂhostie est le vrai Corps de Notre Seigneur
-JÃÂÃÂ©sus-Christ sous les espÃÂÃÂ¨ces du pain.
+Après la consécration, l'hostie est le vrai Corps de Notre Seigneur
+Jésus-Christ sous les espèces du pain.
 
-Dans le calice avant la consÃÂÃÂ©cration, quÃ¢ÂÂy a-t-il ?
+Dans le calice avant la consécration, qu'y a-t-il ?
 
-Dans le calice, avant la consÃÂÃÂ©cration, il y a du vin avec quelques gouttes
-dÃ¢ÂÂeau.
+Dans le calice, avant la consécration, il y a du vin avec quelques gouttes
+d'eau.
 
-AprÃÂÃÂ¨s la consÃÂÃÂ©cration, quÃ¢ÂÂy a-t-il dans le calice ?
+Après la consécration, qu'y a-t-il dans le calice ?
 
-AprÃÂÃÂ¨s la consÃÂÃÂ©cration, dans le calice, il y a le vrai Sang de Notre Seigneur
-JÃÂÃÂ©sus-Christ sous les espÃÂÃÂ¨ces du vin.
+Après la consécration, dans le calice, il y a le vrai Sang de Notre Seigneur
+Jésus-Christ sous les espèces du vin.
 
 Quand se fait le changement du pain au Corps et du vin au Sang de
-JÃÂÃÂ©sus-Christ ?
+Jésus-Christ ?
 
-Le changement du pain au Corps et du vin au Sang de JÃÂÃÂ©sus-Christ se fait au
-moment mÃÂÃÂªme oÃÂÃÂ¹ le prÃÂÃÂªtre, pendant la sainte Messe, prononce les paroles de la
-consÃÂÃÂ©cration.
+Le changement du pain au Corps et du vin au Sang de Jésus-Christ se fait au
+moment même où le prêtre, pendant la sainte Messe, prononce les paroles de la
+consécration.
 
-QuÃ¢ÂÂest-ce que la consÃÂÃÂ©cration ?
+Qu'est-ce que la consécration ?
 
-La consÃÂÃÂ©cration est le renouvellement, par le ministÃÂÃÂ¨re du prÃÂÃÂªtre, du
-miracle opÃÂÃÂ©rÃÂÃÂ© par JÃÂÃÂ©sus-Christ changeant ÃÂÃÂ  la derniÃÂÃÂ¨re CÃÂÃÂ¨ne le pain et le vin
+La consécration est le renouvellement, par le ministère du prêtre, du
+miracle opéré par Jésus-Christ changeant à la dernière Cène le pain et le vin
 en son Corps et en son Sang adorables par ces mots : " Ceci est mon Corps ;
 ceci est mon Sang ".
 
-Comment lÃ¢ÂÂEglise appelle-t-elle le miraculeux changement du pain et du
-vin au Corps et au Sang de JÃÂÃÂ©sus-Christ ?
+Comment l'Eglise appelle-t-elle le miraculeux changement du pain et du
+vin au Corps et au Sang de Jésus-Christ ?
 
-Le miraculeux changement qui sÃ¢ÂÂopÃÂÃÂ¨re chaque jour sur nos autels est
-appelÃÂÃÂ© par lÃ¢ÂÂEglise transsubstantiation.
+Le miraculeux changement qui s'opère chaque jour sur nos autels est
+appelé par l'Eglise transsubstantiation.
 
-Qui a donnÃÂÃÂ© une telle puissance aux paroles de la consÃÂÃÂ©cration ?
+Qui a donné une telle puissance aux paroles de la consécration ?
 
-CÃ¢ÂÂest Notre Seigneur JÃÂÃÂ©sus-Christ Lui-mÃÂÃÂªme, Dieu tout-puissant, qui a
-donnÃÂÃÂ© une telle puissance aux paroles de la consÃÂÃÂ©cration.
+C'est Notre Seigneur Jésus-Christ Lui-même, Dieu tout-puissant, qui a
+donné une telle puissance aux paroles de la consécration.
 
-AprÃÂÃÂ¨s la consÃÂÃÂ©cration ne reste-t-il rien du pain et du vin ?
+Après la consécration ne reste-t-il rien du pain et du vin ?
 
-AprÃÂÃÂ¨s la consÃÂÃÂ©cration il reste seulement les espÃÂÃÂ¨ces du pain et du vin.
+Après la consécration il reste seulement les espèces du pain et du vin.
 
-QuÃ¢ÂÂappelle-t-on espÃÂÃÂ¨ces du pain et du vin ?
+Qu'appelle-t-on espèces du pain et du vin ?
 
-On appelle espÃÂÃÂ¨ces la quantitÃÂÃÂ© et les qualitÃÂÃÂ©s sensibles du pain et du vin
+On appelle espèces la quantité et les qualités sensibles du pain et du vin
 comme : la forme, la couleur, la saveur.
 
-Comment les espÃÂÃÂ¨ces du pain et du vin peuvent-elles rester sans leur
+Comment les espèces du pain et du vin peuvent-elles rester sans leur
 substance ?
 
-Les espÃÂÃÂ¨ces du pain et du vin restent merveilleusement sans leur substance
+Les espèces du pain et du vin restent merveilleusement sans leur substance
 par la vertu du Dieu tout-puissant.
 
-Sous les espÃÂÃÂ¨ces du pain nÃ¢ÂÂy a-t-il que le Corps de JÃÂÃÂ©sus-Christ, et
-sous les espÃÂÃÂ¨ces du vin nÃ¢ÂÂy a-t-il que son Sang ?
+Sous les espèces du pain n'y a-t-il que le Corps de Jésus-Christ, et
+sous les espèces du vin n'y a-t-il que son Sang ?
 
-Autant sous les espÃÂÃÂ¨ces du pain que sous les espÃÂÃÂ¨ces du vin, JÃÂÃÂ©sus-Christ
-est vivant et tout entier dans son Corps, son Sang, son Ame et sa DivinitÃÂÃÂ©.
+Autant sous les espèces du pain que sous les espèces du vin, Jésus-Christ
+est vivant et tout entier dans son Corps, son Sang, son Ame et sa Divinité.
 
-Sauriez-vous me dire pourquoi JÃÂÃÂ©sus-Christ est tout entier aussi bien dans lÃ¢ÂÂhostie
+Sauriez-vous me dire pourquoi Jésus-Christ est tout entier aussi bien dans l'hostie
 que dans le calice ?
 
-JÃÂÃÂ©sus-Christ est tout entier aussi bien dans lÃ¢ÂÂhostie que dans le
-calice parce que, dans lÃ¢ÂÂEucharistie, il est vivant et immortel comme
-dans le ciel. Par consÃÂÃÂ©quent, lÃÂÃÂ  oÃÂÃÂ¹ est son Corps, il y a aussi son Sang, son
-Ame et sa DivinitÃÂÃÂ© ; et lÃÂÃÂ  oÃÂÃÂ¹ est son Sang, il y a aussi son Corps, son Ame et
-sa DivinitÃÂÃÂ©, car en JÃÂÃÂ©sus-Christ tout cela est insÃÂÃÂ©parable.
+Jésus-Christ est tout entier aussi bien dans l'hostie que dans le
+calice parce que, dans l'Eucharistie, il est vivant et immortel comme
+dans le ciel. Par conséquent, là où est son Corps, il y a aussi son Sang, son
+Ame et sa Divinité ; et là où est son Sang, il y a aussi son Corps, son Ame et
+sa Divinité, car en Jésus-Christ tout cela est inséparable.
 
-Quand JÃÂÃÂ©sus-Christ est dans lÃ¢ÂÂhostie, cesse-t-il dÃ¢ÂÂÃÂÃÂªtre au ciel
+Quand Jésus-Christ est dans l'hostie, cesse-t-il d'être au ciel
 ?
 
-Quand JÃÂÃÂ©sus-Christ est dans lÃ¢ÂÂhostie, il ne cesse pas dÃ¢ÂÂÃÂÃÂªtre au
-ciel, mais il se trouve en mÃÂÃÂªme temps au ciel et dans le TrÃÂÃÂ¨s Saint Sacrement.
+Quand Jésus-Christ est dans l'hostie, il ne cesse pas d'être au
+ciel, mais il se trouve en même temps au ciel et dans le Très Saint Sacrement.
 
-JÃÂÃÂ©sus-Christ se trouve-t-il dans toutes les hosties consacrÃÂÃÂ©es du monde ?
+Jésus-Christ se trouve-t-il dans toutes les hosties consacrées du monde ?
 
-Oui, JÃÂÃÂ©sus-Christ se trouve dans toutes les hosties consacrÃÂÃÂ©es.
+Oui, Jésus-Christ se trouve dans toutes les hosties consacrées.
 
-Comment peut-il se faire que JÃÂÃÂ©sus-Christ se trouve dans toutes les hosties
-consacrÃÂÃÂ©es ?
+Comment peut-il se faire que Jésus-Christ se trouve dans toutes les hosties
+consacrées ?
 
-JÃÂÃÂ©sus-Christ se trouve dans toutes les hosties consacrÃÂÃÂ©es par la
-toute-puissance de Dieu ÃÂÃÂ  qui rien nÃ¢ÂÂest impossible.
+Jésus-Christ se trouve dans toutes les hosties consacrées par la
+toute-puissance de Dieu à qui rien n'est impossible.
 
-Quand on divise lÃ¢ÂÂhostie, divise-t-on le Corps de JÃÂÃÂ©sus-Christ ?
+Quand on divise l'hostie, divise-t-on le Corps de Jésus-Christ ?
 
-Quand on divise lÃ¢ÂÂhostie on ne divise pas le Corps de JÃÂÃÂ©sus-Christ, on
-divise seulement les espÃÂÃÂ¨ces du pain.
+Quand on divise l'hostie on ne divise pas le Corps de Jésus-Christ, on
+divise seulement les espèces du pain.
 
-Dans quelle partie de lÃ¢ÂÂhostie reste le Corps de JÃÂÃÂ©sus-Christ ?
+Dans quelle partie de l'hostie reste le Corps de Jésus-Christ ?
 
-Le Corps de JÃÂÃÂ©sus-Christ reste tout entier dans toutes les parties en
-lesquelles lÃ¢ÂÂhostie a ÃÂÃÂ©tÃÂÃÂ© divisÃÂÃÂ©e.
+Le Corps de Jésus-Christ reste tout entier dans toutes les parties en
+lesquelles l'hostie a été divisée.
 
-JÃÂÃÂ©sus-Christ est-il autant dans la parcelle dÃ¢ÂÂune hostie que dans une
+Jésus-Christ est-il autant dans la parcelle d'une hostie que dans une
 grande hostie ?
 
-Dans une grande hostie comme dans la parcelle dÃ¢ÂÂune hostie,
-cÃ¢ÂÂest toujours le mÃÂÃÂªme JÃÂÃÂ©sus-Christ.
+Dans une grande hostie comme dans la parcelle d'une hostie,
+c'est toujours le même Jésus-Christ.
 
-Pour quel motif conserve-t-on dans les ÃÂÃÂ©glises la trÃÂÃÂ¨s sainte Eucharistie ?
+Pour quel motif conserve-t-on dans les églises la très sainte Eucharistie ?
 
-On conserve dans les ÃÂÃÂ©glises la trÃÂÃÂ¨s sainte Eucharistie pour quÃ¢ÂÂelle
-soit adorÃÂÃÂ©e par les fidÃÂÃÂ¨les et portÃÂÃÂ©e aux malades quand ils en ont besoin.
+On conserve dans les églises la très sainte Eucharistie pour qu'elle
+soit adorée par les fidèles et portée aux malades quand ils en ont besoin.
 
-Doit-on adorer lÃ¢ÂÂEucharistie ?
+Doit-on adorer l'Eucharistie ?
 
-LÃ¢ÂÂEucharistie doit ÃÂÃÂªtre adorÃÂÃÂ©e de tout le monde parce quÃ¢ÂÂelle
-contient vraiment, rÃÂÃÂ©ellement et substantiellement Notre Seigneur JÃÂÃÂ©sus-Christ.
+L'Eucharistie doit être adorée de tout le monde parce qu'elle
+contient vraiment, réellement et substantiellement Notre Seigneur Jésus-Christ.
 
-ÃÂ
+### § 2. L'institution et les effets du sacrement de l'Eucharistie.
 
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂÃÂ
-
-### ÃÂÃÂ§ 2. LÃ¢ÂÂinstitution et les effets du sacrement de lÃ¢ÂÂEucharistie.
-
-Quand est-ce que JÃÂÃÂ©sus-Christ a instituÃÂÃÂ© le sacrement de lÃ¢ÂÂEucharistie
+Quand est-ce que Jésus-Christ a institué le sacrement de l'Eucharistie
 ?
 
-JÃÂÃÂ©sus-Christ a instituÃÂÃÂ© le sacrement de lÃ¢ÂÂEucharistie dans la derniÃÂÃÂ¨re
-cÃÂÃÂ¨ne quÃ¢ÂÂil fit avec ses disciples, le soir qui prÃÂÃÂ©cÃÂÃÂ©da sa passion.
+Jésus-Christ a institué le sacrement de l'Eucharistie dans la dernière
+cène qu'il fit avec ses disciples, le soir qui précéda sa passion.
 
-Pourquoi JÃÂÃÂ©sus-Christ a-t-il instituÃÂÃÂ© la trÃÂÃÂ¨s sainte Eucharistie ?
+Pourquoi Jésus-Christ a-t-il institué la très sainte Eucharistie ?
 
-JÃÂÃÂ©sus-Christ a instituÃÂÃÂ© la trÃÂÃÂ¨s sainte Eucharistie pour trois raisons
+Jésus-Christ a institué la très sainte Eucharistie pour trois raisons
 principales :
 
-1 pour quÃ¢ÂÂelle soit le sacrifice de la nouvelle loi ;
+1 pour qu'elle soit le sacrifice de la nouvelle loi ;
 
-2 pour quÃ¢ÂÂelle soit la nourriture de notre ÃÂÃÂ¢me ;
+2 pour qu'elle soit la nourriture de notre âme ;
 
-3 pour quÃ¢ÂÂelle soit un mÃÂÃÂ©morial perpÃÂÃÂ©tuel de sa passion et de sa mort,
-et un gage prÃÂÃÂ©cieux de son amour envers nous et de la vie ÃÂÃÂ©ternelle.
+3 pour qu'elle soit un mémorial perpétuel de sa passion et de sa mort,
+et un gage précieux de son amour envers nous et de la vie éternelle.
 
-Pourquoi JÃÂÃÂ©sus-Christ a-t-il instituÃÂÃÂ© ce sacrement sous les espÃÂÃÂ¨ces du pain
+Pourquoi Jésus-Christ a-t-il institué ce sacrement sous les espèces du pain
 et du vin ?
 
-JÃÂÃÂ©sus-Christ a instituÃÂÃÂ© ce sacrement sous les espÃÂÃÂ¨ces du pain et du vin,
-parce que lÃ¢ÂÂEucharistie devait ÃÂÃÂªtre notre nourriture spirituelle et
-quÃ¢ÂÂil ÃÂÃÂ©tait par suite convenable quÃ¢ÂÂelle nous fÃÂÃÂ»t donnÃÂÃÂ©e sous forme
-dÃ¢ÂÂaliment et de breuvage.
+Jésus-Christ a institué ce sacrement sous les espèces du pain et du vin,
+parce que l'Eucharistie devait être notre nourriture spirituelle et
+qu'il était par suite convenable qu'elle nous fût donnée sous forme
+d'aliment et de breuvage.
 
-Quels effets produit en nous la trÃÂÃÂ¨s sainte Eucharistie ?
+Quels effets produit en nous la très sainte Eucharistie ?
 
-Voici les principaux effets que produit la trÃÂÃÂ¨s sainte Eucharistie en celui
-qui la reÃÂÃÂ§oit dignement :
+Voici les principaux effets que produit la très sainte Eucharistie en celui
+qui la reçoit dignement :
 
-l elle conserve et accroÃÂÃÂ®t la vie de lÃ¢ÂÂÃÂÃÂ¢me qui est la grÃÂÃÂ¢ce, comme la
-nourriture matÃÂÃÂ©rielle soutient et accroÃÂÃÂ®t la vie du corps ;
+l elle conserve et accroît la vie de l'âme qui est la grâce, comme la
+nourriture matérielle soutient et accroît la vie du corps ;
 
-2 elle remet les pÃÂÃÂ©chÃÂÃÂ©s vÃÂÃÂ©niels et prÃÂÃÂ©serve des pÃÂÃÂ©chÃÂÃÂ©s mortels ;
+2 elle remet les péchés véniels et préserve des péchés mortels ;
 
 3 elle produit la consolation spirituelle.
 
-La trÃÂÃÂ¨s sainte Eucharistie ne produit-elle pas en nous dÃ¢ÂÂautres effets
+La très sainte Eucharistie ne produit-elle pas en nous d'autres effets
 ?
 
-Si, la trÃÂÃÂ¨s sainte Eucharistie produit encore en nous trois autres effets, ÃÂÃÂ
+Si, la très sainte Eucharistie produit encore en nous trois autres effets, à
 savoir :
 
 1 elle affaiblit nos passions et, en particulier, elle amortit en nous le
 feu de la concupiscence ;
 
-2 elle accroÃÂÃÂ®t en nous la ferveur et nous aide ÃÂÃÂ  agir en conformitÃÂÃÂ© avec les
-dÃÂÃÂ©sirs de JÃÂÃÂ©sus-Christ ;
+2 elle accroît en nous la ferveur et nous aide à agir en conformité avec les
+désirs de Jésus-Christ ;
 
-3 elle nous donne un gage de la gloire future et de la rÃÂÃÂ©surrection de notre
+3 elle nous donne un gage de la gloire future et de la résurrection de notre
 corps.
 
-ÃÂ
+### § 3. Les dispositions nécessaires pour bien communier.
 
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 3. Les dispositions nÃÂÃÂ©cessaires pour bien communier.
-
-Le sacrement de, lÃ¢ÂÂEucharistie produit-il toujours en .nous ses
+Le sacrement de, l'Eucharistie produit-il toujours en .nous ses
 merveilleux effets ?
 
-Le sacrement de lÃ¢ÂÂEucharistie produit en nous ses merveilleux effets
-quand il est reÃÂÃÂ§u avec les dispositions nÃÂÃÂ©cessaires.
+Le sacrement de l'Eucharistie produit en nous ses merveilleux effets
+quand il est reçu avec les dispositions nécessaires.
 
-Combien de choses sont nÃÂÃÂ©cessaires pour faire une bonne Communion ?
+Combien de choses sont nécessaires pour faire une bonne Communion ?
 
-Pour faire une bonne Communion trois choses sont nÃÂÃÂ©cessaires :
+Pour faire une bonne Communion trois choses sont nécessaires :
 
-1 ÃÂÃÂªtre en ÃÂÃÂ©tat de grÃÂÃÂ¢ce ;
+1 être en état de grâce ;
 
-2 ÃÂÃÂªtre ÃÂÃÂ  jeun depuis minuit jusquÃ¢ÂÂau moment de la Communion ;
+2 être à jeun depuis minuit jusqu'au moment de la Communion ;
 
-3 savoir ce quÃ¢ÂÂon va recevoir et sÃ¢ÂÂapprocher de la sainte
-Communion avec dÃÂÃÂ©votion.
+3 savoir ce qu'on va recevoir et s'approcher de la sainte
+Communion avec dévotion.
 
-QuÃ¢ÂÂest-ce quÃ¢ÂÂÃÂÃÂªtre en ÃÂÃÂ©tat de grÃÂÃÂ¢ce ?
+Qu'est-ce qu'être en état de grâce ?
 
-Etre en ÃÂÃÂ©tat de grÃÂÃÂ¢ce, cÃ¢ÂÂest avoir la conscience pure de tout pÃÂÃÂ©chÃÂÃÂ©
+Etre en état de grâce, c'est avoir la conscience pure de tout péché
 mortel.
 
-Que doit faire, avant de communier, celui qui sait ÃÂÃÂªtre en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ©
+Que doit faire, avant de communier, celui qui sait être en état de péché
 mortel ?
 
-Celui qui sait ÃÂÃÂªtre en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel, doit, avant de communier, faire
-une bonne confession ; car lÃ¢ÂÂacte de contrition parfaite, sans la
-confession, ne suffit pas ÃÂÃÂ  celui qui est en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel pour
+Celui qui sait être en état de péché mortel, doit, avant de communier, faire
+une bonne confession ; car l'acte de contrition parfaite, sans la
+confession, ne suffit pas à celui qui est en état de péché mortel pour
 communier comme il faut.
 
-Pourquoi lÃ¢ÂÂacte de contrition parfaite ne suffit-il pas, quand on est
-en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel, pour pouvoir communier ?
+Pourquoi l'acte de contrition parfaite ne suffit-il pas, quand on est
+en état de péché mortel, pour pouvoir communier ?
 
-Parce que lÃ¢ÂÂEglise a ÃÂÃÂ©tabli, par respect pour ce sacrement, que celui
-qui est coupable de pÃÂÃÂ©chÃÂÃÂ© mortel nÃ¢ÂÂaille pas faire la sainte Communion
-si, auparavant, il ne sÃ¢ÂÂest pas confessÃÂÃÂ©.
+Parce que l'Eglise a établi, par respect pour ce sacrement, que celui
+qui est coupable de péché mortel n'aille pas faire la sainte Communion
+si, auparavant, il ne s'est pas confessé.
 
-Celui qui communierait en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel recevrait-il JÃÂÃÂ©sus-Christ ?
+Celui qui communierait en état de péché mortel recevrait-il Jésus-Christ ?
 
-Celui qui communierait en ÃÂÃÂ©tat de pÃÂÃÂ©chÃÂÃÂ© mortel recevrait JÃÂÃÂ©sus-Christ, mais
-il ne recevrait pas sa grÃÂÃÂ¢ce ; il commettrait mÃÂÃÂªme un sacrilÃÂÃÂ¨ge et encourrait
+Celui qui communierait en état de péché mortel recevrait Jésus-Christ, mais
+il ne recevrait pas sa grâce ; il commettrait même un sacrilège et encourrait
 la sentence de damnation.
 
-Quel est le jeÃÂÃÂ»ne requis avant la Communion ?
+Quel est le jeûne requis avant la Communion ?
 
-Le jeÃÂÃÂ»ne requis avant la Communion est le jeÃÂÃÂ»ne naturel, qui est rompu par
-la moindre chose prise par maniÃÂÃÂ¨re dÃ¢ÂÂaliment ou de breuvage.
+Le jeûne requis avant la Communion est le jeûne naturel, qui est rompu par
+la moindre chose prise par manière d'aliment ou de breuvage.
 
-Celui qui avale quelque chose restÃÂÃÂ© dans les dents ou quelque goutte
-dÃ¢ÂÂeau entrÃÂÃÂ©e dans la bouche, peut-il encore communier ?
+Celui qui avale quelque chose resté dans les dents ou quelque goutte
+d'eau entrée dans la bouche, peut-il encore communier ?
 
-Celui qui avale quelque chose restÃÂÃÂ© dans les dents ou quelque goutte
-dÃ¢ÂÂeau en faisant sa toilette, peut encore communier ; parce
-quÃ¢ÂÂalors, ou bien ces choses ne sont pas prises par maniÃÂÃÂ¨re
-dÃ¢ÂÂaliment ou de breuvage, ou bien elles en ont perdu la nature.
+Celui qui avale quelque chose resté dans les dents ou quelque goutte
+d'eau en faisant sa toilette, peut encore communier ; parce
+qu'alors, ou bien ces choses ne sont pas prises par manière
+d'aliment ou de breuvage, ou bien elles en ont perdu la nature.
 
-NÃ¢ÂÂest-il jamais permis de communier sans ÃÂÃÂªtre ÃÂÃÂ  jeun ?
+N'est-il jamais permis de communier sans être à jeun ?
 
-Communier sans ÃÂÃÂªtre ÃÂÃÂ  jeun est permis aux malades qui sont en danger de
-mort, et ÃÂÃÂ  ceux qui ont obtenu une permission spÃÂÃÂ©ciale du Pape en raison
-dÃ¢ÂÂune maladie qui se prolonge. La Communion faite par les malades en
-danger de mort sÃ¢ÂÂappelle Viatique, parce quÃ¢ÂÂelle les soutient dans
-le voyage quÃ¢ÂÂils font de cette vie ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ©ternitÃÂÃÂ©.
+Communier sans être à jeun est permis aux malades qui sont en danger de
+mort, et à ceux qui ont obtenu une permission spéciale du Pape en raison
+d'une maladie qui se prolonge. La Communion faite par les malades en
+danger de mort s'appelle Viatique, parce qu'elle les soutient dans
+le voyage qu'ils font de cette vie à l'éternité.
 
-Que veulent dire ces mots : savoir ce quÃ¢ÂÂon va recevoir ?
+Que veulent dire ces mots : savoir ce qu'on va recevoir ?
 
-Savoir ce quÃ¢ÂÂon va recevoir, veut dire : connaÃÂÃÂ®tre ce
-quÃ¢ÂÂenseigne la Doctrine chrÃÂÃÂ©tienne au sujet de ce sacrement et le croire
+Savoir ce qu'on va recevoir, veut dire : connaître ce
+qu'enseigne la Doctrine chrétienne au sujet de ce sacrement et le croire
 fermement.
 
-Que veut dire : communier avec dÃÂÃÂ©votion ?
+Que veut dire : communier avec dévotion ?
 
-Communier avec dÃÂÃÂ©votion, cÃ¢ÂÂest sÃ¢ÂÂapprocher de la sainte
-Communion avec humilitÃÂÃÂ© et modestie, dans sa personne comme dans ses habits, et
-faire la prÃÂÃÂ©paration avant la sainte Communion et lÃ¢ÂÂaction de grÃÂÃÂ¢ces
-aprÃÂÃÂ¨s.
+Communier avec dévotion, c'est s'approcher de la sainte
+Communion avec humilité et modestie, dans sa personne comme dans ses habits, et
+faire la préparation avant la sainte Communion et l'action de grâces
+après.
 
-En quoi consiste la prÃÂÃÂ©paration avant la Communion ?
+En quoi consiste la préparation avant la Communion ?
 
-La prÃÂÃÂ©paration avant la Communion consiste ÃÂÃÂ  sÃ¢ÂÂarrÃÂÃÂªter quelques
-instants ÃÂÃÂ  considÃÂÃÂ©rer qui nous allons recevoir et qui nous sommes ; et ÃÂÃÂ  faire
-des actes de foi, dÃ¢ÂÂespÃÂÃÂ©rance, de charitÃÂÃÂ©, de contrition,
-dÃ¢ÂÂadoration, dÃ¢ÂÂhumilitÃÂÃÂ© et de dÃÂÃÂ©sir de recevoir JÃÂÃÂ©sus-Christ.
+La préparation avant la Communion consiste à s'arrêter quelques
+instants à considérer qui nous allons recevoir et qui nous sommes ; et à faire
+des actes de foi, d'espérance, de charité, de contrition,
+d'adoration, d'humilité et de désir de recevoir Jésus-Christ.
 
-En quoi consiste lÃ¢ÂÂaction de grÃÂÃÂ¢ces aprÃÂÃÂ¨s la Communion ?
+En quoi consiste l'action de grâces après la Communion ?
 
-LÃ¢ÂÂaction de grÃÂÃÂ¢ces aprÃÂÃÂ¨s la Communion consiste ÃÂÃÂ  rester dans le
-recueillement, honorant la prÃÂÃÂ©sence du Seigneur en nous et renouvelant les
-actes de foi, dÃ¢ÂÂespÃÂÃÂ©rance, de charitÃÂÃÂ©, dÃ¢ÂÂadoration, de
-remerciement, dÃ¢ÂÂoffrande et de demande, demandant surtout les grÃÂÃÂ¢ces qui
-nous sont le plus nÃÂÃÂ©cessaires ÃÂÃÂ  nous et ÃÂÃÂ  ceux pour lesquels nous sommes
-obligÃÂÃÂ©s de prier.
+L'action de grâces après la Communion consiste à rester dans le
+recueillement, honorant la présence du Seigneur en nous et renouvelant les
+actes de foi, d'espérance, de charité, d'adoration, de
+remerciement, d'offrande et de demande, demandant surtout les grâces qui
+nous sont le plus nécessaires à nous et à ceux pour lesquels nous sommes
+obligés de prier.
 
 Que doit-on faire le jour de la Communion ?
 
 Le jour de la Communion on doit se tenir le plus possible dans le
-recueillement, sÃ¢ÂÂoccuper ÃÂÃÂ  des oeuvres de piÃÂÃÂ©tÃÂÃÂ© et remplir avec un plus
-grand soin les devoirs de son ÃÂÃÂ©tat.
+recueillement, s'occuper à des oeuvres de piété et remplir avec un plus
+grand soin les devoirs de son état.
 
-Combien de temps JÃÂÃÂ©sus-Christ reste-t-il en nous aprÃÂÃÂ¨s la sainte Communion ?
+Combien de temps Jésus-Christ reste-t-il en nous après la sainte Communion ?
 
-AprÃÂÃÂ¨s la sainte Communion JÃÂÃÂ©sus-Christ reste en nous par sa grÃÂÃÂ¢ce aussi
-longtemps que nous ne pÃÂÃÂ©chons pas mortellement ; et par sa prÃÂÃÂ©sence rÃÂÃÂ©elle il
-reste tant que les espÃÂÃÂ¨ces sacramentelles ne sont pas consommÃÂÃÂ©es.
+Après la sainte Communion Jésus-Christ reste en nous par sa grâce aussi
+longtemps que nous ne péchons pas mortellement ; et par sa présence réelle il
+reste tant que les espèces sacramentelles ne sont pas consommées.
 
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-ÃÂ
-
-### ÃÂÃÂ§ 4. La maniÃÂÃÂ¨re de communier.
+### § 4. La manière de communier.
 
 Comment faut-il se tenir au moment de recevoir la sainte Communion ?
 
-Au moment de recevoir la sainte Communion, il faut ÃÂÃÂªtre ÃÂÃÂ  genoux, tenir la
-tÃÂÃÂªte mÃÂÃÂ©diocrement levÃÂÃÂ©e, les yeux modestement tournÃÂÃÂ©s vers la sainte Hostie, la
-bouche suffisamment ouverte et la langue un peu avancÃÂÃÂ©e sur la lÃÂÃÂ¨vre
-infÃÂÃÂ©rieure.
+Au moment de recevoir la sainte Communion, il faut être à genoux, tenir la
+tête médiocrement levée, les yeux modestement tournés vers la sainte Hostie, la
+bouche suffisamment ouverte et la langue un peu avancée sur la lèvre
+inférieure.
 
 Comment faut-il tenir la nappe ou la tablette de Communion ?
 
 Il faut tenir la nappe ou la tablette de Communion de telle sorte
-quÃ¢ÂÂelle reÃÂÃÂ§oive la sainte Hostie si elle venait ÃÂÃÂ  tomber.
+qu'elle reçoive la sainte Hostie si elle venait à tomber.
 
 Quand doit-on avaler la sainte Hostie ?
 
-Nous devons faire en sorte dÃ¢ÂÂavaler la sainte Hostie le plus tÃÂÃÂ´t
+Nous devons faire en sorte d'avaler la sainte Hostie le plus tôt
 possible, et nous abstenir de cracher pendant quelque temps.
 
-Si la sainte Hostie sÃ¢ÂÂattachait au palais, que faudrait-il faire ?
+Si la sainte Hostie s'attachait au palais, que faudrait-il faire ?
 
-Si la sainte Hostie sÃ¢ÂÂattachait au palais, il faudrait la dÃÂÃÂ©tacher
+Si la sainte Hostie s'attachait au palais, il faudrait la détacher
 avec la langue, et jamais avec le doigt.
 
-ÃÂ
-
-ÃÂ
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 5. Le prÃÂÃÂ©cepte de la communion.
+### § 5. Le précepte de la communion.
 
 Quand y a-t-il obligation de communier ?
 
-Il y a obligation de communier tous les ans, ÃÂÃÂ  PÃÂÃÂ¢ques, chacun dans sa
+Il y a obligation de communier tous les ans, à Pâques, chacun dans sa
 paroisse ; et de plus, quand on est en danger de mort.
 
-A quel ÃÂÃÂ¢ge commence ÃÂÃÂ  obliger le commandement de la Communion pascale ?
+A quel âge commence à obliger le commandement de la Communion pascale ?
 
-Le commandement de la Communion pascale commence ÃÂÃÂ  obliger ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ¢ge oÃÂÃÂ¹
-lÃ¢ÂÂenfant est capable de sÃ¢ÂÂen approcher avec les dispositions
+Le commandement de la Communion pascale commence à obliger à l'âge où
+l'enfant est capable de s'en approcher avec les dispositions
 requises.
 
-Ceux qui ont lÃ¢ÂÂÃÂÃÂ¢ge dÃ¢ÂÂÃÂÃÂªtre admis ÃÂÃÂ  la Communion et qui ne
-communient pas pÃÂÃÂ¨chent-ils ?
+Ceux qui ont l'âge d'être admis à la Communion et qui ne
+communient pas pèchent-ils ?
 
-Ceux qui, ayant lÃ¢ÂÂÃÂÃÂ¢ge dÃ¢ÂÂÃÂÃÂªtre admis ÃÂÃÂ  la Communion, ne communient
-pas, ou parce quÃ¢ÂÂils ne veulent pas ou parce que, par leur faute, ils ne
-sont pas instruits, pÃÂÃÂ¨chent certainement. Leurs parents ou ceux qui les
-remplacent pÃÂÃÂ¨chent de leur cÃÂÃÂ´tÃÂÃÂ© si le retard de la Communion arrive par leur
-faute et ils devront en rendre un grand compte ÃÂÃÂ  Dieu.
+Ceux qui, ayant l'âge d'être admis à la Communion, ne communient
+pas, ou parce qu'ils ne veulent pas ou parce que, par leur faute, ils ne
+sont pas instruits, pèchent certainement. Leurs parents ou ceux qui les
+remplacent pèchent de leur côté si le retard de la Communion arrive par leur
+faute et ils devront en rendre un grand compte à Dieu.
 
 Est-il bon et utile de communier souvent ?
 
-Il est trÃÂÃÂ¨s bon de communier souvent, et mÃÂÃÂªme chaque jour, selon le dÃÂÃÂ©sir de
-lÃ¢ÂÂEglise, pourvu quÃ¢ÂÂon le fasse avec les dispositions requises.
+Il est très bon de communier souvent, et même chaque jour, selon le désir de
+l'Eglise, pourvu qu'on le fasse avec les dispositions requises.
 
-Avec quelle frÃÂÃÂ©quence peut-on sÃ¢ÂÂapprocher de la sainte Table ?
+Avec quelle fréquence peut-on s'approcher de la sainte Table ?
 
-On peut sÃ¢ÂÂapprocher de la sainte Table aussi souvent que le conseil en
-est donnÃÂÃÂ© par un pieux et docte confesseur.
+On peut s'approcher de la sainte Table aussi souvent que le conseil en
+est donné par un pieux et docte confesseur.
 
-ÃÂ
+## Chapitre 5 Le saint sacrifice de la Messe.
 
-if !supportLineBreakNewLine?
+### § 1. L'essence, l'institution et les fins du saint sacrifice de la Messe.
 
-endif?
+L'Eucharistie doit-elle être considérée seulement comme un sacrement ?
 
-[Haut du document](#_top)
+L'Eucharistie n'est pas seulement un sacrement ; elle est aussi
+le sacrifice permanent de la nouvelle loi, que Jésus-Christ a laissé à son
+Eglise, afin de s'offrir à Dieu par les mains de ses prêtres.
 
-ÃÂ
+En quoi consiste, en général, le sacrifice ?
 
-## Chapitre 5 Le saint sacrifice de la Messe. ÃÂ  ÃÂ
-
-### ÃÂÃÂ§ 1. LÃ¢ÂÂessence, lÃ¢ÂÂinstitution et les fins du saint sacrifice de la Messe.
-
-LÃ¢ÂÂEucharistie doit-elle ÃÂÃÂªtre considÃÂÃÂ©rÃÂÃÂ©e seulement comme un sacrement ?
-
-LÃ¢ÂÂEucharistie nÃ¢ÂÂest pas seulement un sacrement ; elle est aussi
-le sacrifice permanent de la nouvelle loi, que JÃÂÃÂ©sus-Christ a laissÃÂÃÂ© ÃÂÃÂ  son
-Eglise, afin de sÃ¢ÂÂoffrir ÃÂÃÂ  Dieu par les mains de ses prÃÂÃÂªtres.
-
-En quoi consiste, en gÃÂÃÂ©nÃÂÃÂ©ral, le sacrifice ?
-
-Le sacrifice, en gÃÂÃÂ©nÃÂÃÂ©ral, consiste ÃÂÃÂ  offrir ÃÂÃÂ  Dieu une chose sensible et ÃÂÃÂ
-la dÃÂÃÂ©truire en quelque maniÃÂÃÂ¨re pour reconnaÃÂÃÂ®tre son souverain domaine sur nous
+Le sacrifice, en général, consiste à offrir à Dieu une chose sensible et à
+la détruire en quelque manière pour reconnaître son souverain domaine sur nous
 et sur toutes choses.
 
-Comment sÃ¢ÂÂappelle ce sacrifice de la nouvelle loi ?
+Comment s'appelle ce sacrifice de la nouvelle loi ?
 
-Ce sacrifice de la nouvelle loi sÃ¢ÂÂappelle la sainte Messe.
+Ce sacrifice de la nouvelle loi s'appelle la sainte Messe.
 
-QuÃ¢ÂÂest-ce donc que la sainte Messe ?
+Qu'est-ce donc que la sainte Messe ?
 
-La sainte Messe est le sacrifice du Corps et du Sang de JÃÂÃÂ©sus-Christ, offert
-sur nos autels sous les espÃÂÃÂ¨ces du pain et du vin en souvenir du sacrifice de
+La sainte Messe est le sacrifice du Corps et du Sang de Jésus-Christ, offert
+sur nos autels sous les espèces du pain et du vin en souvenir du sacrifice de
 la Croix.
 
-Le sacrifice de la Messe est-il le mÃÂÃÂªme que celui de la Croix ?
+Le sacrifice de la Messe est-il le même que celui de la Croix ?
 
-Le sacrifice de la Messe est substantiellement le mÃÂÃÂªme que celui de la Croix
-en ce que cÃ¢ÂÂest le mÃÂÃÂªme JÃÂÃÂ©sus-Christ qui sÃ¢ÂÂest offert sur la Croix
-et qui sÃ¢ÂÂoffre par les mains des prÃÂÃÂªtres, ses ministres, sur nos autels ;
-mais dans la maniÃÂÃÂ¨re dont il est offert, le sacrifice de la Messe diffÃÂÃÂ¨re du
+Le sacrifice de la Messe est substantiellement le même que celui de la Croix
+en ce que c'est le même Jésus-Christ qui s'est offert sur la Croix
+et qui s'offre par les mains des prêtres, ses ministres, sur nos autels ;
+mais dans la manière dont il est offert, le sacrifice de la Messe diffère du
 sacrifice de la Croix, tout en gardant avec celui-ci la plus intime et la plus
 essentielle relation.
 
-Quelle diffÃÂÃÂ©rence et quelle relation y a-t-il entre le sacrifice de la Messe
+Quelle différence et quelle relation y a-t-il entre le sacrifice de la Messe
 et le sacrifice de la Croix ?
 
 Entre le sacrifice de la Messe et le sacrifice de la Croix il y a cette
-diffÃÂÃÂ©rence et cette relation que, sur la Croix, JÃÂÃÂ©sus-Christ sÃ¢ÂÂest offert
-en rÃÂÃÂ©pandant son Sang et en mÃÂÃÂ©ritant pour nous ; tandis que sur les autels, il
+différence et cette relation que, sur la Croix, Jésus-Christ s'est offert
+en répandant son Sang et en méritant pour nous ; tandis que sur les autels, il
 se sacrifie sans effusion de sang et nous applique les fruits de sa Passion et
 de sa Mort.
 
@@ -4597,418 +3873,374 @@ Quelle autre relation le sacrifice de la Messe a-t-il avec celui de la Croix
 ?
 
 Une autre relation du sacrifice de la Messe avec celui de la Croix est que
-le sacrifice de la Messe reprÃÂÃÂ©sente dÃ¢ÂÂune maniÃÂÃÂ¨re sensible
-lÃ¢ÂÂeffusion du sang de JÃÂÃÂ©sus-Christ sur la Croix ; car en vertu des
-paroles de la consÃÂÃÂ©cration, le Corps seul de notre Sauveur devient prÃÂÃÂ©sent sous
-lÃ¢ÂÂespÃÂÃÂ¨ce du pain et son Sang seul sous lÃ¢ÂÂespÃÂÃÂ¨ce du vin ; et ce
-nÃ¢ÂÂest que par concomitance naturelle et ÃÂÃÂ  cause de lÃ¢ÂÂunion
-hypostatique que JÃÂÃÂ©sus-Christ vivant et vÃÂÃÂ©ritable est prÃÂÃÂ©sent sous chacune des
-espÃÂÃÂ¨ces.
+le sacrifice de la Messe représente d'une manière sensible
+l'effusion du sang de Jésus-Christ sur la Croix ; car en vertu des
+paroles de la consécration, le Corps seul de notre Sauveur devient présent sous
+l'espèce du pain et son Sang seul sous l'espèce du vin ; et ce
+n'est que par concomitance naturelle et à cause de l'union
+hypostatique que Jésus-Christ vivant et véritable est présent sous chacune des
+espèces.
 
-Peut-ÃÂÃÂªtre le sacrifice de la Croix nÃ¢ÂÂest il pas lÃ¢ÂÂunique
+Peut-être le sacrifice de la Croix n'est il pas l'unique
 sacrifice de la nouvelle loi ?
 
-Le sacrifice de la Croix est lÃ¢ÂÂunique sacrifice de la loi nouvelle,
-car par lui Notre Seigneur a apaisÃÂÃÂ© la justice Divine, acquis tous les mÃÂÃÂ©rites
-nÃÂÃÂ©cessaires pour nous sauver et accompli ainsi de son cÃÂÃÂ´tÃÂÃÂ© notre RÃÂÃÂ©demption.
+Le sacrifice de la Croix est l'unique sacrifice de la loi nouvelle,
+car par lui Notre Seigneur a apaisé la justice Divine, acquis tous les mérites
+nécessaires pour nous sauver et accompli ainsi de son côté notre Rédemption.
 
-Ce sont ces mÃÂÃÂ©rites quÃ¢ÂÂil nous applique par les moyens quÃ¢ÂÂil a
-instituÃÂÃÂ©s dans son Eglise, au nombre desquels est le saint sacrifice de la
+Ce sont ces mérites qu'il nous applique par les moyens qu'il a
+institués dans son Eglise, au nombre desquels est le saint sacrifice de la
 Messe.
 
 Pour quelles fins offre-t-on le sacrifice de la sainte Messe ?
 
-On offre ÃÂÃÂ  Dieu le sacrifice de la sainte Messe pour quatre fins :
+On offre à Dieu le sacrifice de la sainte Messe pour quatre fins :
 
-1 pour lui rendre lÃ¢ÂÂhonneur qui lui est dÃÂÃÂ», et ÃÂÃÂ  ce point de vue le
+1 pour lui rendre l'honneur qui lui est dû, et à ce point de vue le
 sacrifice est latreutique ;
 
-2 pour le remercier de ses bienfaits, et ÃÂÃÂ  ce point de vue le sacrifice est
+2 pour le remercier de ses bienfaits, et à ce point de vue le sacrifice est
 eucharistique ;
 
-3 pour lÃ¢ÂÂapaiser, lui donner la satisfaction due pour nos pÃÂÃÂ©chÃÂÃÂ©s,
-soulager les ÃÂÃÂ¢mes du purgatoire, et ÃÂÃÂ  ce point de vue le sacrifice est
+3 pour l'apaiser, lui donner la satisfaction due pour nos péchés,
+soulager les âmes du purgatoire, et à ce point de vue le sacrifice est
 propitiatoire ;
 
-4 pour obtenir toutes les grÃÂÃÂ¢ces qui nous sont nÃÂÃÂ©cessaires, et ÃÂÃÂ  ce point de
-vue le sacrifice est impÃÂÃÂ©tratoire.
+4 pour obtenir toutes les grâces qui nous sont nécessaires, et à ce point de
+vue le sacrifice est impétratoire.
 
-Qui est-ce qui offre ÃÂÃÂ  Dieu le sacrifice de la sainte Messe ?
+Qui est-ce qui offre à Dieu le sacrifice de la sainte Messe ?
 
-Le premier et le principal dans lÃ¢ÂÂoblation du sacrifice de la sainte
-Messe est JÃÂÃÂ©sus-Christ, et le prÃÂÃÂªtre est le ministre qui, au nom de
-JÃÂÃÂ©sus-Christ, offre ce sacrifice au PÃÂÃÂ¨re Eternel.
+Le premier et le principal dans l'oblation du sacrifice de la sainte
+Messe est Jésus-Christ, et le prêtre est le ministre qui, au nom de
+Jésus-Christ, offre ce sacrifice au Père Eternel.
 
-Qui a instituÃÂÃÂ© le sacrifice de la sainte Messe ?
+Qui a institué le sacrifice de la sainte Messe ?
 
-CÃ¢ÂÂest JÃÂÃÂ©sus-Christ lui-mÃÂÃÂªme qui a instituÃÂÃÂ© le sacrifice de la sainte
-Messe quand il a instituÃÂÃÂ© le sacrement dÃ¢ÂÂEucharistie, et il dit
-quÃ¢ÂÂon le fit en souvenir de sa Passion.
+C'est Jésus-Christ lui-même qui a institué le sacrifice de la sainte
+Messe quand il a institué le sacrement d'Eucharistie, et il dit
+qu'on le fit en souvenir de sa Passion.
 
 A qui offre-t-on la sainte Messe ?
 
-On offre la sainte Messe ÃÂÃÂ  Dieu seul.
+On offre la sainte Messe à Dieu seul.
 
-Si on offre la sainte Messe ÃÂÃÂ  Dieu seul, pourquoi cÃÂÃÂ©lÃÂÃÂ¨bre-t-on tant de
-messes en lÃ¢ÂÂhonneur de la trÃÂÃÂ¨s sainte Vierge et des Saints ?
+Si on offre la sainte Messe à Dieu seul, pourquoi célèbre-t-on tant de
+messes en l'honneur de la très sainte Vierge et des Saints ?
 
-La Messe cÃÂÃÂ©lÃÂÃÂ©brÃÂÃÂ©e en lÃ¢ÂÂhonneur de la sainte Vierge et des Saints est
-toujours un sacrifice offert ÃÂÃÂ  Dieu seul ; aussi, on dit quÃ¢ÂÂelle est
-cÃÂÃÂ©lÃÂÃÂ©brÃÂÃÂ©e en lÃ¢ÂÂhonneur de la trÃÂÃÂ¨s sainte Vierge et des Saints, pour
-remercier Dieu des dons quÃ¢ÂÂil leur a faits et obtenir de lui plus
-abondamment par leur intercession les grÃÂÃÂ¢ces dont nous avons besoin.
+La Messe célébrée en l'honneur de la sainte Vierge et des Saints est
+toujours un sacrifice offert à Dieu seul ; aussi, on dit qu'elle est
+célébrée en l'honneur de la très sainte Vierge et des Saints, pour
+remercier Dieu des dons qu'il leur a faits et obtenir de lui plus
+abondamment par leur intercession les grâces dont nous avons besoin.
 
 Qui participe aux fruits de la sainte Messe ?
 
-Toute lÃ¢ÂÂEglise participe aux fruits de la sainte Messe, mais
-particuliÃÂÃÂ¨rement :
+Toute l'Eglise participe aux fruits de la sainte Messe, mais
+particulièrement :
 
-l le prÃÂÃÂªtre et ceux qui assistent ÃÂÃÂ  la Messe et qui sont considÃÂÃÂ©rÃÂÃÂ©s comme
-unis au prÃÂÃÂªtre ;
+l le prêtre et ceux qui assistent à la Messe et qui sont considérés comme
+unis au prêtre ;
 
-2 ceux pour qui la Messe est appliquÃÂÃÂ©e et ils peuvent ÃÂÃÂªtre des vivants ou
-des dÃÂÃÂ©funts.
+2 ceux pour qui la Messe est appliquée et ils peuvent être des vivants ou
+des défunts.
 
-ÃÂ
+### § 2. La manière d'assister à la Messe.
 
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 2. La maniÃÂÃÂ¨re dÃ¢ÂÂassister ÃÂÃÂ  la Messe.
-
-Combien de choses sont nÃÂÃÂ©cessaires pour entendre bien et avec fruit la
+Combien de choses sont nécessaires pour entendre bien et avec fruit la
 sainte Messe ?
 
 Pour entendre bien et avec fruit la sainte Messe deux choses sont
-nÃÂÃÂ©cessaires :
+nécessaires :
 
-1 la modestie extÃÂÃÂ©rieure ;
+1 la modestie extérieure ;
 
-2 la dÃÂÃÂ©votion du coeur.
+2 la dévotion du coeur.
 
-En quoi consiste la modestie extÃÂÃÂ©rieure ?
+En quoi consiste la modestie extérieure ?
 
-La modestie extÃÂÃÂ©rieure consiste spÃÂÃÂ©cialement ÃÂÃÂ  ÃÂÃÂªtre modestement vÃÂÃÂªtu, ÃÂÃÂ
-observer le silence et le recueillement, et ÃÂÃÂ  se tenir autant que possible ÃÂÃÂ
-genoux, exceptÃÂÃÂ© pendant les deux ÃÂÃÂ©vangiles quÃ¢ÂÂon entend debout.
+La modestie extérieure consiste spécialement à être modestement vêtu, à
+observer le silence et le recueillement, et à se tenir autant que possible à
+genoux, excepté pendant les deux évangiles qu'on entend debout.
 
-En entendant la sainte Messe, quelle est la meilleure maniÃÂÃÂ¨re de pratiquer
-la dÃÂÃÂ©votion du coeur ?
+En entendant la sainte Messe, quelle est la meilleure manière de pratiquer
+la dévotion du coeur ?
 
-La meilleure maniÃÂÃÂ¨re de pratiquer la dÃÂÃÂ©votion du coeur en entendant la
+La meilleure manière de pratiquer la dévotion du coeur en entendant la
 sainte Messe est la suivante :
 
-1 unir dÃÂÃÂ¨s le commencement son intention ÃÂÃÂ  celle du prÃÂÃÂªtre, offrant ÃÂÃÂ  Dieu
-le saint sacrifice pour les fins pour lesquelles il a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© ;
+1 unir dès le commencement son intention à celle du prêtre, offrant à Dieu
+le saint sacrifice pour les fins pour lesquelles il a été institué ;
 
-2 suivre le prÃÂÃÂªtre en chacune des priÃÂÃÂ¨res et des actions du sacrifice ;
+2 suivre le prêtre en chacune des prières et des actions du sacrifice ;
 
-3 mÃÂÃÂ©diter la passion et la mort de JÃÂÃÂ©sus-Christ et dÃÂÃÂ©tester de tout son
-coeur les pÃÂÃÂ©chÃÂÃÂ©s qui en ont ÃÂÃÂ©tÃÂÃÂ© la cause ;
+3 méditer la passion et la mort de Jésus-Christ et détester de tout son
+coeur les péchés qui en ont été la cause ;
 
 4 faire la Communion sacramentelle, ou au moins la Communion spirituelle
-pendant que le prÃÂÃÂªtre communie.
+pendant que le prêtre communie.
 
-QuÃ¢ÂÂest-ce que la Communion spirituelle ?
+Qu'est-ce que la Communion spirituelle ?
 
-La Communion spirituelle est un grand dÃÂÃÂ©sir de sÃ¢ÂÂunir sacramentellement
-ÃÂÃÂ  JÃÂÃÂ©sus-Christ, en disant, par exemple : " Mon Seigneur JÃÂÃÂ©sus-Christ, je
-dÃÂÃÂ©sire de tout mon coeur de mÃ¢ÂÂunir ÃÂÃÂ  Vous maintenant et pour toute
-lÃ¢ÂÂÃÂÃÂ©ternitÃÂÃÂ© " et en faisant les mÃÂÃÂªmes actes quÃ¢ÂÂon fait avant et
-aprÃÂÃÂ¨s la Communion sacramentelle.
+La Communion spirituelle est un grand désir de s'unir sacramentellement
+à Jésus-Christ, en disant, par exemple : " Mon Seigneur Jésus-Christ, je
+désire de tout mon coeur de m'unir à Vous maintenant et pour toute
+l'éternité " et en faisant les mêmes actes qu'on fait avant et
+après la Communion sacramentelle.
 
-La rÃÂÃÂ©citation du Rosaire ou dÃ¢ÂÂautres priÃÂÃÂ¨res pendant la sainte Messe
-empÃÂÃÂªche-t-elle de lÃ¢ÂÂentendre avec fruit ?
+La récitation du Rosaire ou d'autres prières pendant la sainte Messe
+empêche-t-elle de l'entendre avec fruit ?
 
-La rÃÂÃÂ©citation de ces priÃÂÃÂ¨res nÃ¢ÂÂempÃÂÃÂªche pas dÃ¢ÂÂentendre la Messe
-avec fruit, pourvu quÃ¢ÂÂon tÃÂÃÂ¢che le plus possible de suivre les cÃÂÃÂ©rÃÂÃÂ©monies
+La récitation de ces prières n'empêche pas d'entendre la Messe
+avec fruit, pourvu qu'on tâche le plus possible de suivre les cérémonies
 du saint sacrifice.
 
-Fait-on bien de prier aussi pour les autres en assistant ÃÂÃÂ  la sainte Messe ?
+Fait-on bien de prier aussi pour les autres en assistant à la sainte Messe ?
 
-On fait bien de prier aussi pour les autres en assistant ÃÂÃÂ  la sainte Messe,
-et mÃÂÃÂªme le temps de la sainte Messe est le meilleur pour prier ÃÂÃÂ
-lÃ¢ÂÂintention des vivants et des morts.
+On fait bien de prier aussi pour les autres en assistant à la sainte Messe,
+et même le temps de la sainte Messe est le meilleur pour prier à
+l'intention des vivants et des morts.
 
 Que faudrait-il faire quand la Messe est finie ?
 
-Quand la Messe est finie, il faudrait remercier Dieu de la grÃÂÃÂ¢ce quÃ¢ÂÂil
-nous a faite en nous donnant dÃ¢ÂÂassister ÃÂÃÂ  ce grand sacrifice, et lui
+Quand la Messe est finie, il faudrait remercier Dieu de la grâce qu'il
+nous a faite en nous donnant d'assister à ce grand sacrifice, et lui
 demander pardon des fautes que nous avons commises en y assistant.
 
-ÃÂ
+## Chapitre 6 La pénitence.
 
-if !supportLineBreakNewLine?
+### § 1. La pénitence en général.
 
-endif?
+Qu'est-ce que le sacrement de Pénitence ?
 
-[Haut du document](#_top)
+La Pénitence, appelée aussi Confession, est le sacrement institué par
+Jésus-Christ pour remettre les péchés commis après le Baptême.
 
-ÃÂ
+Pourquoi donne-t-on à ce sacrement le nom de Pénitence ?
 
-## Chapitre 6 La pÃÂÃÂ©nitence. ÃÂ
-
-### ÃÂÃÂ§ 1. La pÃÂÃÂ©nitence en gÃÂÃÂ©nÃÂÃÂ©ral.
-
-QuÃ¢ÂÂest-ce que le sacrement de PÃÂÃÂ©nitence ?
-
-La PÃÂÃÂ©nitence, appelÃÂÃÂ©e aussi Confession, est le sacrement instituÃÂÃÂ© par
-JÃÂÃÂ©sus-Christ pour remettre les pÃÂÃÂ©chÃÂÃÂ©s commis aprÃÂÃÂ¨s le BaptÃÂÃÂªme.
-
-Pourquoi donne-t-on ÃÂÃÂ  ce sacrement le nom de PÃÂÃÂ©nitence ?
-
-On donne ÃÂÃÂ  ce sacrement le nom de PÃÂÃÂ©nitence, parce que, pour obtenir le
-pardon des pÃÂÃÂ©chÃÂÃÂ©s, il est nÃÂÃÂ©cessaire de les dÃÂÃÂ©tester avec repentir, et parce
-que celui qui a commis une faute doit se soumettre ÃÂÃÂ  la peine que le prÃÂÃÂªtre
+On donne à ce sacrement le nom de Pénitence, parce que, pour obtenir le
+pardon des péchés, il est nécessaire de les détester avec repentir, et parce
+que celui qui a commis une faute doit se soumettre à la peine que le prêtre
 impose.
 
-Pourquoi ce sacrement est-il aussi appelÃÂÃÂ© Confession ?
+Pourquoi ce sacrement est-il aussi appelé Confession ?
 
-Ce sacrement est aussi appelÃÂÃÂ© Confession parce que, pour obtenir le pardon
-des pÃÂÃÂ©chÃÂÃÂ©s, il ne suffit pas de les dÃÂÃÂ©tester, mais il est nÃÂÃÂ©cessaire de les
-accuser au prÃÂÃÂªtre, cÃ¢ÂÂest-ÃÂÃÂ -dire dÃ¢ÂÂen faire la confession.
+Ce sacrement est aussi appelé Confession parce que, pour obtenir le pardon
+des péchés, il ne suffit pas de les détester, mais il est nécessaire de les
+accuser au prêtre, c'est-à-dire d'en faire la confession.
 
-Quand est-ce que JÃÂÃÂ©sus-Christ a instituÃÂÃÂ© le sacrement de PÃÂÃÂ©nitence ?
+Quand est-ce que Jésus-Christ a institué le sacrement de Pénitence ?
 
-JÃÂÃÂ©sus-Christ a instituÃÂÃÂ© le sacrement de PÃÂÃÂ©nitence le jour de sa
-RÃÂÃÂ©surrection, quand, entrÃÂÃÂ© dans le cÃÂÃÂ©nacle, il donna solennellement ÃÂÃÂ  ses
-ApÃÂÃÂ´tres le pouvoir de remettre les pÃÂÃÂ©chÃÂÃÂ©s.
+Jésus-Christ a institué le sacrement de Pénitence le jour de sa
+Résurrection, quand, entré dans le cénacle, il donna solennellement à ses
+Apôtres le pouvoir de remettre les péchés.
 
-Comment JÃÂÃÂ©sus-Christ donna-t-il ÃÂÃÂ  ses ApÃÂÃÂ´tres le pouvoir de remettre les
-pÃÂÃÂ©chÃÂÃÂ©s ?
+Comment Jésus-Christ donna-t-il à ses Apôtres le pouvoir de remettre les
+péchés ?
 
-JÃÂÃÂ©sus-Christ donna ÃÂÃÂ  ses ApÃÂÃÂ´tres le pouvoir de remettre les pÃÂÃÂ©chÃÂÃÂ©s en
+Jésus-Christ donna à ses Apôtres le pouvoir de remettre les péchés en
 soufflant sur eux et en leur disant : " Recevez le Saint-Esprit : les
-pÃÂÃÂ©chÃÂÃÂ©s de ceux ÃÂÃÂ  qui vous les remettrez seront remis et les pÃÂÃÂ©chÃÂÃÂ©s de ceux ÃÂÃÂ
+péchés de ceux à qui vous les remettrez seront remis et les péchés de ceux à
 qui vous les retiendrez, seront retenus ".
 
-Quelle est la matiÃÂÃÂ¨re du sacrement de PÃÂÃÂ©nitence ?
+Quelle est la matière du sacrement de Pénitence ?
 
-On distingue pour le sacrement de PÃÂÃÂ©nitence la matiÃÂÃÂ¨re ÃÂÃÂ©loignÃÂÃÂ©e et la matiÃÂÃÂ¨re
+On distingue pour le sacrement de Pénitence la matière éloignée et la matière
 prochaine.
 
-La matiÃÂÃÂ¨re ÃÂÃÂ©loignÃÂÃÂ©e est constituÃÂÃÂ©e par les pÃÂÃÂ©chÃÂÃÂ©s que le pÃÂÃÂ©nitent a commis
-aprÃÂÃÂ¨s le BaptÃÂÃÂªme.
+La matière éloignée est constituée par les péchés que le pénitent a commis
+après le Baptême.
 
-La matiÃÂÃÂ¨re prochaine, ce sont les actes du pÃÂÃÂ©nitent, cÃ¢ÂÂest-ÃÂÃÂ -dire la
-contrition, lÃ¢ÂÂaccusation et la satisfaction.
+La matière prochaine, ce sont les actes du pénitent, c'est-à-dire la
+contrition, l'accusation et la satisfaction.
 
-Quelle est la forme du sacrement de PÃÂÃÂ©nitence ?
+Quelle est la forme du sacrement de Pénitence ?
 
-La forme du sacrement de PÃÂÃÂ©nitence est celle-ci : " Je tÃ¢ÂÂabsous
-de tes pÃÂÃÂ©chÃÂÃÂ©s ".
+La forme du sacrement de Pénitence est celle-ci : " Je t'absous
+de tes péchés ".
 
-Quel est le ministre du sacrement de PÃÂÃÂ©nitence ?
+Quel est le ministre du sacrement de Pénitence ?
 
-Le ministre du sacrement de PÃÂÃÂ©nitence est le prÃÂÃÂªtre approuvÃÂÃÂ© par
-lÃ¢ÂÂEvÃÂÃÂªque pour entendre les confessions.
+Le ministre du sacrement de Pénitence est le prêtre approuvé par
+l'Evêque pour entendre les confessions.
 
-Pourquoi avez-vous dit que le prÃÂÃÂªtre doit ÃÂÃÂªtre approuvÃÂÃÂ© par lÃ¢ÂÂEvÃÂÃÂªque ?
+Pourquoi avez-vous dit que le prêtre doit être approuvé par l'Evêque ?
 
-Le prÃÂÃÂªtre doit ÃÂÃÂªtre approuvÃÂÃÂ© et autorisÃÂÃÂ© par lÃ¢ÂÂEvÃÂÃÂªque pour entendre
+Le prêtre doit être approuvé et autorisé par l'Evêque pour entendre
 les confessions parce que, pour administrer validement ce sacrement, il ne
-suffit pas dÃ¢ÂÂavoir le pouvoir dÃ¢ÂÂordre, mais il est nÃÂÃÂ©cessaire
-dÃ¢ÂÂavoir aussi le pouvoir de juridiction, cÃ¢ÂÂest-ÃÂÃÂ -dire la puissance
-de juger, qui doit ÃÂÃÂªtre donnÃÂÃÂ©e par lÃ¢ÂÂEvÃÂÃÂªque.
+suffit pas d'avoir le pouvoir d'ordre, mais il est nécessaire
+d'avoir aussi le pouvoir de juridiction, c'est-à-dire la puissance
+de juger, qui doit être donnée par l'Evêque.
 
-Combien y a-t-il de parties dans le sacrement de PÃÂÃÂ©nitence ?
+Combien y a-t-il de parties dans le sacrement de Pénitence ?
 
-Les parties du sacrement de PÃÂÃÂ©nitence sont : la contrition, la confession et
-la satisfaction du pÃÂÃÂ©nitent, et lÃ¢ÂÂabsolution du prÃÂÃÂªtre.
+Les parties du sacrement de Pénitence sont : la contrition, la confession et
+la satisfaction du pénitent, et l'absolution du prêtre.
 
-QuÃ¢ÂÂest-ce que la contrition ou douleur des pÃÂÃÂ©chÃÂÃÂ©s ?
+Qu'est-ce que la contrition ou douleur des péchés ?
 
-La contrition on douleur des pÃÂÃÂ©chÃÂÃÂ©s est un dÃÂÃÂ©plaisir de lÃ¢ÂÂÃÂÃÂ¢me, par
-lequel on dÃÂÃÂ©teste les pÃÂÃÂ©chÃÂÃÂ©s commis et on se propose de nÃ¢ÂÂen plus
-commettre ÃÂÃÂ  lÃ¢ÂÂavenir.
+La contrition on douleur des péchés est un déplaisir de l'âme, par
+lequel on déteste les péchés commis et on se propose de n'en plus
+commettre à l'avenir.
 
 Que veut dire le mot contrition ?
 
 Le mot contrition veut dire broiement, brisement, comme quand une pierre est
-ÃÂÃÂ©crasÃÂÃÂ©e et rÃÂÃÂ©duite en poussiÃÂÃÂ¨re.
+écrasée et réduite en poussière.
 
-Pourquoi donne-t-on le nom de contrition ÃÂÃÂ  la douleur des pÃÂÃÂ©chÃÂÃÂ©s ?
+Pourquoi donne-t-on le nom de contrition à la douleur des péchés ?
 
-On donne le nom de contrition ÃÂÃÂ  la douleur des pÃÂÃÂ©chÃÂÃÂ©s pour signifier que le
-coeur endurci du pÃÂÃÂ©cheur est en quel que sorte broyÃÂÃÂ© par la douleur
-dÃ¢ÂÂavoir offensÃÂÃÂ© Dieu.
+On donne le nom de contrition à la douleur des péchés pour signifier que le
+coeur endurci du pécheur est en quel que sorte broyé par la douleur
+d'avoir offensé Dieu.
 
-En quoi consiste la confession des pÃÂÃÂ©chÃÂÃÂ©s ?
+En quoi consiste la confession des péchés ?
 
-La confession consiste en une accusation distincte de nos pÃÂÃÂ©chÃÂÃÂ©s, faite au
-confesseur pour en recevoir lÃ¢ÂÂabsolution et la pÃÂÃÂ©nitence.
+La confession consiste en une accusation distincte de nos péchés, faite au
+confesseur pour en recevoir l'absolution et la pénitence.
 
 Pourquoi dit-on que la confession est une accusation ?
 
-On dit que la confession est une accusation parce quÃ¢ÂÂelle ne doit pas
-ÃÂÃÂªtre un rÃÂÃÂ©cit indiffÃÂÃÂ©rent, mais la manifestation vraie et douloureuse de nos
-pÃÂÃÂ©chÃÂÃÂ©s.
+On dit que la confession est une accusation parce qu'elle ne doit pas
+être un récit indifférent, mais la manifestation vraie et douloureuse de nos
+péchés.
 
-QuÃ¢ÂÂest-ce que la satisfaction ou pÃÂÃÂ©nitence ?
+Qu'est-ce que la satisfaction ou pénitence ?
 
-La satisfaction ou pÃÂÃÂ©nitence est une priÃÂÃÂ¨re au une autre bonne oeuvre que le
-confesseur impose au pÃÂÃÂ©nitent en expiation de ses pÃÂÃÂ©chÃÂÃÂ©s.
+La satisfaction ou pénitence est une prière au une autre bonne oeuvre que le
+confesseur impose au pénitent en expiation de ses péchés.
 
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂabsolution ?
+Qu'est-ce que l'absolution ?
 
-LÃ¢ÂÂabsolution est la sentence que le prÃÂÃÂªtre prononce au nom de
-JÃÂÃÂ©sus-Christ pour remettre les pÃÂÃÂ©chÃÂÃÂ©s au pÃÂÃÂ©nitent.
+L'absolution est la sentence que le prêtre prononce au nom de
+Jésus-Christ pour remettre les péchés au pénitent.
 
-Des parties du sacrement de PÃÂÃÂ©nitence, quelle est la plus nÃÂÃÂ©cessaire ?
+Des parties du sacrement de Pénitence, quelle est la plus nécessaire ?
 
-Des parties du sacrement de PÃÂÃÂ©nitence, la plus nÃÂÃÂ©cessaire est la contrition,
-parce que sans elle on ne peut jamais obtenir le pardon des pÃÂÃÂ©chÃÂÃÂ©s, et avec
+Des parties du sacrement de Pénitence, la plus nécessaire est la contrition,
+parce que sans elle on ne peut jamais obtenir le pardon des péchés, et avec
 elle seule, quand elle est parfaite, on peut obtenir le pardon pourvu
-quÃ¢ÂÂelle soit unie au dÃÂÃÂ©sir, au moins implicite, de se confesser.
+qu'elle soit unie au désir, au moins implicite, de se confesser.
 
-ÃÂ ÃÂ
+### § 2. Les effets et la nécessité du sacrement de Pénitence et les dispositions pour le bien recevoir.
 
-[Haut du document](#_top)
+Quels sont les effets du sacrement de Pénitence ?
 
-ÃÂ
-
-### ÃÂÃÂ§ 2. Les effets et la nÃÂÃÂ©cessitÃÂÃÂ© du sacrement de PÃÂÃÂ©nitence et les dispositions pour le bien recevoir.
-
-Quels sont les effets du sacrement de PÃÂÃÂ©nitence ?
-
-Le sacrement de PÃÂÃÂ©nitence confÃÂÃÂ¨re la grÃÂÃÂ¢ce sanctifiante par laquelle sont
-remis les pÃÂÃÂ©chÃÂÃÂ©s mortels et aussi les pÃÂÃÂ©chÃÂÃÂ©s vÃÂÃÂ©niels quÃ¢ÂÂon a confessÃÂÃÂ©s et
-dont on a le repentir ; il change la peine ÃÂÃÂ©ternelle en peine temporelle dont
-une partie, plus ou moins grande selon les dispositions, est mÃÂÃÂªme remise ; il
-rend les mÃÂÃÂ©rites des bonnes oeuvres faites avant de commettre le pÃÂÃÂ©chÃÂÃÂ© mortel ;
-il donne ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ¢me des secours opportuns pour ne pas retomber dans le pÃÂÃÂ©chÃÂÃÂ©
+Le sacrement de Pénitence confère la grâce sanctifiante par laquelle sont
+remis les péchés mortels et aussi les péchés véniels qu'on a confessés et
+dont on a le repentir ; il change la peine éternelle en peine temporelle dont
+une partie, plus ou moins grande selon les dispositions, est même remise ; il
+rend les mérites des bonnes oeuvres faites avant de commettre le péché mortel ;
+il donne à l'âme des secours opportuns pour ne pas retomber dans le péché
 et remet la conscience en paix.
 
-Le sacrement de PÃÂÃÂ©nitence est-il nÃÂÃÂ©cessaire ÃÂÃÂ  tous pour ÃÂÃÂªtre sauvÃÂÃÂ©s ?
+Le sacrement de Pénitence est-il nécessaire à tous pour être sauvés ?
 
-Le sacrement de PÃÂÃÂ©nitence est nÃÂÃÂ©cessaire pour ÃÂÃÂªtre sauvÃÂÃÂ©s ÃÂÃÂ  tous ceux qui,
-aprÃÂÃÂ¨s le BaptÃÂÃÂªme, ont commis quelque pÃÂÃÂ©chÃÂÃÂ© mortel.
+Le sacrement de Pénitence est nécessaire pour être sauvés à tous ceux qui,
+après le Baptême, ont commis quelque péché mortel.
 
 Est-il bon de se confesser souvent ?
 
-Il est trÃÂÃÂ¨s bon de se confesser souvent parce que le sacrement de PÃÂÃÂ©nitence
-non seulement efface les pÃÂÃÂ©chÃÂÃÂ©s, mais encore donne les grÃÂÃÂ¢ces nÃÂÃÂ©cessaires pour
-les ÃÂÃÂ©viter ÃÂÃÂ  lÃ¢ÂÂavenir.
+Il est très bon de se confesser souvent parce que le sacrement de Pénitence
+non seulement efface les péchés, mais encore donne les grâces nécessaires pour
+les éviter à l'avenir.
 
-Le sacrement de PÃÂÃÂ©nitence a-t-il la vertu de remettre tous les pÃÂÃÂ©chÃÂÃÂ©s, si
-nombreux et si grands quÃ¢ÂÂils soient ?
+Le sacrement de Pénitence a-t-il la vertu de remettre tous les péchés, si
+nombreux et si grands qu'ils soient ?
 
-Le sacrement de PÃÂÃÂ©nitence a la vertu de remettre tous les pÃÂÃÂ©chÃÂÃÂ©s, si
-nombreux et si grands quÃ¢ÂÂils soient, pourvu quÃ¢ÂÂon le reÃÂÃÂ§oive avec
+Le sacrement de Pénitence a la vertu de remettre tous les péchés, si
+nombreux et si grands qu'ils soient, pourvu qu'on le reçoive avec
 les dispositions requises.
 
 Combien faut-il de choses pour faire une bonne confession ?
 
 Pour faire une bonne confession, il faut cinq choses :
 
-1 lÃ¢ÂÂexamen de conscience ;
+1 l'examen de conscience ;
 
-2 la douleur dÃ¢ÂÂavoir offensÃÂÃÂ© Dieu ;
+2 la douleur d'avoir offensé Dieu ;
 
-3 la rÃÂÃÂ©solution de ne plus pÃÂÃÂ©cher ;
+3 la résolution de ne plus pécher ;
 
-4 lÃ¢ÂÂaccusation de ses pÃÂÃÂ©chÃÂÃÂ©s ;
+4 l'accusation de ses péchés ;
 
-5 la satisfaction ou pÃÂÃÂ©nitence.
+5 la satisfaction ou pénitence.
 
 Que devons-nous faire avant tout pour nous bien confesser ?
 
 Pour nous bien confesser, nous devons, avant tout, prier de tout coeur le
-Seigneur de nous donner la lumiÃÂÃÂ¨re pour connaÃÂÃÂ®tre tous nos pÃÂÃÂ©chÃÂÃÂ©s et la force de
-les dÃÂÃÂ©tester.
+Seigneur de nous donner la lumière pour connaître tous nos péchés et la force de
+les détester.
 
-ÃÂ
+### § 3. L'examen.
 
-if !supportLineBreakNewLine?
+Qu'est-ce que l'examen de conscience ?
 
-endif?
+L'examen de conscience est une recherche attentive des péchés
+qu'on a commis depuis la dernière confession bien faite.
 
-[Haut du document](#_top)
+Comment se fait l'examen de conscience ?
 
-ÃÂ
-
-### ÃÂÃÂ§ 3. LÃ¢ÂÂexamen.
-
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂexamen de conscience ?
-
-LÃ¢ÂÂexamen de conscience est une recherche attentive des pÃÂÃÂ©chÃÂÃÂ©s
-quÃ¢ÂÂon a commis depuis la derniÃÂÃÂ¨re confession bien faite.
-
-Comment se fait lÃ¢ÂÂexamen de conscience ?
-
-LÃ¢ÂÂexamen de conscience se fait en cherchant soigneusement ÃÂÃÂ  se
-rappeler devant Dieu tous les pÃÂÃÂ©chÃÂÃÂ©s non encore confessÃÂÃÂ©s et quÃ¢ÂÂon a
-commis en pensÃÂÃÂ©es, paroles, actions et omissions, contre les commandements de
-Dieu et de lÃ¢ÂÂEglise et contre les obligations de son ÃÂÃÂ©tat.
+L'examen de conscience se fait en cherchant soigneusement à se
+rappeler devant Dieu tous les péchés non encore confessés et qu'on a
+commis en pensées, paroles, actions et omissions, contre les commandements de
+Dieu et de l'Eglise et contre les obligations de son état.
 
 Sur quelles autres choses devons-nous nous examiner ?
 
 Nous devons encore nous examiner sur les mauvaises habitudes et les
-occasions de pÃÂÃÂ©chÃÂÃÂ©.
+occasions de péché.
 
-Dans lÃ¢ÂÂexamen devons-nous rechercher aussi le nombre des pÃÂÃÂ©chÃÂÃÂ©s ?
+Dans l'examen devons-nous rechercher aussi le nombre des péchés ?
 
-Dans lÃ¢ÂÂexamen, nous devons aussi rechercher le nombre des pÃÂÃÂ©chÃÂÃÂ©s
+Dans l'examen, nous devons aussi rechercher le nombre des péchés
 mortels.
 
-Que faut-il pour quÃ¢ÂÂun PÃÂÃÂ©chÃÂÃÂ© soit mortel ?
+Que faut-il pour qu'un Péché soit mortel ?
 
-Pour quÃ¢ÂÂun pÃÂÃÂ©chÃÂÃÂ© soit mortel, il faut trois choses : matiÃÂÃÂ¨re grave,
-pleine advertance et parfait consentement de la volontÃÂÃÂ©.
+Pour qu'un péché soit mortel, il faut trois choses : matière grave,
+pleine advertance et parfait consentement de la volonté.
 
-Quand est-ce quÃ¢ÂÂil y a matiÃÂÃÂ¨re grave ?
+Quand est-ce qu'il y a matière grave ?
 
-Il y a matiÃÂÃÂ¨re grave quand il sÃ¢ÂÂagit dÃ¢ÂÂune chose notablement
-contraire ÃÂÃÂ  la loi de Dieu et de lÃ¢ÂÂEglise.
+Il y a matière grave quand il s'agit d'une chose notablement
+contraire à la loi de Dieu et de l'Eglise.
 
-Quand est-ce quÃ¢ÂÂil y a, en pÃÂÃÂ©chant, pleine advertance ou connaissance
+Quand est-ce qu'il y a, en péchant, pleine advertance ou connaissance
 ?
 
-Il y a, en pÃÂÃÂ©chant, pleine advertance ou connaissance, quand on connaÃÂÃÂ®t
-parfaitement quÃ¢ÂÂon fait un mal grave.
+Il y a, en péchant, pleine advertance ou connaissance, quand on connaît
+parfaitement qu'on fait un mal grave.
 
-Quand est-ce que, dans le pÃÂÃÂ©chÃÂÃÂ©, il y a parfait consentement de la volontÃÂÃÂ© ?
+Quand est-ce que, dans le péché, il y a parfait consentement de la volonté ?
 
-Il y a, dans le pÃÂÃÂ©chÃÂÃÂ©, parfait consentement de la volontÃÂÃÂ© quand on veut
-dÃÂÃÂ©libÃÂÃÂ©rÃÂÃÂ©ment faire une chose, bien quÃ¢ÂÂon sache quÃ¢ÂÂelle est
+Il y a, dans le péché, parfait consentement de la volonté quand on veut
+délibérément faire une chose, bien qu'on sache qu'elle est
 coupable.
 
-Quel soin faut-il apporter ÃÂÃÂ  lÃ¢ÂÂexamen de conscience ?
+Quel soin faut-il apporter à l'examen de conscience ?
 
-Il faut apporter ÃÂÃÂ  lÃ¢ÂÂexamen de conscience le soin quÃ¢ÂÂon
-apporterait ÃÂÃÂ  une affaire de grande importance.
+Il faut apporter à l'examen de conscience le soin qu'on
+apporterait à une affaire de grande importance.
 
-Combien de temps doit-on employer ÃÂÃÂ  lÃ¢ÂÂexamen ?
+Combien de temps doit-on employer à l'examen ?
 
-On doit employer ÃÂÃÂ  lÃ¢ÂÂexamen de conscience plus ou moins de temps selon
-le besoin, cÃ¢ÂÂest-ÃÂÃÂ -dire selon le nombre et la qualitÃÂÃÂ© des pÃÂÃÂ©chÃÂÃÂ©s qui
-chargent la conscience et selon le temps ÃÂÃÂ©coulÃÂÃÂ© depuis la derniÃÂÃÂ¨re confession
+On doit employer à l'examen de conscience plus ou moins de temps selon
+le besoin, c'est-à-dire selon le nombre et la qualité des péchés qui
+chargent la conscience et selon le temps écoulé depuis la dernière confession
 bien faite.
 
-Comment peut-on rendre plus facile lÃ¢ÂÂexamen pour la confession ?
+Comment peut-on rendre plus facile l'examen pour la confession ?
 
-On rend plus facile lÃ¢ÂÂexamen pour la confession en faisant chaque soir
-lÃ¢ÂÂexamen de conscience sur les actions de la journÃÂÃÂ©e.
+On rend plus facile l'examen pour la confession en faisant chaque soir
+l'examen de conscience sur les actions de la journée.
 
-ÃÂ
+### § 4. La douleur.
 
-ÃÂ
+Qu'est-ce que la douleur des péchés ?
 
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 4. La douleur.
-
-QuÃ¢ÂÂest-ce que la douleur des pÃÂÃÂ©chÃÂÃÂ©s ?
-
-La douleur des pÃÂÃÂ©chÃÂÃÂ©s consiste en un dÃÂÃÂ©plaisir et une sincÃÂÃÂ¨re dÃÂÃÂ©testation de
-lÃ¢ÂÂoffense faite ÃÂÃÂ  Dieu.
+La douleur des péchés consiste en un déplaisir et une sincère détestation de
+l'offense faite à Dieu.
 
 Combien y a-t-il de sortes de douleur ?
 
@@ -5016,1064 +4248,980 @@ Il y a deux sortes de douleur :
 
 la douleur parfaite ou de contrition ;
 
-la douleur imparfaite ou dÃ¢ÂÂattrition.
+la douleur imparfaite ou d'attrition.
 
-QuÃ¢ÂÂest-ce que la douleur parfaite ou de contrition ?
+Qu'est-ce que la douleur parfaite ou de contrition ?
 
-La douleur parfaite est le dÃÂÃÂ©plaisir dÃ¢ÂÂavoir offensÃÂÃÂ© Dieu parce
-quÃ¢ÂÂil est infiniment bon et digne par lui-mÃÂÃÂªme dÃ¢ÂÂÃÂÃÂªtre aimÃÂÃÂ©.
+La douleur parfaite est le déplaisir d'avoir offensé Dieu parce
+qu'il est infiniment bon et digne par lui-même d'être aimé.
 
 Pourquoi appelez-vous parfaite la douleur de contrition ?
 
-JÃ¢ÂÂappelle parfaite la douleur de contrition pour deux raisons :
+J'appelle parfaite la douleur de contrition pour deux raisons :
 
-1 parce quÃ¢ÂÂelle regarde exclusivement la bontÃÂÃÂ© de Dieu et non pas
-notre avantage ou notre dÃÂÃÂ©triment ;
+1 parce qu'elle regarde exclusivement la bonté de Dieu et non pas
+notre avantage ou notre détriment ;
 
-2 parce quÃ¢ÂÂelle nous fait obtenir immÃÂÃÂ©diatement le pardon des pÃÂÃÂ©chÃÂÃÂ©s,
-tout en nous laissant lÃ¢ÂÂobligation de nous confesser.
+2 parce qu'elle nous fait obtenir immédiatement le pardon des péchés,
+tout en nous laissant l'obligation de nous confesser.
 
-La douleur parfaite nous obtient donc le pardon des pÃÂÃÂ©chÃÂÃÂ©s indÃÂÃÂ©pendamment de
+La douleur parfaite nous obtient donc le pardon des péchés indépendamment de
 la confession ?
 
-La douleur parfaite ne nous obtient pas le pardon des pÃÂÃÂ©chÃÂÃÂ©s indÃÂÃÂ©pendamment
-de la confession, parce quÃ¢ÂÂelle implique toujours la volontÃÂÃÂ© de se
+La douleur parfaite ne nous obtient pas le pardon des péchés indépendamment
+de la confession, parce qu'elle implique toujours la volonté de se
 confesser.
 
 Pourquoi la douleur parfaite ou contrition produit-elle cet effet de nous
-remettre en ÃÂÃÂ©tat de grÃÂÃÂ¢ce ?
+remettre en état de grâce ?
 
-La douleur parfaite ou contrition, produit cet effet, parce quÃ¢ÂÂelle
-naÃÂÃÂ®t de la charitÃÂÃÂ© qui ne peut se trouver dans lÃ¢ÂÂÃÂÃÂ¢me en mÃÂÃÂªme temps que le
-pÃÂÃÂ©chÃÂÃÂ© mortel.
+La douleur parfaite ou contrition, produit cet effet, parce qu'elle
+naît de la charité qui ne peut se trouver dans l'âme en même temps que le
+péché mortel.
 
-QuÃ¢ÂÂest-ce que la douleur imparfaite ou dÃ¢ÂÂattrition ?
+Qu'est-ce que la douleur imparfaite ou d'attrition ?
 
-La douleur imparfaite ou dÃ¢ÂÂattrition est celle par laquelle nous nous
-repentons dÃ¢ÂÂavoir offensÃÂÃÂ© Dieu comme notre souverain Juge,
-cÃ¢ÂÂest-ÃÂÃÂ -dire par crainte des chÃÂÃÂ¢timents mÃÂÃÂ©ritÃÂÃÂ©s en cette vie ou en
-lÃ¢ÂÂautre, ou ÃÂÃÂ  cause de la laideur mÃÂÃÂªme du pÃÂÃÂ©chÃÂÃÂ©.
+La douleur imparfaite ou d'attrition est celle par laquelle nous nous
+repentons d'avoir offensé Dieu comme notre souverain Juge,
+c'est-à-dire par crainte des châtiments mérités en cette vie ou en
+l'autre, ou à cause de la laideur même du péché.
 
-Quelles qualitÃÂÃÂ©s doit avoir la douleur pour ÃÂÃÂªtre bonne ?
+Quelles qualités doit avoir la douleur pour être bonne ?
 
-La douleur, pour ÃÂÃÂªtre bonne, doit avoir quatre qualitÃÂÃÂ©s : elle doit ÃÂÃÂªtre
-intÃÂÃÂ©rieure, surnaturelle, souveraine et universelle.
+La douleur, pour être bonne, doit avoir quatre qualités : elle doit être
+intérieure, surnaturelle, souveraine et universelle.
 
-QuÃ¢ÂÂentendez-vous en disant que la douleur doit ÃÂÃÂªtre intÃÂÃÂ©rieure ?
+Qu'entendez-vous en disant que la douleur doit être intérieure ?
 
-JÃ¢ÂÂentends quÃ¢ÂÂelle doit ÃÂÃÂªtre dans le coeur et dans la volontÃÂÃÂ©, et
+J'entends qu'elle doit être dans le coeur et dans la volonté, et
 non pas seulement dans les paroles.
 
-Pourquoi la douleur doit-elle ÃÂÃÂªtre intÃÂÃÂ©rieure ?
+Pourquoi la douleur doit-elle être intérieure ?
 
-La douleur doit ÃÂÃÂªtre intÃÂÃÂ©rieure parce que la volontÃÂÃÂ© qui sÃ¢ÂÂest
-ÃÂÃÂ©loignÃÂÃÂ©e de Dieu par le pÃÂÃÂ©chÃÂÃÂ© doit revenir ÃÂÃÂ  Dieu en dÃÂÃÂ©testant le pÃÂÃÂ©chÃÂÃÂ© commis.
+La douleur doit être intérieure parce que la volonté qui s'est
+éloignée de Dieu par le péché doit revenir à Dieu en détestant le péché commis.
 
-QuÃ¢ÂÂentendez-vous en disant que la douleur doit ÃÂÃÂªtre surnaturelle ?
+Qu'entendez-vous en disant que la douleur doit être surnaturelle ?
 
-JÃ¢ÂÂentends quÃ¢ÂÂelle doit ÃÂÃÂªtre excitÃÂÃÂ©e en nous par la grÃÂÃÂ¢ce de Dieu
-et conÃÂÃÂ§ue pour des motifs de foi.
+J'entends qu'elle doit être excitée en nous par la grâce de Dieu
+et conçue pour des motifs de foi.
 
-Pourquoi la douleur doit-elle ÃÂÃÂªtre surnaturelle ?
+Pourquoi la douleur doit-elle être surnaturelle ?
 
-La douleur doit ÃÂÃÂªtre surnaturelle parce quÃ¢ÂÂelle tend vers un but
-surnaturel, cÃ¢ÂÂest-ÃÂÃÂ -dire le pardon de Dieu, lÃ¢ÂÂacquisition de la
-grÃÂÃÂ¢ce sanctifiante et le droit ÃÂÃÂ  la gloire ÃÂÃÂ©ternelle.
+La douleur doit être surnaturelle parce qu'elle tend vers un but
+surnaturel, c'est-à-dire le pardon de Dieu, l'acquisition de la
+grâce sanctifiante et le droit à la gloire éternelle.
 
-Expliquez mieux la diffÃÂÃÂ©rence entre la douleur surnaturelle et la douleur
+Expliquez mieux la différence entre la douleur surnaturelle et la douleur
 naturelle ?
 
-Celui qui se repent parce quÃ¢ÂÂil a offensÃÂÃÂ© un Dieu infiniment bon et
-digne par lui-mÃÂÃÂªme dÃ¢ÂÂÃÂÃÂªtre aimÃÂÃÂ©, parce quÃ¢ÂÂil a perdu le paradis et
-mÃÂÃÂ©ritÃÂÃÂ© lÃ¢ÂÂenfer, ou ÃÂÃÂ  cause de la malice intrinsÃÂÃÂ¨que du pÃÂÃÂ©chÃÂÃÂ©, a une
-douleur surnaturelle, parce que ce sont lÃÂÃÂ  des motifs de foi.
+Celui qui se repent parce qu'il a offensé un Dieu infiniment bon et
+digne par lui-même d'être aimé, parce qu'il a perdu le paradis et
+mérité l'enfer, ou à cause de la malice intrinsèque du péché, a une
+douleur surnaturelle, parce que ce sont là des motifs de foi.
 
-Celui, au contraire, qui se repentirait seulement ÃÂÃÂ  cause du dÃÂÃÂ©shonneur ou
-des chÃÂÃÂ¢timents quÃ¢ÂÂil sÃ¢ÂÂest attirÃÂÃÂ©s de la part des hommes, ou ÃÂÃÂ
-cause de quelque prÃÂÃÂ©judice purement temporel, aurait une douleur naturelle,
-parce quÃ¢ÂÂil se repentirait seulement pour des motifs humains.
+Celui, au contraire, qui se repentirait seulement à cause du déshonneur ou
+des châtiments qu'il s'est attirés de la part des hommes, ou à
+cause de quelque préjudice purement temporel, aurait une douleur naturelle,
+parce qu'il se repentirait seulement pour des motifs humains.
 
-Pourquoi la douleur doit-elle ÃÂÃÂªtre souveraine ?
+Pourquoi la douleur doit-elle être souveraine ?
 
-La douleur doit ÃÂÃÂªtre souveraine parce que nous devons regarder et haÃÂÃÂ¯r le
-pÃÂÃÂ©chÃÂÃÂ© comme le plus grand de tous les maux, puisquÃ¢ÂÂil offense Dieu, le
+La douleur doit être souveraine parce que nous devons regarder et haïr le
+péché comme le plus grand de tous les maux, puisqu'il offense Dieu, le
 souverain Bien.
 
-Il est peut-ÃÂÃÂªtre nÃÂÃÂ©cessaire que la douleur des pÃÂÃÂ©chÃÂÃÂ©s se manifeste par des
+Il est peut-être nécessaire que la douleur des péchés se manifeste par des
 pleurs comme on le fait dans les malheurs de cette vie ?
 
-Non, il nÃ¢ÂÂest pas nÃÂÃÂ©cessaire que matÃÂÃÂ©riellement on manifeste par des
-pleurs sa douleur des pÃÂÃÂ©chÃÂÃÂ©s, mais il suffit quÃ¢ÂÂen son coeur on fasse
-plus de cas dÃ¢ÂÂavoir offensÃÂÃÂ© Dieu que de tout autre malheur.
+Non, il n'est pas nécessaire que matériellement on manifeste par des
+pleurs sa douleur des péchés, mais il suffit qu'en son coeur on fasse
+plus de cas d'avoir offensé Dieu que de tout autre malheur.
 
-QuÃ¢ÂÂentendez-vous en disant que la douleur doit ÃÂÃÂªtre universelle ?
+Qu'entendez-vous en disant que la douleur doit être universelle ?
 
-Je veux dire quÃ¢ÂÂelle doit sÃ¢ÂÂÃÂÃÂ©tendre ÃÂÃÂ  tous les pÃÂÃÂ©chÃÂÃÂ©s mortels
+Je veux dire qu'elle doit s'étendre à tous les péchés mortels
 commis.
 
-Pourquoi la douleur doit-elle sÃ¢ÂÂÃÂÃÂ©tendre ÃÂÃÂ  tous les pÃÂÃÂ©chÃÂÃÂ©s mortels
+Pourquoi la douleur doit-elle s'étendre à tous les péchés mortels
 commis ?
 
-Parce que celui qui garde mÃÂÃÂªme un seul pÃÂÃÂ©chÃÂÃÂ© mortel sans sÃ¢ÂÂen repentir
-reste lÃ¢ÂÂennemi de Dieu.
+Parce que celui qui garde même un seul péché mortel sans s'en repentir
+reste l'ennemi de Dieu.
 
-Que devons-nous faire pour avoir la douleur de nos pÃÂÃÂ©chÃÂÃÂ©s ?
+Que devons-nous faire pour avoir la douleur de nos péchés ?
 
-Pour avoir la douleur de nos pÃÂÃÂ©chÃÂÃÂ©s, nous devons la demander ÃÂÃÂ  Dieu du fond
-du coeur et lÃ¢ÂÂexciter en nous par la considÃÂÃÂ©ration du grand mal que nous
-avons fait en pÃÂÃÂ©chant.
+Pour avoir la douleur de nos péchés, nous devons la demander à Dieu du fond
+du coeur et l'exciter en nous par la considération du grand mal que nous
+avons fait en péchant.
 
-Comment ferez-vous pour vous exciter ÃÂÃÂ  dÃÂÃÂ©tester vos pÃÂÃÂ©chÃÂÃÂ©s ?
+Comment ferez-vous pour vous exciter à détester vos péchés ?
 
-Pour mÃ¢ÂÂexciter ÃÂÃÂ  dÃÂÃÂ©tester mes pÃÂÃÂ©chÃÂÃÂ©s :
+Pour m'exciter à détester mes péchés :
 
-1 je considÃÂÃÂ©rerai la rigueur de la justice infinie de Dieu, et la laideur du
-pÃÂÃÂ©chÃÂÃÂ© qui a souillÃÂÃÂ© mon ÃÂÃÂ¢me et mÃ¢ÂÂa rendu digne des peines ÃÂÃÂ©ternelles de
-lÃ¢ÂÂenfer ;
+1 je considérerai la rigueur de la justice infinie de Dieu, et la laideur du
+péché qui a souillé mon âme et m'a rendu digne des peines éternelles de
+l'enfer ;
 
-2 je considÃÂÃÂ©rerai que jÃ¢ÂÂai perdu la grÃÂÃÂ¢ce et lÃ¢ÂÂamitiÃÂÃÂ© divine,
-mon titre dÃ¢ÂÂenfant de Dieu et le droit au cÃÂÃÂ©leste hÃÂÃÂ©ritage ;
+2 je considérerai que j'ai perdu la grâce et l'amitié divine,
+mon titre d'enfant de Dieu et le droit au céleste héritage ;
 
-3 que jÃ¢ÂÂai offensÃÂÃÂ© mon RÃÂÃÂ©dempteur mort pour moi et que mes pÃÂÃÂ©chÃÂÃÂ©s ont
-ÃÂÃÂ©tÃÂÃÂ© la cause de sa mort ;
+3 que j'ai offensé mon Rédempteur mort pour moi et que mes péchés ont
+été la cause de sa mort ;
 
-4 que jÃ¢ÂÂai mÃÂÃÂ©prisÃÂÃÂ© mon CrÃÂÃÂ©ateur, mon Dieu ; que je me suis dÃÂÃÂ©tournÃÂÃÂ© de
-Lui, mon Souverain Bien, digne dÃ¢ÂÂÃÂÃÂªtre aimÃÂÃÂ© par dessus tout et servi
-fidÃÂÃÂ¨lement.
+4 que j'ai méprisé mon Créateur, mon Dieu ; que je me suis détourné de
+Lui, mon Souverain Bien, digne d'être aimé par dessus tout et servi
+fidèlement.
 
 Devons-nous avoir grand soin, quand nous allons nous confesser,
-dÃ¢ÂÂavoir une vraie douleur de nos pÃÂÃÂ©chÃÂÃÂ©s ?
+d'avoir une vraie douleur de nos péchés ?
 
 Quand nous allons nous confesser, nous devons certainement avoir grand soin
-dÃ¢ÂÂavoir une vraie douleur de nos pÃÂÃÂ©chÃÂÃÂ©s, parce que cÃ¢ÂÂest la chose
+d'avoir une vraie douleur de nos péchés, parce que c'est la chose
 la plus importante de toutes, et que, si la douleur manque, la confession est
 nulle.
 
-Celui qui ne confesse que des pÃÂÃÂ©chÃÂÃÂ©s vÃÂÃÂ©niels doit-il avoir la douleur de
+Celui qui ne confesse que des péchés véniels doit-il avoir la douleur de
 tous ?
 
-Quand on ne confesse que des pÃÂÃÂ©chÃÂÃÂ©s vÃÂÃÂ©niels, pour que la confession soit
-valide, il suffit quÃ¢ÂÂon ait le repentir de quelques uns ; mais pour
-obtenir le pardon de tous, il est nÃÂÃÂ©cessaire quÃ¢ÂÂon se repente de tous
-ceux quÃ¢ÂÂon reconnaÃÂÃÂ®t avoir commis.
+Quand on ne confesse que des péchés véniels, pour que la confession soit
+valide, il suffit qu'on ait le repentir de quelques uns ; mais pour
+obtenir le pardon de tous, il est nécessaire qu'on se repente de tous
+ceux qu'on reconnaît avoir commis.
 
-Celui qui, ne confessant que des pÃÂÃÂ©chÃÂÃÂ©s vÃÂÃÂ©niels, ne se repent pas mÃÂÃÂªme
-dÃ¢ÂÂun seul, fait-il une bonne confession ?
+Celui qui, ne confessant que des péchés véniels, ne se repent pas même
+d'un seul, fait-il une bonne confession ?
 
-Celui qui, ne confessant que des pÃÂÃÂ©chÃÂÃÂ©s vÃÂÃÂ©niels, ne se repent pas mÃÂÃÂªme
-dÃ¢ÂÂun seul, fait une confession nulle ; de plus, cette confession est
-sacrilÃÂÃÂ¨ge, si cÃ¢ÂÂest avec advertance quÃ¢ÂÂil manque de douleur.
+Celui qui, ne confessant que des péchés véniels, ne se repent pas même
+d'un seul, fait une confession nulle ; de plus, cette confession est
+sacrilège, si c'est avec advertance qu'il manque de douleur.
 
-Que convient-il de faire pour rendre plus sÃÂÃÂ»re une confession oÃÂÃÂ¹ on
-nÃ¢ÂÂaccuse que des pÃÂÃÂ©chÃÂÃÂ©s vÃÂÃÂ©niels ?
+Que convient-il de faire pour rendre plus sûre une confession où on
+n'accuse que des péchés véniels ?
 
-Pour rendre plus sÃÂÃÂ»re une confession oÃÂÃÂ¹ on nÃ¢ÂÂaccuse que des pÃÂÃÂ©chÃÂÃÂ©s
-vÃÂÃÂ©niels, il est prudent dÃ¢ÂÂaccuser en outre, avec une vraie douleur,
-quelque pÃÂÃÂ©chÃÂÃÂ© plus grave de la vie passÃÂÃÂ©e, bien quÃ¢ÂÂil ait ÃÂÃÂ©tÃÂÃÂ© dÃÂÃÂ©jÃÂÃÂ  accusÃÂÃÂ©
-dÃ¢ÂÂautres fois.
+Pour rendre plus sûre une confession où on n'accuse que des péchés
+véniels, il est prudent d'accuser en outre, avec une vraie douleur,
+quelque péché plus grave de la vie passée, bien qu'il ait été déjà accusé
+d'autres fois.
 
-Est-il bon de faire souvent lÃ¢ÂÂacte de contrition ?
+Est-il bon de faire souvent l'acte de contrition ?
 
-Il est bon et trÃÂÃÂ¨s utile de faire souvent lÃ¢ÂÂacte de contrition,
-surtout avant de se coucher et quand on sÃ¢ÂÂaperÃÂÃÂ§oit quÃ¢ÂÂon est tombÃÂÃÂ©
-dans un pÃÂÃÂ©chÃÂÃÂ© mortel ou quÃ¢ÂÂon en a un doute, afin de se remettre au plus
-vite en ÃÂÃÂ©tat de grÃÂÃÂ¢ce. CÃ¢ÂÂest surtout utile pour obtenir plus facilement
-de Dieu la grÃÂÃÂ¢ce de faire le mÃÂÃÂªme acte quand on en aura le plus de besoin,
-cÃ¢ÂÂest-ÃÂÃÂ -dire quand on sera en danger de mort.
+Il est bon et très utile de faire souvent l'acte de contrition,
+surtout avant de se coucher et quand on s'aperçoit qu'on est tombé
+dans un péché mortel ou qu'on en a un doute, afin de se remettre au plus
+vite en état de grâce. C'est surtout utile pour obtenir plus facilement
+de Dieu la grâce de faire le même acte quand on en aura le plus de besoin,
+c'est-à-dire quand on sera en danger de mort.
 
-ÃÂ
-
-ÃÂÃÂ
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 5. Le bon propos.
+### § 5. Le bon propos.
 
 En quoi consiste le bon propos ?
 
-Le bon propos consiste en une volontÃÂÃÂ© rÃÂÃÂ©solue de ne jamais plus commettre le
-pÃÂÃÂ©chÃÂÃÂ© et dÃ¢ÂÂemployer tous les moyens nÃÂÃÂ©cessaires pour le fuir.
+Le bon propos consiste en une volonté résolue de ne jamais plus commettre le
+péché et d'employer tous les moyens nécessaires pour le fuir.
 
-Quelles qualitÃÂÃÂ©s doit avoir cette rÃÂÃÂ©solution pour ÃÂÃÂªtre un bon propos ?
+Quelles qualités doit avoir cette résolution pour être un bon propos ?
 
-Pour ÃÂÃÂªtre un bon propos, cette rÃÂÃÂ©solution doit avoir principalement trois
-qualitÃÂÃÂ©s ; elle doit ÃÂÃÂªtre absolue, universelle et efficace.
+Pour être un bon propos, cette résolution doit avoir principalement trois
+qualités ; elle doit être absolue, universelle et efficace.
 
-QuÃ¢ÂÂentendez-vous en disant : le bon propos doit ÃÂÃÂªtre absolu ?
+Qu'entendez-vous en disant : le bon propos doit être absolu ?
 
-JÃ¢ÂÂentends que le bon propos doit ÃÂÃÂªtre sans aucune condition de temps,
+J'entends que le bon propos doit être sans aucune condition de temps,
 de lieu ou de personne.
 
-QuÃ¢ÂÂentendez-vous en disant : le bon propos doit ÃÂÃÂªtre universel ?
+Qu'entendez-vous en disant : le bon propos doit être universel ?
 
-En disant : le bon propos doit ÃÂÃÂªtre universel, jÃ¢ÂÂentends que nous
-devons avoir la volontÃÂÃÂ© de fuir tous les pÃÂÃÂ©chÃÂÃÂ©s mortels, autant ceux que nous
-avons dÃÂÃÂ©jÃÂÃÂ  commis que tous les autres que nous pourrions commettre.
+En disant : le bon propos doit être universel, j'entends que nous
+devons avoir la volonté de fuir tous les péchés mortels, autant ceux que nous
+avons déjà commis que tous les autres que nous pourrions commettre.
 
-QuÃ¢ÂÂentendez-vous en disant : le bon propos doit ÃÂÃÂªtre efficace ?
+Qu'entendez-vous en disant : le bon propos doit être efficace ?
 
-En disant : le bon propos doit ÃÂÃÂªtre efficace, jÃ¢ÂÂentends quÃ¢ÂÂil
-faut avoir une volontÃÂÃÂ© rÃÂÃÂ©solue ÃÂÃÂ  perdre tout plutÃÂÃÂ´t que de commettre un nouveau
-pÃÂÃÂ©chÃÂÃÂ©, ÃÂÃÂ  fuir les occasions dangereuses de pÃÂÃÂ©cher, ÃÂÃÂ  dÃÂÃÂ©truire les mauvaises
-habitudes, et ÃÂÃÂ  accomplir toutes les obligations contractÃÂÃÂ©es en consÃÂÃÂ©quence de
-nos pÃÂÃÂ©chÃÂÃÂ©s.
+En disant : le bon propos doit être efficace, j'entends qu'il
+faut avoir une volonté résolue à perdre tout plutôt que de commettre un nouveau
+péché, à fuir les occasions dangereuses de pécher, à détruire les mauvaises
+habitudes, et à accomplir toutes les obligations contractées en conséquence de
+nos péchés.
 
-QuÃ¢ÂÂentend-on par mauvaise habitude ?
+Qu'entend-on par mauvaise habitude ?
 
-Par mauvaise habitude, on entend la disposition acquise ÃÂÃÂ  tomber facilement
-dans les pÃÂÃÂ©chÃÂÃÂ©s auxquels nous nous sommes accoutumÃÂÃÂ©s.
+Par mauvaise habitude, on entend la disposition acquise à tomber facilement
+dans les péchés auxquels nous nous sommes accoutumés.
 
 Que doit-on faire pour corriger les mauvaises habitudes ?
 
 Pour corriger les mauvaises habitudes, nous devons veiller sur nous, prier
-beaucoup, nous confesser frÃÂÃÂ©quemment, avoir un bon directeur, nÃ¢ÂÂen pas
-changer, et mettre en pratique les conseils et les remÃÂÃÂ¨des quÃ¢ÂÂil nous
+beaucoup, nous confesser fréquemment, avoir un bon directeur, n'en pas
+changer, et mettre en pratique les conseils et les remèdes qu'il nous
 propose.
 
-QuÃ¢ÂÂentend-on par occasions dangereuses de pÃÂÃÂ©cher ?
+Qu'entend-on par occasions dangereuses de pécher ?
 
-Par occasions dangereuses de pÃÂÃÂ©cher on entend toutes les circonstances de
-temps, de lieu, de personnes ou de choses qui, de leur nature ou ÃÂÃÂ  cause de
-notre fragilitÃÂÃÂ©, nous portent ÃÂÃÂ  commettre le pÃÂÃÂ©chÃÂÃÂ©.
+Par occasions dangereuses de pécher on entend toutes les circonstances de
+temps, de lieu, de personnes ou de choses qui, de leur nature ou à cause de
+notre fragilité, nous portent à commettre le péché.
 
-Sommes-nous gravement obligÃÂÃÂ©s de fuir toutes les occasions dangereuses ?
+Sommes-nous gravement obligés de fuir toutes les occasions dangereuses ?
 
-Nous sommes gravement obligÃÂÃÂ©s de fuir les occasions dangereuses qui,
-ordinairement, nous portent ÃÂÃÂ  commettre le pÃÂÃÂ©chÃÂÃÂ© mortel et quÃ¢ÂÂon appelle les
-occasions prochaines du pÃÂÃÂ©chÃÂÃÂ©.
+Nous sommes gravement obligés de fuir les occasions dangereuses qui,
+ordinairement, nous portent à commettre le péché mortel et qu'on appelle les
+occasions prochaines du péché.
 
-Que doit faire celui qui ne peut pas fuir quelque occasion de pÃÂÃÂ©chÃÂÃÂ© ?
+Que doit faire celui qui ne peut pas fuir quelque occasion de péché ?
 
-Celui qui ne peut pas fuir quelque occasion de pÃÂÃÂ©chÃÂÃÂ© doit le dire ÃÂÃÂ  son
-confesseur et sÃ¢ÂÂen tenir ÃÂÃÂ  ses conseils.
+Celui qui ne peut pas fuir quelque occasion de péché doit le dire à son
+confesseur et s'en tenir à ses conseils.
 
-Quelles considÃÂÃÂ©rations aident ÃÂÃÂ  nous porter au bon propos ?
+Quelles considérations aident à nous porter au bon propos ?
 
-Ce seront les mÃÂÃÂªmes considÃÂÃÂ©rations qui nous aident ÃÂÃÂ  nous exciter ÃÂÃÂ  la
-douleur, cÃ¢ÂÂest-ÃÂÃÂ -dire la crainte de la justice de Dieu et lÃ¢ÂÂamour
-de son infinie bontÃÂÃÂ©.
+Ce seront les mêmes considérations qui nous aident à nous exciter à la
+douleur, c'est-à-dire la crainte de la justice de Dieu et l'amour
+de son infinie bonté.
 
-ÃÂ
+### § 6. L'accusation des péchés au confesseur.
 
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 6. LÃ¢ÂÂaccusation des pÃÂÃÂ©chÃÂÃÂ©s au confesseur.
-
-AprÃÂÃÂ¨s vous ÃÂÃÂªtre bien disposÃÂÃÂ© ÃÂÃÂ  la confession par lÃ¢ÂÂexamen, la douleur
+Après vous être bien disposé à la confession par l'examen, la douleur
 et le bon propos, que ferez-vous ?
 
-AprÃÂÃÂ¨s mÃ¢ÂÂÃÂÃÂªtre bien disposÃÂÃÂ© ÃÂÃÂ  la confession par lÃ¢ÂÂexamen, la
-douleur et le bon propos, jÃ¢ÂÂirai faire au confesseur lÃ¢ÂÂaccusation
-de mes pÃÂÃÂ©chÃÂÃÂ©s pour en avoir lÃ¢ÂÂabsolution.
+Après m'être bien disposé à la confession par l'examen, la
+douleur et le bon propos, j'irai faire au confesseur l'accusation
+de mes péchés pour en avoir l'absolution.
 
-De quels pÃÂÃÂ©chÃÂÃÂ©s sommes-nous obligÃÂÃÂ©s de nous confesser ?
+De quels péchés sommes-nous obligés de nous confesser ?
 
-Nous sommes obligÃÂÃÂ©s de nous confesser de tous les pÃÂÃÂ©chÃÂÃÂ©s mortels, mais il
-est bon de confesser aussi les vÃÂÃÂ©niels.
+Nous sommes obligés de nous confesser de tous les péchés mortels, mais il
+est bon de confesser aussi les véniels.
 
-Quelles qualitÃÂÃÂ©s doit avoir lÃ¢ÂÂaccusation des pÃÂÃÂ©chÃÂÃÂ©s ou confession ?
+Quelles qualités doit avoir l'accusation des péchés ou confession ?
 
-Les principales qualitÃÂÃÂ©s que doit avoir lÃ¢ÂÂaccusation des pÃÂÃÂ©chÃÂÃÂ©s sont
-au nombre de cinq : elle doit ÃÂÃÂªtre humble, entiÃÂÃÂ¨re, sincÃÂÃÂ¨re, prudente et brÃÂÃÂ¨ve.
+Les principales qualités que doit avoir l'accusation des péchés sont
+au nombre de cinq : elle doit être humble, entière, sincère, prudente et brève.
 
-Que signifient ces mots : lÃ¢ÂÂaccusation doit ÃÂÃÂªtre humble ?
+Que signifient ces mots : l'accusation doit être humble ?
 
-Ils signifient que le pÃÂÃÂ©nitent doit sÃ¢ÂÂaccuser devant son confesseur
-sans arrogance dans lÃ¢ÂÂesprit ou les paroles, mais avec le sentiment
-dÃ¢ÂÂun coupable qui reconnaÃÂÃÂ®t sa faute et comparaÃÂÃÂ®t devant le juge.
+Ils signifient que le pénitent doit s'accuser devant son confesseur
+sans arrogance dans l'esprit ou les paroles, mais avec le sentiment
+d'un coupable qui reconnaît sa faute et comparaît devant le juge.
 
-Que signifient ces mots : lÃ¢ÂÂaccusation doit ÃÂÃÂªtre entiÃÂÃÂ¨re ?
+Que signifient ces mots : l'accusation doit être entière ?
 
-Ils signifient quÃ¢ÂÂon doit manifester, avec leurs circonstances et leur
-nombre, tous les pÃÂÃÂ©chÃÂÃÂ©s mortels commis depuis la derniÃÂÃÂ¨re confession bien
+Ils signifient qu'on doit manifester, avec leurs circonstances et leur
+nombre, tous les péchés mortels commis depuis la dernière confession bien
 faite, et dont on a conscience.
 
-Quelles circonstances doit-on manifester pour que lÃ¢ÂÂaccusation soit
-entiÃÂÃÂ¨re ?
+Quelles circonstances doit-on manifester pour que l'accusation soit
+entière ?
 
-Pour que lÃ¢ÂÂaccusation soit entiÃÂÃÂ¨re, on doit manifester les
-circonstances qui changent lÃ¢ÂÂespÃÂÃÂ¨ce du pÃÂÃÂ©chÃÂÃÂ©.
+Pour que l'accusation soit entière, on doit manifester les
+circonstances qui changent l'espèce du péché.
 
-Quelles sont les circonstances qui changent lÃ¢ÂÂespÃÂÃÂ¨ce du pÃÂÃÂ©chÃÂÃÂ© ?
+Quelles sont les circonstances qui changent l'espèce du péché ?
 
-Les circonstances qui changent lÃ¢ÂÂespÃÂÃÂ¨ce du pÃÂÃÂ©chÃÂÃÂ© sont :
+Les circonstances qui changent l'espèce du péché sont :
 
-1 celles par lesquelles une action coupable de vÃÂÃÂ©nielle devient mortelle ;
+1 celles par lesquelles une action coupable de vénielle devient mortelle ;
 
 2 celles par lesquelles une action coupable contient la malice de deux ou
-plusieurs pÃÂÃÂ©chÃÂÃÂ©s mortels.
+plusieurs péchés mortels.
 
-Donnez-moi un exemple dÃ¢ÂÂune circonstance qui fasse devenir mortel un
-pÃÂÃÂ©chÃÂÃÂ© vÃÂÃÂ©niel ?
+Donnez-moi un exemple d'une circonstance qui fasse devenir mortel un
+péché véniel ?
 
-Celui qui, pour sÃ¢ÂÂexcuser, ferait un mensonge dÃ¢ÂÂoÃÂÃÂ¹ rÃÂÃÂ©sulterait
+Celui qui, pour s'excuser, ferait un mensonge d'où résulterait
 un grave dommage pour le prochain devrait manifester cette circonstance qui,
-dÃ¢ÂÂofficieux rend le mensonge gravement pernicieux.
+d'officieux rend le mensonge gravement pernicieux.
 
-Donnez-moi maintenant un exemple dÃ¢ÂÂune circonstance par laquelle une
-mÃÂÃÂªme action coupable contient la malice de deux ou plusieurs pÃÂÃÂ©chÃÂÃÂ©s ?
+Donnez-moi maintenant un exemple d'une circonstance par laquelle une
+même action coupable contient la malice de deux ou plusieurs péchés ?
 
-Celui qui aurait dÃÂÃÂ©robÃÂÃÂ© une chose sacrÃÂÃÂ©e devrait accuser cette circonstance
-qui ajoute au vol la malice du sacrilÃÂÃÂ¨ge.
+Celui qui aurait dérobé une chose sacrée devrait accuser cette circonstance
+qui ajoute au vol la malice du sacrilège.
 
-Si on nÃ¢ÂÂÃÂÃÂ©tait pas certain dÃ¢ÂÂavoir commis un pÃÂÃÂ©chÃÂÃÂ©, devrait-on
-sÃ¢ÂÂen accuser ?
+Si on n'était pas certain d'avoir commis un péché, devrait-on
+s'en accuser ?
 
-Si on nÃ¢ÂÂÃÂÃÂ©tait pas certain dÃ¢ÂÂavoir commis un pÃÂÃÂ©chÃÂÃÂ©, on ne serait
-pas obligÃÂÃÂ© de sÃ¢ÂÂen confesser : et si on voulait lÃ¢ÂÂaccuser, on
-devrait ajouter que lÃ¢ÂÂon nÃ¢ÂÂest pas certain de lÃ¢ÂÂavoir commis.
+Si on n'était pas certain d'avoir commis un péché, on ne serait
+pas obligé de s'en confesser : et si on voulait l'accuser, on
+devrait ajouter que l'on n'est pas certain de l'avoir commis.
 
 Que doit faire celui qui ne se rappelle pas exactement le nombre de ses
-pÃÂÃÂ©chÃÂÃÂ©s ?
+péchés ?
 
-Celui qui ne se rappelle pas exactement le nombre de ses pÃÂÃÂ©chÃÂÃÂ©s, doit en
+Celui qui ne se rappelle pas exactement le nombre de ses péchés, doit en
 accuser le nombre approximatif.
 
-Celui qui, par oubli, a tu un pÃÂÃÂ©chÃÂÃÂ© mortel ou une circonstance nÃÂÃÂ©cessaire,
+Celui qui, par oubli, a tu un péché mortel ou une circonstance nécessaire,
 a-t-il fait une bonne confession ?
 
-Celui qui, par pur oubli, a tu un pÃÂÃÂ©chÃÂÃÂ© mortel ou une circonstance
-nÃÂÃÂ©cessaire, a fait une bonne confession, pourvu quÃ¢ÂÂil ait apportÃÂÃÂ© ÃÂÃÂ
-sÃ¢ÂÂen rappeler tout le soin quÃ¢ÂÂil devait.
+Celui qui, par pur oubli, a tu un péché mortel ou une circonstance
+nécessaire, a fait une bonne confession, pourvu qu'il ait apporté à
+s'en rappeler tout le soin qu'il devait.
 
-Si un pÃÂÃÂ©chÃÂÃÂ© mortel oubliÃÂÃÂ© en confession revient ensuite ÃÂÃÂ  lÃ¢ÂÂesprit,
-sommes-nous obligÃÂÃÂ©s de nous en accuser dans une autre confession ?
+Si un péché mortel oublié en confession revient ensuite à l'esprit,
+sommes-nous obligés de nous en accuser dans une autre confession ?
 
-Si un pÃÂÃÂ©chÃÂÃÂ© mortel oubliÃÂÃÂ© en confession revient ensuite ÃÂÃÂ  lÃ¢ÂÂesprit,
-nous sommes certainement obligÃÂÃÂ©s de lÃ¢ÂÂaccuser la premiÃÂÃÂ¨re fois que nous
+Si un péché mortel oublié en confession revient ensuite à l'esprit,
+nous sommes certainement obligés de l'accuser la première fois que nous
 allons nous confesser.
 
 Quelle faute commet celui qui, par honte ou par quelque autre motif
-coupable, cache volontairement un pÃÂÃÂ©chÃÂÃÂ© mortel en confession ?
+coupable, cache volontairement un péché mortel en confession ?
 
 Celui qui, par honte ou pour quelque autre motif coupable, cache
-volontairement un pÃÂÃÂ©chÃÂÃÂ© mortel en confession, profane le sacrement et se rend
-par suite coupable dÃ¢ÂÂun trÃÂÃÂ¨s grave sacrilÃÂÃÂ¨ge.
+volontairement un péché mortel en confession, profane le sacrement et se rend
+par suite coupable d'un très grave sacrilège.
 
-Que doit faire, pour mettre ordre ÃÂÃÂ  sa conscience, celui qui a cachÃÂÃÂ©
-volontairement quelque pÃÂÃÂ©chÃÂÃÂ© mortel en confession ?
+Que doit faire, pour mettre ordre à sa conscience, celui qui a caché
+volontairement quelque péché mortel en confession ?
 
-Celui qui a cachÃÂÃÂ© volontairement quelque pÃÂÃÂ©chÃÂÃÂ© mortel en confession, doit
-faire connaÃÂÃÂ®tre au confesseur le pÃÂÃÂ©chÃÂÃÂ© quÃ¢ÂÂil a cachÃÂÃÂ©, dire dans combien
-de confessions il lÃ¢ÂÂa cachÃÂÃÂ© et refaire toutes les confessions depuis la
-derniÃÂÃÂ¨re qui fut bien faite.
+Celui qui a caché volontairement quelque péché mortel en confession, doit
+faire connaître au confesseur le péché qu'il a caché, dire dans combien
+de confessions il l'a caché et refaire toutes les confessions depuis la
+dernière qui fut bien faite.
 
-Quelles considÃÂÃÂ©rations doit faire celui qui serait tentÃÂÃÂ© de cacher quelque
-pÃÂÃÂ©chÃÂÃÂ© en confession ?
+Quelles considérations doit faire celui qui serait tenté de cacher quelque
+péché en confession ?
 
-Celui qui serait tentÃÂÃÂ© de cacher quelque pÃÂÃÂ©chÃÂÃÂ© grave en confession doit
-considÃÂÃÂ©rer :
+Celui qui serait tenté de cacher quelque péché grave en confession doit
+considérer :
 
-1 quÃ¢ÂÂil nÃ¢ÂÂa pas eu honte de pÃÂÃÂ©cher en prÃÂÃÂ©sence de Dieu qui voit
+1 qu'il n'a pas eu honte de pécher en présence de Dieu qui voit
 tout ;
 
-2 quÃ¢ÂÂil vaut mieux manifester ses pÃÂÃÂ©chÃÂÃÂ©s en secret ÃÂÃÂ  un confesseur que
-de vivre toujours inquiet, dans le pÃÂÃÂ©chÃÂÃÂ©, de faire une mort malheureuse et
-dÃ¢ÂÂÃÂÃÂªtre couvert de confusion devant tout le monde au jugement gÃÂÃÂ©nÃÂÃÂ©ral ;
+2 qu'il vaut mieux manifester ses péchés en secret à un confesseur que
+de vivre toujours inquiet, dans le péché, de faire une mort malheureuse et
+d'être couvert de confusion devant tout le monde au jugement général ;
 
-3 que le confesseur est obligÃÂÃÂ© au secret sacramentel, quÃ¢ÂÂil ne peut
-violer sans commettre un trÃÂÃÂ¨s grave pÃÂÃÂ©chÃÂÃÂ© et sans sÃ¢ÂÂexposer aux peines
-temporelles et ÃÂÃÂ©ternelles les plus sÃÂÃÂ©vÃÂÃÂ¨res.
+3 que le confesseur est obligé au secret sacramentel, qu'il ne peut
+violer sans commettre un très grave péché et sans s'exposer aux peines
+temporelles et éternelles les plus sévères.
 
-Que signifient ces mots : lÃ¢ÂÂaccusation doit ÃÂÃÂªtre sincÃÂÃÂ¨re ?
+Que signifient ces mots : l'accusation doit être sincère ?
 
-Ils signifient quÃ¢ÂÂil faut dÃÂÃÂ©clarer ses pÃÂÃÂ©chÃÂÃÂ©s tels quÃ¢ÂÂils sont,
+Ils signifient qu'il faut déclarer ses péchés tels qu'ils sont,
 sans les excuser, les diminuer ou les augmenter.
 
-Que signifient ces mots : la confession doit ÃÂÃÂªtre prudente ?
+Que signifient ces mots : la confession doit être prudente ?
 
-Ils signifient quÃ¢ÂÂen confessant nos pÃÂÃÂ©chÃÂÃÂ©s nous devons employer les termes
-les plus modestes, et que nous devons nous bien garder de dÃÂÃÂ©couvrir les pÃÂÃÂ©chÃÂÃÂ©s
+Ils signifient qu'en confessant nos péchés nous devons employer les termes
+les plus modestes, et que nous devons nous bien garder de découvrir les péchés
 des autres.
 
-Que signifient ces mots : la confession doit ÃÂÃÂªtre brÃÂÃÂ¨ve ?
+Que signifient ces mots : la confession doit être brève ?
 
-Ils signifient que nous ne devons dire au confesseur rien dÃ¢ÂÂinutile.
+Ils signifient que nous ne devons dire au confesseur rien d'inutile.
 
-NÃ¢ÂÂest il pas pÃÂÃÂ©nible de devoir confesser ses pÃÂÃÂ©chÃÂÃÂ©s ÃÂÃÂ  un autre,
-surtout si ces pÃÂÃÂ©chÃÂÃÂ©s sont trÃÂÃÂ¨s dÃÂÃÂ©shonorants ?
+N'est il pas pénible de devoir confesser ses péchés à un autre,
+surtout si ces péchés sont très déshonorants ?
 
-Bien quÃ¢ÂÂil puisse ÃÂÃÂªtre pÃÂÃÂ©nible de confesser ses pÃÂÃÂ©chÃÂÃÂ©s ÃÂÃÂ  un autre, il
-faut le faire, parce que cÃ¢ÂÂest de prÃÂÃÂ©cepte divin et quÃ¢ÂÂon ne peut
-obtenir autrement le pardon des pÃÂÃÂ©chÃÂÃÂ©s commis ; et de plus parce que la
-difficultÃÂÃÂ© quÃ¢ÂÂon ÃÂÃÂ©prouve ÃÂÃÂ  se confesser est compensÃÂÃÂ©e par de nombreux
+Bien qu'il puisse être pénible de confesser ses péchés à un autre, il
+faut le faire, parce que c'est de précepte divin et qu'on ne peut
+obtenir autrement le pardon des péchés commis ; et de plus parce que la
+difficulté qu'on éprouve à se confesser est compensée par de nombreux
 avantages et de grandes consolations.
 
-ÃÂ
+### § 7. La manière de se confesser.
 
-ÃÂ
+Comment vous présenterez-vous au confesseur ?
 
-[Haut du document](#_top)
+Je m'agenouillerai aux pieds du confesseur et je dirai : "
+Bénissez-moi, mon Père, parce que j'ai péché ".
 
-ÃÂ
+Que ferez-vous pendant que le confesseur vous donnera la bénédiction ?
 
-### ÃÂÃÂ§ 7. La maniÃÂÃÂ¨re de se confesser.
-
-Comment vous prÃÂÃÂ©senterez-vous au confesseur ?
-
-Je mÃ¢ÂÂagenouillerai aux pieds du confesseur et je dirai : "
-BÃÂÃÂ©nissez-moi, mon PÃÂÃÂ¨re, parce que jÃ¢ÂÂai pÃÂÃÂ©chÃÂÃÂ© ".
-
-Que ferez-vous pendant que le confesseur vous donnera la bÃÂÃÂ©nÃÂÃÂ©diction ?
-
-Je mÃ¢ÂÂinclinerai humblement pour la recevoir, et je ferai le signe de
+Je m'inclinerai humblement pour la recevoir, et je ferai le signe de
 la Croix.
 
 Quand on a fait le signe de la Croix, que doit-on dire ?
 
-Quand on a fait le signe de la Croix on doit dire : " Je me confesse ÃÂÃÂ
-Dieu tout-puissant, ÃÂÃÂ  la Bienheureuse Vierge Marie, ÃÂÃÂ  tous les Saints et ÃÂÃÂ
-vous, mon PÃÂÃÂ¨re spirituel, parce que jÃ¢ÂÂai pÃÂÃÂ©chÃÂÃÂ© ".
+Quand on a fait le signe de la Croix on doit dire : " Je me confesse à
+Dieu tout-puissant, à la Bienheureuse Vierge Marie, à tous les Saints et à
+vous, mon Père spirituel, parce que j'ai péché ".
 
 Et ensuite, que faut-il dire ?
 
-Ensuite il faut dire : " Je me suis confessÃÂÃÂ© depuis tant de temps ; par
-la grÃÂÃÂ¢ce de Dieu jÃ¢ÂÂai reÃÂÃÂ§u lÃ¢ÂÂabsolution, jÃ¢ÂÂai fait la
-pÃÂÃÂ©nitence, et jÃ¢ÂÂai fait la sainte Communion ". Ensuite on accuse ses
-pÃÂÃÂ©chÃÂÃÂ©s.
+Ensuite il faut dire : " Je me suis confessé depuis tant de temps ; par
+la grâce de Dieu j'ai reçu l'absolution, j'ai fait la
+pénitence, et j'ai fait la sainte Communion ". Ensuite on accuse ses
+péchés.
 
-Quand vous avez fini lÃ¢ÂÂaccusation de vos pÃÂÃÂ©chÃÂÃÂ©s, que ferez-vous ?
+Quand vous avez fini l'accusation de vos péchés, que ferez-vous ?
 
-Quand jÃ¢ÂÂaurai fini lÃ¢ÂÂaccusation de mes pÃÂÃÂ©chÃÂÃÂ©s, je dirai : "
-Je mÃ¢ÂÂaccuse encore de tous les pÃÂÃÂ©chÃÂÃÂ©s de la vie passÃÂÃÂ©e, spÃÂÃÂ©cialement
-contre telle ou telle vertu, ( par exemple contre la puretÃÂÃÂ©, contre le
-quatriÃÂÃÂ¨me commandement, etc.) ".
+Quand j'aurai fini l'accusation de mes péchés, je dirai : "
+Je m'accuse encore de tous les péchés de la vie passée, spécialement
+contre telle ou telle vertu, ( par exemple contre la pureté, contre le
+quatrième commandement, etc.) ".
 
-AprÃÂÃÂ¨s cette accusation, que doit-on dire ?
+Après cette accusation, que doit-on dire ?
 
-On doit dire : " de tous ces pÃÂÃÂ©chÃÂÃÂ©s et de tous ceux que jÃ¢ÂÂai
-oubliÃÂÃÂ©s, je demande pardon ÃÂÃÂ  Dieu de tout mon coeur ; et ÃÂÃÂ  vous, mon PÃÂÃÂ¨re
-spirituel, je demande la pÃÂÃÂ©nitence et lÃ¢ÂÂabsolution ".
+On doit dire : " de tous ces péchés et de tous ceux que j'ai
+oubliés, je demande pardon à Dieu de tout mon coeur ; et à vous, mon Père
+spirituel, je demande la pénitence et l'absolution ".
 
-Quand on a ainsi terminÃÂÃÂ© lÃ¢ÂÂaccusation des pÃÂÃÂ©chÃÂÃÂ©s, que reste-t-il ÃÂÃÂ
+Quand on a ainsi terminé l'accusation des péchés, que reste-t-il à
 faire ?
 
-Quand on a terminÃÂÃÂ© lÃ¢ÂÂaccusation des pÃÂÃÂ©chÃÂÃÂ©s, il faut ÃÂÃÂ©couter avec
-respect ce que dira le confesseur ; recevoir la pÃÂÃÂ©nitence avec une volontÃÂÃÂ©
-sincÃÂÃÂ¨re de lÃ¢ÂÂaccomplir ; et, pendant quÃ¢ÂÂil donnera lÃ¢ÂÂabsolution,
-renouveler dans son coeur lÃ¢ÂÂacte de contrition.
+Quand on a terminé l'accusation des péchés, il faut écouter avec
+respect ce que dira le confesseur ; recevoir la pénitence avec une volonté
+sincère de l'accomplir ; et, pendant qu'il donnera l'absolution,
+renouveler dans son coeur l'acte de contrition.
 
-Une fois lÃ¢ÂÂabsolution reÃÂÃÂ§ue, que reste-t-il ÃÂÃÂ  faire ?
+Une fois l'absolution reçue, que reste-t-il à faire ?
 
-LÃ¢ÂÂabsolution reÃÂÃÂ§ue, il faut remercier le Seigneur ; faire au plus tÃÂÃÂ´t
-la pÃÂÃÂ©nitence ; et mettre en pratique les avis du confesseur.
+L'absolution reçue, il faut remercier le Seigneur ; faire au plus tôt
+la pénitence ; et mettre en pratique les avis du confesseur.
 
-ÃÂ
+### § 8. L'absolution.
 
-ÃÂ
-
-[Haut du document](#_top)
-
-### ÃÂÃÂ§ 8. LÃ¢ÂÂabsolution.
-
-Les confesseurs doivent-ils toujours donner lÃ¢ÂÂabsolution ÃÂÃÂ  ceux qui se
+Les confesseurs doivent-ils toujours donner l'absolution à ceux qui se
 confessent ?
 
-Les confesseurs ne doivent donner lÃ¢ÂÂabsolution quÃ¢ÂÂÃÂÃÂ  ceux
-quÃ¢ÂÂils jugent bien disposÃÂÃÂ©s ÃÂÃÂ  la recevoir.
+Les confesseurs ne doivent donner l'absolution qu'à ceux
+qu'ils jugent bien disposés à la recevoir.
 
-Les confesseurs peuvent-ils quelquefois diffÃÂÃÂ©rer ou refuser
-lÃ¢ÂÂabsolution ?
+Les confesseurs peuvent-ils quelquefois différer ou refuser
+l'absolution ?
 
-Non seulement les confesseurs peuvent, mais ils doivent diffÃÂÃÂ©rer ou refuser
-lÃ¢ÂÂabsolution dans certains cas, pour ne pas profaner le sacrement.
+Non seulement les confesseurs peuvent, mais ils doivent différer ou refuser
+l'absolution dans certains cas, pour ne pas profaner le sacrement.
 
-Quels sont les pÃÂÃÂ©nitents quÃ¢ÂÂon doit considÃÂÃÂ©rer comme mal disposÃÂÃÂ©s et ÃÂÃÂ
-qui lÃ¢ÂÂon doit ordinairement refuser ou diffÃÂÃÂ©rer lÃ¢ÂÂabsolution ?
+Quels sont les pénitents qu'on doit considérer comme mal disposés et à
+qui l'on doit ordinairement refuser ou différer l'absolution ?
 
-Les pÃÂÃÂ©nitents quÃ¢ÂÂon doit considÃÂÃÂ©rer comme mal disposÃÂÃÂ©s sont
+Les pénitents qu'on doit considérer comme mal disposés sont
 principalement :
 
-1 ceux qui ne connaissent pas les principaux mystÃÂÃÂ¨res de la foi, ou qui
-nÃÂÃÂ©gligent de sÃ¢ÂÂinstruire des principaux points de la Doctrine chrÃÂÃÂ©tienne
-quÃ¢ÂÂils sont obligÃÂÃÂ©s de savoir selon leur ÃÂÃÂ©tat ;
+1 ceux qui ne connaissent pas les principaux mystères de la foi, ou qui
+négligent de s'instruire des principaux points de la Doctrine chrétienne
+qu'ils sont obligés de savoir selon leur état ;
 
-2 ceux qui sont gravement nÃÂÃÂ©gligents ÃÂÃÂ  faire leur examen de conscience et
+2 ceux qui sont gravement négligents à faire leur examen de conscience et
 qui ne donnent pas des signes de douleur et de repentir.
 
-3 ceux qui, le pouvant, ne veulent pas restituer le bien dÃ¢ÂÂautrui quÃ¢ÂÂils
-ont pris ou rÃÂÃÂ©tablir la rÃÂÃÂ©putation quÃ¢ÂÂils ont enlevÃÂÃÂ©e ;
+3 ceux qui, le pouvant, ne veulent pas restituer le bien d'autrui qu'ils
+ont pris ou rétablir la réputation qu'ils ont enlevée ;
 
-4 ceux qui ne pardonnent pas du fond du coeur ÃÂÃÂ  leurs ennemis ;
+4 ceux qui ne pardonnent pas du fond du coeur à leurs ennemis ;
 
-5 ceux qui ne veulent pas employer les moyens nÃÂÃÂ©cessaires pour se corriger
+5 ceux qui ne veulent pas employer les moyens nécessaires pour se corriger
 de leurs mauvaises habitudes ;
 
-6 ceux qui ne veulent pas fuir les occasions prochaines de pÃÂÃÂ©chÃÂÃÂ©.
+6 ceux qui ne veulent pas fuir les occasions prochaines de péché.
 
-NÃ¢ÂÂy a-t-il pas trop de rigueur de la part du confesseur ÃÂÃÂ  diffÃÂÃÂ©rer
-lÃ¢ÂÂabsolution au pÃÂÃÂ©nitent quÃ¢ÂÂil ne croit pas encore bien disposÃÂÃÂ© ?
+N'y a-t-il pas trop de rigueur de la part du confesseur à différer
+l'absolution au pénitent qu'il ne croit pas encore bien disposé ?
 
-Non, il nÃ¢ÂÂy a pas trop de rigueur de la part du confesseur ÃÂÃÂ  diffÃÂÃÂ©rer
-lÃ¢ÂÂabsolution au pÃÂÃÂ©nitent quÃ¢ÂÂil ne croit pas encore bien disposÃÂÃÂ© ;
-cÃ¢ÂÂest au contraire de la charitÃÂÃÂ© : il agit comme un bon mÃÂÃÂ©decin qui
-essaie de tous les remÃÂÃÂ¨des mÃÂÃÂªme dÃÂÃÂ©sagrÃÂÃÂ©ables et douloureux, pour sauver la vie
+Non, il n'y a pas trop de rigueur de la part du confesseur à différer
+l'absolution au pénitent qu'il ne croit pas encore bien disposé ;
+c'est au contraire de la charité : il agit comme un bon médecin qui
+essaie de tous les remèdes même désagréables et douloureux, pour sauver la vie
 du malade.
 
-Le pÃÂÃÂ©cheur ÃÂÃÂ  qui on diffÃÂÃÂ¨re ou refuse lÃ¢ÂÂabsolution devra-t-il se
-dÃÂÃÂ©sespÃÂÃÂ©rer ou sÃ¢ÂÂÃÂÃÂ©loigner tout ÃÂÃÂ  fait de la confession ?
+Le pécheur à qui on diffère ou refuse l'absolution devra-t-il se
+désespérer ou s'éloigner tout à fait de la confession ?
 
-Le pÃÂÃÂ©cheur ÃÂÃÂ  qui on diffÃÂÃÂ¨re ou refuse lÃ¢ÂÂabsolution ne doit pas se
-dÃÂÃÂ©sespÃÂÃÂ©rer ni sÃ¢ÂÂÃÂÃÂ©loigner tout ÃÂÃÂ  fait de la confession ; mais il doit
-sÃ¢ÂÂhumilier, reconnaÃÂÃÂ®tre son ÃÂÃÂ©tat dÃÂÃÂ©plorable, profiter des bons conseils
-que lui donne le confesseur, et ainsi se mettre le plus tÃÂÃÂ´t possible en ÃÂÃÂ©tat de
-mÃÂÃÂ©riter lÃ¢ÂÂabsolution.
+Le pécheur à qui on diffère ou refuse l'absolution ne doit pas se
+désespérer ni s'éloigner tout à fait de la confession ; mais il doit
+s'humilier, reconnaître son état déplorable, profiter des bons conseils
+que lui donne le confesseur, et ainsi se mettre le plus tôt possible en état de
+mériter l'absolution.
 
-Que doit faire le pÃÂÃÂ©nitent par rapport au choix du confesseur ?
+Que doit faire le pénitent par rapport au choix du confesseur ?
 
-Un vrai pÃÂÃÂ©nitent doit se recommander beaucoup ÃÂÃÂ  Dieu pour le choix
-dÃ¢ÂÂun confesseur pieux, instruit et prudent ; puis il doit se remettre
-entre ses mains et se soumettre ÃÂÃÂ  lui comme ÃÂÃÂ  son juge et son mÃÂÃÂ©decin.
+Un vrai pénitent doit se recommander beaucoup à Dieu pour le choix
+d'un confesseur pieux, instruit et prudent ; puis il doit se remettre
+entre ses mains et se soumettre à lui comme à son juge et son médecin.
 
-ÃÂ
+### § 9. La satisfaction ou pénitence.
 
-ÃÂ
+Qu'est-ce que la satisfaction ?
 
-[Haut du document](#_top)
-
-### ÃÂÃÂ§ 9. La satisfaction ou pÃÂÃÂ©nitence.
-
-QuÃ¢ÂÂest-ce que la satisfaction ?
-
-La satisfaction, quÃ¢ÂÂon appelle aussi pÃÂÃÂ©nitence sacramentelle, est un
-des actes du pÃÂÃÂ©nitent par lequel il donne une certaine compensation ÃÂÃÂ  la
-Justice divine pour les pÃÂÃÂ©chÃÂÃÂ©s commis, en accomplissant les oeuvres que lui
+La satisfaction, qu'on appelle aussi pénitence sacramentelle, est un
+des actes du pénitent par lequel il donne une certaine compensation à la
+Justice divine pour les péchés commis, en accomplissant les oeuvres que lui
 impose le confesseur.
 
-Le pÃÂÃÂ©nitent est-il obligÃÂÃÂ© dÃ¢ÂÂaccepter la pÃÂÃÂ©nitence que lui impose le
+Le pénitent est-il obligé d'accepter la pénitence que lui impose le
 confesseur ?
 
-Le pÃÂÃÂ©nitent est obligÃÂÃÂ© dÃ¢ÂÂaccepter la pÃÂÃÂ©nitence que lui impose le
-confesseur, sÃ¢ÂÂil peut la faire ; et sÃ¢ÂÂil ne peut pas la faire, il
+Le pénitent est obligé d'accepter la pénitence que lui impose le
+confesseur, s'il peut la faire ; et s'il ne peut pas la faire, il
 doit le lui dire humblement et lui en demander une autre.
 
-Quand doit-on faire la pÃÂÃÂ©nitence ?
+Quand doit-on faire la pénitence ?
 
-Si le confesseur nÃ¢ÂÂa pas prescrit un temps dÃÂÃÂ©terminÃÂÃÂ©, on doit la faire
-au plus tÃÂÃÂ´t et tÃÂÃÂ¢cher de la faire en ÃÂÃÂ©tat de grÃÂÃÂ¢ce.
+Si le confesseur n'a pas prescrit un temps déterminé, on doit la faire
+au plus tôt et tâcher de la faire en état de grâce.
 
-Comment doit-on faire la pÃÂÃÂ©nitence ?
+Comment doit-on faire la pénitence ?
 
-On doit faire la pÃÂÃÂ©nitence en son entier et avec dÃÂÃÂ©votion.
+On doit faire la pénitence en son entier et avec dévotion.
 
-Pourquoi dans la confession impose-t-on une pÃÂÃÂ©nitence ?
+Pourquoi dans la confession impose-t-on une pénitence ?
 
-on impose une pÃÂÃÂ©nitence parce que, ordinairement, aprÃÂÃÂ¨s lÃ¢ÂÂabsolution
-sacramentelle qui remet la faute et la peine ÃÂÃÂ©ternelle, il reste une peine
-temporelle ÃÂÃÂ  payer en ce monde ou dans le purgatoire.
+on impose une pénitence parce que, ordinairement, après l'absolution
+sacramentelle qui remet la faute et la peine éternelle, il reste une peine
+temporelle à payer en ce monde ou dans le purgatoire.
 
-Pour quelle raison Notre Seigneur a-t-il voulu dans le sacrement de BaptÃÂÃÂªme
-remettre toute la peine due aux pÃÂÃÂ©chÃÂÃÂ©s, et non dans le Sacrement de PÃÂÃÂ©nitence ?
+Pour quelle raison Notre Seigneur a-t-il voulu dans le sacrement de Baptême
+remettre toute la peine due aux péchés, et non dans le Sacrement de Pénitence ?
 
-Notre Seigneur a voulu dans le sacrement de BaptÃÂÃÂªme remettre toute la peine
-due aux pÃÂÃÂ©chÃÂÃÂ©s et non dans le sacrement de PÃÂÃÂ©nitence, parce que les pÃÂÃÂ©chÃÂÃÂ©s
-aprÃÂÃÂ¨s le BaptÃÂÃÂªme sont beaucoup plus graves, ÃÂÃÂ©tant commis avec plus de
-connaissance et dÃ¢ÂÂingratitude pour les bienfaits de Dieu ; et aussi afin
-que lÃ¢ÂÂobligation de satisfaire pour ces pÃÂÃÂ©chÃÂÃÂ©s soit un frein qui empÃÂÃÂªche
-dÃ¢ÂÂy retomber.
+Notre Seigneur a voulu dans le sacrement de Baptême remettre toute la peine
+due aux péchés et non dans le sacrement de Pénitence, parce que les péchés
+après le Baptême sont beaucoup plus graves, étant commis avec plus de
+connaissance et d'ingratitude pour les bienfaits de Dieu ; et aussi afin
+que l'obligation de satisfaire pour ces péchés soit un frein qui empêche
+d'y retomber.
 
-Pouvons-nous par nous-mÃÂÃÂªmes satisfaire ÃÂÃÂ  Dieu ?
+Pouvons-nous par nous-mêmes satisfaire à Dieu ?
 
-Non, par nous-mÃÂÃÂªmes, nous ne pouvons pas satisfaire ÃÂÃÂ  Dieu ; mais nous le
-pouvons en nous unissant ÃÂÃÂ  JÃÂÃÂ©sus-Christ qui, par le mÃÂÃÂ©rite de sa passion et de
-sa mort, donne de la valeur ÃÂÃÂ  nos actes.
+Non, par nous-mêmes, nous ne pouvons pas satisfaire à Dieu ; mais nous le
+pouvons en nous unissant à Jésus-Christ qui, par le mérite de sa passion et de
+sa mort, donne de la valeur à nos actes.
 
-La pÃÂÃÂ©nitence que donne le confesseur suffit-elle toujours ÃÂÃÂ  effacer la peine
-qui reste due pour les pÃÂÃÂ©chÃÂÃÂ©s ?
+La pénitence que donne le confesseur suffit-elle toujours à effacer la peine
+qui reste due pour les péchés ?
 
-La pÃÂÃÂ©nitence que donne le confesseur ne suffit pas ordinairement ÃÂÃÂ  payer
-toute la peine due pour les pÃÂÃÂ©chÃÂÃÂ©s ; aussi il faut tÃÂÃÂ¢cher dÃ¢ÂÂy supplÃÂÃÂ©er
-par dÃ¢ÂÂautres pÃÂÃÂ©nitences volontaires.
+La pénitence que donne le confesseur ne suffit pas ordinairement à payer
+toute la peine due pour les péchés ; aussi il faut tâcher d'y suppléer
+par d'autres pénitences volontaires.
 
-Quelles sont les oeuvres de pÃÂÃÂ©nitence ?
+Quelles sont les oeuvres de pénitence ?
 
-Les oeuvres de pÃÂÃÂ©nitence peuvent se rÃÂÃÂ©duire ÃÂÃÂ  trois espÃÂÃÂ¨ces : la priÃÂÃÂ¨re, le
-jeÃÂÃÂ»ne, lÃ¢ÂÂaumÃÂÃÂ´ne.
+Les oeuvres de pénitence peuvent se réduire à trois espèces : la prière, le
+jeûne, l'aumône.
 
-QuÃ¢ÂÂentendez-vous par priÃÂÃÂ¨re ?
+Qu'entendez-vous par prière ?
 
-JÃ¢ÂÂentends par priÃÂÃÂ¨re toute sorte dÃ¢ÂÂexercices de piÃÂÃÂ©tÃÂÃÂ©.
+J'entends par prière toute sorte d'exercices de piété.
 
-QuÃ¢ÂÂentend-on par jeÃÂÃÂ»ne ?
+Qu'entend-on par jeûne ?
 
-On entend par jeÃÂÃÂ»ne toute sorte de mortifications.
+On entend par jeûne toute sorte de mortifications.
 
-QuÃ¢ÂÂentend-on par aumÃÂÃÂ´ne ?
+Qu'entend-on par aumône ?
 
-On entend par aumÃÂÃÂ´ne toute oeuvre de misÃÂÃÂ©ricorde spirituelle et corporelle.
+On entend par aumône toute oeuvre de miséricorde spirituelle et corporelle.
 
-Quelle pÃÂÃÂ©nitence est la plus mÃÂÃÂ©ritoire, celle que donne le confesseur ou
-celle que nous nous imposons de nous-mÃÂÃÂªmes ?
+Quelle pénitence est la plus méritoire, celle que donne le confesseur ou
+celle que nous nous imposons de nous-mêmes ?
 
-La pÃÂÃÂ©nitence que nous donne le confesseur est la plus mÃÂÃÂ©ritoire, parce que,
-faisant partie du sacrement, elle reÃÂÃÂ§oit une plus grande efficacitÃÂÃÂ© des mÃÂÃÂ©rites
-de la passion de JÃÂÃÂ©sus-Christ.
+La pénitence que nous donne le confesseur est la plus méritoire, parce que,
+faisant partie du sacrement, elle reçoit une plus grande efficacité des mérites
+de la passion de Jésus-Christ.
 
-Ceux qui meurent aprÃÂÃÂ¨s avoir reÃÂÃÂ§u lÃ¢ÂÂabsolution mais avant
-dÃ¢ÂÂavoir pleinement satisfait ÃÂÃÂ  la justice de Dieu, vont-ils tout droit en
+Ceux qui meurent après avoir reçu l'absolution mais avant
+d'avoir pleinement satisfait à la justice de Dieu, vont-ils tout droit en
 paradis ?
 
-Non, ils vont en purgatoire pour y satisfaire ÃÂÃÂ  la justice de Dieu et se
-purifier entiÃÂÃÂ¨rement.
+Non, ils vont en purgatoire pour y satisfaire à la justice de Dieu et se
+purifier entièrement.
 
-Pouvons-nous soulager dans leurs peines les ÃÂÃÂ¢mes en purgatoire ?
+Pouvons-nous soulager dans leurs peines les âmes en purgatoire ?
 
-Oui, les ÃÂÃÂ¢mes qui sont en purgatoire peuvent ÃÂÃÂªtre soulagÃÂÃÂ©es par les priÃÂÃÂ¨res,
-les aumÃÂÃÂ´nes, toutes les autres bonnes oeuvres, par les indulgences, et surtout
+Oui, les âmes qui sont en purgatoire peuvent être soulagées par les prières,
+les aumônes, toutes les autres bonnes oeuvres, par les indulgences, et surtout
 par le saint sacrifice de la Messe.
 
-Outre la pÃÂÃÂ©nitence, que doit encore faire le pÃÂÃÂ©nitent aprÃÂÃÂ¨s la confession ?
+Outre la pénitence, que doit encore faire le pénitent après la confession ?
 
-Le pÃÂÃÂ©nitent, aprÃÂÃÂ¨s la confession, outre la pÃÂÃÂ©nitence, sÃ¢ÂÂil a
-injustement fait tort au prochain dans ses biens ou son honneur, ou sÃ¢ÂÂil
-lui a donnÃÂÃÂ© du scandale, doit au plus tÃÂÃÂ´t et autant quÃ¢ÂÂil est possible,
-lui restituer les biens, rÃÂÃÂ©tablir son honneur et rÃÂÃÂ©parer le scandale.
+Le pénitent, après la confession, outre la pénitence, s'il a
+injustement fait tort au prochain dans ses biens ou son honneur, ou s'il
+lui a donné du scandale, doit au plus tôt et autant qu'il est possible,
+lui restituer les biens, rétablir son honneur et réparer le scandale.
 
-Comment peut-on rÃÂÃÂ©parer le scandale quÃ¢ÂÂon a causÃÂÃÂ© ?
+Comment peut-on réparer le scandale qu'on a causé ?
 
-On peut rÃÂÃÂ©parer le scandale quÃ¢ÂÂon a causÃÂÃÂ© en faisant cesser
-lÃ¢ÂÂoccasion, et en ÃÂÃÂ©difiant par ses paroles et ses bons exemples ceux
-quÃ¢ÂÂon a scandalisÃÂÃÂ©s.
+On peut réparer le scandale qu'on a causé en faisant cesser
+l'occasion, et en édifiant par ses paroles et ses bons exemples ceux
+qu'on a scandalisés.
 
-De quelle maniÃÂÃÂ¨re devra-t-on satisfaire au prochain si on lÃ¢ÂÂa offensÃÂÃÂ©
+De quelle manière devra-t-on satisfaire au prochain si on l'a offensé
 ?
 
-On devra satisfaire au prochain quÃ¢ÂÂon a offensÃÂÃÂ©, en lui demandant
-pardon on en lui faisant quelque autre rÃÂÃÂ©paration convenable.
+On devra satisfaire au prochain qu'on a offensé, en lui demandant
+pardon on en lui faisant quelque autre réparation convenable.
 
 Quels fruits produit en nous une bonne confession ?
 
 Une bonne confession :
 
-1 nous remet les pÃÂÃÂ©chÃÂÃÂ©s commis et nous donne la grÃÂÃÂ¢ce de Dieu ;
+1 nous remet les péchés commis et nous donne la grâce de Dieu ;
 
 2 nous rend la paix et le repos de la conscience ;
 
-3 nous rouvre les portes du paradis et change la peine ÃÂÃÂ©ternelle de
-lÃ¢ÂÂenfer en peine temporelle ;
+3 nous rouvre les portes du paradis et change la peine éternelle de
+l'enfer en peine temporelle ;
 
-4 nous prÃÂÃÂ©serve des rechutes et nous rend capables de gagner les
+4 nous préserve des rechutes et nous rend capables de gagner les
 indulgences.
 
-ÃÂ
+### § 10. Les indulgences.
 
-if !supportLineBreakNewLine?
+Qu'est-ce que l'indulgence ?
 
-endif?
+L'indulgence est la rémission de la peine temporelle due aux péchés
+déjà pardonnés quant à la faute ; rémission que l'Eglise nous accorde en
+dehors du sacrement de Pénitence.
 
-[Haut du document](#_top)
-
-ÃÂ
-
-### ÃÂÃÂ§ 10. Les indulgences.
-
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂindulgence ?
-
-LÃ¢ÂÂindulgence est la rÃÂÃÂ©mission de la peine temporelle due aux pÃÂÃÂ©chÃÂÃÂ©s
-dÃÂÃÂ©jÃÂÃÂ  pardonnÃÂÃÂ©s quant ÃÂÃÂ  la faute ; rÃÂÃÂ©mission que lÃ¢ÂÂEglise nous accorde en
-dehors du sacrement de PÃÂÃÂ©nitence.
-
-De qui lÃ¢ÂÂEglise a-t-elle reÃÂÃÂ§u le pouvoir dÃ¢ÂÂaccorder les
+De qui l'Eglise a-t-elle reçu le pouvoir d'accorder les
 indulgences ?
 
-LÃ¢ÂÂEglise a reÃÂÃÂ§u de JÃÂÃÂ©sus-Christ le pouvoir dÃ¢ÂÂaccorder les
+L'Eglise a reçu de Jésus-Christ le pouvoir d'accorder les
 indulgences.
 
-Comment lÃ¢ÂÂEglise nous remet-elle la peine temporelle par les indulgences
+Comment l'Eglise nous remet-elle la peine temporelle par les indulgences
 ?
 
-LÃ¢ÂÂEglise nous remet la peine temporelle par les indulgences, en nous
-appliquant les satisfactions surabondantes de JÃÂÃÂ©sus-Christ de la trÃÂÃÂ¨s sainte
-Vierge et des Saints qui forment ce quÃ¢ÂÂon appelle le trÃÂÃÂ©sor de
-lÃ¢ÂÂEglise.
+L'Eglise nous remet la peine temporelle par les indulgences, en nous
+appliquant les satisfactions surabondantes de Jésus-Christ de la très sainte
+Vierge et des Saints qui forment ce qu'on appelle le trésor de
+l'Eglise.
 
-Qui a le pouvoir dÃ¢ÂÂaccorder les indulgences ?
+Qui a le pouvoir d'accorder les indulgences ?
 
-Le pouvoir dÃ¢ÂÂaccorder les indulgences appartient au Pape seul pour
-toute lÃ¢ÂÂEglise, et ÃÂÃÂ  lÃ¢ÂÂEvÃÂÃÂªque dans son diocÃÂÃÂ¨se, dans la mesure oÃÂÃÂ¹
-le Pape le lui a concÃÂÃÂ©dÃÂÃÂ©.
+Le pouvoir d'accorder les indulgences appartient au Pape seul pour
+toute l'Eglise, et à l'Evêque dans son diocèse, dans la mesure où
+le Pape le lui a concédé.
 
-Combien y a-t-il dÃ¢ÂÂespÃÂÃÂ¨ces dÃ¢ÂÂindulgences ?.
+Combien y a-t-il d'espèces d'indulgences ?.
 
-Il y a deux espÃÂÃÂ¨ces dÃ¢ÂÂindulgences : lÃ¢ÂÂindulgence plÃÂÃÂ©niÃÂÃÂ¨re et
-lÃ¢ÂÂindulgence partielle.
+Il y a deux espèces d'indulgences : l'indulgence plénière et
+l'indulgence partielle.
 
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂindulgence plÃÂÃÂ©niÃÂÃÂ¨re ?
+Qu'est-ce que l'indulgence plénière ?
 
-LÃ¢ÂÂindulgence plÃÂÃÂ©niÃÂÃÂ¨re est celle qui remet toute la peine temporelle
-due pour nos pÃÂÃÂ©chÃÂÃÂ©s.
+L'indulgence plénière est celle qui remet toute la peine temporelle
+due pour nos péchés.
 
-Si donc quelquÃ¢ÂÂun mourait aprÃÂÃÂ¨s avoir reÃÂÃÂ§u cette indulgence, il irait
-tout droit au paradis, ÃÂÃÂ©chappant absolument aux peines du purgatoire.
+Si donc quelqu'un mourait après avoir reçu cette indulgence, il irait
+tout droit au paradis, échappant absolument aux peines du purgatoire.
 
-QuÃ¢ÂÂest-ce que lÃ¢ÂÂindulgence partielle ?
+Qu'est-ce que l'indulgence partielle ?
 
-LÃ¢ÂÂindulgence partielle est celle qui ne remet quÃ¢ÂÂune partie de
-la peine temporelle due pour nos pÃÂÃÂ©chÃÂÃÂ©s.
+L'indulgence partielle est celle qui ne remet qu'une partie de
+la peine temporelle due pour nos péchés.
 
-QuÃ¢ÂÂentend faire lÃ¢ÂÂEglise en accordant les indulgences ?
+Qu'entend faire l'Eglise en accordant les indulgences ?
 
-En accordant les indulgences, lÃ¢ÂÂEglise entend venir en aide ÃÂÃÂ  notre
-incapacitÃÂÃÂ© dÃ¢ÂÂexpier en ce monde toute la peine temporelle en nous faisant
-obtenir par des oeuvres de piÃÂÃÂ©tÃÂÃÂ© et de charitÃÂÃÂ© chrÃÂÃÂ©tienne ce que, dans les
-premiers siÃÂÃÂ¨cles, elle faisait obtenir par la rigueur des canons pÃÂÃÂ©nitentiels.
+En accordant les indulgences, l'Eglise entend venir en aide à notre
+incapacité d'expier en ce monde toute la peine temporelle en nous faisant
+obtenir par des oeuvres de piété et de charité chrétienne ce que, dans les
+premiers siècles, elle faisait obtenir par la rigueur des canons pénitentiels.
 
-QuÃ¢ÂÂentend-on par indulgence de quarante jours, de cent jours, de sept
+Qu'entend-on par indulgence de quarante jours, de cent jours, de sept
 ans, et autres expressions semblables ?
 
 Par indulgence de quarante jours, de cent jours, de sept ans et autres
-expressions semblables, on entend la rÃÂÃÂ©mission de la peine temporelle
-quÃ¢ÂÂon aurait obtenue par quarante jours, cent jours, sept ans, de la
-pÃÂÃÂ©nitence publique ÃÂÃÂ©tablie anciennement dans lÃ¢ÂÂEglise.
+expressions semblables, on entend la rémission de la peine temporelle
+qu'on aurait obtenue par quarante jours, cent jours, sept ans, de la
+pénitence publique établie anciennement dans l'Eglise.
 
 Quel cas devons-nous faire des indulgences ?
 
-Nous devons faire un trÃÂÃÂ¨s grand cas des indulgences parce que, par elles, on
-satisfait ÃÂÃÂ  la justice de Dieu et on obtient plus vite et plus facilement la
+Nous devons faire un très grand cas des indulgences parce que, par elles, on
+satisfait à la justice de Dieu et on obtient plus vite et plus facilement la
 possession du ciel.
 
 Quelles sont les conditions requises pour gagner les indulgences ?
 
 Les conditions requises pour gagner les indulgences sont :
 
-l lÃ¢ÂÂÃÂÃÂ©tat de grÃÂÃÂ¢ce (au moins dans la derniÃÂÃÂ¨re des oeuvres quÃ¢ÂÂon
-accomplit) et lÃ¢ÂÂexemption mÃÂÃÂªme des pÃÂÃÂ©chÃÂÃÂ©s, vÃÂÃÂ©niels, dont on veut effacer
+l l'état de grâce (au moins dans la dernière des oeuvres qu'on
+accomplit) et l'exemption même des péchés, véniels, dont on veut effacer
 la peine ;
 
-2 lÃ¢ÂÂaccomplissement des oeuvres que prescrit lÃ¢ÂÂEglise pour
-obtenir lÃ¢ÂÂindulgence
+2 l'accomplissement des oeuvres que prescrit l'Eglise pour
+obtenir l'indulgence
 
-3 lÃ¢ÂÂintention de la gagner.
+3 l'intention de la gagner.
 
-Les indulgences peuvent-elles aussi ÃÂÃÂªtre appliquÃÂÃÂ©es aux ÃÂÃÂ¢mes du purgatoire ?
+Les indulgences peuvent-elles aussi être appliquées aux âmes du purgatoire ?
 
-Oui, les indulgences peuvent ÃÂÃÂªtre appliquÃÂÃÂ©es aux ÃÂÃÂ¢mes du purgatoire quand
-celui qui les accorde dÃÂÃÂ©clare quÃ¢ÂÂon peut les leur appliquer.
+Oui, les indulgences peuvent être appliquées aux âmes du purgatoire quand
+celui qui les accorde déclare qu'on peut les leur appliquer.
 
-QuÃ¢ÂÂest-ce que le JubilÃÂÃÂ© ?
+Qu'est-ce que le Jubilé ?
 
-Le JubilÃÂÃÂ©, concÃÂÃÂ©dÃÂÃÂ© ordinairement tous les vingt-cinq ans, est une indulgence
-plÃÂÃÂ©niÃÂÃÂ¨re ÃÂÃÂ  laquelle sont joints beaucoup de privilÃÂÃÂ¨ges et de concessions
-particuliÃÂÃÂ¨res, comme de pouvoir obtenir lÃ¢ÂÂabsolution de certains pÃÂÃÂ©chÃÂÃÂ©s
-rÃÂÃÂ©servÃÂÃÂ©s et des censures, et la commutation de certains voeux.
+Le Jubilé, concédé ordinairement tous les vingt-cinq ans, est une indulgence
+plénière à laquelle sont joints beaucoup de privilèges et de concessions
+particulières, comme de pouvoir obtenir l'absolution de certains péchés
+réservés et des censures, et la commutation de certains voeux.
 
-ÃÂ
+Haut du document
 
-ÃÂ
+## Chapitre 7 L'Extrême-onction
 
-[Haut du document](#_top)
+Qu'est-ce que le sacrement d'Extrême-onction ?
 
-ÃÂ
+L'Extrême-onction est le sacrement institué pour le soulagement
+spirituel et même corporel des malades en danger de mort.
 
-if !supportLineBreakNewLine?
+Quels effets produit le sacrement d'Extrême-onction ?
 
-endif?
+Le sacrement d'Extrême-onction produit les effets suivants :
 
-## Chapitre 7 LÃ¢ÂÂExtrÃÂÃÂªme-onction
+1 il augmente la grâce sanctifiante ;
 
-QuÃ¢ÂÂest-ce que le sacrement dÃ¢ÂÂExtrÃÂÃÂªme-onction ?
-
-LÃ¢ÂÂExtrÃÂÃÂªme-onction est le sacrement instituÃÂÃÂ© pour le soulagement
-spirituel et mÃÂÃÂªme corporel des malades en danger de mort.
-
-Quels effets produit le sacrement dÃ¢ÂÂExtrÃÂÃÂªme-onction ?
-
-Le sacrement dÃ¢ÂÂExtrÃÂÃÂªme-onction produit les effets suivants :
-
-1 il augmente la grÃÂÃÂ¢ce sanctifiante ;
-
-2 il efface les pÃÂÃÂ©chÃÂÃÂ©s vÃÂÃÂ©niels et mÃÂÃÂªme les pÃÂÃÂ©chÃÂÃÂ©s mortels que le malade
+2 il efface les péchés véniels et même les péchés mortels que le malade
 repentant ne pourrait plus confesser ;
 
-3 il enlÃÂÃÂ¨ve cette faiblesse et cette langueur pour le bien qui restent mÃÂÃÂªme
-aprÃÂÃÂ¨s avoir obtenu le pardon des pÃÂÃÂ©chÃÂÃÂ©s ;
+3 il enlève cette faiblesse et cette langueur pour le bien qui restent même
+après avoir obtenu le pardon des péchés ;
 
-4 il donne la force de supporter le mal avec patience, de rÃÂÃÂ©sister aux
+4 il donne la force de supporter le mal avec patience, de résister aux
 tentations et de mourir saintement ;
 
-5 il aide ÃÂÃÂ  recouvrer la santÃÂÃÂ© du corps, si cÃ¢ÂÂest utile au salut de
-lÃ¢ÂÂÃÂÃÂ¢me.
+5 il aide à recouvrer la santé du corps, si c'est utile au salut de
+l'âme.
 
-A quel moment doit-on recevoir lÃ¢ÂÂExtrÃÂÃÂªme-onction ?
+A quel moment doit-on recevoir l'Extrême-onction ?
 
-On doit recevoir lÃ¢ÂÂExtrÃÂÃÂªme-onction quand la maladie est dangereuse et
-que le malade a reÃÂÃÂ§u, si cÃ¢ÂÂest possible, les sacrements de PÃÂÃÂ©nitence et
-dÃ¢ÂÂEucharistie ; mÃÂÃÂªme il est bon de la recevoir quand on est encore en
-pleine connaissance et quÃ¢ÂÂon garde quelque espoir de vie.
+On doit recevoir l'Extrême-onction quand la maladie est dangereuse et
+que le malade a reçu, si c'est possible, les sacrements de Pénitence et
+d'Eucharistie ; même il est bon de la recevoir quand on est encore en
+pleine connaissance et qu'on garde quelque espoir de vie.
 
-Pourquoi est-il bon de recevoir lÃ¢ÂÂExtrÃÂÃÂªme-onction quand on est en
+Pourquoi est-il bon de recevoir l'Extrême-onction quand on est en
 pleine connaissance et avec quelque espoir de vie ?
 
-Il est bon de recevoir lÃ¢ÂÂExtrÃÂÃÂªme-onction quand on est encore en pleine
+Il est bon de recevoir l'Extrême-onction quand on est encore en pleine
 connaissance et avec quelque espoir de vie, parce que, en la recevant avec de
 meilleures dispositions on peut en retirer plus de fruits, et encore parce que
-si, pour le bien de lÃ¢ÂÂÃÂÃÂ¢me, ce sacrement rend la santÃÂÃÂ© du corps,
-cÃ¢ÂÂest en secondant les forces de la nature et quÃ¢ÂÂil ne faut donc
+si, pour le bien de l'âme, ce sacrement rend la santé du corps,
+c'est en secondant les forces de la nature et qu'il ne faut donc
 pas attendre que tout espoir soit perdu.
 
-Avec quelles dispositions doit-on recevoir lÃ¢ÂÂExtrÃÂÃÂªme-onction ?
+Avec quelles dispositions doit-on recevoir l'Extrême-onction ?
 
-Les principales dispositions pour recevoir lÃ¢ÂÂExtrÃÂÃÂªme-onction sont :
+Les principales dispositions pour recevoir l'Extrême-onction sont :
 
-ÃÂÃÂªtre en ÃÂÃÂ©tat de grÃÂÃÂ¢ce,
+être en état de grâce,
 
-avoir confiance dans lÃ¢ÂÂefficacitÃÂÃÂ© du sacrement et ÃÂÃÂ  la misÃÂÃÂ©ricorde
+avoir confiance dans l'efficacité du sacrement et à la miséricorde
 divine,
 
-et se rÃÂÃÂ©signer ÃÂÃÂ  la volontÃÂÃÂ© de Dieu.
+et se résigner à la volonté de Dieu.
 
-Quels sentiments doit ÃÂÃÂ©prouver le malade ÃÂÃÂ  la vue du prÃÂÃÂªtre ?
+Quels sentiments doit éprouver le malade à la vue du prêtre ?
 
-A la vue du prÃÂÃÂªtre, le malade doit ÃÂÃÂ©prouver des sentiments de reconnaissance
-envers Dieu pour le lui avoir envoyÃÂÃÂ© ; il doit le recevoir volontiers et
-demander de lui-mÃÂÃÂªme, sÃ¢ÂÂil le peut, les secours de la religion.
+A la vue du prêtre, le malade doit éprouver des sentiments de reconnaissance
+envers Dieu pour le lui avoir envoyé ; il doit le recevoir volontiers et
+demander de lui-même, s'il le peut, les secours de la religion.
 
-ÃÂ
+Haut du document
 
-ÃÂ
+## Chapitre 8 L'Ordre.
 
-[Haut du document](#_top)
+Qu'est-ce que le sacrement de l'Ordre ?
 
-ÃÂ
-
-if !supportLineBreakNewLine?
-
-endif?
-
-## Chapitre 8 LÃ¢ÂÂOrdre.
-
-QuÃ¢ÂÂest-ce que le sacrement de lÃ¢ÂÂOrdre ?
-
-LÃ¢ÂÂOrdre est le sacrement qui donne le pouvoir dÃ¢ÂÂexercer les
-fonctions sacrÃÂÃÂ©es qui regardent le culte de Dieu et le salut des ÃÂÃÂ¢mes, et qui
-imprime dans lÃ¢ÂÂÃÂÃÂ¢me de celui qui le reÃÂÃÂ§oit le caractÃÂÃÂ¨re de ministre de
+L'Ordre est le sacrement qui donne le pouvoir d'exercer les
+fonctions sacrées qui regardent le culte de Dieu et le salut des âmes, et qui
+imprime dans l'âme de celui qui le reçoit le caractère de ministre de
 Dieu.
 
-Pourquoi lÃ¢ÂÂappelle-t-on lÃ¢ÂÂOrdre ?
+Pourquoi l'appelle-t-on l'Ordre ?
 
-On lÃ¢ÂÂappelle lÃ¢ÂÂOrdre, parce quÃ¢ÂÂil comporte plusieurs
-degrÃÂÃÂ©s subordonnÃÂÃÂ©s les uns aux autres, dÃ¢ÂÂoÃÂÃÂ¹ rÃÂÃÂ©sulte la hiÃÂÃÂ©rarchie sacrÃÂÃÂ©e.
+On l'appelle l'Ordre, parce qu'il comporte plusieurs
+degrés subordonnés les uns aux autres, d'où résulte la hiérarchie sacrée.
 
-Quels sont ces degrÃÂÃÂ©s ?
+Quels sont ces degrés ?
 
-Le plus ÃÂÃÂ©levÃÂÃÂ© dÃ¢ÂÂentre eux est lÃ¢ÂÂEpiscopat qui contient la
-plÃÂÃÂ©nitude du sacerdoce ; ensuite le PresbytÃÂÃÂ©rat ou le simple Sacerdoce ; puis
-le Diaconat et les Ordres quÃ¢ÂÂon appelle Ordres mineurs.
+Le plus élevé d'entre eux est l'Episcopat qui contient la
+plénitude du sacerdoce ; ensuite le Presbytérat ou le simple Sacerdoce ; puis
+le Diaconat et les Ordres qu'on appelle Ordres mineurs.
 
-Quand est-ce que JÃÂÃÂ©sus-Christ a ÃÂÃÂ©tabli lÃ¢ÂÂOrdre Sacerdotal ?
+Quand est-ce que Jésus-Christ a établi l'Ordre Sacerdotal ?
 
-JÃÂÃÂ©sus-Christ a ÃÂÃÂ©tabli lÃ¢ÂÂOrdre Sacerdotal dans la derniÃÂÃÂ¨re CÃÂÃÂ¨ne quand
-il confÃÂÃÂ©ra aux ApÃÂÃÂ´tres et ÃÂÃÂ  leurs successeurs le pouvoir de consacrer la trÃÂÃÂ¨s
+Jésus-Christ a établi l'Ordre Sacerdotal dans la dernière Cène quand
+il conféra aux Apôtres et à leurs successeurs le pouvoir de consacrer la très
 sainte Eucharistie.
 
-Puis, le jour de sa rÃÂÃÂ©surrection, il leur confÃÂÃÂ©ra le pouvoir de remettre et
-de retenir les pÃÂÃÂ©chÃÂÃÂ©s, les constituant ainsi les premiers prÃÂÃÂªtres de la
-nouvelle loi dans toute la plÃÂÃÂ©nitude de leur pouvoir.
+Puis, le jour de sa résurrection, il leur conféra le pouvoir de remettre et
+de retenir les péchés, les constituant ainsi les premiers prêtres de la
+nouvelle loi dans toute la plénitude de leur pouvoir.
 
 Quel est le ministre de ce sacrement ?
 
-Le seul ministre de ce sacrement est lÃ¢ÂÂEvÃÂÃÂªque.
+Le seul ministre de ce sacrement est l'Evêque.
 
-La dignitÃÂÃÂ© du Sacerdoce chrÃÂÃÂ©tien est donc bien grande ?
+La dignité du Sacerdoce chrétien est donc bien grande ?
 
-La dignitÃÂÃÂ© du Sacerdoce chrÃÂÃÂ©tien est trÃÂÃÂ¨s grande en raison de la double
-puissance que lui a confÃÂÃÂ©rÃÂÃÂ©e JÃÂÃÂ©sus-Christ sur son corps rÃÂÃÂ©el et sur son corps
-mystique qui est lÃ¢ÂÂEglise, et en raison de la divine mission confiÃÂÃÂ©e aux
-prÃÂÃÂªtres de conduire tous les hommes ÃÂÃÂ  la vie ÃÂÃÂ©ternelle.
+La dignité du Sacerdoce chrétien est très grande en raison de la double
+puissance que lui a conférée Jésus-Christ sur son corps réel et sur son corps
+mystique qui est l'Eglise, et en raison de la divine mission confiée aux
+prêtres de conduire tous les hommes à la vie éternelle.
 
-Le Sacerdoce catholique est-il nÃÂÃÂ©cessaire dans lÃ¢ÂÂEglise ?
+Le Sacerdoce catholique est-il nécessaire dans l'Eglise ?
 
-Le Sacerdoce catholique est nÃÂÃÂ©cessaire dans lÃ¢ÂÂEglise parce que, sans
-lui, les fidÃÂÃÂ¨les seraient privÃÂÃÂ©s du saint sacrifice de la Messe et de la plus
-grande partie des sacrements ; ils nÃ¢ÂÂauraient personne pour les instruire
-dans la foi, ils resteraient comme des brebis sans pasteur ÃÂÃÂ  la merci des
-loups, en un mot lÃ¢ÂÂEglise nÃ¢ÂÂexisterait plus comme JÃÂÃÂ©sus-Christ
-lÃ¢ÂÂa instituÃÂÃÂ©e.
+Le Sacerdoce catholique est nécessaire dans l'Eglise parce que, sans
+lui, les fidèles seraient privés du saint sacrifice de la Messe et de la plus
+grande partie des sacrements ; ils n'auraient personne pour les instruire
+dans la foi, ils resteraient comme des brebis sans pasteur à la merci des
+loups, en un mot l'Eglise n'existerait plus comme Jésus-Christ
+l'a instituée.
 
 Le Sacerdoce catholique ne cessera donc jamais sur la terre ?
 
-Le Sacerdoce catholique, malgrÃÂÃÂ© la guerre que lui fait lÃ¢ÂÂenfer, durera
-jusquÃ¢ÂÂÃÂÃÂ  la fin des siÃÂÃÂ¨cles, car JÃÂÃÂ©sus-Christ a promis que les puissances
-de lÃ¢ÂÂenfer ne prÃÂÃÂ©vaudraient jamais contre son Eglise.
+Le Sacerdoce catholique, malgré la guerre que lui fait l'enfer, durera
+jusqu'à la fin des siècles, car Jésus-Christ a promis que les puissances
+de l'enfer ne prévaudraient jamais contre son Eglise.
 
-Est-ce un pÃÂÃÂ©chÃÂÃÂ© de mÃÂÃÂ©priser les prÃÂÃÂªtres ?
+Est-ce un péché de mépriser les prêtres ?
 
-CÃ¢ÂÂest un pÃÂÃÂ©chÃÂÃÂ© trÃÂÃÂ¨s grave, parce que le mÃÂÃÂ©pris et les injures qui
-sÃ¢ÂÂadressent au prÃÂÃÂªtre, atteignent JÃÂÃÂ©sus-Christ lui-mÃÂÃÂªme qui a dit ÃÂÃÂ  ses
-ApÃÂÃÂ´tres : " Qui vous mÃÂÃÂ©prise me mÃÂÃÂ©prise ".
+C'est un péché très grave, parce que le mépris et les injures qui
+s'adressent au prêtre, atteignent Jésus-Christ lui-même qui a dit à ses
+Apôtres : " Qui vous méprise me méprise ".
 
-Quel doit ÃÂÃÂªtre le but de celui qui embrasse lÃ¢ÂÂÃÂÃÂ©tat ecclÃÂÃÂ©siastique ?
+Quel doit être le but de celui qui embrasse l'état ecclésiastique ?
 
-Le but de celui qui embrasse lÃ¢ÂÂÃÂÃÂ©tat ecclÃÂÃÂ©siastique doit ÃÂÃÂªtre
-uniquement la gloire de Dieu et le salut des ÃÂÃÂ¢mes.
+Le but de celui qui embrasse l'état ecclésiastique doit être
+uniquement la gloire de Dieu et le salut des âmes.
 
-QuÃ¢ÂÂest-ce qui est nÃÂÃÂ©cessaire pour entrer dans lÃ¢ÂÂÃÂÃÂ©tat
-ecclÃÂÃÂ©siastique ?
+Qu'est-ce qui est nécessaire pour entrer dans l'état
+ecclésiastique ?
 
-Pour entrer dans lÃ¢ÂÂÃÂÃÂ©tat ecclÃÂÃÂ©siastique, ce qui est nÃÂÃÂ©cessaire avant
-tout, cÃ¢ÂÂest la vocation divine.
+Pour entrer dans l'état ecclésiastique, ce qui est nécessaire avant
+tout, c'est la vocation divine.
 
-Que faut-il faire pour connaÃÂÃÂ®tre si Dieu appelle ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ©tat
-ecclÃÂÃÂ©siastique ?
+Que faut-il faire pour connaître si Dieu appelle à l'état
+ecclésiastique ?
 
-Pour connaÃÂÃÂ®tre si Dieu appelle ÃÂÃÂ  lÃ¢ÂÂÃÂÃÂ©tat ecclÃÂÃÂ©siastique, il faut :
+Pour connaître si Dieu appelle à l'état ecclésiastique, il faut :
 
-1 prier avec ferveur Notre Seigneur de manifester quelle est sa volontÃÂÃÂ© ;
+1 prier avec ferveur Notre Seigneur de manifester quelle est sa volonté ;
 
-2 prendre conseil de son EvÃÂÃÂªque ou dÃ¢ÂÂun sage et prudent directeur ;
+2 prendre conseil de son Evêque ou d'un sage et prudent directeur ;
 
-3 examiner avec soin si on a les aptitudes nÃÂÃÂ©cessaires pour les ÃÂÃÂ©tudes, les
-fonctions et les obligations de cet ÃÂÃÂ©tat.
+3 examiner avec soin si on a les aptitudes nécessaires pour les études, les
+fonctions et les obligations de cet état.
 
-Celui qui entrerait dans lÃ¢ÂÂÃÂÃÂ©tat ecclÃÂÃÂ©siastique sans la vocation divine
+Celui qui entrerait dans l'état ecclésiastique sans la vocation divine
 ferait-il mal ?
 
-Celui qui entrerait dans lÃ¢ÂÂÃÂÃÂ©tat ecclÃÂÃÂ©siastique sans y ÃÂÃÂªtre appelÃÂÃÂ© de
-Dieu ferait un mal trÃÂÃÂ¨s grave et se mettrait en danger de perdition.
+Celui qui entrerait dans l'état ecclésiastique sans y être appelé de
+Dieu ferait un mal très grave et se mettrait en danger de perdition.
 
-Les parents qui, pour des motifs humains, engagent leurs fils ÃÂÃÂ  embrasser
-sans vocation lÃ¢ÂÂÃÂÃÂ©tat ecclÃÂÃÂ©siastique font-ils mal ?
+Les parents qui, pour des motifs humains, engagent leurs fils à embrasser
+sans vocation l'état ecclésiastique font-ils mal ?
 
-Les parents qui, pour des motifs humains, engagent leurs fils ÃÂÃÂ  embrasser
-sans vocation lÃ¢ÂÂÃÂÃÂ©tat ecclÃÂÃÂ©siastique commettent eux aussi une faute trÃÂÃÂ¨s
-grave, parce que, en cela, ils usurpent le droit que Dieu sÃ¢ÂÂest rÃÂÃÂ©servÃÂÃÂ© ÃÂÃÂ
-lui-mÃÂÃÂªme de choisir ses ministres, et quÃ¢ÂÂils mettent leur fils en pÃÂÃÂ©ril
-de damnation ÃÂÃÂ©ternelle.
+Les parents qui, pour des motifs humains, engagent leurs fils à embrasser
+sans vocation l'état ecclésiastique commettent eux aussi une faute très
+grave, parce que, en cela, ils usurpent le droit que Dieu s'est réservé à
+lui-même de choisir ses ministres, et qu'ils mettent leur fils en péril
+de damnation éternelle.
 
-Quels sont les devoirs des fidÃÂÃÂ¨les envers ceux qui sont appelÃÂÃÂ©s aux saints
+Quels sont les devoirs des fidèles envers ceux qui sont appelés aux saints
 Ordres ?
 
-Les fidÃÂÃÂ¨les doivent :
+Les fidèles doivent :
 
-1 laisser ÃÂÃÂ  leurs fils et ÃÂÃÂ  ceux qui sont sous leur dÃÂÃÂ©pendance pleine
-libertÃÂÃÂ© de suivre la vocation divine ;
+1 laisser à leurs fils et à ceux qui sont sous leur dépendance pleine
+liberté de suivre la vocation divine ;
 
-2 prier Dieu quÃ¢ÂÂil daigne accorder ÃÂÃÂ  son Eglise de bons pasteurs et
-des ministres zÃÂÃÂ©lÃÂÃÂ©s ; et cÃ¢ÂÂest aussi dans ce but quÃ¢ÂÂa ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ©
-le jeÃÂÃÂ»ne des Quatre Temps ;
+2 prier Dieu qu'il daigne accorder à son Eglise de bons pasteurs et
+des ministres zélés ; et c'est aussi dans ce but qu'a été institué
+le jeûne des Quatre Temps ;
 
-3 avoir un respect singulier pour tous ceux qui, par les Ordres, sont consacrÃÂÃÂ©s
+3 avoir un respect singulier pour tous ceux qui, par les Ordres, sont consacrés
 au service de Dieu
-
-ÃÂ
-
-[Haut du document](#_top)
-
-## ÃÂ
 
 ## Chapitre 9 Le Mariage.
 
-### ÃÂÃÂ§ 1. Nature du sacrement du Mariage.
+### § 1. Nature du sacrement du Mariage.
 
-QuÃ¢ÂÂest-ce que le sacrement de Mariage ?
+Qu'est-ce que le sacrement de Mariage ?
 
-Le Mariage est un sacrement instituÃÂÃÂ© par Notre Seigneur JÃÂÃÂ©sus-Christ, qui
-ÃÂÃÂ©tablit une union sainte et indissoluble entre lÃ¢ÂÂhomme et la femme et
-leur donne la grÃÂÃÂ¢ce de sÃ¢ÂÂaimer lÃ¢ÂÂun lÃ¢ÂÂautre saintement et
-dÃ¢ÂÂÃÂÃÂ©lever chrÃÂÃÂ©tiennement leurs enfants.
+Le Mariage est un sacrement institué par Notre Seigneur Jésus-Christ, qui
+établit une union sainte et indissoluble entre l'homme et la femme et
+leur donne la grâce de s'aimer l'un l'autre saintement et
+d'élever chrétiennement leurs enfants.
 
-Par qui le Mariage a-t-il ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© ?
+Par qui le Mariage a-t-il été institué ?
 
-Le Mariage a ÃÂÃÂ©tÃÂÃÂ© instituÃÂÃÂ© par Dieu lui-mÃÂÃÂªme au paradis terrestre ; et dans
-le Nouveau Testament, il a ÃÂÃÂ©tÃÂÃÂ© ÃÂÃÂ©levÃÂÃÂ© par JÃÂÃÂ©sus-Christ ÃÂÃÂ  la dignitÃÂÃÂ© de
+Le Mariage a été institué par Dieu lui-même au paradis terrestre ; et dans
+le Nouveau Testament, il a été élevé par Jésus-Christ à la dignité de
 sacrement.
 
-Le sacrement de Mariage a-t-il quelque signification spÃÂÃÂ©ciale ?
+Le sacrement de Mariage a-t-il quelque signification spéciale ?
 
-Le sacrement de Mariage signifie lÃ¢ÂÂunion indissoluble de JÃÂÃÂ©sus-Christ
-avec la sainte Eglise, son ÃÂÃÂ©pouse et notre mÃÂÃÂ¨re trÃÂÃÂ¨s aimante.
+Le sacrement de Mariage signifie l'union indissoluble de Jésus-Christ
+avec la sainte Eglise, son épouse et notre mère très aimante.
 
 Pourquoi dit-on que le lien du Mariage est indissoluble ?
 
-On dit que le lien du Mariage est indissoluble ou quÃ¢ÂÂil ne peut ÃÂÃÂªtre
-brisÃÂÃÂ© que par la mort dÃ¢ÂÂun des ÃÂÃÂ©poux, parce que Dieu lÃ¢ÂÂa ÃÂÃÂ©tabli
-ainsi dÃÂÃÂ¨s le commencement et que JÃÂÃÂ©sus-Christ Notre Seigneur lÃ¢ÂÂa ÃÂÃÂ  son
-tour solennellement proclamÃÂÃÂ©.
+On dit que le lien du Mariage est indissoluble ou qu'il ne peut être
+brisé que par la mort d'un des époux, parce que Dieu l'a établi
+ainsi dès le commencement et que Jésus-Christ Notre Seigneur l'a à son
+tour solennellement proclamé.
 
-Dans le mariage chrÃÂÃÂ©tien pourrait-on sÃÂÃÂ©parer le contrat du sacrement ?
+Dans le mariage chrétien pourrait-on séparer le contrat du sacrement ?
 
-Non, dans le mariage entre deux chrÃÂÃÂ©tiens on ne peut sÃÂÃÂ©parer le contrat du
-sacrement, parce que, pour eux, le mariage nÃ¢ÂÂest pas autre chose que le
-contrat naturel lui-mÃÂÃÂªme ÃÂÃÂ©levÃÂÃÂ© par JÃÂÃÂ©sus-Christ ÃÂÃÂ  la dignitÃÂÃÂ© de sacrement.
+Non, dans le mariage entre deux chrétiens on ne peut séparer le contrat du
+sacrement, parce que, pour eux, le mariage n'est pas autre chose que le
+contrat naturel lui-même élevé par Jésus-Christ à la dignité de sacrement.
 
-Entre les chrÃÂÃÂ©tiens il ne peut donc y avoir de vrai mariage sans le
+Entre les chrétiens il ne peut donc y avoir de vrai mariage sans le
 sacrement ?
 
-Entre les chrÃÂÃÂ©tiens il ne peut y avoir de vrai mariage sans le sacrement.
+Entre les chrétiens il ne peut y avoir de vrai mariage sans le sacrement.
 
 Quels effets produit le sacrement de mariage ?
 
 Le sacrement de Mariage :
 
-1 donne un accroissement de grÃÂÃÂ¢ce sanctifiante ;
+1 donne un accroissement de grâce sanctifiante ;
 
-2 confÃÂÃÂ¨re la grÃÂÃÂ¢ce spÃÂÃÂ©ciale pour remplir fidÃÂÃÂ¨lement tous les devoirs
+2 confère la grâce spéciale pour remplir fidèlement tous les devoirs
 matrimoniaux.
 
-ÃÂ
-
-if !supportLineBreakNewLine?
-
-endif?
-
-[Haut du document](#_top)
-
-### ÃÂ
-
-### ÃÂÃÂ§ 2. Ministres, cÃÂÃÂ©rÃÂÃÂ©monies et dispositions.
+### § 2. Ministres, cérémonies et dispositions.
 
 Quels sont les ministres de ce sacrement ?
 
-Les ministres de ce sacrement sont les ÃÂÃÂ©poux eux-mÃÂÃÂªmes qui, rÃÂÃÂ©ciproquement,
-se confÃÂÃÂ¨rent et reÃÂÃÂ§oivent le sacrement.
+Les ministres de ce sacrement sont les époux eux-mêmes qui, réciproquement,
+se confèrent et reçoivent le sacrement.
 
-Comment est administrÃÂÃÂ© ce sacrement ?
+Comment est administré ce sacrement ?
 
-Ce sacrement, conservant la nature du contrat, est administrÃÂÃÂ© par les ÃÂÃÂ©poux
-eux-mÃÂÃÂªmes, dÃÂÃÂ©clarant, en prÃÂÃÂ©sence de leur curÃÂÃÂ© ou de son dÃÂÃÂ©lÃÂÃÂ©guÃÂÃÂ© et de deux
-tÃÂÃÂ©moins, quÃ¢ÂÂils sÃ¢ÂÂunissent par le mariage.
+Ce sacrement, conservant la nature du contrat, est administré par les époux
+eux-mêmes, déclarant, en présence de leur curé ou de son délégué et de deux
+témoins, qu'ils s'unissent par le mariage.
 
-A quoi sert donc la bÃÂÃÂ©nÃÂÃÂ©diction que le curÃÂÃÂ© donne aux ÃÂÃÂ©poux ?
+A quoi sert donc la bénédiction que le curé donne aux époux ?
 
-La bÃÂÃÂ©nÃÂÃÂ©diction que le curÃÂÃÂ© donne aux ÃÂÃÂ©poux nÃ¢ÂÂest pas nÃÂÃÂ©cessaire pour
-constituer le sacrement mais elle est donnÃÂÃÂ©e pour sanctionner au nom de
-lÃ¢ÂÂEglise leur union, et pour appeler toujours davantage sur eux la
-bÃÂÃÂ©nÃÂÃÂ©diction de Dieu.
+La bénédiction que le curé donne aux époux n'est pas nécessaire pour
+constituer le sacrement mais elle est donnée pour sanctionner au nom de
+l'Eglise leur union, et pour appeler toujours davantage sur eux la
+bénédiction de Dieu.
 
 Quelle intention doit avoir celui qui contracte mariage ?
 
-Celui qui contracte mariage doit avoir lÃ¢ÂÂintention :
+Celui qui contracte mariage doit avoir l'intention :
 
-1 de faire la volontÃÂÃÂ© de Dieu qui lÃ¢ÂÂappelle ÃÂÃÂ  cet ÃÂÃÂ©tat ;
+1 de faire la volonté de Dieu qui l'appelle à cet état ;
 
-2 dÃ¢ÂÂopÃÂÃÂ©rer dans le mariage le salut de son ÃÂÃÂ¢me ;
+2 d'opérer dans le mariage le salut de son âme ;
 
-3 dÃ¢ÂÂÃÂÃÂ©lever chrÃÂÃÂ©tiennement ses enfants, si Dieu lui donne dÃ¢ÂÂen
+3 d'élever chrétiennement ses enfants, si Dieu lui donne d'en
 avoir.
 
-Comment les ÃÂÃÂ©poux doivent-ils se disposer pour recevoir avec fruit le
+Comment les époux doivent-ils se disposer pour recevoir avec fruit le
 sacrement du mariage ?
 
-Les ÃÂÃÂ©poux, pour recevoir avec fruit le sacrement de Mariage, doivent :
+Les époux, pour recevoir avec fruit le sacrement de Mariage, doivent :
 
-1 se recommander ÃÂÃÂ  Dieu du fond du coeur pour connaÃÂÃÂ®tre sa volontÃÂÃÂ© et
-obtenir de lui les grÃÂÃÂ¢ces qui sont nÃÂÃÂ©cessaires dans cet ÃÂÃÂ©tat ;
+1 se recommander à Dieu du fond du coeur pour connaître sa volonté et
+obtenir de lui les grâces qui sont nécessaires dans cet état ;
 
-2 avant de se fiancer, consulter leurs parents comme lÃ¢ÂÂexigent
-lÃ¢ÂÂobÃÂÃÂ©issance et le respect qui leur sont dus ;
+2 avant de se fiancer, consulter leurs parents comme l'exigent
+l'obéissance et le respect qui leur sont dus ;
 
-3 se prÃÂÃÂ©parer par une bonne confession et mÃÂÃÂªme, sÃ¢ÂÂil le faut, par une
-confession gÃÂÃÂ©nÃÂÃÂ©rale de toute leur vie ;
+3 se préparer par une bonne confession et même, s'il le faut, par une
+confession générale de toute leur vie ;
 
-4 ÃÂÃÂ©viter dans leurs rapports toute familiaritÃÂÃÂ© dangereuse dÃ¢ÂÂactes ou
+4 éviter dans leurs rapports toute familiarité dangereuse d'actes ou
 de paroles.
 
 Quelles sont les principales obligations des personnes unies par le mariage
@@ -6081,116 +5229,106 @@ Quelles sont les principales obligations des personnes unies par le mariage
 
 Les personnes unies par le mariage doivent :
 
-1 garder inviolablement la fidÃÂÃÂ©litÃÂÃÂ© conjugale et se comporter toujours
-chrÃÂÃÂ©tiennement en toute chose ;
+1 garder inviolablement la fidélité conjugale et se comporter toujours
+chrétiennement en toute chose ;
 
-2 sÃ¢ÂÂaimer lÃ¢ÂÂun lÃ¢ÂÂautre en se supportant mutuellement, et
+2 s'aimer l'un l'autre en se supportant mutuellement, et
 vivre dans la paix et la concorde ;
 
-3 sÃ¢ÂÂils ont des enfants, penser sÃÂÃÂ©rieusement ÃÂÃÂ  les pourvoir selon le
-besoin, leur donner une ÃÂÃÂ©ducation chrÃÂÃÂ©tienne et leur laisser la libertÃÂÃÂ© de
-choisir lÃ¢ÂÂÃÂÃÂ©tat auquel ils sont appelÃÂÃÂ©s de Dieu.
+3 s'ils ont des enfants, penser sérieusement à les pourvoir selon le
+besoin, leur donner une éducation chrétienne et leur laisser la liberté de
+choisir l'état auquel ils sont appelés de Dieu.
 
-ÃÂ
+### § 3. Conditions et empêchements.
 
-[Haut du document](#_top)
+Que faut-il pour contracter validement le mariage chrétien ?
 
-ÃÂ
+Pour contracter validement le mariage chrétien, il est nécessaire
+d'être libre de tout empêchement dirimant du mariage et donner librement
+son consentement au contrat du mariage devant son curé (ou un prêtre délégué
+par lui) et deux témoins.
 
-### ÃÂÃÂ§ 3. Conditions et empÃÂÃÂªchements.
+Que faut-il pour contracter licitement le mariage chrétien ?
 
-Que faut-il pour contracter validement le mariage chrÃÂÃÂ©tien ?
+Pour contracter licitement le mariage chrétien, il est nécessaire
+d'être libre de tous les empêchements prohibants du mariage, être
+instruit des choses principales de la religion et être en état de grâce, car
+sans cela on commettrait un sacrilège.
 
-Pour contracter validement le mariage chrÃÂÃÂ©tien, il est nÃÂÃÂ©cessaire
-dÃ¢ÂÂÃÂÃÂªtre libre de tout empÃÂÃÂªchement dirimant du mariage et donner librement
-son consentement au contrat du mariage devant son curÃÂÃÂ© (ou un prÃÂÃÂªtre dÃÂÃÂ©lÃÂÃÂ©guÃÂÃÂ©
-par lui) et deux tÃÂÃÂ©moins.
+Qu'est-ce que les empêchements de mariage ?
 
-Que faut-il pour contracter licitement le mariage chrÃÂÃÂ©tien ?
-
-Pour contracter licitement le mariage chrÃÂÃÂ©tien, il est nÃÂÃÂ©cessaire
-dÃ¢ÂÂÃÂÃÂªtre libre de tous les empÃÂÃÂªchements prohibants du mariage, ÃÂÃÂªtre
-instruit des choses principales de la religion et ÃÂÃÂªtre en ÃÂÃÂ©tat de grÃÂÃÂ¢ce, car
-sans cela on commettrait un sacrilÃÂÃÂ¨ge.
-
-QuÃ¢ÂÂest-ce que les empÃÂÃÂªchements de mariage ?
-
-Les empÃÂÃÂªchements de mariage sont les diverses circonstances qui rendent le
+Les empêchements de mariage sont les diverses circonstances qui rendent le
 mariage invalide ou illicite.
 
-Dans le premier cas on les appelle empÃÂÃÂªchements dirimants, dans le second,
-empÃÂÃÂªchements prohibants.
+Dans le premier cas on les appelle empêchements dirimants, dans le second,
+empêchements prohibants.
 
-Donnez-moi des exemples dÃ¢ÂÂempÃÂÃÂªchements dirimants ?
+Donnez-moi des exemples d'empêchements dirimants ?
 
-Sont empÃÂÃÂªchements dirimants, par exemple, la parentÃÂÃÂ© naturelle
-jusquÃ¢ÂÂau quatriÃÂÃÂ¨me degrÃÂÃÂ©, la parentÃÂÃÂ© spirituelle, le voeu solennel de
-chastetÃÂÃÂ©, la diversitÃÂÃÂ© de culte entre les baptisÃÂÃÂ©s et les non baptisÃÂÃÂ©s, etc...
+Sont empêchements dirimants, par exemple, la parenté naturelle
+jusqu'au quatrième degré, la parenté spirituelle, le voeu solennel de
+chasteté, la diversité de culte entre les baptisés et les non baptisés, etc...
 
-Donnez-moi des exemples dÃ¢ÂÂempÃÂÃÂªchements prohibants ?
+Donnez-moi des exemples d'empêchements prohibants ?
 
-Sont empÃÂÃÂªchements prohibants, par exemple, le temps prohibÃÂÃÂ©, le voeu simple
-de chastetÃÂÃÂ©, etc...
+Sont empêchements prohibants, par exemple, le temps prohibé, le voeu simple
+de chasteté, etc...
 
-Les fidÃÂÃÂ¨les sont-ils obligÃÂÃÂ©s de manifester ÃÂÃÂ  lÃ¢ÂÂautoritÃÂÃÂ© ecclÃÂÃÂ©siastique
-les empÃÂÃÂªchements de mariage quÃ¢ÂÂils connaissent ?
+Les fidèles sont-ils obligés de manifester à l'autorité ecclésiastique
+les empêchements de mariage qu'ils connaissent ?
 
-Les fidÃÂÃÂ¨les sont obligÃÂÃÂ©s de manifester ÃÂÃÂ  lÃ¢ÂÂautoritÃÂÃÂ© ecclÃÂÃÂ©siastique les
-empÃÂÃÂªchements de mariage quÃ¢ÂÂils connaissent ; et cÃ¢ÂÂest pour cela que
-les curÃÂÃÂ©s publient les bans.
+Les fidèles sont obligés de manifester à l'autorité ecclésiastique les
+empêchements de mariage qu'ils connaissent ; et c'est pour cela que
+les curés publient les bans.
 
-Qui a le pouvoir dÃ¢ÂÂÃÂÃÂ©tablir des empÃÂÃÂªchements de mariage, dÃ¢ÂÂen
-dispenser et de juger de la validitÃÂÃÂ© du mariage chrÃÂÃÂ©tien ?
+Qui a le pouvoir d'établir des empêchements de mariage, d'en
+dispenser et de juger de la validité du mariage chrétien ?
 
-Il nÃ¢ÂÂy a que lÃ¢ÂÂEglise qui ait le pouvoir dÃ¢ÂÂÃÂÃÂ©tablir des
-empÃÂÃÂªchements et de juger de la validitÃÂÃÂ© du mariage entre chrÃÂÃÂ©tiens, comme il
-nÃ¢ÂÂy a quÃ¢ÂÂelle qui puisse dispenser des empÃÂÃÂªchements quÃ¢ÂÂelle a
-ÃÂÃÂ©tablis.
+Il n'y a que l'Eglise qui ait le pouvoir d'établir des
+empêchements et de juger de la validité du mariage entre chrétiens, comme il
+n'y a qu'elle qui puisse dispenser des empêchements qu'elle a
+établis.
 
-Pourquoi nÃ¢ÂÂy a-t-il que lÃ¢ÂÂEglise qui ait le pouvoir
-dÃ¢ÂÂÃÂÃÂ©tablir des empÃÂÃÂªchements et de juger de la validitÃÂÃÂ© du mariage ?
+Pourquoi n'y a-t-il que l'Eglise qui ait le pouvoir
+d'établir des empêchements et de juger de la validité du mariage ?
 
-Il nÃ¢ÂÂy a que lÃ¢ÂÂEglise qui ait le pouvoir dÃ¢ÂÂÃÂÃÂ©tablir des
-empÃÂÃÂªchements, de juger de la validitÃÂÃÂ© du mariage et de dispenser des
-empÃÂÃÂªchements quÃ¢ÂÂelle a ÃÂÃÂ©tablis, parce que, dans le mariage chrÃÂÃÂ©tien, le
-contrat lui-mÃÂÃÂªme tombe sous le pouvoir de lÃ¢ÂÂEglise ÃÂÃÂ  laquelle seule
-JÃÂÃÂ©sus-Christ a donnÃÂÃÂ© le droit de faire des lois et de porter des dÃÂÃÂ©cisions dans
+Il n'y a que l'Eglise qui ait le pouvoir d'établir des
+empêchements, de juger de la validité du mariage et de dispenser des
+empêchements qu'elle a établis, parce que, dans le mariage chrétien, le
+contrat lui-même tombe sous le pouvoir de l'Eglise à laquelle seule
+Jésus-Christ a donné le droit de faire des lois et de porter des décisions dans
 les choses saintes.
 
-LÃ¢ÂÂautoritÃÂÃÂ© civile peut-elle par le divorce briser le lien du mariage
-chrÃÂÃÂ©tien ?
+L'autorité civile peut-elle par le divorce briser le lien du mariage
+chrétien ?
 
-Non, le lien du mariage chrÃÂÃÂ©tien ne peut ÃÂÃÂªtre brisÃÂÃÂ© par lÃ¢ÂÂautoritÃÂÃÂ©
-civile, parce que celle-ci ne peut sÃ¢ÂÂingÃÂÃÂ©rer en matiÃÂÃÂ¨re de sacrement ni
-sÃÂÃÂ©parer ce que Dieu a uni.
+Non, le lien du mariage chrétien ne peut être brisé par l'autorité
+civile, parce que celle-ci ne peut s'ingérer en matière de sacrement ni
+séparer ce que Dieu a uni.
 
-QuÃ¢ÂÂest-ce que le mariage civil ?
+Qu'est-ce que le mariage civil ?
 
-Le mariage civil nÃ¢ÂÂest autre chose quÃ¢ÂÂune pure formalitÃÂÃÂ©
+Le mariage civil n'est autre chose qu'une pure formalité
 prescrite par la loi pour donner et assurer les effets civils du mariage aux
-ÃÂÃÂ©poux et ÃÂÃÂ  leurs enfants.
+époux et à leurs enfants.
 
-Suffit-il pour un chrÃÂÃÂ©tien de ne faire que le mariage ou un contrat civil ?
+Suffit-il pour un chrétien de ne faire que le mariage ou un contrat civil ?
 
-Pour un chrÃÂÃÂ©tien, il ne suffit pas de ne faire que le contrat civil, parce
-que ce nÃ¢ÂÂest pas un sacrement ni, par suite, un vrai mariage.
+Pour un chrétien, il ne suffit pas de ne faire que le contrat civil, parce
+que ce n'est pas un sacrement ni, par suite, un vrai mariage.
 
-Dans quelle condition seraient des ÃÂÃÂ©poux qui vivraient ensemble unis
+Dans quelle condition seraient des époux qui vivraient ensemble unis
 seulement par le mariage civil ?
 
-Des ÃÂÃÂ©poux qui vivraient ensemble unis seulement par le mariage civil
-seraient dans un ÃÂÃÂ©tat habituel de pÃÂÃÂ©chÃÂÃÂ© mortel, et leur union resterait
-toujours illÃÂÃÂ©gitime devant Dieu et l'Eglise.
+Des époux qui vivraient ensemble unis seulement par le mariage civil
+seraient dans un état habituel de péché mortel, et leur union resterait
+toujours illégitime devant Dieu et l'Eglise.
 
 Doit-on faire aussi le mariage civil ?
 
 On doit faire le mariage civil, parce que, bien qu'il ne soit pas un
-sacrement, il sert cependant ÃÂÃÂ  garantir aux contractants et ÃÂÃÂ  leurs enfants les
-effets civils de la sociÃÂÃÂ©tÃÂÃÂ© conjugale; et c'est pour cela que, en rÃÂÃÂ¨gle gÃÂÃÂ©nÃÂÃÂ©rale,
-l'autoritÃÂÃÂ© ecclÃÂÃÂ©siastique ne permet le mariage religieux que lorsqu'on ÃÂÃÂ©tÃÂÃÂ© accomplies
-les formalitÃÂÃÂ©s prescrites par l'autoritÃÂÃÂ© civile.
-
-ÃÂ
-
-[Haut du document](#_top)
+sacrement, il sert cependant à garantir aux contractants et à leurs enfants les
+effets civils de la société conjugale; et c'est pour cela que, en règle générale,
+l'autorité ecclésiastique ne permet le mariage religieux que lorsqu'on été accomplies
+les formalités prescrites par l'autorité civile.
 
